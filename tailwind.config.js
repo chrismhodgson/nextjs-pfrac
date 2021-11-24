@@ -20,11 +20,11 @@ module.exports = {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        primary: colors.teal,
+        primary: colors.amber, //colors.teal,
         gray: colors.trueGray,
       },
       typography: (theme) => ({
-        DEFAULT: {
+        light: {
           css: {
             color: theme('colors.gray.700'),
             a: {
@@ -89,7 +89,7 @@ module.exports = {
             },
           },
         },
-        dark: {
+        DEFAULT: {
           css: {
             color: theme('colors.gray.300'),
             a: {
