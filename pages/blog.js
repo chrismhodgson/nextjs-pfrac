@@ -4,9 +4,10 @@ import ListLayout from '@/layouts/ListLayout'
 import { PageSEO } from '@/components/SEO'
 
 export const POSTS_PER_PAGE = 15
+export const POSTS_FOLDER = '_posts'
 
 export async function getStaticProps() {
-  const posts = await getAllFilesFrontMatter('blog')
+  const posts = await getAllFilesFrontMatter(POSTS_FOLDER)
   const initialDisplayPosts = posts.slice(0, POSTS_PER_PAGE)
   const pagination = {
     currentPage: 1,

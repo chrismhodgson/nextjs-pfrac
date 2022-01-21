@@ -4,9 +4,10 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllTags } from '@/lib/tags'
 import kebabCase from '@/lib/utils/kebabCase'
+import { POSTS_FOLDER } from './blog'
 
 export async function getStaticProps() {
-  const tags = await getAllTags('blog')
+  const tags = await getAllTags(POSTS_FOLDER)
 
   return { props: { tags } }
 }

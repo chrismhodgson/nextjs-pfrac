@@ -6,11 +6,14 @@ import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
 
 import NewsletterForm from '@/components/NewsletterForm'
+import { POSTS_FOLDER } from './blog'
 
-const MAX_DISPLAY = 5
+export const PAGES_FOLDER = '_pages'
+
+const MAX_POSTS = 5
 
 export async function getStaticProps() {
-  const posts = await getAllFilesFrontMatter('blog')
+  const posts = await getAllFilesFrontMatter(POSTS_FOLDER)
 
   return { props: { posts } }
 }
@@ -31,7 +34,7 @@ export default function Home({ posts }) {
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
           {!posts.length && 'No posts found.'}
-          {posts.slice(0, MAX_DISPLAY).map((frontMatter) => {
+          {posts.slice(0, MAX_POSTS).map((frontMatter) => {
             const { slug, date, title, summary, tags } = frontMatter
             return (
               <li key={slug} className="py-12">
@@ -81,7 +84,7 @@ export default function Home({ posts }) {
           })}
         </ul>
       </div>
-      {posts.length > MAX_DISPLAY && (
+      {posts.length > MAX_POSTS && (
         <div className="flex justify-end text-base font-medium leading-6">
           <Link
             href="/blog"
