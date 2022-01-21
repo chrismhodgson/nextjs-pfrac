@@ -10,3 +10,4 @@ text: sdfsdf
 ---
 We are launching a new website for PFRAC because the old one doesn't work very well ...
 
+<iframe src="https://www.strava.com/segments/30806210/embed" width="590" height="405" frameborder="0" scrolling="no"></iframe>
