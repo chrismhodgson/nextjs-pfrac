@@ -8,6 +8,7 @@ summary: Launching a new website for PFRAC
 images: []
 text: sdfsdf
 ---
+
 We are launching a new website for PFRAC because the old one doesn't work very well ...
 
-<iframe src="https://www.strava.com/segments/30806210/embed" width="590" height="405" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.strava.com/segments/30806210/embed" width="400" height="500" frameBorder="0" scrolling="yes"></iframe>

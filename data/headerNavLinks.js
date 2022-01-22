@@ -1,9 +1,10 @@
 const headerNavLinks = [
-  { href: '/results', title: 'Results' },
+  { href: '/membership', title: 'Membership' },
+  { href: '/training', title: 'Training' },
   { href: '/races', title: 'Races' },
-  // { href: '/blog', title: 'Blog' },
-  { href: '/about', title: 'About' },
+  { href: '/calendar', title: 'Calendar' },
   { href: '/contact', title: 'Contact' },
+  // { href: '/blog', title: 'Blog' },
 ]
 
 export default headerNavLinks
