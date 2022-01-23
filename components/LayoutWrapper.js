@@ -23,15 +23,15 @@ const LayoutWrapper = ({ children }) => {
                     alt="No pain, no gain"
                   />
                 </div>
-                {typeof siteMetadata.headerTitle === 'string' ? (
+                {/* {typeof siteMetadata.headerTitle === 'string' ? (
                   <div className="hidden w-80 text-2xl sm:block">{siteMetadata.headerTitle}</div>
                 ) : (
                   siteMetadata.headerTitle
-                )}
+                )} */}
               </div>
             </Link>
           </div>
-          <div className="flex items-center text-base leading-5">
+          <div className="flex items-center text-lg leading-5">
             <div className="hidden sm:block">
               {headerNavLinks.map((link) => (
                 <Link
