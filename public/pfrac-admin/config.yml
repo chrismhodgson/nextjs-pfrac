@@ -79,7 +79,7 @@ collections:
 
   - name: 'competitions' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Competitions Section' # Used in the UI
-    folder: 'data/pages/competitions'
+    folder: 'data/_pages/competitions'
     create: false # Determines whether users can create new documents in this collection
     view_filters:
       - label: Enabled
@@ -149,7 +149,7 @@ collections:
 
   - name: 'pages' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Other Pages' # Used in the UI
-    folder: 'data/pages/other'
+    folder: 'data/_pages'
     create: false # Determines whether users can create new documents in this collection
     view_filters:
       - label: Enabled
