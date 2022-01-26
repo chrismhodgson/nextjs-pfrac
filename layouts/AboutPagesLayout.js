@@ -22,8 +22,11 @@ export default function AboutPagesLayout({ frontMatter, children, menu }) {
             </div>
           </header>
 
-          <div className="xl:grid xl:grid-cols-4 xl:gap-x-6">
-            <div id="menu" className="xl:col-span-3 xl:row-span-2">
+          <div className="xl:grid xl:grid-cols-3 xl:gap-x-6">
+            <div className="xl:col-span-3 xl:row-span-2">
+              <h3 className="text-xs tracking-wide text-gray-500 uppercase dark:text-gray-400">
+                Pages in this section
+              </h3>
               <ul>
                 {menu.map((item) => (
                   <li key={item.slug}>
@@ -37,7 +40,12 @@ export default function AboutPagesLayout({ frontMatter, children, menu }) {
                 ))}
               </ul>
             </div>
-            <div id="body">{children}</div>
+            <div className="xl:col-span-3 xl:row-span-2">{children}</div>
+            <div className="xl:col-span-3 xl:row-span-2">
+              <h3 className="text-xs tracking-wide text-gray-500 uppercase dark:text-gray-400">
+                Results
+              </h3>
+            </div>
           </div>
 
           {/* <div

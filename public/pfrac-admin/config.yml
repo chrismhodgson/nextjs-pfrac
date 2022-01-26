@@ -26,7 +26,7 @@ collections:
         field: enabled
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true }
-      - { label: 'Enabled', name: 'enabled', widget: 'boolean', default: false }
+      - { label: 'Enabled', name: 'enabled', widget: 'boolean', default: true }
       - {
           label: 'Publish Date',
           name: 'date',
@@ -35,150 +35,95 @@ collections:
           date_format: 'YYYY-MM-DD',
         }
       - { label: "Tags", name: "tags", widget: "list" }
-      - { label: 'Cover Image', name: 'image', widget: 'image', tagname: '' }
+      # - { label: 'Cover Image', name: 'image', widget: 'image', tagname: '' }
       - { label: 'Text', name: 'text', widget: 'text', hint: 'Plain text, not markdown' }
       - {
           label: 'Body',
           name: 'body',
           widget: 'markdown',
           required: true,
-          hint: 'Main content goes here. You can insert tables using http://tablesgenerator.com/markdown_tables'
+          hint: 'Main content. Create tables using http://tablesgenerator.com/markdown_tables'
         }
 
   - name: 'races' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Races Section' # Used in the UI
     folder: 'data/_pages/races'
     create: false # Determines whether users can create new documents in this collection
-    view_filters:
-      - label: Enabled
-        field: enabled
-        pattern: true
-    view_groups:
-      - label: Enabled
-        field: enabled
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
-      - { label: 'Enabled', name: 'enabled', widget: 'boolean', default: false }
-      - { label: 'Race type', name: 'type', widget: 'select', options: ['Fell', 'Road', 'Cross Country'], required: true }
-      - { label: 'Date / time', name: 'datetime', widget: 'datetime' }
+      - { label: 'Race type', name: 'type', widget: 'select', options: ['Fell', 'Trail', 'Road'], default: 'Fell', required: true }
+      - { label: 'Start date / time', name: 'datetime', widget: 'datetime' }
       - { label: 'Distance', name: 'distance', widget: 'string' }
-      - { label: 'Ascent', name: 'ascent', widget: 'string' }
-      - { label: 'Minimum Age', name: 'minimum_age', widget: 'number' }
-      - { label: 'Website', name: 'url', widget: 'string' }
-      - { label: 'Entry on day', name: 'entry_day', widget: 'string' }
-      - { label: 'Entry online', name: 'entry_online', widget: 'string' }
-      - { label: 'Registration', name: 'registration', widget: 'text' }
-      - { label: 'Organiser', name: 'organiser', widget: 'markdown' }
-      - { label: 'Race results', name: 'results', widget: 'markdown' }
+      - { label: 'Embed Url (ie for strava/google maps)', name: 'iframe_url', widget: 'string', hint: 'ie https://www.strava.com/segments/30806210/embed' }
+      - { label: 'Entry Details', name: 'entry_day', widget: 'text' }
+      - { label: 'Registration Details', name: 'registration', widget: 'text' }
+      - { label: 'Organiser Details', name: 'organiser', widget: 'text' }
       - {
           label: 'Body',
           name: 'body',
           widget: 'markdown',
-          hint: 'Main content goes here. You can insert tables using http://tablesgenerator.com/markdown_tables'
+          hint: 'Main content. Create tables using http://tablesgenerator.com/markdown_tables'
         }
+      - {
+        label: 'Race Results',
+        name: 'results',
+        widget: 'markdown'
+      }
 
   - name: 'competitions' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Competitions Section' # Used in the UI
     folder: 'data/_pages/competitions'
     create: false # Determines whether users can create new documents in this collection
-    view_filters:
-      - label: Enabled
-        field: enabled
-        pattern: true
-    view_groups:
-      - label: Enabled
-        field: enabled
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
-      - { label: 'Enabled', name: 'enabled', widget: 'boolean', default: false }
-      - {
-          label: 'First Section',
-          name: 'first_section',
-          widget: 'markdown',
-          required: true,
-          hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
-        }
-      - {
-        label: 'Second Section',
-        name: 'second_section',
-        widget: 'markdown',
-        required: true,
-        hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
-      }
       - {
           label: 'Body',
           name: 'body',
           widget: 'markdown',
-          hint: 'Main content goes here. You can insert tables using http://tablesgenerator.com/markdown_tables'
+          required: true,
+          hint: 'Main content. Create tables using http://tablesgenerator.com/markdown_tables'
         }
+      - {
+        label: 'Competition Results',
+        name: 'results',
+        widget: 'markdown'
+      }
 
   - name: 'about' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'About Section' # Used in the UI
     folder: 'data/_pages/about'
     create: false # Determines whether users can create new documents in this collection
-    view_filters:
-      - label: Enabled
-        field: enabled
-        pattern: true
-    view_groups:
-      - label: Enabled
-        field: enabled
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
-      - { label: 'Enabled', name: 'enabled', widget: 'boolean', default: false }
-      - {
-          label: 'First Section',
-          name: 'first_section',
-          widget: 'markdown',
-          required: true,
-          hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
-        }
-      - {
-        label: 'Second Section',
-        name: 'second_section',
-        widget: 'markdown',
-        required: true,
-        hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
-      }
       - {
           label: 'Body',
           name: 'body',
           widget: 'markdown',
-          hint: 'Main content goes here. You can insert tables using http://tablesgenerator.com/markdown_tables'
+          required: true,
+          hint: 'Main content. Create tables using http://tablesgenerator.com/markdown_tables'
         }
+      - {
+        label: 'Second Section',
+        name: 'second_section',
+        widget: 'markdown'
+      }
 
   - name: 'pages' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Other Pages' # Used in the UI
     folder: 'data/_pages'
     create: false # Determines whether users can create new documents in this collection
-    view_filters:
-      - label: Enabled
-        field: enabled
-        pattern: true
-    view_groups:
-      - label: Enabled
-        field: enabled
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
-      - { label: 'Enabled', name: 'enabled', widget: 'boolean', default: false }
-      - {
-          label: 'First Section',
-          name: 'first_section',
-          widget: 'markdown',
-          required: true,
-          hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
-        }
-      - {
-        label: 'Second Section',
-        name: 'second_section',
-        widget: 'markdown',
-        required: true,
-        hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
-      }
       - {
           label: 'Body',
           name: 'body',
           widget: 'markdown',
-          hint: 'Main content goes here. You can insert tables using http://tablesgenerator.com/markdown_tables'
+          required: true,
+          hint: 'Main content. Create tables using http://tablesgenerator.com/markdown_tables'
         }
+      - {
+        label: 'Second Section',
+        name: 'second_section',
+        widget: 'markdown'
+      }
 
