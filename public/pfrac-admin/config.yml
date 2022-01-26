@@ -36,7 +36,7 @@ collections:
         }
       - { label: "Tags", name: "tags", widget: "list" }
       - label: "Gallery"
-        name: "galleryImages"
+        name: "images"
         widget: "list"
         summary: '{{fields.image}}'
         field: {label: Image, name: image, widget: image}
@@ -50,7 +50,7 @@ collections:
           name: 'body',
           widget: 'markdown',
           required: true,
-          hint: 'Main content. Create tables using http://tablesgenerator.com/markdown_tables'
+          hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
 
   - name: 'races' # Used in routes, ie.: /admin/collections/:slug/edit
@@ -68,7 +68,7 @@ collections:
           label: 'Main Content',
           name: 'body',
           widget: 'markdown',
-          hint: 'ie Entry, Registration, Organiser. Create tables using http://tablesgenerator.com/markdown_tables'
+          hint: 'ie Entry, Registration, Organiser. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
       - {
         label: 'Side Column',
@@ -88,7 +88,7 @@ collections:
           name: 'body',
           widget: 'markdown',
           required: true,
-          hint: 'Create tables using http://tablesgenerator.com/markdown_tables'
+          hint: 'Create your tables using http://tablesgenerator.com/markdown_tables'
         }
       - {
         label: 'Side Column',
@@ -108,7 +108,7 @@ collections:
           name: 'body',
           widget: 'markdown',
           required: true,
-          hint: 'Main content. Create tables using http://tablesgenerator.com/markdown_tables'
+          hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
       - {
         label: 'Side Column',
@@ -127,7 +127,7 @@ collections:
           name: 'body',
           widget: 'markdown',
           required: true,
-          hint: 'Main content. Create tables using http://tablesgenerator.com/markdown_tables'
+          hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
       - {
         label: 'Side Column',
