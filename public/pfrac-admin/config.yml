@@ -41,16 +41,11 @@ collections:
           required: true,
           hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
-      - label: "Gallery"
-        name: "images"
-        widget: "list"
-        summary: '{{fields.image}}'
-        field: {label: Image, name: image, widget: image}
       - label: "Files"
         name: "files"
         widget: "list"
         summary: '{{fields.file}}'
-        field: {label: File, name: file, widget: file}
+        field: { label: File, name: file, widget: file, required: true }
 
   - name: 'races' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Races Section' # Used in the UI
