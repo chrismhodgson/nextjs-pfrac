@@ -11,8 +11,7 @@ collections:
   - name: 'news' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'News Section' # Used in the UI
     label_singular: 'Article' # Used in the UI, ie: "New Post"
-    description: >
-      Information about races, training, results and other clubs news to appear on the blog.
+    description: Information about races, training, results and any other clubs news.
     folder: 'data/_articles'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
@@ -35,6 +34,13 @@ collections:
           date_format: 'YYYY-MM-DD',
         }
       - { label: "Tags", name: "tags", widget: "list" }
+      - {
+          label: 'Main Content',
+          name: 'body',
+          widget: 'markdown',
+          required: true,
+          hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
+        }
       - label: "Gallery"
         name: "images"
         widget: "list"
@@ -45,13 +51,6 @@ collections:
         widget: "list"
         summary: '{{fields.file}}'
         field: {label: File, name: file, widget: file}
-      - {
-          label: 'Main Content',
-          name: 'body',
-          widget: 'markdown',
-          required: true,
-          hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
-        }
 
   - name: 'races' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Races Section' # Used in the UI
@@ -62,8 +61,8 @@ collections:
       - { label: 'Race type', name: 'type', widget: 'select', options: ['Fell', 'Trail', 'Road'], default: 'Fell', required: true }
       - { label: 'Start date / time', name: 'datetime', widget: 'string' }
       - { label: 'Distance', name: 'distance', widget: 'string' }
-      - { label: 'Embed Url (ie for strava segment iframe)', name: 'strava_url', widget: 'string', hint: 'ie https://www.strava.com/segments/30806210/embed' }
-      - { label: 'Embed Url (ie for google maps iframe)', name: 'google_maps_url', widget: 'string', hint: 'ie https://www.strava.com/segments/30806210/embed' }
+      - { label: 'Strava Segment url (ie for iframe)', name: 'strava_url', widget: 'string', hint: 'ie https://www.strava.com/segments/30806210/embed' }
+      - { label: 'Google maps url (ie for iframe)', name: 'google_maps_url', widget: 'string', hint: 'ie https://calendar.google.com/calendar/embed?src=Y2hyaXNob2' }
       - {
           label: 'Main Content',
           name: 'body',
