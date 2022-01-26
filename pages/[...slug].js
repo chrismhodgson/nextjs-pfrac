@@ -5,12 +5,12 @@ import { MDXLayoutRenderer } from '@/components/MDXComponents'
 import { formatSlug, getAllFilesFrontMatter, getFileBySlug, getFiles } from '@/lib/mdx'
 import { PAGES_FOLDER } from 'pages'
 
-const DEFAULT_LAYOUT = 'PostLayout'
+const DEFAULT_LAYOUT = 'PageLayout'
 
 export async function getStaticPaths() {
-  const posts = getFiles(PAGES_FOLDER)
+  const pages = getFiles(PAGES_FOLDER)
   return {
-    paths: posts.map((p) => ({
+    paths: pages.map((p) => ({
       params: {
         slug: formatSlug(p).split('/'),
       },
@@ -20,12 +20,12 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const allPosts = await getAllFilesFrontMatter(PAGES_FOLDER)
-  const postIndex = allPosts.findIndex((post) => formatSlug(post.slug) === params.slug.join('/'))
-  const prev = allPosts[postIndex + 1] || null
-  const next = allPosts[postIndex - 1] || null
-  const post = await getFileBySlug(PAGES_FOLDER, params.slug.join('/'))
-  const authorList = post.frontMatter.authors || ['default']
+  const allPages = await getAllFilesFrontMatter(PAGES_FOLDER)
+  const pageIndex = allPages.findIndex((page) => formatSlug(page.slug) === params.slug.join('/'))
+  const prev = allPages[pageIndex + 1] || null
+  const next = allPages[pageIndex - 1] || null
+  const page = await getFileBySlug(PAGES_FOLDER, params.slug.join('/'))
+  const authorList = page.frontMatter.authors || ['default']
   const authorPromise = authorList.map(async (author) => {
     const authorResults = await getFileBySlug('authors', [author])
     return authorResults.frontMatter
@@ -33,26 +33,52 @@ export async function getStaticProps({ params }) {
   const authorDetails = await Promise.all(authorPromise)
 
   // rss
-  const rss = generateRss(allPosts)
+  const rss = generateRss(allPages)
   fs.writeFileSync('./public/feed.xml', rss)
 
-  return { props: { post, authorDetails, prev, next } }
+  const layout = getLayout(params.slug)
+
+  const menu = getMenu(allPages, params.slug)
+
+  return { props: { page, authorDetails, prev, next, layout, menu } }
 }
 
-export default function Blog2({ post, authorDetails, prev, next }) {
-  const { mdxSource, toc, frontMatter } = post
+function getLayout(slug) {
+  switch (slug[0]) {
+    case 'about':
+    case 'competitions':
+      return 'AboutPagesLayout'
+    case 'races':
+      return 'RacePagesLayout'
+    default:
+      return DEFAULT_LAYOUT
+  }
+}
+
+function getMenu(pages, slug) {
+  return pages.filter((page) => {
+    return page.slug.startsWith(slug[0]) && slug[0] !== page.slug
+  })
+}
+
+export default function Page({ page, authorDetails, prev, next, layout, menu }) {
+  const { mdxSource, toc, frontMatter } = page
+
+  console.error(layout, 'Page')
 
   return (
     <>
       {frontMatter.draft !== true ? (
         <MDXLayoutRenderer
-          layout={frontMatter.layout || DEFAULT_LAYOUT}
-          toc={toc}
+          //layout={frontMatter.layout || DEFAULT_LAYOUT}
+          layout={layout}
+          // toc={toc}
           mdxSource={mdxSource}
+          menu={menu}
           frontMatter={frontMatter}
-          authorDetails={authorDetails}
-          prev={prev}
-          next={next}
+          // authorDetails={authorDetails}
+          // prev={prev}
+          // next={next}
         />
       ) : (
         <div className="mt-24 text-center">

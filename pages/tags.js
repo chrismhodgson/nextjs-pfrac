@@ -4,7 +4,7 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllTags } from '@/lib/tags'
 import kebabCase from '@/lib/utils/kebabCase'
-import { POSTS_FOLDER } from './blog'
+import { POSTS_FOLDER } from './news'
 
 export async function getStaticProps() {
   const tags = await getAllTags(POSTS_FOLDER)
@@ -12,8 +12,11 @@ export async function getStaticProps() {
   return { props: { tags } }
 }
 
-export default function Tags({ tags }) {
+export default function TagsIndex({ tags }) {
   const sortedTags = Object.keys(tags).sort((a, b) => tags[b] - tags[a])
+
+  console.error('TagsIndex')
+
   return (
     <>
       <PageSEO title={`Tags - ${siteMetadata.author}`} description="Things I blog about" />

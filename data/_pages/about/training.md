@@ -1,0 +1,5 @@
+---
+title: 'Training'
+---
+
+Training page

@@ -6,7 +6,7 @@ import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
 
 import NewsletterForm from '@/components/NewsletterForm'
-import { POSTS_FOLDER } from './blog'
+import { POSTS_FOLDER } from './news'
 
 export const PAGES_FOLDER = '_pages'
 
@@ -18,7 +18,8 @@ export async function getStaticProps() {
   return { props: { posts } }
 }
 
-export default function Home({ posts }) {
+export default function Homepage({ posts }) {
+  console.error('Homepage')
   return (
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
@@ -51,7 +52,7 @@ export default function Home({ posts }) {
                         <div>
                           <h2 className="text-2xl font-bold leading-8 tracking-tight">
                             <Link
-                              href={`/blog/${slug}`}
+                              href={`/news/${slug}`}
                               className="text-gray-900 dark:text-gray-100"
                             >
                               {title}
@@ -69,7 +70,7 @@ export default function Home({ posts }) {
                       </div>
                       <div className="text-base font-medium leading-6">
                         <Link
-                          href={`/blog/${slug}`}
+                          href={`/news/${slug}`}
                           className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
                           aria-label={`Read "${title}"`}
                         >
@@ -87,7 +88,7 @@ export default function Home({ posts }) {
       {posts.length > MAX_POSTS && (
         <div className="flex justify-end text-base font-medium leading-6">
           <Link
-            href="/blog"
+            href="/news"
             className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
             aria-label="all posts"
           >

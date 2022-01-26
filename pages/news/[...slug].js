@@ -3,7 +3,7 @@ import PageTitle from '@/components/PageTitle'
 import generateRss from '@/lib/generate-rss'
 import { MDXLayoutRenderer } from '@/components/MDXComponents'
 import { formatSlug, getAllFilesFrontMatter, getFileBySlug, getFiles } from '@/lib/mdx'
-import { POSTS_FOLDER } from 'pages/blog'
+import { POSTS_FOLDER } from 'pages/news'
 
 const DEFAULT_LAYOUT = 'PostLayout'
 
@@ -39,8 +39,10 @@ export async function getStaticProps({ params }) {
   return { props: { post, authorDetails, prev, next } }
 }
 
-export default function Blog({ post, authorDetails, prev, next }) {
+export default function NewsArticle({ post, authorDetails, prev, next }) {
   const { mdxSource, toc, frontMatter } = post
+
+  console.error('NewsArticle')
 
   return (
     <>

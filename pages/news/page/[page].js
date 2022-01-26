@@ -2,7 +2,7 @@ import { PageSEO } from '@/components/SEO'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import ListLayout from '@/layouts/ListLayout'
-import { POSTS_PER_PAGE, POSTS_FOLDER } from '../../blog'
+import { POSTS_PER_PAGE, POSTS_FOLDER } from '..'
 
 export async function getStaticPaths() {
   const totalPosts = await getAllFilesFrontMatter(POSTS_FOLDER)
@@ -41,7 +41,9 @@ export async function getStaticProps(context) {
   }
 }
 
-export default function PostPage({ posts, initialDisplayPosts, pagination }) {
+export default function NewsPage({ posts, initialDisplayPosts, pagination }) {
+  console.error('NewsPage')
+
   return (
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />

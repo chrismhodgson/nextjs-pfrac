@@ -16,17 +16,17 @@ collections:
     folder: 'data/_posts'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
-    create: true # Allow users to create new documents in this collection
+    create: true # Determines whether users can create new documents in this collection
     view_filters:
-      - label: Drafts
-        field: draft
+      - label: Enabled
+        field: enabled
         pattern: true
     view_groups:
-      - label: Drafts
-        field: draft
+      - label: Enabled
+        field: enabled
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
-      - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
+      - { label: 'Enabled', name: 'enabled', widget: 'boolean', default: false }
       - {
           label: 'Publish Date',
           name: 'date',
@@ -34,7 +34,8 @@ collections:
           required: true,
           date_format: 'YYYY-MM-DD',
         }
-      - { label: 'Cover Image', name: 'image', widget: 'image', required: false, tagname: '' }
+      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: 'Cover Image', name: 'image', widget: 'image', tagname: '' }
       - { label: 'Text', name: 'text', widget: 'text', hint: 'Plain text, not markdown' }
       - {
           label: 'Body',
@@ -44,24 +45,70 @@ collections:
           hint: 'Main content goes here. You can insert tables using http://tablesgenerator.com/markdown_tables',
         }
 
-  - name: 'pages' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Pages' # Used in the UI
-    folder: 'data/_pages'
-    create: true # Allow users to create new documents in this collection
+
+  - name: 'races' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Races' # Used in the UI
+    folder: 'data/_races'
+    create: false # Determines whether users can create new documents in this collection
     view_filters:
-      - label: Drafts
-        field: draft
+      - label: Enabled
+        field: enabled
         pattern: true
     view_groups:
-      - label: Drafts
-        field: draft
+      - label: Enabled
+        field: enabled
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
-      - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
+      - { label: 'Enabled', name: 'enabled', widget: 'boolean', default: false }
+      - { label: 'Race type', name: 'type', widget: 'select', options: ['Fell', 'Road', 'Cross Country'], required: true }
+      - { label: 'Date / time', name: 'datetime', widget: 'datetime' }
+      - { label: 'Distance', name: 'distance', widget: 'string' }
+      - { label: 'Ascent', name: 'ascent', widget: 'string' }
+      - { label: 'Minimum Age', name: 'minimum_age', widget: 'number' }
+      - { label: 'Website', name: 'url', widget: 'string' }
+      - { label: 'Entry on day', name: 'entry_day', widget: 'string' }
+      - { label: 'Entry online', name: 'entry_online', widget: 'string' }
+      - { label: 'Registration', name: 'registration', widget: 'text' }
+      - { label: 'Organiser', name: 'organiser', widget: 'markdown' }
+      - { label: 'Race results', name: 'results', widget: 'markdown' }
       - {
           label: 'Body',
           name: 'body',
           widget: 'markdown',
+          hint: 'Main content goes here. You can insert tables using http://tablesgenerator.com/markdown_tables',
+        }
+
+  - name: 'about' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'About' # Used in the UI
+    folder: 'data/_about'
+    create: false # Determines whether users can create new documents in this collection
+    view_filters:
+      - label: Enabled
+        field: enabled
+        pattern: true
+    view_groups:
+      - label: Enabled
+        field: enabled
+    fields: # The fields each document in this collection have
+      - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
+      - { label: 'Enabled', name: 'enabled', widget: 'boolean', default: false }
+      - {
+          label: 'First Section',
+          name: 'first_section',
+          widget: 'markdown',
           required: true,
+          hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
+        }
+        - {
+          label: 'Second Section',
+          name: 'second_section',
+          widget: 'markdown',
+          required: true,
+          hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
+        }
+      - {
+          label: 'Body',
+          name: 'body',
+          widget: 'markdown',
           hint: 'Main content goes here. You can insert tables using http://tablesgenerator.com/markdown_tables',
         }

@@ -6,7 +6,7 @@ import { getAllFilesFrontMatter } from '@/lib/mdx'
 import { getAllTags } from '@/lib/tags'
 import kebabCase from '@/lib/utils/kebabCase'
 import fs from 'fs'
-import { POSTS_FOLDER } from 'pages/blog'
+import { POSTS_FOLDER } from 'pages/news'
 import path from 'path'
 
 const root = process.cwd()
@@ -39,9 +39,12 @@ export async function getStaticProps({ params }) {
   return { props: { posts: filteredPosts, tag: params.tag } }
 }
 
-export default function Tag({ posts, tag }) {
+export default function TagPage({ posts, tag }) {
   // Capitalize first letter and convert space to dash
   const title = tag[0].toUpperCase() + tag.split(' ').join('-').slice(1)
+
+  console.error('TagPage')
+
   return (
     <>
       <TagSEO

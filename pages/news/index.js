@@ -3,7 +3,7 @@ import siteMetadata from '@/data/siteMetadata'
 import ListLayout from '@/layouts/ListLayout'
 import { PageSEO } from '@/components/SEO'
 
-export const POSTS_PER_PAGE = 15
+export const POSTS_PER_PAGE = 1
 export const POSTS_FOLDER = '_posts'
 
 export async function getStaticProps() {
@@ -17,10 +17,12 @@ export async function getStaticProps() {
   return { props: { initialDisplayPosts, posts, pagination } }
 }
 
-export default function Blog({ posts, initialDisplayPosts, pagination }) {
+export default function NewsIndex({ posts, initialDisplayPosts, pagination }) {
+  console.error('NewsIndex')
+
   return (
     <>
-      <PageSEO title={`Blog - ${siteMetadata.author}`} description={siteMetadata.description} />
+      <PageSEO title={`News - ${siteMetadata.author}`} description={siteMetadata.description} />
       <ListLayout
         posts={posts}
         initialDisplayPosts={initialDisplayPosts}

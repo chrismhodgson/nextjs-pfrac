@@ -18,8 +18,13 @@ export default function Footer() {
           <div>{siteMetadata.author}</div>
           <div>{siteMetadata.author !== '' && ` • `}</div>
           <div>{`© ${new Date().getFullYear()}`}</div>
+          <Link className="hover:text-primary-500 dark:hover:text-primary-500" href="/">
+            {siteMetadata.title}
+          </Link>
           <div>{siteMetadata.title !== '' && ` • `}</div>
-          <Link href="/">{siteMetadata.title}</Link>
+          <Link className="hover:text-primary-500 dark:hover:text-primary-500" href="/contact">
+            Contact us
+          </Link>
         </div>
         {/* <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
           <Link href="https://github.com/timlrx/tailwind-nextjs-starter-blog">
