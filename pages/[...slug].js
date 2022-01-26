@@ -64,8 +64,6 @@ function getMenu(pages, slug) {
 export default function Page({ page, authorDetails, prev, next, layout, menu }) {
   const { mdxSource, toc, frontMatter } = page
 
-  console.error(layout, 'Page')
-
   return (
     <>
       {frontMatter.draft !== true ? (

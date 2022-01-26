@@ -1,15 +1,14 @@
 ---
 title: Hartcliff hill race
 type: Fell
-datetime: 2022-04-22T12:55:00.278Z
 distance: 2½ miles
 iframe_url: https://www.strava.com/segments/30806210/embed
-entry_day: |-
-  Entry £4.50 on the day for FRA or EA members; £5.50 for non-members. 
+entry: |-
+  Entry £4.50 on the day for FRA or EA members; £5.50 for non-members.
   Register at Langsett Barn
 registration: |-
   Penistone leisure center
-  from 9am 
+  from 9am
 organiser: |+
   Ian Charlesworth
   hartcliffhill.fellrace@gmail.com
@@ -64,4 +63,5 @@ results: >-
 
   [2005](http://fellrunner.org.uk/results/race05/hartcliffe.htm "2005 Hartcliff Hill results")
 ---
+
 Hartcliff Hill is a BS category fell race: 2½ miles with 492 feet of ascent.

@@ -35,10 +35,18 @@ collections:
           date_format: 'YYYY-MM-DD',
         }
       - { label: "Tags", name: "tags", widget: "list" }
-      # - { label: 'Cover Image', name: 'image', widget: 'image', tagname: '' }
-      - { label: 'Text', name: 'text', widget: 'text', hint: 'Plain text, not markdown' }
+      - label: "Gallery"
+        name: "galleryImages"
+        widget: "list"
+        summary: '{{fields.image}}'
+        field: {label: Image, name: image, widget: image}
+      - label: "Files"
+        name: "files"
+        widget: "list"
+        summary: '{{fields.file}}'
+        field: {label: File, name: file, widget: file}
       - {
-          label: 'Body',
+          label: 'Main Content',
           name: 'body',
           widget: 'markdown',
           required: true,
@@ -52,22 +60,21 @@ collections:
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
       - { label: 'Race type', name: 'type', widget: 'select', options: ['Fell', 'Trail', 'Road'], default: 'Fell', required: true }
-      - { label: 'Start date / time', name: 'datetime', widget: 'datetime' }
+      - { label: 'Start date / time', name: 'datetime', widget: 'string' }
       - { label: 'Distance', name: 'distance', widget: 'string' }
-      - { label: 'Embed Url (ie for strava/google maps)', name: 'iframe_url', widget: 'string', hint: 'ie https://www.strava.com/segments/30806210/embed' }
-      - { label: 'Entry Details', name: 'entry_day', widget: 'text' }
-      - { label: 'Registration Details', name: 'registration', widget: 'text' }
-      - { label: 'Organiser Details', name: 'organiser', widget: 'text' }
+      - { label: 'Embed Url (ie for strava segment iframe)', name: 'strava_url', widget: 'string', hint: 'ie https://www.strava.com/segments/30806210/embed' }
+      - { label: 'Embed Url (ie for google maps iframe)', name: 'google_maps_url', widget: 'string', hint: 'ie https://www.strava.com/segments/30806210/embed' }
       - {
-          label: 'Body',
+          label: 'Main Content',
           name: 'body',
           widget: 'markdown',
-          hint: 'Main content. Create tables using http://tablesgenerator.com/markdown_tables'
+          hint: 'ie Entry, Registration, Organiser. Create tables using http://tablesgenerator.com/markdown_tables'
         }
       - {
-        label: 'Race Results',
+        label: 'Side Column',
         name: 'results',
-        widget: 'markdown'
+        widget: 'markdown',
+        hint: 'Course Records and Race Results'
       }
 
   - name: 'competitions' # Used in routes, ie.: /admin/collections/:slug/edit
@@ -77,16 +84,17 @@ collections:
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
       - {
-          label: 'Body',
+          label: 'Main content',
           name: 'body',
           widget: 'markdown',
           required: true,
-          hint: 'Main content. Create tables using http://tablesgenerator.com/markdown_tables'
+          hint: 'Create tables using http://tablesgenerator.com/markdown_tables'
         }
       - {
-        label: 'Competition Results',
+        label: 'Side Column',
         name: 'results',
-        widget: 'markdown'
+        widget: 'markdown',
+        hint: 'Course Records and Race Results'
       }
 
   - name: 'about' # Used in routes, ie.: /admin/collections/:slug/edit
@@ -96,15 +104,15 @@ collections:
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
       - {
-          label: 'Body',
+          label: 'Main Content',
           name: 'body',
           widget: 'markdown',
           required: true,
           hint: 'Main content. Create tables using http://tablesgenerator.com/markdown_tables'
         }
       - {
-        label: 'Second Section',
-        name: 'second_section',
+        label: 'Side Column',
+        name: 'side_column',
         widget: 'markdown'
       }
 
@@ -115,15 +123,15 @@ collections:
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
       - {
-          label: 'Body',
+          label: 'Main Content',
           name: 'body',
           widget: 'markdown',
           required: true,
           hint: 'Main content. Create tables using http://tablesgenerator.com/markdown_tables'
         }
       - {
-        label: 'Second Section',
-        name: 'second_section',
+        label: 'Side Column',
+        name: 'side_column',
         widget: 'markdown'
       }
 
