@@ -5,6 +5,7 @@ date: 2021-12-25
 tags:
   - website
 ---
+[Langsett Map](public/static/uploads/langsett-2hr-map.pdf)
 
 Strava segment
 
