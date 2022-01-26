@@ -8,12 +8,12 @@ media_folder: public/static/uploads
 public_folder: /uploads
 
 collections:
-  - name: 'posts' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Posts' # Used in the UI
-    label_singular: 'Post' # Used in the UI, ie: "New Post"
+  - name: 'news' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'News Section' # Used in the UI
+    label_singular: 'Article' # Used in the UI, ie: "New Post"
     description: >
       Information about races, training, results and other clubs news to appear on the blog.
-    folder: 'data/_posts'
+    folder: 'data/_articles'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Determines whether users can create new documents in this collection
@@ -45,10 +45,9 @@ collections:
           hint: 'Main content goes here. You can insert tables using http://tablesgenerator.com/markdown_tables'
         }
 
-
   - name: 'races' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Races' # Used in the UI
-    folder: 'data/_races'
+    label: 'Races Section' # Used in the UI
+    folder: 'data/_pages/races'
     create: false # Determines whether users can create new documents in this collection
     view_filters:
       - label: Enabled
@@ -78,9 +77,9 @@ collections:
           hint: 'Main content goes here. You can insert tables using http://tablesgenerator.com/markdown_tables'
         }
 
-  - name: 'about' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'About' # Used in the UI
-    folder: 'data/_about'
+  - name: 'competitions' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Competitions Section' # Used in the UI
+    folder: 'data/pages/competitions'
     create: false # Determines whether users can create new documents in this collection
     view_filters:
       - label: Enabled
@@ -112,3 +111,74 @@ collections:
           widget: 'markdown',
           hint: 'Main content goes here. You can insert tables using http://tablesgenerator.com/markdown_tables'
         }
+
+  - name: 'about' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'About Section' # Used in the UI
+    folder: 'data/_pages/about'
+    create: false # Determines whether users can create new documents in this collection
+    view_filters:
+      - label: Enabled
+        field: enabled
+        pattern: true
+    view_groups:
+      - label: Enabled
+        field: enabled
+    fields: # The fields each document in this collection have
+      - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
+      - { label: 'Enabled', name: 'enabled', widget: 'boolean', default: false }
+      - {
+          label: 'First Section',
+          name: 'first_section',
+          widget: 'markdown',
+          required: true,
+          hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
+        }
+      - {
+        label: 'Second Section',
+        name: 'second_section',
+        widget: 'markdown',
+        required: true,
+        hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
+      }
+      - {
+          label: 'Body',
+          name: 'body',
+          widget: 'markdown',
+          hint: 'Main content goes here. You can insert tables using http://tablesgenerator.com/markdown_tables'
+        }
+
+  - name: 'pages' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Other Pages' # Used in the UI
+    folder: 'data/pages/other'
+    create: false # Determines whether users can create new documents in this collection
+    view_filters:
+      - label: Enabled
+        field: enabled
+        pattern: true
+    view_groups:
+      - label: Enabled
+        field: enabled
+    fields: # The fields each document in this collection have
+      - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
+      - { label: 'Enabled', name: 'enabled', widget: 'boolean', default: false }
+      - {
+          label: 'First Section',
+          name: 'first_section',
+          widget: 'markdown',
+          required: true,
+          hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
+        }
+      - {
+        label: 'Second Section',
+        name: 'second_section',
+        widget: 'markdown',
+        required: true,
+        hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
+      }
+      - {
+          label: 'Body',
+          name: 'body',
+          widget: 'markdown',
+          hint: 'Main content goes here. You can insert tables using http://tablesgenerator.com/markdown_tables'
+        }
+
