@@ -99,13 +99,13 @@ collections:
           required: true,
           hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
         }
-        - {
-          label: 'Second Section',
-          name: 'second_section',
-          widget: 'markdown',
-          required: true,
-          hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
-        }
+      - {
+        label: 'Second Section',
+        name: 'second_section',
+        widget: 'markdown',
+        required: true,
+        hint: 'You can insert tables using http://tablesgenerator.com/markdown_tables'
+      }
       - {
           label: 'Body',
           name: 'body',
