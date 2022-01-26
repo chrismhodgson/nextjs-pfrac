@@ -7,9 +7,7 @@ tags:
 files:
   - /uploads/langsett-2hr-map.pdf
 ---
-
-
-![the alt text](/uploads/image.png "an image")
+![alt text](/static/uploads/image.png "image title")
 
 Strava segment
 
