@@ -13,7 +13,7 @@ export default function PageLayout({ frontMatter, children }) {
       <ScrollTopAndComment />
       <article>
         <div>
-          <header>
+          <header className="pb-5">
             <div className="pb-10 space-y-1 text-center border-b border-gray-200 dark:border-gray-700">
               <div>
                 <PageTitle>{title}</PageTitle>

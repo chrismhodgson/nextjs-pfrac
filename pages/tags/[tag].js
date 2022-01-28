@@ -51,7 +51,7 @@ export default function TagPage({ posts, tag }) {
         title={`${tag} - ${siteMetadata.author}`}
         description={`${tag} tags - ${siteMetadata.author}`}
       />
-      <ListLayout posts={posts} title={title} />
+      <ListLayout posts={posts} title={'Tagged: ' + title} />
     </>
   )
 }

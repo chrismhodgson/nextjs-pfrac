@@ -27,7 +27,7 @@ export default function NewsIndex({ posts, initialDisplayPosts, pagination }) {
         posts={posts}
         initialDisplayPosts={initialDisplayPosts}
         pagination={pagination}
-        title="All Posts"
+        title="News"
       />
     </>
   )

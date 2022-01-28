@@ -17,10 +17,11 @@ const LayoutWrapper = ({ children }) => {
               <div className="flex items-center justify-between">
                 <div className="mr-5">
                   <Image
-                    src="/static/images/pfrac-logo.jpg"
+                    // src="/static/images/pfrac-logo.jpg"
+                    src="/static/images/PFRlogo2.jpg"
                     width="125"
                     height="125"
-                    alt="No pain, no gain"
+                    alt="Penistone Footpath Runners"
                   />
                 </div>
                 {/* {typeof siteMetadata.headerTitle === 'string' ? (

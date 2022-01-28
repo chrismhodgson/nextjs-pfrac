@@ -1,6 +1,5 @@
 ---
 title: About
-second_section: something in the 2nd section
 ---
 
 # 1914 translation by H. Rackham

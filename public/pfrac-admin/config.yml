@@ -35,6 +35,13 @@ collections:
         }
       - { label: "Tags", name: "tags", widget: "list" }
       - {
+          label: 'Summary',
+          name: 'summary',
+          widget: 'text',
+          required: true,
+          hint: 'Short summary to appear in news listing'
+        }
+      - {
           label: 'Main Content',
           name: 'body',
           widget: 'markdown',
@@ -54,22 +61,25 @@ collections:
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
       - { label: 'Race type', name: 'type', widget: 'select', options: ['Fell', 'Trail', 'Road'], default: 'Fell', required: true }
-      - { label: 'Start date / time', name: 'datetime', widget: 'string' }
-      - { label: 'Distance', name: 'distance', widget: 'string' }
+      - { label: 'Start date / time', name: 'start_date_time', widget: 'string', required: true }
+      - { label: 'Distance', name: 'distance', widget: 'string', required: true }
       - { label: 'Strava Segment url (ie for iframe)', name: 'strava_url', widget: 'string', hint: 'ie https://www.strava.com/segments/30806210/embed' }
       - { label: 'Google maps url (ie for iframe)', name: 'google_maps_url', widget: 'string', hint: 'ie https://calendar.google.com/calendar/embed?src=Y2hyaXNob2' }
+      - { label: 'Entry', name: 'entry', widget: 'text' }
+      - { label: 'Registration', name: 'registration', widget: 'text' }
+      - { label: 'Organiser', name: 'organiser', widget: 'text' }
       - {
           label: 'Main Content',
           name: 'body',
           widget: 'markdown',
           hint: 'ie Entry, Registration, Organiser. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
-      - {
-        label: 'Side Column',
-        name: 'results',
-        widget: 'markdown',
-        hint: 'Course Records and Race Results'
-      }
+      # - {
+      #   label: 'Side Column',
+      #   name: 'results',
+      #   widget: 'markdown',
+      #   hint: 'Course Records and Race Results'
+      # }
 
   - name: 'competitions' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Competitions Section' # Used in the UI
@@ -84,12 +94,12 @@ collections:
           required: true,
           hint: 'Create your tables using http://tablesgenerator.com/markdown_tables'
         }
-      - {
-        label: 'Side Column',
-        name: 'results',
-        widget: 'markdown',
-        hint: 'Course Records and Race Results'
-      }
+      # - {
+      #   label: 'Side Column',
+      #   name: 'results',
+      #   widget: 'markdown',
+      #   hint: 'Course Records and Race Results'
+      # }
 
   - name: 'about' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'About Section' # Used in the UI
@@ -104,11 +114,11 @@ collections:
           required: true,
           hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
-      - {
-        label: 'Side Column',
-        name: 'side_column',
-        widget: 'markdown'
-      }
+      # - {
+      #   label: 'Side Column',
+      #   name: 'side_column',
+      #   widget: 'markdown'
+      # }
 
   - name: 'pages' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Other Pages' # Used in the UI
@@ -123,9 +133,9 @@ collections:
           required: true,
           hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
-      - {
-        label: 'Side Column',
-        name: 'side_column',
-        widget: 'markdown'
-      }
+      # - {
+      #   label: 'Side Column',
+      #   name: 'side_column',
+      #   widget: 'markdown'
+      # }
 

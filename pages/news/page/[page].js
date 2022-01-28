@@ -51,7 +51,7 @@ export default function NewsPage({ posts, initialDisplayPosts, pagination }) {
         posts={posts}
         initialDisplayPosts={initialDisplayPosts}
         pagination={pagination}
-        title="All Posts"
+        title="News"
       />
     </>
   )

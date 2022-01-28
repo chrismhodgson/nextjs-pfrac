@@ -30,9 +30,9 @@ export default function Homepage({ posts }) {
         </header>
 
         <Image
-          src="http://pfrac.co.uk/wp-content/uploads/2014/10/Silkstone_Shuffle_3_2014_1.jpg"
+          src="/static/images/headers/Barnsley_Boundary_2014_2.jpg"
           width="1024"
-          height="220"
+          height="210"
           alt="No pain, no gain"
         />
 
