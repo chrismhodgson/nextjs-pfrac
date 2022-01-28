@@ -37,33 +37,30 @@ export async function getStaticProps({ params }) {
   fs.writeFileSync('./public/feed.xml', rss)
 
   const layout = getLayout(params.slug)
-
   const menu = getMenu(allPages, params.slug)
 
   return { props: { page, authorDetails, prev, next, layout, menu } }
 }
 
 function getLayout(slug) {
-  switch (slug[0]) {
-    case 'about':
-    case 'competitions':
-      return 'AboutPagesLayout'
-    case 'races':
-      return 'RacePagesLayout'
-    default:
-      return DEFAULT_LAYOUT
+  if (['about', 'competitions'].includes(slug[0] /*&& slug.length > 1*/)) {
+    return 'AboutPagesLayout'
   }
+  if (['races'].includes(slug[0] /*&& slug.length > 1*/)) {
+    return 'RacePagesLayout'
+  }
+  return DEFAULT_LAYOUT
 }
 
 function getMenu(pages, slug) {
-  return pages.filter((page) => {
-    return page.slug.startsWith(slug[0]) && slug[0] !== page.slug
-  })
+  const filtered = pages.filter((page) => page.slug.startsWith(slug[0]) && slug[0] !== page.slug)
+  return filtered.sort((a, b) => (a.order > b.order ? 1 : -1))
 }
 
 export default function Page({ page, authorDetails, prev, next, layout, menu }) {
   const { mdxSource, toc, frontMatter } = page
 
+  console.log(layout, 'layout')
   return (
     <>
       {frontMatter.draft !== true ? (

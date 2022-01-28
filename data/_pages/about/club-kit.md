@@ -1,5 +1,6 @@
 ---
-title: 'Club kit'
+title: 'Club Kit'
+order: 70
 ---
 
 Club kit page

@@ -1,5 +1,5 @@
 ---
-title: table examples
+title: Club Championship 2022
 enabled: true
 date: 2021-12-24
 tags:

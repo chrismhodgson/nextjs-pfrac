@@ -1,5 +1,6 @@
 ---
-title: 'Barnsley boundary relay race'
+title: 'Barnsley Boundary Relay'
+order: 10
 ---
 
 Barnsley boundary relay race page

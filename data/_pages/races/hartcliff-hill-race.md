@@ -1,5 +1,6 @@
 ---
-title: Hartcliff hill race
+title: Hartcliff Hill Race
+order: 50
 type: Fell
 distance: 2½ miles
 iframe_url: https://www.strava.com/segments/30806210/embed

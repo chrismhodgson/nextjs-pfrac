@@ -22,14 +22,17 @@ export default function AboutPagesLayout({ frontMatter, children, menu }) {
             </div>
           </header>
 
-          <div className="xl:grid xl:grid-cols-3 xl:gap-x-6">
-            <div className="xl:col-span-3 xl:row-span-2">
-              <h3 className="text-xs tracking-wide text-gray-500 uppercase dark:text-gray-400">
-                Pages in this section
+          <div className="sm:grid sm:grid-cols-8 sm:gap-x-6">
+            <div className="sm:col-span-3 border">
+              <h3 className="text-sm pb-7 uppercase tracking-wide text-gray-500 dark:text-gray-400 border-b border-gray-200 dark:border-gray-700">
+                Menu
               </h3>
               <ul>
                 {menu.map((item) => (
-                  <li key={item.slug}>
+                  <li
+                    key={item.slug}
+                    className="py-2 border-b border-gray-200 dark:border-gray-700"
+                  >
                     <Link
                       href={item.slug}
                       className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
@@ -40,12 +43,14 @@ export default function AboutPagesLayout({ frontMatter, children, menu }) {
                 ))}
               </ul>
             </div>
-            <div className="xl:col-span-3 xl:row-span-2">{children}</div>
-            <div className="xl:col-span-3 xl:row-span-2">
-              <h3 className="text-xs tracking-wide text-gray-500 uppercase dark:text-gray-400">
+            <div className="sm:col-span-5 border  border pb-8 prose dark:prose-dark">
+              {children}
+            </div>
+            {/* <div className="md:col-span-2">
+              <h3 className="text-sm pb-8 uppercase tracking-wide text-gray-500 dark:text-gray-400 border-b border-gray-200 dark:border-gray-700">
                 Results
               </h3>
-            </div>
+            </div> */}
           </div>
 
           {/* <div

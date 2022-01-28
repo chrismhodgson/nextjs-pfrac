@@ -14,7 +14,7 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
       <ScrollTopAndComment />
       <article>
         <div>
-          <header>
+          <header className="pb-5">
             <div className="pb-10 space-y-1 text-center border-b border-gray-200 dark:border-gray-700">
               <div>
                 <PageTitle>{title}</PageTitle>
@@ -22,14 +22,17 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
             </div>
           </header>
 
-          <div className="xl:grid xl:grid-cols-3 xl:gap-x-6">
-            <div className="xl:col-span-3 xl:row-span-2">
-              <h3 className="text-xs tracking-wide text-gray-500 uppercase dark:text-gray-400">
-                Pages in this section
+          <div className="md:grid md:grid-cols-9 md:gap-x-6">
+            <div className="md:col-span-2 border">
+              <h3 className="text-sm pb-8 uppercase tracking-wide text-gray-500 dark:text-gray-400 border-b border-gray-200 dark:border-gray-700">
+                Menu
               </h3>
               <ul>
                 {menu.map((item) => (
-                  <li key={item.slug}>
+                  <li
+                    key={item.slug}
+                    className="py-2 border-b border-gray-200 dark:border-gray-700"
+                  >
                     <Link
                       href={item.slug}
                       className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
@@ -40,9 +43,9 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
                 ))}
               </ul>
             </div>
-            <div className="xl:col-span-3 xl:row-span-2">{children}</div>
-            <div className="xl:col-span-3 xl:row-span-2">
-              <h3 className="text-xs tracking-wide text-gray-500 uppercase dark:text-gray-400">
+            <div className="md:col-span-5 border prose dark:prose-dark max-w-non">{children}</div>
+            <div className="md:col-span-2 border">
+              <h3 className="text-sm pb-8 uppercase tracking-wide text-gray-500 dark:text-gray-400 border-b border-gray-200 dark:border-gray-700">
                 Results
               </h3>
             </div>

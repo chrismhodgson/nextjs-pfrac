@@ -1,5 +1,6 @@
 ---
-title: 'Club championship'
+title: 'Club Championship'
+order: 10
 ---
 
 Club championship page
