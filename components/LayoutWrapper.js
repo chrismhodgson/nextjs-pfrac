@@ -12,25 +12,17 @@ const LayoutWrapper = ({ children }) => {
     <SectionContainer>
       <div className="flex flex-col justify-between h-screen">
         <header className="flex items-center justify-between pt-4 pb-10">
-          <div>
-            <Link href="/" aria-label="Tailwind CSS Blog">
-              <div className="flex items-center justify-between">
-                <div className="mr-5">
-                  <Image
-                    // src="/static/images/pfrac-logo.jpg"
-                    src="/static/images/PFRlogo2.jpg"
-                    width="125"
-                    height="125"
-                    alt="Penistone Footpath Runners"
-                  />
-                </div>
-                {/* {typeof siteMetadata.headerTitle === 'string' ? (
-                  <div className="hidden w-80 text-2xl sm:block">{siteMetadata.headerTitle}</div>
-                ) : (
-                  siteMetadata.headerTitle
-                )} */}
-              </div>
-            </Link>
+          <div className="flex items-center justify-between">
+            <div className="mr-5">
+              <Link href="/">
+                <Image
+                  src="static/images/logo.svg"
+                  width="125"
+                  height="125"
+                  alt="Penistone Footpath Runners"
+                />
+              </Link>
+            </div>
           </div>
           <div className="flex items-center text-lg leading-5">
             <div className="hidden sm:block">
