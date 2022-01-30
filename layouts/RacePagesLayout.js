@@ -4,6 +4,7 @@ import { BlogSEO } from '@/components/SEO'
 import siteMetadata from '@/data/siteMetadata'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
 import Link from '@/components/Link'
+import Image from '@/components/Image'
 
 export default function RacePagesLayout({ frontMatter, children, menu }) {
   const {
@@ -16,6 +17,7 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
     entry,
     registration,
     organiser,
+    header,
   } = frontMatter
 
   return (
@@ -23,16 +25,20 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
       <BlogSEO url={`${siteMetadata.siteUrl}/${frontMatter.slug}`} {...frontMatter} />
       <ScrollTopAndComment />
       <article>
-        <header className="pb-5">
-          <div className="pb-10 space-y-1 text-center border-b border-gray-200 dark:border-gray-700">
-            <div>
-              <PageTitle>{title}</PageTitle>
-            </div>
+        <header className="pb-12">
+          <div className="text-center pb-8">
+            <PageTitle>{title}</PageTitle>
           </div>
+          <Image
+            src={'/static/images/headers/' + (header || 'Barnsley_Boundary_2014_2.jpg')}
+            width="1024"
+            height="210"
+            alt="No pain, no gain"
+          />
         </header>
 
         <div className="md:grid md:grid-cols-8 md:gap-x-8">
-          <div className="md:col-span-3 ">
+          <div className="md:col-span-3 pb-10">
             <h3 className="text-sm pb-3 uppercase tracking-wide text-gray-500 dark:text-gray-400 border-b border-gray-200 dark:border-gray-700">
               Section Menu
             </h3>

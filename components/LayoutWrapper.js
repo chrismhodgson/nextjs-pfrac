@@ -16,9 +16,9 @@ const LayoutWrapper = ({ children }) => {
             <div className="mr-5">
               <Link href="/">
                 <Image
-                  src="static/images/logo.svg"
-                  width="125"
-                  height="125"
+                  src="/static/images/logo.svg"
+                  width="120"
+                  height="120"
                   alt="Penistone Footpath Runners"
                 />
               </Link>
@@ -30,7 +30,7 @@ const LayoutWrapper = ({ children }) => {
                 <Link
                   key={link.title}
                   href={link.href}
-                  className="p-1 font-medium text-gray-900 sm:p-4 dark:text-gray-100 hover:text-primary-500 dark:hover:text-primary-500"
+                  className="font-medium text-gray-900 sm:p-4 dark:text-gray-100 hover:text-primary-500 dark:hover:text-primary-500"
                 >
                   {link.title}
                 </Link>

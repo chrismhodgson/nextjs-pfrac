@@ -1,12 +1,13 @@
 ---
-title: Club Championship 2022
+title: How to use tables
 enabled: true
 date: 2021-12-24
+summary: An example post showing how to use tables
 tags:
   - website
 ---
 
-html
+### html
 
 <table>
 <thead>
@@ -25,7 +26,7 @@ html
 </tbody>
 </table>
 
-markdown
+### markdown
 
 | Tables   |      Are      |  Cool |
 | -------- | :-----------: | ----: |
