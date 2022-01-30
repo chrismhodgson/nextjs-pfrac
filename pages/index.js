@@ -41,13 +41,13 @@ export default function Homepage({ posts }) {
         {homepageSections.map((section) => {
           const { title, description, href } = section
           return (
-            <div key={href} className="sm:col-span-3 py-8 ">
+            <div key={href} className="sm:col-span-3 py-4 sm:py-8">
               <h3 className="text-xl font-bold tracking-tight text-center pb-3 ">{title}</h3>
               <div className="text-sm text-justify ">
                 {description}{' '}
                 <Link
                   href={href}
-                  className="text-sm text-primary-400 dark:hover:text-primary-300 pl-1"
+                  className="whitespace-nowrap text-sm text-primary-400 dark:hover:text-primary-300 pl-1"
                 >
                   More info
                 </Link>
@@ -57,7 +57,9 @@ export default function Homepage({ posts }) {
         })}
       </div>
 
-      <h2 className="text-3xl font-bold tracking-tight text-center py-10 ">Latest News</h2>
+      <h2 className="text-center pb-6 pt-8 text-3xl font-bold tracking-tight dark:text-gray-100">
+        Latest News
+      </h2>
 
       <div className="sm:grid sm:grid-cols-9 sm:gap-x-4">
         {posts.slice(0, MAX_POSTS).map((frontMatter) => {
