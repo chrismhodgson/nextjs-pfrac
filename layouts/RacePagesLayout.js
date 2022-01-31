@@ -13,7 +13,7 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
     start_date_time,
     distance,
     strava_url,
-    google_maps_url,
+    // google_maps_url,
     entry,
     registration,
     organiser,
@@ -112,7 +112,7 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
                 </>
               )}
 
-              {google_maps_url && (
+              {/* {google_maps_url && (
                 <>
                   <dt className="py-1">Google Map</dt>
                   <dd className="text-sm text-gray-500 dark:text-gray-400">
@@ -123,7 +123,7 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
                     />
                   </dd>
                 </>
-              )}
+              )} */}
             </dl>
             {children}
           </div>
