@@ -17,10 +17,7 @@ export default function Footer() {
         <div className="flex pb-5 space-x-2 text-sm text-gray-500 dark:text-gray-400">
           <div>
             {`© ${new Date().getFullYear()} ${siteMetadata.title} • `}
-            <Link
-              className="whitespace-nowrap hover:text-primary-500 dark:hover:text-primary-500"
-              href="/about/contact"
-            >
+            <Link className="dark:hover:text-primary-400" href="/about/contact-us">
               Contact Us
             </Link>
           </div>

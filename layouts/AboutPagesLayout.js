@@ -39,8 +39,8 @@ export default function AboutPagesLayout({ frontMatter, children, menu }) {
                     className="py-2 border-b border-gray-200 dark:border-gray-700"
                   >
                     <Link
-                      href={item.slug}
-                      className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                      href={'/' + item.slug}
+                      className="dark:text-primary-400 dark:hover:text-primary-300"
                     >
                       {item.title}
                     </Link>

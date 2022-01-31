@@ -1,11 +1,11 @@
 ---
 title: Hartcliff Hill Race
 order: 50
-type: Fell
+category: Fell
 start_date_time: 21st Jan @ 10.30am
 distance: 2½ miles
-iframe_url: https://www.strava.com/segments/30806210/embed
-google_maps_url: https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=205643359805660200036.0004a1acb4d170cfe993a&amp;source=embed&amp;t=m&amp;ll=53.531125,-1.636963&amp;spn=0.048976,0.109863&amp;z=12&amp;output=embed
+strava_url: https://www.strava.com/segments/30806210/embed
+google_maps_url: https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=205643359805660200036.0004a1acb4d170cfe993a&amp;source=embed&amp;t=m&amp;ll=53.531125,-1.636963&amp;spn=0.048976,0.109863&amp;z=13&amp;output=embed
 entry: |-
   Entry £4.50 on the day for FRA or EA members; £5.50 for non-members.
   Register at Langsett Barn

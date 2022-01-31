@@ -14,7 +14,7 @@ export default function FourZeroFour() {
         </p>
         <p className="mb-4">But dont worry, you can find plenty of other things on our homepage.</p>
 
-        <Link href="/" className="text-md text-primary-500 dark:hover:text-primary-400">
+        <Link href="/" className="text-md text-primary-400 dark:hover:text-primary-300">
           Return to homepage &raquo;
         </Link>
       </div>

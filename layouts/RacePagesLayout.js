@@ -9,7 +9,7 @@ import Image from '@/components/Image'
 export default function RacePagesLayout({ frontMatter, children, menu }) {
   const {
     title,
-    type,
+    category,
     start_date_time,
     distance,
     strava_url,
@@ -46,8 +46,8 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
               {menu.map((item) => (
                 <li key={item.slug} className="py-2 border-b border-gray-200 dark:border-gray-700">
                   <Link
-                    href={item.slug}
-                    className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                    href={'/' + item.slug}
+                    className="dark:text-primary-400 dark:hover:text-primary-300"
                   >
                     {item.title}
                   </Link>
@@ -56,63 +56,71 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
             </ul>
           </div>
           <div className="md:col-span-5  prose dark:prose-dark max-w-non">
-            <dl>
-              {type && (
+            <dl className="pb-2">
+              {start_date_time && (
                 <>
-                  <dt className="">Race Type</dt>
-                  <dd className="text-sm text-gray-500 dark:text-gray-400">{type}</dd>
+                  <dt className="pt-1">Start Date/Time</dt>
+                  <dd className="text-sm text-gray-500 dark:text-gray-400">{start_date_time}</dd>
                 </>
               )}
 
-              {start_date_time && (
+              {category && (
                 <>
-                  <dt className="">Start Date/Time</dt>
-                  <dd className="text-sm text-gray-500 dark:text-gray-400">{start_date_time}</dd>
+                  <dt className="pt-1">Category</dt>
+                  <dd className="text-sm text-gray-500 dark:text-gray-400">{category}</dd>
                 </>
               )}
 
               {distance && (
                 <>
-                  <dt className="">Distance</dt>
+                  <dt className="pt-1">Distance</dt>
                   <dd className="text-sm text-gray-500 dark:text-gray-400">{distance}</dd>
                 </>
               )}
 
               {entry && (
                 <>
-                  <dt className="">Entry</dt>
+                  <dt className="pt-1">Entry</dt>
                   <dd className="text-sm text-gray-500 dark:text-gray-400">{entry}</dd>
                 </>
               )}
 
               {registration && (
                 <>
-                  <dt className="">Registration</dt>
+                  <dt className="pt-1">Registration</dt>
                   <dd className="text-sm text-gray-500 dark:text-gray-400">{registration}</dd>
                 </>
               )}
 
               {organiser && (
                 <>
-                  <dt className="">Organiser</dt>
+                  <dt className="pt-1">Organiser</dt>
                   <dd className="text-sm text-gray-500 dark:text-gray-400">{organiser}</dd>
                 </>
               )}
 
               {strava_url && (
                 <>
-                  <dt className="">Strava Map</dt>
+                  <dt className="py-1">Strava Map</dt>
                   <dd className="text-sm text-gray-500 dark:text-gray-400">
-                    <iframe title="strava" src={strava_url} />
+                    <iframe
+                      title="strava"
+                      src={strava_url}
+                      style={{ width: '100%', height: '400px', display: 'block' }}
+                    />
                   </dd>
                 </>
               )}
 
               {google_maps_url && (
                 <>
-                  <dt className="">Google Map</dt>
+                  <dt className="py-1">Google Map</dt>
                   <dd className="text-sm text-gray-500 dark:text-gray-400">
-                    <iframe title="googlemaps" src={google_maps_url} />
+                    <iframe
+                      title="googlemaps"
+                      src={google_maps_url}
+                      style={{ width: '100%', height: '400px', display: 'block' }}
+                    />
                   </dd>
                 </>
               )}
