@@ -18,8 +18,6 @@ export async function getStaticProps() {
 }
 
 export default function NewsIndex({ posts, initialDisplayPosts, pagination }) {
-  console.error('NewsIndex')
-
   return (
     <>
       <PageSEO title={`News - ${siteMetadata.author}`} description={siteMetadata.description} />

@@ -1,6 +1,6 @@
 ---
 title: Markdown cheatsheet
-enabled: false
+draft: false
 date: 2022-01-31T08:08:50.675Z
 tags:
   - Markdown

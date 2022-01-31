@@ -19,7 +19,6 @@ export async function getStaticProps() {
 }
 
 export default function Homepage({ posts }) {
-  console.error('Homepage')
   return (
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />

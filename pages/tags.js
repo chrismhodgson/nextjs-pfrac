@@ -15,8 +15,6 @@ export async function getStaticProps() {
 export default function TagsIndex({ tags }) {
   const sortedTags = Object.keys(tags).sort((a, b) => tags[b] - tags[a])
 
-  console.error('TagsIndex')
-
   return (
     <>
       <PageSEO title={`Tags - ${siteMetadata.author}`} description="Things I blog about" />

@@ -42,8 +42,6 @@ export async function getStaticProps({ params }) {
 export default function NewsArticle({ post, authorDetails, prev, next }) {
   const { mdxSource, toc, frontMatter } = post
 
-  console.error('NewsArticle')
-
   return (
     <>
       {frontMatter.draft !== true ? (

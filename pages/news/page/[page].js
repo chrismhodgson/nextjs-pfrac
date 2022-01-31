@@ -42,8 +42,6 @@ export async function getStaticProps(context) {
 }
 
 export default function NewsPage({ posts, initialDisplayPosts, pagination }) {
-  console.error('NewsPage')
-
   return (
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
