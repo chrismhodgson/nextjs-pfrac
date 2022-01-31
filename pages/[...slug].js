@@ -1,5 +1,4 @@
 import fs from 'fs'
-import PageTitle from '@/components/PageTitle'
 import generateRss from '@/lib/generate-rss'
 import { MDXLayoutRenderer } from '@/components/MDXComponents'
 import { formatSlug, getAllFilesFrontMatter, getFileBySlug, getFiles } from '@/lib/mdx'
@@ -60,31 +59,12 @@ function getMenu(pages, slug) {
 export default function Page({ page, authorDetails, prev, next, layout, menu }) {
   const { mdxSource, toc, frontMatter } = page
 
-  console.log(layout, 'layout')
   return (
-    <>
-      {frontMatter.draft !== true ? (
-        <MDXLayoutRenderer
-          //layout={frontMatter.layout || DEFAULT_LAYOUT}
-          layout={layout}
-          // toc={toc}
-          mdxSource={mdxSource}
-          menu={menu}
-          frontMatter={frontMatter}
-          // authorDetails={authorDetails}
-          // prev={prev}
-          // next={next}
-        />
-      ) : (
-        <div className="mt-24 text-center">
-          <PageTitle>
-            Under Construction{' '}
-            <span role="img" aria-label="roadwork sign">
-              🚧
-            </span>
-          </PageTitle>
-        </div>
-      )}
-    </>
+    <MDXLayoutRenderer
+      layout={layout}
+      mdxSource={mdxSource}
+      menu={menu}
+      frontMatter={frontMatter}
+    />
   )
 }

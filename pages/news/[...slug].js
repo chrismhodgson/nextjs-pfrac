@@ -44,7 +44,7 @@ export default function NewsArticle({ post, authorDetails, prev, next }) {
 
   return (
     <>
-      {frontMatter.draft !== true ? (
+      {frontMatter.draft === true ? (
         <MDXLayoutRenderer
           layout={frontMatter.layout || DEFAULT_LAYOUT}
           toc={toc}
