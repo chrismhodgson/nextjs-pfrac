@@ -9,11 +9,12 @@ media_folder: "static/uploads"
 
 collections:
   - name: 'news' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'News Section' # Used in the UI
+    label: 'News' # Used in the UI
     label_singular: 'Article' # Used in the UI, ie: "New Post"
     description: Information about races, training, results and any other clubs news.
     folder: 'data/_articles'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    preview_path: news/{{slug}}
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Determines whether users can create new documents in this collection
     view_filters:
@@ -48,15 +49,16 @@ collections:
           required: true,
           hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
-      - label: "Files"
-        name: "files"
-        widget: "list"
-        summary: '{{fields.file}}'
-        field: { label: File, name: file, widget: file, required: true }
+      # - label: "Files"
+      #   name: "files"
+      #   widget: "list"
+      #   summary: '{{fields.file}}'
+      #   field: { label: File, name: file, widget: file, required: true }
 
   - name: 'races' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Races Section' # Used in the UI
+    label: 'Races' # Used in the UI
     folder: 'data/_pages/races'
+    preview_path: races/{{slug}}
     create: false # Determines whether users can create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
@@ -72,18 +74,13 @@ collections:
           label: 'Main Content',
           name: 'body',
           widget: 'markdown',
-          hint: 'ie Entry, Registration, Organiser. Create your tables using http://tablesgenerator.com/markdown_tables'
+          hint: 'Create your tables using http://tablesgenerator.com/markdown_tables'
         }
-      # - {
-      #   label: 'Side Column',
-      #   name: 'results',
-      #   widget: 'markdown',
-      #   hint: 'Course Records and Race Results'
-      # }
 
   - name: 'competitions' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Competitions Section' # Used in the UI
+    label: 'Competitions' # Used in the UI
     folder: 'data/_pages/competitions'
+    preview_path: competitions/{{slug}}
     create: false # Determines whether users can create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
@@ -94,16 +91,11 @@ collections:
           required: true,
           hint: 'Create your tables using http://tablesgenerator.com/markdown_tables'
         }
-      # - {
-      #   label: 'Side Column',
-      #   name: 'results',
-      #   widget: 'markdown',
-      #   hint: 'Course Records and Race Results'
-      # }
 
   - name: 'about' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'About Section' # Used in the UI
+    label: 'About' # Used in the UI
     folder: 'data/_pages/about'
+    preview_path: about/{{slug}}
     create: false # Determines whether users can create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
@@ -114,15 +106,11 @@ collections:
           required: true,
           hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
-      # - {
-      #   label: 'Side Column',
-      #   name: 'side_column',
-      #   widget: 'markdown'
-      # }
 
   - name: 'pages' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Other Pages' # Used in the UI
     folder: 'data/_pages'
+    preview_path: {{slug}}
     create: false # Determines whether users can create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
@@ -133,9 +121,4 @@ collections:
           required: true,
           hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
-      # - {
-      #   label: 'Side Column',
-      #   name: 'side_column',
-      #   widget: 'markdown'
-      # }
 
