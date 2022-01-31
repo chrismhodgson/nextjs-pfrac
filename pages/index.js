@@ -10,7 +10,7 @@ import PageTitle from '@/components/PageTitle'
 
 export const PAGES_FOLDER = '_pages'
 
-const MAX_POSTS = 3
+const MAX_POSTS = 6
 
 export async function getStaticProps() {
   const posts = await getAllFilesFrontMatter(POSTS_FOLDER)
