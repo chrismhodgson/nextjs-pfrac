@@ -11,10 +11,6 @@ summary: >
 
 # Introduction
 
-Markdown and Mdx parsing is supported via `unified`, and other remark and rehype packages. `next-mdx-remote` allows us to parse `.mdx` and `.md` files in a more flexible manner without touching webpack.
-
-GitHub flavored markdown is used. `mdx-prism` provides syntax highlighting capabilities for code blocks. Here's a demo of how everything looks.
-
 The following markdown cheatsheet is adapted from: https://guides.github.com/features/mastering-markdown/
 
 # What is Markdown?
@@ -121,40 +117,6 @@ As Kanye West said:
 
 > We're living the future so
 > the present is our past.
-
-## Inline code
-
-```
-I think you should use an
-`<addr>` element here instead.
-```
-
-I think you should use an
-`<addr>` element here instead.
-
-## Syntax highlighting
-
-Here’s an example of how you can use syntax highlighting with [GitHub Flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/):
-
-````
-```js:fancyAlert.js
-function fancyAlert(arg) {
-  if (arg) {
-    $.facebox({ div: '#foo' })
-  }
-}
-```
-````
-
-And here's how it looks - nicely colored with styled code titles!
-
-```js:fancyAlert.js
-function fancyAlert(arg) {
-  if (arg) {
-    $.facebox({ div: '#foo' })
-  }
-}
-```
 
 ## Footnotes
 
