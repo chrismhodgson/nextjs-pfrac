@@ -18,15 +18,15 @@ collections:
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Determines whether users can create new documents in this collection
     view_filters:
-      - label: draft
+      - label: Draft
         field: draft
         pattern: true
     view_groups:
-      - label: draft
+      - label: Draft
         field: draft
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true }
-      - { label: 'draft', name: 'draft', widget: 'boolean', default: true }
+      - { label: 'Draft', name: 'draft', widget: 'boolean', default: true }
       - {
           label: 'Publish Date',
           name: 'date',
