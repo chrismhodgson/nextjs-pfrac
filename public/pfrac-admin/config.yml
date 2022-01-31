@@ -4,7 +4,7 @@ backend:
 
 site_url: https://pfrac.chrishodgson.co.uk
 
-media_folder: "static/uploads"
+media_folder: "public/static/uploads"
 #public_folder: "assets"
 
 collections:
