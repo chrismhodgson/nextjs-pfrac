@@ -47,7 +47,7 @@ export default function Homepage({ posts }) {
                 {description}{' '}
                 <Link
                   href={href}
-                  className="whitespace-nowrap text-sm text-primary-400 dark:hover:text-primary-300 pl-1"
+                  className="whitespace-nowrap text-sm font-bold dark:text-primary-400 dark:hover:text-primary-300 pl-1"
                 >
                   More info
                 </Link>
@@ -67,7 +67,7 @@ export default function Homepage({ posts }) {
           return (
             <div key={slug} className="sm:col-span-3 p-5 mb-3 border-2 dark:border-gray-400">
               <dl>
-                <dd className="text-sm text-gray-500 dark:text-gray-400">
+                <dd className="text-sm dark:text-gray-400">
                   <time dateTime={date}>{formatDate(date)}</time>
                 </dd>
               </dl>
@@ -78,7 +78,7 @@ export default function Homepage({ posts }) {
               </div>
               <Link
                 href={`/news/${slug}`}
-                className="text-sm text-primary-500 dark:hover:text-primary-400"
+                className="text-sm dark:text-primary-400 dark:hover:text-primary-300"
               >
                 Read article
               </Link>
