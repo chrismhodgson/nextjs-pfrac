@@ -26,7 +26,7 @@ collections:
         field: draft
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true }
-      - { label: 'Draft', name: 'draft', widget: 'boolean', default: true }
+      - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
       - {
           label: 'Publish Date',
           name: 'date',
@@ -34,7 +34,7 @@ collections:
           required: true,
           date_format: 'YYYY-MM-DD',
         }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list", required: true  }
       - {
           label: 'Summary',
           name: 'summary',
@@ -65,15 +65,16 @@ collections:
       - { label: 'Category', name: 'category', widget: 'select', options: ['Fell', 'Trail', 'Road'], default: 'Fell', required: true }
       - { label: 'Start date / time', name: 'start_date_time', widget: 'string', required: true }
       - { label: 'Distance', name: 'distance', widget: 'string', required: true }
-      - { label: 'Strava Segment url (ie for iframe)', name: 'strava_url', widget: 'string', hint: 'ie https://www.strava.com/segments/30806210/embed' }
-      - { label: 'Google maps url (ie for iframe)', name: 'google_maps_url', widget: 'string', hint: 'ie https://calendar.google.com/calendar/embed?src=Y2hyaXNob2' }
-      - { label: 'Entry', name: 'entry', widget: 'text' }
-      - { label: 'Registration', name: 'registration', widget: 'text' }
-      - { label: 'Organiser', name: 'organiser', widget: 'text' }
+      - { label: 'Strava Segment url (ie for iframe)', name: 'strava_url', widget: 'string', hint: 'ie https://www.strava.com/segments/30806210/embed', required: false }
+      # - { label: 'Google maps url (ie for iframe)', name: 'google_maps_url', widget: 'string', hint: 'ie https://calendar.google.com/calendar/embed?src=Y2hyaXNob2' }
+      - { label: 'Entry', name: 'entry', widget: 'text', required: false }
+      - { label: 'Registration', name: 'registration', widget: 'text', required: false  }
+      - { label: 'Organiser', name: 'organiser', widget: 'text', required: false  }
       - {
           label: 'Main Content',
           name: 'body',
           widget: 'markdown',
+          required: false,
           hint: 'Create your tables using http://tablesgenerator.com/markdown_tables'
         }
 
