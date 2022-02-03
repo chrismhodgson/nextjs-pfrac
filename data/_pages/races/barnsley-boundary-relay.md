@@ -1,6 +1,9 @@
 ---
-title: 'Barnsley Boundary Relay'
+title: Barnsley Boundary Relay
 order: 10
+category: Trail
+start_date_time: 16/6/2022
+distance: 100 miles
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in elementum dui. Etiam ut scelerisque odio. Curabitur id neque urna. Proin tincidunt metus vitae euismod feugiat. Pellentesque rutrum nulla sit amet tellus viverra laoreet. Nunc fringilla et dui sit amet ultrices. Quisque eleifend rhoncus nisl, semper fringilla nisi dapibus sed. Vivamus aliquet turpis sed odio vulputate luctus. Fusce aliquet quis tortor in rutrum.
