@@ -15,12 +15,12 @@ Provisional dates for 2022 are listed below.
 
 | Race | Date | Runners | Winner |
 | - | - | - | - |
-| 1 | 21 September | 58 | Ian Wragg |
-| 2 | 5 October | 34 | Lisa Hinchliffe |
-| 3 | 2 November | 43 | Myfanwy Cross |
-| 4 | 23 November | 35 | John Lawcock |
-| 5 | 7 December | 28 | Andrew Metcalfe |
-| 6 | 21 December | 28 | Ian Sutcliffe |
+| 1 | 13 September |  |  |
+| 2 | 4 October |  |  |
+| 3 | 18 October |  |  |
+| 4 | 8 November |  |  |
+| 5 | 29 November |  |  |
+| 6 | 13 December |  |  |
 
 
 
