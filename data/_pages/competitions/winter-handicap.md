@@ -111,7 +111,7 @@ Alongside the handicap there is also a WMA championship. This is based on [World
 
 
 
-The 2015 age-grading factors used for the 2015-16 series onwards are available [here](http://www.howardgrubb.co.uk/athletics/wmalookup15.html).
+The 2020 age-grading factors used for the 2021 series onwards are available [here](http://www.howardgrubb.co.uk/athletics/mldrroad20.html).
 
 
 
