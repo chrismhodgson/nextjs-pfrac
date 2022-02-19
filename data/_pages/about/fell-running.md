@@ -1,5 +1,5 @@
 ---
-title: 'Fell Running'
+title: Fell and Trail Running
 order: 40
 ---
 
