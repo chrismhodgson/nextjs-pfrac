@@ -1,5 +1,5 @@
 ---
-title: 'Winter Handicap'
+title: Senior Winter Handicap
 order: 40
 ---
 
