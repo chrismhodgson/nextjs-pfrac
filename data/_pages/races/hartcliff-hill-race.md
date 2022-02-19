@@ -1,20 +1,71 @@
 ---
 title: Hartcliff Hill Race
 category: Fell
-start_date_time: 21st Jan @ 10.30am
-distance: 2½ miles
+start_date_time: 19:30; 21 April 2022  19:30
+distance: 2½ miles with 492ft of ascent
 strava_url: https://www.strava.com/segments/30806210/embed
-google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
+entry: |-
+  Entry £4.50 on the day for FRA or EA members; £5.50 for non-members.
+  Minimum age: 12 on the day
 organiser: |
   Ian Charlesworth
   hartcliffhill.fellrace@gmail.com
+google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
 order: 50
-entry: |-
-  Entry £4.50 on the day for FRA or EA members; £5.50 for non-members.
-  Register at Langsett Barn
-registration: |-
-  Penistone leisure center
-  from 9am
+registration: "From 18:30 at Langsett Barn, S36 4GY (on the A616, 1 mile SE of
+  the Flouch Roundabout - grid ref: SE211005)"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in elementum dui. Etiam ut scelerisque odio. Curabitur id neque urna. Proin tincidunt metus vitae euismod feugiat. Pellentesque rutrum nulla sit amet tellus viverra laoreet. Nunc fringilla et dui sit amet ultrices. Quisque eleifend rhoncus nisl, semper fringilla nisi dapibus sed. Vivamus aliquet turpis sed odio vulputate luctus. Fusce aliquet quis tortor in rutrum.
+
+Hartcliff Hill is a BS category fell race: 2½ miles with 492 feet of ascent.
+
+
+
+**The 2022 race will take place on Thursday 21 April at 19:30 (provisional date).**
+
+
+
+The race starts and finishes about ¾ mile from Langsett Barn.
+
+
+
+### Course Records (current course - since 2015)
+
+
+
+Male: Max Wainwright, Dark Peak Fell Runners, 2019 - 15:37
+Female: Katie Walshaw, Holmfirth Harriers, 2019 - 17:47
+
+
+
+### Records for previous course:
+
+
+
+Male: Stuart Bond, Tommy's Fell Stars, 2009 - 14:54
+Female: N White, Bingley, 2006 - 17:19
+
+
+
+### Previous Race Results
+
+
+
+2021 - race cancelled
+2020 - race cancelled
+[2019](http://pfrac.co.uk/wp-content/uploads/2019/05/Hartcliff-2019-Results.pdf)
+[2018](http://pfrac.co.uk/wp-content/uploads/2018/04/Hartcliff-2018-Results.pdf)
+[2017](http://pfrac.co.uk/wp-content/uploads/2017/04/Hartcliff-2017-Results.pdf)
+[2016](http://pfrac.co.uk/wp-content/uploads/2016/04/Hartcliff-2016-Results.pdf)
+[2015](http://pfrac.co.uk/wp-content/uploads/2015/07/Hartcliff-2015-Results.pdf)
+2014 - race cancelled
+[2013](http://fellrunner.org.uk/results.php?id=1847)
+[2012](http://fellrunner.org.uk/results.php?id=1246)
+[2011](http://fellrunner.org.uk/results.php?id=650)
+[2010](http://fellrunner.org.uk/results/race10/10_hartcliff_hill.html)
+[2009](http://fellrunner.org.uk/results/race09/09_hartcliffe.html)
+[2008](http://fellrunner.org.uk/results/race08/hartcliffe08.txt)
+[2007](http://fellrunner.org.uk/results/race07/hartcliffehill.txt)
+[2006](http://fellrunner.org.uk/results/race06/hartcliffe.txt)
+[2005](http://fellrunner.org.uk/results/race05/hartcliffe.htm)
+
