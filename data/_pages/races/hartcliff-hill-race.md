@@ -3,7 +3,7 @@ title: Hartcliff Hill Race
 category: Fell
 start_date_time: 19:30; 21 April 2022  19:30
 distance: 2½ miles with 492ft of ascent
-strava_url: https://www.strava.com/segments/30806210/embed
+strava_url: https://www.strava.com/segments/9332504/embed
 entry: |-
   Entry £4.50 on the day for FRA or EA members; £5.50 for non-members.
   Minimum age: 12 on the day
