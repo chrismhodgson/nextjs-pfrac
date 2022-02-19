@@ -2,30 +2,27 @@
 title: Hartcliff Hill Race
 category: Fell
 start_date_time: 19:30; 21 April 2022  19:30
-distance: 2½ miles with 492ft of ascent
+distance: 2½ miles/4km with 492ft/150m of ascent
 strava_url: https://www.strava.com/segments/9332504/embed
 entry: |-
   Entry £4.50 on the day for FRA or EA members; £5.50 for non-members.
-  Minimum age: 12 on the day
+  Minimum age 12 on the day
 organiser: |
   Ian Charlesworth
   hartcliffhill.fellrace@gmail.com
 google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
 order: 50
 registration: "From 18:30 at Langsett Barn, S36 4GY (on the A616, 1 mile SE of
-  the Flouch Roundabout - grid ref: SE211005)"
+  the Flouch Roundabout). Grid ref: SE211005)"
 ---
 
 
-Hartcliff Hill is a BS category fell race: 2½ miles with 492 feet of ascent.
+Hartcliff Hill is a BS category fell race: 2½ miles with 492 feet of ascent.  Marked and marshalled course - no navigation or prior experience required.  The terrain is rough and can be extremely boggy.
 
 
 
-**The 2022 race will take place on Thursday 21 April at 19:30 (provisional date).**
 
-
-
-The race starts and finishes about ¾ mile from Langsett Barn.
+The race starts and finishes about ¾ mile from Langsett Barn so allow time after registration.
 
 
 
