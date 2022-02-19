@@ -26,6 +26,8 @@ Provisional dates for 2022 are listed below.
 
 [The route](http://pfrac.co.uk/wp-content/uploads/2013/07/WHMap.jpg) is approximately 4½ miles long with about 600 feet of ascent. It starts from Penistone Leisure Centre and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
 
+### Details
+
 
 
 The event starts at 18:45 and the intended finish time is 19:37. The aim is for all runners to pass the finish line at the same time. To achieve this all runners are given a handicap based on their ability.
