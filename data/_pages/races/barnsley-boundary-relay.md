@@ -63,7 +63,7 @@ The links below give maps and GPX files for each leg. The GPX files can be downl
 | 2: Bretton Park to Brierley | 08:30 | 10.4M/768'|
 <div style="text-align: right">| Start: S75 4BZ / SE 29960 12013 | [Map](http://pfrac.co.uk/wp-content/uploads/2021/04/BB_Leg_2.jpg) | [GPX]</div>(http://results.pfrac.co.uk/BB_gpx_files/BB_Leg_2.gpx) |
 | 3: Brierley to Thurnscoe | 09:40 | 6.6M/459' |
-| Start: S72 9JX / SE 40468 11116 | [Map](http://pfrac.co.uk/wp-content/uploads/2021/04/BB_Leg_3.jpg) | [GPX](http://results.pfrac.co.uk/BB_gpx_files/BB_Leg_3.gpx) |
+| *Tabspace*Start: S72 9JX / SE 40468 11116 | *Tabspace*[Map](http://pfrac.co.uk/wp-content/uploads/2021/04/BB_Leg_3.jpg) | *Tabspace*[GPX](http://results.pfrac.co.uk/BB_gpx_files/BB_Leg_3.gpx) |
 | 4: Thurnscoe to Brampton | 10:20 | 6.4M/196' |
 | Start: S63 0BH / SE 46513 05383 | [Map](http://pfrac.co.uk/wp-content/uploads/2021/04/BB_Leg_4.jpg) | [GPX](http://results.pfrac.co.uk/BB_gpx_files/BB_Leg_4.gpx) |
 | 5: Brampton to Tankersley | 11:00 | 5.1M/486' |
