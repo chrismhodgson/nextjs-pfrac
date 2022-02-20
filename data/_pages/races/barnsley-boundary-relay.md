@@ -5,7 +5,7 @@ order: 10
 title: Barnsley Boundary Relay
 category: Trail
 distance: Approximately 72/115km miles with 7,350ft//2,240m of ascent, over 10 legs
-entry: Contact Race Organiser for entry.
+entry: Contact Race Organiser for entry form.
 registration: See below
 ---
 
