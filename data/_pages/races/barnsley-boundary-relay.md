@@ -59,9 +59,9 @@ The links below give maps and GPX files for each leg. The GPX files can be downl
 | Leg | Start time (approx) | Distance/climb |
 | - | - | - |
 | 1: Cannon Hall to Bretton Park | 08:00 | 5.1M/528' |
-| Start: S75 4AR / SE 27283 07944 | [Map](http://pfrac.co.uk/wp-content/uploads/2021/04/BB_Leg_1.jpg) | [GPX](http://results.pfrac.co.uk/BB_gpx_files/BB_Leg_1.gpx) |
+<div style="text-align: right">| Start: S75 4AR / SE 27283 07944 | [Map](http://pfrac.co.uk/wp-content/uploads/2021/04/BB_Leg_1.jpg) | [GPX](http://results.pfrac.co.uk/BB_gpx_files/BB_Leg_1.gpx) |</div>
 | 2: Bretton Park to Brierley | 08:30 | 10.4M/768'|
-| Start: S75 4BZ / SE 29960 12013 | [Map](http://pfrac.co.uk/wp-content/uploads/2021/04/BB_Leg_2.jpg) | [GPX](http://results.pfrac.co.uk/BB_gpx_files/BB_Leg_2.gpx) |
+<div style="text-align: right">| Start: S75 4BZ / SE 29960 12013 | [Map](http://pfrac.co.uk/wp-content/uploads/2021/04/BB_Leg_2.jpg) | [GPX](http://results.pfrac.co.uk/BB_gpx_files/BB_Leg_2.gpx) |</div>
 | 3: Brierley to Thurnscoe | 09:40 | 6.6M/459' |
 | Start: S72 9JX / SE 40468 11116 | [Map](http://pfrac.co.uk/wp-content/uploads/2021/04/BB_Leg_3.jpg) | [GPX](http://results.pfrac.co.uk/BB_gpx_files/BB_Leg_3.gpx) |
 | 4: Thurnscoe to Brampton | 10:20 | 6.4M/196' |
