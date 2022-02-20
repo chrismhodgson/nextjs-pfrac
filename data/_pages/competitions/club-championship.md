@@ -46,7 +46,9 @@ Your age group for the Championship in any year is determined by your age on Jan
 
 
 
-PFR Championship results from previous years can be found from the links below:
+Results from previous years can be found via the links below:
+
+
 
 [2018 onwards](http://results.pfrac.co.uk)
 [2017](http://pfrac.co.uk/wp-content/uploads/2017/12/Championship-2017-Results.pdf)
