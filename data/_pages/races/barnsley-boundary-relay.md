@@ -1,6 +1,6 @@
 ---
-start_date_time: 08:00; 11 June 2022 - see below for individual leg start times
-organiser: Steve Dickinson; steve@osi.uk.com; 07850 445613
+start_date_time: 08:00; 11 June 2022 – see below for individual leg start times
+organiser: Steve Dickinson – steve@osi.uk.com – 07850 445613
 order: 10
 title: Barnsley Boundary Relay
 category: Trail
@@ -16,7 +16,7 @@ It is organised by Penistone Footpath Runners in conjunction with [Barnsley Rock
 
 
 
-Entries are welcome from any running clubs, organisations or businesses.  Some legs require some navigation or previous knowledge - there are plenty of opportunities to be shown the way before the day.  It is an sociable event.
+Entries are welcome from any running clubs, organisations or businesses.  Some legs require some navigation or previous knowledge – there are plenty of opportunities to be shown the way before the day.  It is an sociable event.
 
 
 
