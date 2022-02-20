@@ -178,6 +178,7 @@ Results for all the races and final tables for the series are [here](http://resu
 
 ### Past Winter Handicap Results
 
+[2021](http://results.pfrac.co.uk/SeniorWinterHandicap2021/League%20Table.html)
 
 
 [2020](http://results.pfrac.co.uk/SeniorWinterHandicap2020/League%20Table.html)
