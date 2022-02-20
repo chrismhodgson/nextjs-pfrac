@@ -48,14 +48,12 @@ Female: N White, Bingley, 2006 - 17:19
 
 
 
-2021 - race cancelled
-2020 - race cancelled
+
 [2019](http://pfrac.co.uk/wp-content/uploads/2019/05/Hartcliff-2019-Results.pdf)
 [2018](http://pfrac.co.uk/wp-content/uploads/2018/04/Hartcliff-2018-Results.pdf)
 [2017](http://pfrac.co.uk/wp-content/uploads/2017/04/Hartcliff-2017-Results.pdf)
 [2016](http://pfrac.co.uk/wp-content/uploads/2016/04/Hartcliff-2016-Results.pdf)
 [2015](http://pfrac.co.uk/wp-content/uploads/2015/07/Hartcliff-2015-Results.pdf)
-2014 - race cancelled
 [2013](http://fellrunner.org.uk/results.php?id=1847)
 [2012](http://fellrunner.org.uk/results.php?id=1246)
 [2011](http://fellrunner.org.uk/results.php?id=650)
@@ -65,4 +63,7 @@ Female: N White, Bingley, 2006 - 17:19
 [2007](http://fellrunner.org.uk/results/race07/hartcliffehill.txt)
 [2006](http://fellrunner.org.uk/results/race06/hartcliffe.txt)
 [2005](http://fellrunner.org.uk/results/race05/hartcliffe.htm)
+
+Races in 2014, 2020 and 2021 were cancelled.
+
 
