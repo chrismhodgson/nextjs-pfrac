@@ -166,9 +166,9 @@ Any questions or comments contact Keith Gordon.
 
 
 
-Final winter handicap result: 1 - Stuart Woodhead; 2 - Suzanne McGill; 3 - Myfanwy Cross
+Final winter handicap result: 1 – Stuart Woodhead; 2 – Suzanne McGill; 3 – Myfanwy Cross
 
-WMA series result: 1 - Barbara Haigh; 2 - Stuart Woodhead; 3 - Suzanne McGill
+WMA series result: 1 – Barbara Haigh; 2 – Stuart Woodhead; 3 – Suzanne McGill
 
 Fastest lady: Poppy Tovey (33:23); Fastest man: Andrew Heppenstall (27:10)
 
@@ -176,100 +176,14 @@ Results for all the races and final tables for the series are [here](http://resu
 
 
 
-### Winter Handicap 2020
+### Past Winter Handicap Results
 
 
 
-<em>Owing to the COVID-19 pandemic, races 2 to 5 were run as time trials with individual runners timing themselves and submitting their times.</em>
-
-Final winter handicap result: 1 - Richard Williams; 2 - Alan Knox; 3 - Jane Lawcock
-
-WMA series result: 1 - Matthew Robinson; 2 - Barbara Haigh; 3 - Jonathan Bentley
-
-Fastest lady: Suzanne McGill (34:02); Fastest man: James Mumford (26:32)
-
-Results for all the races and final tables for the series are [here](http://results.pfrac.co.uk/SeniorWinterHandicap2020/League%20Table.html).
-
-
-
-### Winter Handicap 2019–20
-
-
-
-Final winter handicap result: 1 - Steve Dommett; 2 - Dawn Godley; 3 - Stuart Woodhead
-
-WMA series result: 1 - Barbara Haigh; 2 - Tony Wright; 3 - Bill Phillips
-
-Fastest lady: Rebecca Timms (32:42); Fastest man: Gary Briscoe (25:56)
-
-Results for all the races and final tables for the series are [here](http://results.pfrac.co.uk/SeniorWinterHandicap2019/League%20Table.html).
-
-
-
-### Winter Handicap 2018–19
-
-
-
-Final winter handicap result: 1 - Craig Royston; 2 - Rachael Mayston; 3 - Matt Womersley
-
-WMA series result: 1 - Barbara Haigh; 2 - Matthew Robinson; 3 - Bill Phillips
-
-Fastest lady: Rebecca Timms (33:04); Fastest man: Gary Briscoe (27:46)
-
-Results for all the races and final tables for the series are [here](http://results.pfrac.co.uk/SeniorWinterHandicap2018/League%20Table.html).
-
-
-
-### Winter Handicap 2017–18
-
-
-
-Final winter handicap result: 1 - Shelley Gill; 2 - Sue Hall; 3 - Simon Pike
-
-WMA series result: 1 - Alan Knox; 2 - Richard Mackie; 3 - Matthew Robinson
-
-Fastest lady: Laura Gill (31:32); Fastest man: Damian Kilpin (27:49)
-
-Results for all the races and final tables for the series are [here](http://pfrac.co.uk/wp-content/uploads/2018/01/WH-2017-18-Results.pdf).
-
-
-
-### Winter Handicap 2016–17
-
-
-
-Final winter handicap result: 1 - Thomas Hudson; 2 - Peter Claydon; 3 - Ashleigh Bowskill
-
-WMA series result: 1 - Shaun Dimelow; 2 - Martin Ball; 3 - Bill Phillips
-
-Fastest lady: Julia Johnson (32:55); Fastest man: Shaun Dimelow (26:19)
-
-Results for all the races and final tables for the series are [here](http://pfrac.co.uk/wp-content/uploads/2017/02/WH-2016-17-Results.pdf).
-
-
-
-### Winter Handicap 2015–16
-
-
-
-Final winter handicap result: 1 - Nell Law; 2 - Nick Whittingham; 3 - Steve Sanders
-
-WMA series result: 1 - Barbara Haigh; 2 - Martin Ball; 3 - Alan Knox
-
-Fastest lady: Lesley Latchem (32:58); Fastest man: Shaun Dimelow (26:42)
-
-Results for all the races and final tables for the series are [here](http://pfrac.co.uk/wp-content/uploads/2016/03/WH-2015-16-Final-Results.pdf).
-
-
-
-### Winter Handicap 2014–15
-
-
-
-Final winter handicap result: 1 - Matt Goulding; 2 - Alan Knox; 3 - Simon Pike
-
-WMA series result: 1 - Martin Booth; 2 - Pete Stanley; 3 - Barbara Haigh
-
-Fastest lady: Lesley Latchem (33:03); Fastest man: Andy Swift (26:05)
-
-Results for all the races are [here](http://pfrac.co.uk/wp-content/uploads/2015/11/WH-results-11-02-15.xlsx) and WMA times and totals for the series are [here](http://pfrac.co.uk/wp-content/uploads/2015/03/WH-WMA-Final-2015.xlsx).
+[2020](http://results.pfrac.co.uk/SeniorWinterHandicap2020/League%20Table.html)
+[2019–20](http://results.pfrac.co.uk/SeniorWinterHandicap2019/League%20Table.html)
+[2018–19](http://results.pfrac.co.uk/SeniorWinterHandicap2018/League%20Table.html)
+[2017–18](http://pfrac.co.uk/wp-content/uploads/2018/01/WH-2017-18-Results.pdf)
+[2016–17](http://pfrac.co.uk/wp-content/uploads/2017/02/WH-2016-17-Results.pdf)
+[2015–16](http://pfrac.co.uk/wp-content/uploads/2016/03/WH-2015-16-Final-Results.pdf)
+[2014–15](http://pfrac.co.uk/wp-content/uploads/2015/03/WH-WMA-Final-2015.xlsx)
