@@ -2,6 +2,7 @@
 title: Club Championship
 order: 10
 ---
+
 ### The 2022 Club Championship
 
 The format of the Championship in 2022 is unchanged from the planned 2020 Championship, with many of the same races.
@@ -44,11 +45,7 @@ Your age group for the Championship in any year is determined by your age on Jan
 
 ### Past Championship Results
 
-
-
 Results from previous years can be found via the links below:
-
-
 
 [2018 onwards](http://results.pfrac.co.uk)
 [2017](http://pfrac.co.uk/wp-content/uploads/2017/12/Championship-2017-Results.pdf)

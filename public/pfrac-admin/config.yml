@@ -49,11 +49,6 @@ collections:
           required: true,
           hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
-      # - label: "Files"
-      #   name: "files"
-      #   widget: "list"
-      #   summary: '{{fields.file}}'
-      #   field: { label: File, name: file, widget: file, required: true }
 
   - name: 'races' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Races' # Used in the UI
@@ -77,6 +72,11 @@ collections:
           required: false,
           hint: 'Create your tables using http://tablesgenerator.com/markdown_tables'
         }
+      - label: "Files"
+        name: "files"
+        widget: "list"
+        summary: '{{fields.file}}'
+        field: { label: File, name: file, widget: file, required: true }
 
   - name: 'competitions' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Competitions' # Used in the UI
@@ -92,6 +92,11 @@ collections:
           required: true,
           hint: 'Create your tables using http://tablesgenerator.com/markdown_tables'
         }
+      - label: "Files"
+        name: "files"
+        widget: "list"
+        summary: '{{fields.file}}'
+        field: { label: File, name: file, widget: file, required: true }
 
   - name: 'about' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'About' # Used in the UI
