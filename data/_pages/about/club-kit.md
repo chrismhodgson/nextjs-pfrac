@@ -23,5 +23,4 @@ Click on images to enlarge.
 ### Contact details:
 
 Jemma Williams
-E-mail: <a href="mailto:jemstone1981@hotmail.com">jemstone1981@hotmail.com</a>
-or via Facebook
+E-mail: <a href="mailto:jemstone1981@hotmail.com">jemstone1981@hotmail.com</a> or via Facebook
