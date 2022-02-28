@@ -13,7 +13,7 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
     start_date_time,
     distance,
     strava_url,
-    // google_maps_url,
+    results,
     entry,
     registration,
     organiser,
