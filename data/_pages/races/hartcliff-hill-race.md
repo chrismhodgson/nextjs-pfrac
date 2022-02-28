@@ -11,8 +11,39 @@ organiser: |
   Ian Charlesworth – hartcliffhill.fellrace@gmail.com
 google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
 order: 50
-registration: 'From 18:30 at Langsett Barn, S36 4GY (on the A616, 1 mile SE of
-  the Flouch Roundabout). Grid ref: SE211005)'
+registration: "From 18:30 at Langsett Barn, S36 4GY (on the A616, 1 mile SE of
+  the Flouch Roundabout). Grid ref: SE211005)"
+results: >-
+  [2019](http://pfrac.co.uk/wp-content/uploads/2019/05/Hartcliff-2019-Results.pdf)
+
+  [2018](http://pfrac.co.uk/wp-content/uploads/2018/04/Hartcliff-2018-Results.pdf)
+
+  [2017](http://pfrac.co.uk/wp-content/uploads/2017/04/Hartcliff-2017-Results.pdf)
+
+  [2016](http://pfrac.co.uk/wp-content/uploads/2016/04/Hartcliff-2016-Results.pdf)
+
+  [2015](http://pfrac.co.uk/wp-content/uploads/2015/07/Hartcliff-2015-Results.pdf)
+
+  [2013](http://fellrunner.org.uk/results.php?id=1847)
+
+  [2012](http://fellrunner.org.uk/results.php?id=1246)
+
+  [2011](http://fellrunner.org.uk/results.php?id=650)
+
+  [2010](http://fellrunner.org.uk/results/race10/10_hartcliff_hill.html)
+
+  [2009](http://fellrunner.org.uk/results/race09/09_hartcliffe.html)
+
+  [2008](http://fellrunner.org.uk/results/race08/hartcliffe08.txt)
+
+  [2007](http://fellrunner.org.uk/results/race07/hartcliffehill.txt)
+
+  [2006](http://fellrunner.org.uk/results/race06/hartcliffe.txt)
+
+  [2005](http://fellrunner.org.uk/results/race05/hartcliffe.htm)
+
+
+  Races in 2014, 2020 and 2021 were cancelled.
 ---
 
 Hartcliff Hill is a BS category fell race: 2½ miles with 492 feet of ascent. Marked and marshalled course – no navigation or prior experience required. The terrain is rough and can be extremely boggy.
@@ -28,22 +59,3 @@ Female: Katie Walshaw, Holmfirth Harriers, 2019 – 17:47
 
 Male: Stuart Bond, Tommy's Fell Stars, 2009 – 14:54
 Female: N White, Bingley, 2006 – 17:19
-
-### Previous Race Results
-
-[2019](http://pfrac.co.uk/wp-content/uploads/2019/05/Hartcliff-2019-Results.pdf)
-[2018](http://pfrac.co.uk/wp-content/uploads/2018/04/Hartcliff-2018-Results.pdf)
-[2017](http://pfrac.co.uk/wp-content/uploads/2017/04/Hartcliff-2017-Results.pdf)
-[2016](http://pfrac.co.uk/wp-content/uploads/2016/04/Hartcliff-2016-Results.pdf)
-[2015](http://pfrac.co.uk/wp-content/uploads/2015/07/Hartcliff-2015-Results.pdf)
-[2013](http://fellrunner.org.uk/results.php?id=1847)
-[2012](http://fellrunner.org.uk/results.php?id=1246)
-[2011](http://fellrunner.org.uk/results.php?id=650)
-[2010](http://fellrunner.org.uk/results/race10/10_hartcliff_hill.html)
-[2009](http://fellrunner.org.uk/results/race09/09_hartcliffe.html)
-[2008](http://fellrunner.org.uk/results/race08/hartcliffe08.txt)
-[2007](http://fellrunner.org.uk/results/race07/hartcliffehill.txt)
-[2006](http://fellrunner.org.uk/results/race06/hartcliffe.txt)
-[2005](http://fellrunner.org.uk/results/race05/hartcliffe.htm)
-
-Races in 2014, 2020 and 2021 were cancelled.
