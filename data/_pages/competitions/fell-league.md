@@ -1,7 +1,9 @@
 ---
 title: Fell League
 order: 20
-results: "Current standings for 2022 are
+results: "### Results
+
+  Current standings for 2022 are
   [here](http://results.pfrac.co.uk/FellLeague2022/Races.html).\r
 
   \r
@@ -13,6 +15,7 @@ results: "Current standings for 2022 are
   [2020](http://results.pfrac.co.uk/FellLeague2020/Races.html);
   [2021](http://results.pfrac.co.uk/FellLeague2021/Races.html)"
 ---
+### About the fell league
 Following interruptions through 2020 and 2021 due to the pandemic, the 2022 Fell League is back to the original format, ie including all FRA-licenced fell races.
 
 
