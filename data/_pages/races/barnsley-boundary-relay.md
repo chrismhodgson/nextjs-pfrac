@@ -7,6 +7,21 @@ order: 10
 distance: Approximately 72/115km miles with 7,350ft//2,240m of ascent, over 10 legs
 entry: Contact Race Organiser for entry form.
 registration: See below
+results: >-
+  ### Previous Race Results
+
+
+  [2021](http://pfrac.co.uk/wp-content/uploads/2021/06/BoundaryResults2021.pdf)
+
+  [2019](http://pfrac.co.uk/wp-content/uploads/2019/06/BBR-Results-2019.pdf)
+
+  [2018](http://pfrac.co.uk/wp-content/uploads/2018/06/BBR-Results-2018.pdf)
+
+  [2017](http://pfrac.co.uk/wp-content/uploads/2017/06/BBR-Results-2017.pdf)
+
+  [2016](http://pfrac.co.uk/wp-content/uploads/2016/06/BoundaryResults2016.xlsx)
+
+  [2015](http://pfrac.co.uk/wp-content/uploads/2015/06/BoundaryResults2015final.xlsx)
 files:
   - static/uploads/sample.pdf
   - http://results.pfrac.co.uk/BB_gpx_files/BB_Leg_1.gpx
@@ -21,15 +36,6 @@ Entries are welcome from any running clubs, organisations or businesses. Some le
 GPX files and maps are available for all 10 legs below. If you had previously downloaded files from here you are advised to replace them with the current ones: all 10 were checked on the ground in April 2021.
 
 The race is run under a England Athletics licence and minimum ages apply based on the distance of each leg: the minimum age for legs 1, 5, 8 and 10 is 16 and for all other legs is 17.
-
-### Previous Race Results
-
-[2021](http://pfrac.co.uk/wp-content/uploads/2021/06/BoundaryResults2021.pdf)
-[2019](http://pfrac.co.uk/wp-content/uploads/2019/06/BBR-Results-2019.pdf)
-[2018](http://pfrac.co.uk/wp-content/uploads/2018/06/BBR-Results-2018.pdf)
-[2017](http://pfrac.co.uk/wp-content/uploads/2017/06/BBR-Results-2017.pdf)
-[2016](http://pfrac.co.uk/wp-content/uploads/2016/06/BoundaryResults2016.xlsx)
-[2015](http://pfrac.co.uk/wp-content/uploads/2015/06/BoundaryResults2015final.xlsx)
 
 ### The route
 
