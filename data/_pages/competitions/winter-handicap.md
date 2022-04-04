@@ -1,6 +1,39 @@
 ---
 title: Senior Winter Handicap
 order: 40
+results: >-
+  ### Winter Handicap 2021
+
+
+  Final winter handicap result: 1 – Stuart Woodhead; 2 – Suzanne McGill; 3 – Myfanwy Cross
+
+
+  WMA series result: 1 – Barbara Haigh; 2 – Stuart Woodhead; 3 – Suzanne McGill
+
+
+  Fastest lady: Poppy Tovey (33:23); Fastest man: Andrew Heppenstall (27:10)
+
+  ### Past Winter Handicap Results
+
+
+  Results from previous years can be found via the links below:
+
+
+  [2021](http://results.pfrac.co.uk/SeniorWinterHandicap2021/League%20Table.html)
+
+  [2020](http://results.pfrac.co.uk/SeniorWinterHandicap2020/League%20Table.html)
+
+  [2019–20](http://results.pfrac.co.uk/SeniorWinterHandicap2019/League%20Table.html)
+
+  [2018–19](http://results.pfrac.co.uk/SeniorWinterHandicap2018/League%20Table.html)
+
+  [2017–18](http://pfrac.co.uk/wp-content/uploads/2018/01/WH-2017-18-Results.pdf)
+
+  [2016–17](http://pfrac.co.uk/wp-content/uploads/2017/02/WH-2016-17-Results.pdf)
+
+  [2015–16](http://pfrac.co.uk/wp-content/uploads/2016/03/WH-2015-16-Final-Results.pdf)
+
+  [2014–15](http://pfrac.co.uk/wp-content/uploads/2015/03/WH-WMA-Final-2015.xlsx)
 ---
 
 ### Winter Handicap 2022
@@ -96,25 +129,4 @@ Guests (non-club members) are welcome to run, but do not qualify for prizes.
 
 Any questions or comments contact Keith Gordon.
 
-### Winter Handicap 2021
 
-Final winter handicap result: 1 – Stuart Woodhead; 2 – Suzanne McGill; 3 – Myfanwy Cross
-
-WMA series result: 1 – Barbara Haigh; 2 – Stuart Woodhead; 3 – Suzanne McGill
-
-Fastest lady: Poppy Tovey (33:23); Fastest man: Andrew Heppenstall (27:10)
-
-Results for all the races and final tables for the series are [here](http://results.pfrac.co.uk/SeniorWinterHandicap2021/League%20Table.html).
-
-### Past Winter Handicap Results
-
-Results from previous years can be found via the links below:
-
-[2021](http://results.pfrac.co.uk/SeniorWinterHandicap2021/League%20Table.html)
-[2020](http://results.pfrac.co.uk/SeniorWinterHandicap2020/League%20Table.html)
-[2019–20](http://results.pfrac.co.uk/SeniorWinterHandicap2019/League%20Table.html)
-[2018–19](http://results.pfrac.co.uk/SeniorWinterHandicap2018/League%20Table.html)
-[2017–18](http://pfrac.co.uk/wp-content/uploads/2018/01/WH-2017-18-Results.pdf)
-[2016–17](http://pfrac.co.uk/wp-content/uploads/2017/02/WH-2016-17-Results.pdf)
-[2015–16](http://pfrac.co.uk/wp-content/uploads/2016/03/WH-2015-16-Final-Results.pdf)
-[2014–15](http://pfrac.co.uk/wp-content/uploads/2015/03/WH-WMA-Final-2015.xlsx)
