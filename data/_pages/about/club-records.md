@@ -6,4 +6,4 @@ The club keeps extensive records for each age group, with certificates awarded a
 
 The records cover all junior, senior and veteran age groups for track and field events, and senior and veteran age groups for road distances and are [here](http://results.pfrac.co.uk/Records/).
 
-There are also records for the junior winter handicap races [DN link to junior winter handicap page].
+There are also records for the junior winter handicap races (DN link to junior winter handicap page).
