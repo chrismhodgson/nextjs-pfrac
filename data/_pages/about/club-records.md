@@ -1,6 +1,9 @@
 ---
-title: 'Club Records'
+title: Club Records
 order: 80
 ---
+The club keeps extensive records for each age group, with certificates awarded at the annual presentation evening for records broken during the previous year.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in elementum dui. Etiam ut scelerisque odio. Curabitur id neque urna. Proin tincidunt metus vitae euismod feugiat. Pellentesque rutrum nulla sit amet tellus viverra laoreet. Nunc fringilla et dui sit amet ultrices. Quisque eleifend rhoncus nisl, semper fringilla nisi dapibus sed. Vivamus aliquet turpis sed odio vulputate luctus. Fusce aliquet quis tortor in rutrum.
+The records cover all junior, senior and veteran age groups for track and field events, and senior and veteran age groups for road distances and are [here](http://results.pfrac.co.uk/Records/).
+
+There are also records for the junior winter handicap races [DN link to junior winter handicap page].
