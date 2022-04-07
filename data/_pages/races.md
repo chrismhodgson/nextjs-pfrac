@@ -1,5 +1,9 @@
 ---
-title: 'Races'
+title: Races
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in elementum dui. Etiam ut scelerisque odio. Curabitur id neque urna. Proin tincidunt metus vitae euismod feugiat. Pellentesque rutrum nulla sit amet tellus viverra laoreet. Nunc fringilla et dui sit amet ultrices. Quisque eleifend rhoncus nisl, semper fringilla nisi dapibus sed. Vivamus aliquet turpis sed odio vulputate luctus. Fusce aliquet quis tortor in rutrum.
+The club organises several races each year, either standalone races or parts of series.  These are listed on the left or (external links) below.
+- [Oughtibridge Chase](https://www.oughtibridgegala.org/the-tom-holmes-gala-chase)
+- [The Trunce](http://www.trunce.org/)
+- [South Yorkshire Road League](https://www.sycaa.org.uk/road/)
+- [South Yorkshire Cross Country League](https://www.sycaa.org.uk/cross-country/)
+- [Northern Athletics Track and Field League]link to Track and Field page
