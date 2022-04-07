@@ -1,5 +1,16 @@
 ---
 title: About
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in elementum dui. Etiam ut scelerisque odio. Curabitur id neque urna. Proin tincidunt metus vitae euismod feugiat. Pellentesque rutrum nulla sit amet tellus viverra laoreet. Nunc fringilla et dui sit amet ultrices. Quisque eleifend rhoncus nisl, semper fringilla nisi dapibus sed. Vivamus aliquet turpis sed odio vulputate luctus. Fusce aliquet quis tortor in rutrum.
+Penistone Footpath Runners & Athletics Club is a thriving club based in the market town of Penistone, on the edge of the Peak District in South Yorkshire.
+We cater for all sorts of runners:
+- Beginners - people wanting to get fit and improve their mental and physical health
+- Juniors - from the age of 8 to 17
+- Adults of all ages and abilities
+We meet formally twice a week on Tuesday and Thursday evenings, but there are lots of informal and ad hoc meetings throughout the week, organised through social network groups.
+For those that want to compete, we are affiliated to [England Athletics](https://www.englandathletics.org/clubs-and-facilities/) and the [Fell Runners Association](https://www.fellrunner.org.uk/) and members can enter all types of events, from local races to national championships:
+- Road
+- Fell
+- Cross country
+- Trail
+- Track and field
+- Relays
