@@ -1,7 +1,7 @@
 ---
 title: About the club
 ---
-Penistone Footpath Runners & Athletics Club is a thriving club based in the market town of Penistone, on the edge of the Peak District in South Yorkshire.
+Penistone Footpath Runners & Athletics Club is a thriving club based in the market town of Penistone, on the edge of the Peak District in South Yorkshire. For a history of the club see the link on the left [DN need to add]
 We cater for all sorts of runners:
 - Beginners - people wanting to get fit and improve their mental and physical health
 - Juniors - from the age of 8 to 17
