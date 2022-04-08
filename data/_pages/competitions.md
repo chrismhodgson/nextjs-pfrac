@@ -1,7 +1,7 @@
 ---
 title: Members' Area
 ---
-This section contains a wide range of information for club members.  It includes:
+This section contains information for club members.  It includes:
 - Club competitions
 - Club records
 - Kit
