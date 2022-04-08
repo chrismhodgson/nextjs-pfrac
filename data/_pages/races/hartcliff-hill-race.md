@@ -1,7 +1,7 @@
 ---
 title: Hartcliff Hill Race
 category: Fell
-start_date_time: 19:30; 21 April 2022
+start_date_time: TBC
 distance: 2½ miles/4km with 492ft/150m of ascent
 strava_url: https://www.strava.com/segments/9332504/embed
 entry: |-
