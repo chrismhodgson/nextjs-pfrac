@@ -1,14 +1,7 @@
 ---
 title: Fell League
 order: 20
-results: >-
-  ### Results
-
-
-  Current standings for 2022 are [here](http://results.pfrac.co.uk/FellLeague2022/Races.html).
-
-
-  Final standings for previous years: [2017](http://pfrac.co.uk/wp-content/uploads/2018/01/Fell-League-2017-Results.pdf); [2018](http://results.pfrac.co.uk/FellLeague2018/Races.html); [2019](http://results.pfrac.co.uk/FellLeague2019/Races.html); [2020](http://results.pfrac.co.uk/FellLeague2020/Races.html); [2021](http://results.pfrac.co.uk/FellLeague2021/Races.html)
+results: " x"
 ---
 ### About the fell league
 
@@ -31,5 +24,11 @@ All members who are first claim Penistone for fell races will be included. Any m
 ### Qualifying races
 
 All qualifying races are listed in the [FRA fixtures calendar](http://fellrunner.org.uk/races.php) on the FRA website. Qualifying races are those registered with the FRA, which includes most of those listed in the calendar - on each race page, if the title of the race is followed by (R) it is an FRA registered race and it will count towards our championship. (Some other races are listed in the FRA calendar for information but are not FRA registered races). Senior races are those with no upper age limit: juniors running in senior races (where permitted) will be included in the League.
+
+### Results
+
+Current standings for 2022 are [here](http://results.pfrac.co.uk/FellLeague2022/Races.html).
+
+Final standings for previous years: [2017](http://pfrac.co.uk/wp-content/uploads/2018/01/Fell-League-2017-Results.pdf); [2018](http://results.pfrac.co.uk/FellLeague2018/Races.html); [2019](http://results.pfrac.co.uk/FellLeague2019/Races.html); [2020](http://results.pfrac.co.uk/FellLeague2020/Races.html); [2021](http://results.pfrac.co.uk/FellLeague2021/Races.html)
 
 Get fell running!
