@@ -49,7 +49,6 @@ Your age group for the Championship in any year is determined by your age on Jan
 Current standings for 2022 are [here](http://results.pfrac.co.uk/http://results.pfrac.co.uk/Championship2022/Challenge.html).
 
 Final standings for previous years:
-
 [2004](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2004-Results.xlsx)
 [2005](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2005-Results.xlsx)
 [2006](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2006-Results.xlsx)
