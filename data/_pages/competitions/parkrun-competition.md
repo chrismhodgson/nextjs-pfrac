@@ -36,13 +36,9 @@ You earn points based on the following:
 
 **Bonus Points for PB:** if you get a course PB then you get 3 points (first time appearance does not count, you need to have done at least two at same venue for a PB to count).
 
-| Age grading | 70+ | 65+ | 60+ | 55+ |
-| - | - | - | - | - |
-| Points | 6 | 5 | 4 | 3 |
-
-| Category position | 1st | 2nd | 3rd | 4–5 |
-| - | - | - | - | - |
-| Points | 6 | 5 | 4 | 3 |
+| Age grading | 70+ |
+| - | - |
+| Points | 6 |
 
 You will score points as above at the six set parkruns (your best points haul from each will count) and from three additional wildcard parkruns during the year (again, the three that score highest points).
 
