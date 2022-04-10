@@ -7,11 +7,36 @@ The parkrun competition, started in 2017, was disrupted in 2020 and 2021 due to
 
 There will be six _set parkruns_: Barnsley, Brighouse, Cusworth Hall, Graves, Hyde and Penistone. You don't have to do all these to qualify for the competition, but your best result of the year (the one that gets you most points - see scoring below) from each one will count.  These have been chosen as our two local runs, plus one less common one for PFR runners in each direction (N, E, S and W): all just about within 20 miles of Penistone.
 
+
+
 You will get three _wildcards_: out of all the UK parkruns you do (excluding the six set parkruns), the three that score you the most points will be counted. Limiting it to UK parkruns only is necessary because the formatting of results on the parkrun sites for some other countries is inconsistent, so including them would be a huge amount of work and it is clearer just to exclude all overseas parkruns.  The highest-scoring parkruns are chosen automatically.
+
+
 
 
 
 You will get one _tourist point_ for each different event (ie different location) you run during the year. This includes the set parkruns and the points will be added automatically.
 
 There have, in the past, been points for volunteering. However, parkrun have restructured their results pages and are no longer providing information on how many times parkrunners have volunteered each year - only totals - so this has had to be dropped. However, members are strongly encouraged to keep volunteering anyway, as parkrun is totally dependent on volunteers.
+
+### Results
+
+[2022](http://results.pfrac.co.uk/parkrun2022/Overall.html)
+
+[2021](http://results.pfrac.co.uk/parkrun2021/Overall.html)
+[2020](http://results.pfrac.co.uk/parkrun2020/Overall.html)
+[2019](http://results.pfrac.co.uk/parkrun2019/Overall.html)
+[2018](http://results.pfrac.co.uk/parkrun2018/Overall.html)
+[2017](http://results.pfrac.co.uk/parkrun2017/Overall.html)
+
+
+
+### Scoring
+
+
+
+You earn points based on the following:
+
+
+
 
