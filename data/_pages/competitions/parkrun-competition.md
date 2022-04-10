@@ -27,9 +27,9 @@ You earn points based on the following:
 | - | - | - | - | - | - |
 | Points | 6 | 5 | 4 | 3 | 2 |
 
-| Category position | 1st | 2nd | 3rd | 4–5 |
-| - | - | - | - | - |
-| Points | 6 | 5 | 4 | 3 |
+| Category position | 1st | 2nd | 3rd | 4–5 | 6–10 |
+| - | - | - | - | - | - |
+| Points | 6 | 5 | 4 | 3 | 2 |
 
 You will score points as above at the six set parkruns (your best points haul from each will count) and from three additional wildcard parkruns during the year (again, the three that score highest points).
 
