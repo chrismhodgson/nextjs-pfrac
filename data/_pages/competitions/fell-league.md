@@ -1,7 +1,7 @@
 ---
 title: Fell League
 order: 20
-results: " x"
+results: " "
 ---
 ### About the fell league
 
