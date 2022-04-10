@@ -1,6 +1,7 @@
 ---
 title: Club Championship
 order: 10
+results: " "
 ---
 
 ### The 2022 Club Championship
@@ -43,19 +44,21 @@ Your age group for the Championship in any year is determined by your age on Jan
 - A special prize, and title of Challenge Champion will be given to the runner who acquires the most points from all qualifying events.
 - Run as many or as few races as you want but you must compete in the correct number of races to win an award.
 
-### Past Championship Results
+### Results
 
-Results from previous years can be found via the links below:
+Current standings for 2022 are [here](http://results.pfrac.co.uk/http://results.pfrac.co.uk/Championship2022/Challenge.html).
 
-[2018 onwards](http://results.pfrac.co.uk)
-[2017](http://pfrac.co.uk/wp-content/uploads/2017/12/Championship-2017-Results.pdf)
-[2016](http://pfrac.co.uk/wp-content/uploads/2016/12/Championship-2016-Results.pdf)
-[2015](http://pfrac.co.uk/wp-content/uploads/2015/12/Championship-2015-Final-Results.pdf)
-[2014](http://pfrac.co.uk/wp-content/uploads/2014/12/PFR-championship-2014-final.pdf)
-[2013](http://pfrac.co.uk/docs/champs/PFR%20championship%202013%20Final%20Results.pdf)
-[2012](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2012-Results.pdf)
-[2011](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2011-Results.pdf)
-[2007](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2007-Results.xlsx)
-[2006](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2006-Results.xlsx)
-[2005](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2005-Results.xlsx)
+Final standings for previous years:
+
 [2004](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2004-Results.xlsx)
+[2005](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2005-Results.xlsx)
+[2006](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2006-Results.xlsx)
+[2007](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2007-Results.xlsx)
+[2011](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2011-Results.pdf)
+[2012](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2012-Results.pdf)
+[2013](http://pfrac.co.uk/docs/champs/PFR%20championship%202013%20Final%20Results.pdf)
+[2014](http://pfrac.co.uk/wp-content/uploads/2014/12/PFR-championship-2014-final.pdf)
+[2015](http://pfrac.co.uk/wp-content/uploads/2015/12/Championship-2015-Final-Results.pdf)
+[2016](http://pfrac.co.uk/wp-content/uploads/2016/12/Championship-2016-Results.pdf)
+[2017](http://pfrac.co.uk/wp-content/uploads/2017/12/Championship-2017-Results.pdf)
+[2018 onwards](http://results.pfrac.co.uk)
