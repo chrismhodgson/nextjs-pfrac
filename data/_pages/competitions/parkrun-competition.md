@@ -64,4 +64,4 @@ You will score points as above at the six set parkruns (your best points haul fr
 
 
 
-All members will be included as long as they have Penistone Footpath Runners registered with parkrun as their club. To add Penistone as your club click on "manage my profile" in any of your results emails from parkrun, and then use the "update" link on the My Links page.
+All members will be included as long as they have Penistone Footpath Runners registered with parkrun as their club. To add Penistone as your club click on "manage my profile" in any of your results emails from parkrun, and then use the "update" link on the _My Links_ page.
