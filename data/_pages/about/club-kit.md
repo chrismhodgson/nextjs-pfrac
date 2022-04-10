@@ -11,7 +11,7 @@ Please contact Jemma Williams (contact details at the bottom of this page) to en
 
 ### Current club kit
 
-Click on links for images.
+Click on images to expand.
 
 | Kit | Sizes | Price | Image |
 | - | - | - | - |
