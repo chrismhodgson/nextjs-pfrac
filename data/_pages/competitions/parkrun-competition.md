@@ -17,14 +17,18 @@ There have, in the past, been points for volunteering. However, parkrun have res
 
 
 
-[2022](http://results.pfrac.co.uk/parkrun2022/Overall.html)
+Current standings for 2022 are [here](http://results.pfrac.co.uk/parkrun2022/Overall.html)
 
 
-[2021](http://results.pfrac.co.uk/parkrun2021/Overall.html)
-[2020](http://results.pfrac.co.uk/parkrun2020/Overall.html)
-[2019](http://results.pfrac.co.uk/parkrun2019/Overall.html)
-[2018](http://results.pfrac.co.uk/parkrun2018/Overall.html)
+Final standings for previous years: 
 [2017](http://results.pfrac.co.uk/parkrun2017/Overall.html)
+[2018](http://results.pfrac.co.uk/parkrun2018/Overall.html)
+
+
+[2019](http://results.pfrac.co.uk/parkrun2019/Overall.html)
+
+[2020](http://results.pfrac.co.uk/parkrun2020/Overall.html)
+[2021](http://results.pfrac.co.uk/parkrun2021/Overall.html)
 
 
 
