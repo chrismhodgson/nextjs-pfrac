@@ -29,6 +29,11 @@ All qualifying races are listed in the [FRA fixtures calendar](http://fellrunner
 
 Current standings for 2022 are [here](http://results.pfrac.co.uk/FellLeague2022/Races.html).
 
-Final standings for previous years: [2017](http://pfrac.co.uk/wp-content/uploads/2018/01/Fell-League-2017-Results.pdf); [2018](http://results.pfrac.co.uk/FellLeague2018/Races.html); [2019](http://results.pfrac.co.uk/FellLeague2019/Races.html); [2020](http://results.pfrac.co.uk/FellLeague2020/Races.html); [2021](http://results.pfrac.co.uk/FellLeague2021/Races.html)
+Final standings for previous years: 
+[2017](http://pfrac.co.uk/wp-content/uploads/2018/01/Fell-League-2017-Results.pdf)
+[2018](http://results.pfrac.co.uk/FellLeague2018/Races.html)
+[2019](http://results.pfrac.co.uk/FellLeague2019/Races.html)
+[2020](http://results.pfrac.co.uk/FellLeague2020/Races.html)
+[2021](http://results.pfrac.co.uk/FellLeague2021/Races.html)
 
 Get fell running!
