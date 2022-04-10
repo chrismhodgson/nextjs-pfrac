@@ -23,9 +23,9 @@ You earn points based on the following:
 
 **Bonus Points for PB:** if you get a course PB then you get 3 points (first time appearance does not count, you need to have done at least two at same venue for a PB to count).
 
-| Age grading (%) | 70+ | 65+ | 60+ | 55+ | 50+ |
-| - | - | - | - | - | - |
-| Points | 6 | 5 | 4 | 3 | 2 |
+| Age grading (%) | 70+ | 65+ | 60+ | 55+ | 50+ | <50 |
+| - | - | - | - | - | - | - |
+| Points | 6 | 5 | 4 | 3 | 2 | 1 |
 
 | Category position | 1st | 2nd | 3rd | 4–5 | 6–10 |
 | - | - | - | - | - | - |
