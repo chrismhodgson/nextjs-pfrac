@@ -1,26 +1,18 @@
 ---
 title: Fell League
 order: 20
-results: "### Results
+results: >-
+  ### Results
 
-  Current standings for 2022 are
-  [here](http://results.pfrac.co.uk/FellLeague2022/Races.html).\r
 
-  \r
+  Current standings for 2022 are [here](http://results.pfrac.co.uk/FellLeague2022/Races.html).
 
-  Final standings for previous years:
-  [2017](http://pfrac.co.uk/wp-content/uploads/2018/01/Fell-League-2017-Results\
-  .pdf); [2018](http://results.pfrac.co.uk/FellLeague2018/Races.html);
-  [2019](http://results.pfrac.co.uk/FellLeague2019/Races.html);
-  [2020](http://results.pfrac.co.uk/FellLeague2020/Races.html);
-  [2021](http://results.pfrac.co.uk/FellLeague2021/Races.html)"
+
+  Final standings for previous years: [2017](http://pfrac.co.uk/wp-content/uploads/2018/01/Fell-League-2017-Results.pdf); [2018](http://results.pfrac.co.uk/FellLeague2018/Races.html); [2019](http://results.pfrac.co.uk/FellLeague2019/Races.html); [2020](http://results.pfrac.co.uk/FellLeague2020/Races.html); [2021](http://results.pfrac.co.uk/FellLeague2021/Races.html)
 ---
 ### About the fell league
+
 Following interruptions through 2020 and 2021 due to the pandemic, the 2022 Fell League is back to the original format, ie including all FRA-licenced fell races.
-
-
-
-
 
 All first claim members' results in all FRA registered senior races count towards the Fell League - you get points for every race, without any limit, and you get more points the faster you run.
 
