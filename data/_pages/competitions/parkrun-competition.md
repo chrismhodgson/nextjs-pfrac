@@ -13,23 +13,6 @@ You will get one _tourist point_ for each different event (ie different location
 
 There have, in the past, been points for volunteering. However, parkrun have restructured their results pages and are no longer providing information on how many times parkrunners have volunteered each year, only totals, so this has had to be dropped. However, members are strongly encouraged to keep volunteering anyway, as parkrun is totally dependent on volunteers.
 
-### Results
-
-
-
-Current standings for 2022 are [here](http://results.pfrac.co.uk/parkrun2022/Overall.html)
-
-
-Final standings for previous years: 
-[2017](http://results.pfrac.co.uk/parkrun2017/Overall.html)
-[2018](http://results.pfrac.co.uk/parkrun2018/Overall.html)
-
-
-[2019](http://results.pfrac.co.uk/parkrun2019/Overall.html)
-
-[2020](http://results.pfrac.co.uk/parkrun2020/Overall.html)
-[2021](http://results.pfrac.co.uk/parkrun2021/Overall.html)
-
 
 
 
@@ -53,6 +36,23 @@ You will score points as above at the six set parkruns (your best points haul fr
 ### Qualifying runners
 
 All members will be included as long as they have Penistone Footpath Runners registered with parkrun as their club. To add Penistone as your club click on "manage my profile" in any of your results emails from parkrun, and then use the "update" link on the _My Links_ page.
+
+### Results
+
+
+
+Current standings for 2022 are [here](http://results.pfrac.co.uk/parkrun2022/Overall.html)
+
+
+Final standings for previous years: 
+[2017](http://results.pfrac.co.uk/parkrun2017/Overall.html)
+[2018](http://results.pfrac.co.uk/parkrun2018/Overall.html)
+
+
+[2019](http://results.pfrac.co.uk/parkrun2019/Overall.html)
+
+[2020](http://results.pfrac.co.uk/parkrun2020/Overall.html)
+[2021](http://results.pfrac.co.uk/parkrun2021/Overall.html)
 
 
 
