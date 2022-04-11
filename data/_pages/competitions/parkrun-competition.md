@@ -25,11 +25,11 @@ You earn points based on the following:
 
 | Age grading (%) | 70+ | 65+ | 60+ | 55+ | 50+ | &lt;50 |
 | - | - | - | - | - | - | - |
-| Points |   6 |   5 |   4 |   3 |   2 |   1 |
+| Points | &nbsp;6 | &nbsp;5 | &nbsp;4 | &nbsp;3 | &nbsp;2 | &nbsp;1 |
 
 | Category position | 1st | 2nd | 3rd | 4–5 | 6–10 | 11+ |
 | - | - | - | - | - | - | - |
-| Points |   6 |   5 |   4 |   3 |    2 |  1 |
+| Points | &nbsp;6 | &nbsp;5 | &nbsp;4 | &nbsp;3 | &nbsp;&nbsp;2 | &nbsp;1 |
 
 You will score points as above at the six set parkruns (your best points haul from each will count) and from three additional wildcard parkruns during the year (again, the three that score highest points).
 
