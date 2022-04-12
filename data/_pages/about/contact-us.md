@@ -25,14 +25,15 @@ See individual race pages for contact details about races the club organises.
 | Junior Secretary                | [Bob Innes](mailto:janeandbob239@btinternet.com)                                               |
 | Child Protection Officer        | [Dan Limb](mailto:udan2k@hotmail.com)                                                          |
 | Press Secretary                 | [Robin Clough](mailto:robin.clough@dataconsulting.co.uk)                                       |
+| Ordinary Members                | Anne Smythe & Steve Sanders       |
 | Lady Member                     | Sue Higham                                                                                     |
 | Fell Running Secretary          | [Ian Charlesworth](mailto:ircy63@gmail.com)                                                    |
 | Fell Relay Secretary            | [Brent Lindsay](mailto:brent.lindsay@btinternet.com)                                           |
 | Road Running & Relay Secretary  | [Malcolm Rose](mailto:malcolmrose.t21@btinternet.com)                                          |
 | Cross Country & Relay Secretary | [Nick Whittingham](mailto:nick.whittingham@btinternet.com)                                     |
 | Track and Field Secretary       | [Shaun Dimelow](mailto:shaundimelow@hotmail.com) & [Paul Fryers](mailto:paul.fryers@gmail.com) |
+| Northern T&F Liaison Officers | [Paul Fryers](mailto:paul.fryers@gmail.com) & [Martyn Cartwright](mailto:martynandpauline@gmail.com) |
 | Club Kit                        | [Jemma Williams](mailto:jemstone1981@hotmail.com)                                              |
 | Club Championship               | [Paul Fryers](mailto:paul.fryers@gmail.com)                                                    |
 | Raffle Tickets                  | Anne Smythe                                                                                    |
-| Development Committee           | Steve Dickinson, Dave Foster, Keith Gordon,                                                    |
-|                                 | Barbara Haigh, Teresa Wall, Nick Whittingham                                                   |
+| Development Committee           | Steve Dickinson, Dave Foster, Keith Gordon, Barbara Haigh, Teresa Wall, Nick Whittingham |
