@@ -1,6 +1,110 @@
 ---
-title: 'Northern Track & Field League'
+title: Northern Track & Field League
 order: 50
+results: " "
 ---
+In 2017, for the first time for many years, the club joined the Northern Track &amp; Field league. Early fixtures in 2017 were poorly attended, but later that year and throughout 2018 and 2019 we fielded much stronger teams as more members discovered how much fun it could be!  We finished 5th overall in division 4EC in 2017 and 2018, and 3rd in 2019. Links to the results for all previous fixtures are at the bottom of this page.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in elementum dui. Etiam ut scelerisque odio. Curabitur id neque urna. Proin tincidunt metus vitae euismod feugiat. Pellentesque rutrum nulla sit amet tellus viverra laoreet. Nunc fringilla et dui sit amet ultrices. Quisque eleifend rhoncus nisl, semper fringilla nisi dapibus sed. Vivamus aliquet turpis sed odio vulputate luctus. Fusce aliquet quis tortor in rutrum.
+The 2020 season was abandoned without a shot being put in anger, due the the COVID-19 pandemic.  The structure of the league was revised for 2021 and we finished 7th in the new East 2 Division, where we remain for 2022. The series consists of four meetings between May and August, the events are paid for by the club and are hence free for all members.
+
+Everyone is welcome to join in and help the club - you don't need to be an expert in an event to get points, but you do need to be there. All members who are first claim Penistone for Track &amp; Field, are in the under 17 age category or above (school year 10 or above) and have paid their England Athletics registration fee are eligible.
+
+Anyone interested in competing, or just wanting more information, should get in touch with [Paul Fryers](mailto: paul.fryers@gmail.com) or [Shaun Dimelow](mailto: shaundimelow@hotmail.com).
+
+The club also really needs members to become qualified track and field officials. We are supposed to provide a number of qualified track and field officials, and have a number of people in the process of qualifying, but still need more. The club will pay for courses, so if you are interested please get in touch with [Paul Fryers](mailto: paul.fryers@gmail.com) or [Martyn Cartwright](mailto: martynandpauline@gmail.com).
+
+### Division East 2 Fixtures 2022
+
+- Saturday 30 April, Cudworth
+- Sunday 12 June, Cudworth
+- Sunday 10 July, Cleckheaton
+- Saturday 6 August, Mansfield
+
+### Events
+
+- *Men:* 100m, 200m, 400m, 800m, 1500m, 5000m, 110m Hurdles, 400m Hurdles, High Jump, Long Jump, Pole Vault, Triple Jump, Discus, Hammer, Shot, Javelin, 4&times;100m relay, 4&times;400m relay, 3000m Steeplechase, Non Scoring 100m
+- *Women:* 100m, 200m, 400m, 800m, 1500m, 3000m, 100m Hurdles, 400m Hurdles, High Jump, Long Jump, Pole Vault, Triple Jump, Discus, Hammer, Shot, Javelin, 4&times;100m relay, 4&times;400m relay, Non Scoring 100m
+
+### Timetable
+
+The events start at 11:00 and run until about 18:00 - all four meetings run to exactly the same timetable. What time you need to be there depends on which events you do.
+
+| Time | Events |
+| - | - |
+| 11:30 | Hammer Men, Long Jump Women, Pole Vault Men and Women |
+| 12.30 | Hammer Women |
+| 13.00 | 400m H Women, Long Jump Men |
+| 13.10 | 400m H Men |
+| 13.25 | 800m Women |
+| 13.30 | Discus Men |
+| 13.35 | 800m Men |
+| 13.45 | 100m Women, High Jump Men, Shot Women |
+| 13.55 | 100m Men |
+| 14:00 | Non Scoring 100m (Men and Women), Triple Jump Women |
+| 14.05 | 3000m S/C Men |
+| 14:25 | 100mH Women |
+| 14.30 | Discus Women |
+| 14.35 | 3000m Women |
+| 14.55 | 110m H Men |
+| 15.05 | 400m Women, Shot Men |
+| 15.15 | 400m Men |
+| 15.20 | 1500m Men, Javelin Men, High Jump Women |
+| 15.35 | 1500m Women, Triple Jump Men |
+| 15.45 | 200m Women |
+| 15.55 | 200m Men |
+| 16.05 | 5000m Men |
+| 16.10 | Javelin Women |
+| 16.30 | 4&times;100m Women |
+| 16.40 | 4&times;100m Men |
+| 16.50 | 4&times;400m Women |
+| 17.00 | 4&times;400m Men |
+
+### Notes
+
+- An under 20 athlete (over 17) may only compete in a maximum of 5 events
+- A senior athlete may compete in a maximum of 7 events
+- An under 17 (school years 10 &amp; 11) athlete can only compete in a maximum of 4 events and, if so doing, one must be a relay. In addition, U17 men shall not be allowed to compete in the 3000m steeplechase, 5000m, 110m hurdles, Hammer, Discus or Shot.
+
+
+### East 2 Division Clubs
+
+- Barnsley AC
+- Bradford Airedale AC
+- Halifax Harriers
+- Longwood Harriers &amp; AC
+- Mansfield Harriers
+- Penistone Footpath Runners &amp; AC
+- Pontefract AC
+- Worksop Harriers &amp; AC
+
+
+### Results
+
+*2021:*
+[Cleckheaton, 22 May](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-1-results.pdf)
+[Newark, 19 June](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-2-results.pdf)
+[Newark, 4 July](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-3-results.pdf)
+[Newark, 1 August](http://pfrac.co.uk/wp-content/uploads/2022/02/2021-NA-Event-4-results.pdf)
+
+*2019:*
+[Grantham, 19 May](http://pfrac.co.uk/wp-content/uploads/2019/06/2019-NA-Event-1-results.pdf)
+[Cleckheaton, 16 June](http://pfrac.co.uk/wp-content/uploads/2019/07/2019-NA-Event-2-results.pdf)
+[Cudworth, 14 July](http://pfrac.co.uk/wp-content/uploads/2019/07/2019-NA-Event-3-results.pdf)
+[Cudworth, 10 August](http://pfrac.co.uk/wp-content/uploads/2020/02/2019-NA-Event-4-results.pdf)
+
+*2018:*
+[Boston, 5 May](http://thepowerof10.info/results/results.aspx?meetingid=234500)
+[Grantham, 3 June](https://thepowerof10.info/results/results.aspx?meetingid=234501)
+[Wakefield, 8 July](http://thepowerof10.info/results/results.aspx?meetingid=234502)
+[Halifax, 4 August](https://thepowerof10.info/results/results.aspx?meetingid=234503)
+
+*2017:*
+[Grimsby, 6 May](http://thepowerof10.info/results/results.aspx?meetingid=189129)
+[Grantham, 4 June](http://thepowerof10.info/results/results.aspx?meetingid=189127)
+[Grimsby, 9 July](http://thepowerof10.info/results/results.aspx?meetingid=189128)
+[Wakefield, 5 August](http://thepowerof10.info/results/results.aspx?meetingid=189130)
+
+
+### Club Records
+
+The club keeps records for each event for each age group - records broken are recognised with a certificate at the annual club presentation evening.  Current club records are [here](http://results.pfrac.co.uk/Records/).
