@@ -11,7 +11,7 @@ The 2020 season was abandoned without a shot being put in anger, due the the COV
 
 
 
-Everyone is welcome to join in and help the club - you don't need to be an expert in an event to get points, but you do need to be there. All members who are first claim Penistone for Track &amp; Field, are in the under 17 age category or above (school year 10 or above) and have paid their England Athletics registration fee are eligible.
+Everyone is welcome to join in and help the club &ndash; you don't need to be an expert in an event to get points, but you do need to be there. All members who are first claim Penistone for Track &amp; Field, are in the under 17 age category or above (school year 10 or above) and have paid their England Athletics registration fee are eligible.
 
 
 
@@ -47,7 +47,7 @@ The club also really needs members to become qualified track and field officials
 
 
 
-The events start at 11:00 and run until about 18:00 - all four meetings run to exactly the same timetable. What time you need to be there depends on which events you do.
+The events start at 11:00 and run until about 18:00 &ndash; all four meetings run to exactly the same timetable. What time you need to be there depends on which events you do.
 
 
 
