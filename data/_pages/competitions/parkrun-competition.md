@@ -3,6 +3,8 @@ title: parkrun Competition
 order: 30
 results: "\n"
 ---
+### The 2022 parkrun Competition
+
 The parkrun competition, started in 2017, was disrupted in 2020 and 2021 due to Covid-19, but we hope for a complete year in 2022 and return to roughly the same format as before the pandemic.
 
 There will be six _set parkruns_: [Barnsley](https://www.parkrun.org.uk/barnsley/), [Brighouse](https://www.parkrun.org.uk/brighouse/), [Cusworth Hall](https://www.parkrun.org.uk/cusworthhall/), [Graves](https://www.parkrun.org.uk/graves/), [Hyde](https://www.parkrun.org.uk/hyde/) and [Penistone](https://www.parkrun.org.uk/penistone/). You don't have to do all these to qualify for the competition, but your best result of the year (the one that gets you most points – see scoring below) from each one will count.  These have been chosen as our two local runs, plus one less common one for PFR runners in each direction (N, E, S and W): all just about within 20 miles of Penistone.
@@ -16,6 +18,20 @@ There have, in the past, been points for volunteering. However, parkrun have res
 
 
 
+
+### Results
+
+
+
+Current standings for 2022 are [here](http://results.pfrac.co.uk/parkrun2022/Overall.html)
+
+
+Final standings for previous years: 
+[2017](http://results.pfrac.co.uk/parkrun2017/Overall.html)
+[2018](http://results.pfrac.co.uk/parkrun2018/Overall.html)
+[2019](http://results.pfrac.co.uk/parkrun2019/Overall.html)
+[2020](http://results.pfrac.co.uk/parkrun2020/Overall.html)
+[2021](http://results.pfrac.co.uk/parkrun2021/Overall.html)
 
 ### Scoring
 
@@ -36,20 +52,6 @@ You will score points as above at the six set parkruns (your best points haul fr
 ### Qualifying runners
 
 All members will be included as long as they have Penistone Footpath Runners registered with parkrun as their club. To add Penistone as your club click on "manage my profile" in any of your results emails from parkrun, and then use the "update" link on the _My Links_ page.
-
-### Results
-
-
-
-Current standings for 2022 are [here](http://results.pfrac.co.uk/parkrun2022/Overall.html)
-
-
-Final standings for previous years: 
-[2017](http://results.pfrac.co.uk/parkrun2017/Overall.html)
-[2018](http://results.pfrac.co.uk/parkrun2018/Overall.html)
-[2019](http://results.pfrac.co.uk/parkrun2019/Overall.html)
-[2020](http://results.pfrac.co.uk/parkrun2020/Overall.html)
-[2021](http://results.pfrac.co.uk/parkrun2021/Overall.html)
 
 
 
