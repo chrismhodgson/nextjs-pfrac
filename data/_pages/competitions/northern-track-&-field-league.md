@@ -115,34 +115,34 @@ The events start at 11:00 and run until about 18:00 - all four meetings run to e
 
 
 **2021:**
-[Cleckheaton, 22 May](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-1-results.pdf)
-[Newark, 19 June](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-2-results.pdf)
-[Newark, 4 July](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-3-results.pdf)
-[Newark, 1 August](http://pfrac.co.uk/wp-content/uploads/2022/02/2021-NA-Event-4-results.pdf)
+[Cleckheaton 22 May](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-1-results.pdf)
+[Newark 19 June](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-2-results.pdf)
+[Newark 4 July](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-3-results.pdf)
+[Newark 1 August](http://pfrac.co.uk/wp-content/uploads/2022/02/2021-NA-Event-4-results.pdf)
 
 
 
 **2019:**
-[Grantham, 19 May](http://pfrac.co.uk/wp-content/uploads/2019/06/2019-NA-Event-1-results.pdf)
-[Cleckheaton, 16 June](http://pfrac.co.uk/wp-content/uploads/2019/07/2019-NA-Event-2-results.pdf)
-[Cudworth, 14 July](http://pfrac.co.uk/wp-content/uploads/2019/07/2019-NA-Event-3-results.pdf)
-[Cudworth, 10 August](http://pfrac.co.uk/wp-content/uploads/2020/02/2019-NA-Event-4-results.pdf)
+[Grantham 19 May](http://pfrac.co.uk/wp-content/uploads/2019/06/2019-NA-Event-1-results.pdf)
+[Cleckheaton 16 June](http://pfrac.co.uk/wp-content/uploads/2019/07/2019-NA-Event-2-results.pdf)
+[Cudworth 14 July](http://pfrac.co.uk/wp-content/uploads/2019/07/2019-NA-Event-3-results.pdf)
+[Cudworth 10 August](http://pfrac.co.uk/wp-content/uploads/2020/02/2019-NA-Event-4-results.pdf)
 
 
 
 **2018:**
-[Boston, 5 May](http://thepowerof10.info/results/results.aspx?meetingid=234500)
-[Grantham, 3 June](https://thepowerof10.info/results/results.aspx?meetingid=234501)
-[Wakefield, 8 July](http://thepowerof10.info/results/results.aspx?meetingid=234502)
-[Halifax, 4 August](https://thepowerof10.info/results/results.aspx?meetingid=234503)
+[Boston 5 May](http://thepowerof10.info/results/results.aspx?meetingid=234500)
+[Grantham 3 June](https://thepowerof10.info/results/results.aspx?meetingid=234501)
+[Wakefield 8 July](http://thepowerof10.info/results/results.aspx?meetingid=234502)
+[Halifax 4 August](https://thepowerof10.info/results/results.aspx?meetingid=234503)
 
 
 
 **2017:**
-[Grimsby, 6 May](http://thepowerof10.info/results/results.aspx?meetingid=189129)
-[Grantham, 4 June](http://thepowerof10.info/results/results.aspx?meetingid=189127)
-[Grimsby, 9 July](http://thepowerof10.info/results/results.aspx?meetingid=189128)
-[Wakefield, 5 August](http://thepowerof10.info/results/results.aspx?meetingid=189130)
+[Grimsby 6 May](http://thepowerof10.info/results/results.aspx?meetingid=189129)
+[Grantham 4 June](http://thepowerof10.info/results/results.aspx?meetingid=189127)
+[Grimsby 9 July](http://thepowerof10.info/results/results.aspx?meetingid=189128)
+[Wakefield 5 August](http://thepowerof10.info/results/results.aspx?meetingid=189130)
 
 
 
@@ -151,4 +151,4 @@ The events start at 11:00 and run until about 18:00 - all four meetings run to e
 
 
 
-The club keeps records for each event for each age group - records broken are recognised with a certificate at the annual club presentation evening.  Current club records are [here](http://results.pfrac.co.uk/Records/).
+The club keeps records for each event for each age group &ndash; records broken are recognised with a certificate at the annual club presentation evening.  Current club records are [here](http://results.pfrac.co.uk/Records/).
