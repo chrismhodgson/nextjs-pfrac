@@ -25,9 +25,9 @@ You earn points based on the following:
 
 | Age grading (%) | 70+ | 65+ | 60+ | 55+ | 50+ | &lt;50 |
 | - | - | - | - | - | - | - |
-| Points | &nbsp;6 | &nbsp;5 | &nbsp;4 | &nbsp;3 | &nbsp;2 | &nbsp;1 |
+| Points | &nbsp;&nbsp;6 | &nbsp;&nbsp;5 | &nbsp;&nbsp;4 | &nbsp;&nbsp;3 | &nbsp;&nbsp;2 | &nbsp;&nbsp;1 |
 
-| Category position | 1st | 2nd | 3rd | 4–5 | 6–10 | 11+ |
+| Category position | 1st&nbsp;&nbsp; | 2nd&nbsp;&nbsp; | 3rd&nbsp;&nbsp; | 4–5&nbsp; | 6–10 | 11+&nbsp;&nbsp; |
 | - | - | - | - | - | - | - |
 | Points | &nbsp;6 | &nbsp;5 | &nbsp;4 | &nbsp;3 | &nbsp;&nbsp;2 | &nbsp;1 |
 
