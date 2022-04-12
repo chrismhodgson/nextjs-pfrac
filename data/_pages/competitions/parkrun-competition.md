@@ -13,7 +13,6 @@ You will get three _wildcards_: out of all the UK parkruns you do (excluding the
 
 You will get one _tourist point_ for each different event (ie different location) you run during the year. This includes the set parkruns and the points will be added automatically.
 
-There have, in the past, been points for volunteering. However, parkrun have restructured their results pages and are no longer providing information on how many times parkrunners have volunteered each year, only totals, so this has had to be dropped. However, members are strongly encouraged to keep volunteering anyway, as parkrun is totally dependent on volunteers.
 
 
 
@@ -48,6 +47,8 @@ You earn points based on the following:
 | Points | &nbsp;&nbsp;6 | &nbsp;&nbsp;5 | &nbsp;&nbsp;4 | &nbsp;&nbsp;3 | &nbsp;&nbsp;&nbsp;2 | &nbsp;1 |
 
 You will score points as above at the six set parkruns (your best points haul from each will count) and from three additional wildcard parkruns during the year (again, the three that score highest points).
+
+There have, in the past, been points for volunteering. However, parkrun have restructured their results pages and are no longer providing information on how many times parkrunners have volunteered each year, only totals, so this has had to be dropped. However, members are strongly encouraged to keep volunteering anyway, as parkrun is totally dependent on volunteers.
 
 ### Qualifying runners
 
