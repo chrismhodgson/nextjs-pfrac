@@ -89,7 +89,7 @@ The events start at 11:00 and run until about 18:00 &ndash; all four meetings ru
 
 - An under 20 athlete (over 17) may only compete in a maximum of 5 events
 - A senior athlete may compete in a maximum of 7 events
-- An under 17 (school years 10 &amp; 11) athlete can only compete in a maximum of 4 events and, if so doing, one must be a relay. In addition, U17 men shall not be allowed to compete in the 3000m steeplechase, 5000m, 110m hurdles, Hammer, Discus or Shot.
+- An under 17 (school years 10 &amp; 11) athlete can only compete in a maximum of 4 events and, if so doing, one must be a relay. In addition, U17 men shall not be allowed to compete in the 3000m steeplechase, 5000m, 110m hurdles, Hammer, Discus or Shot
 
 
 
@@ -151,4 +151,4 @@ The events start at 11:00 and run until about 18:00 &ndash; all four meetings ru
 
 
 
-The club keeps records for each event for each age group &ndash; records broken are recognised with a certificate at the annual club presentation evening.  Current club records are [here](http://results.pfrac.co.uk/Records/).
+The club keeps [records](http://results.pfrac.co.uk/Records/) for each event for each age group. Records broken are recognised with a certificate at the annual club presentation evening.
