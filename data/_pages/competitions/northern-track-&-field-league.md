@@ -115,18 +115,18 @@ The events start at 11:00 and run until about 18:00 &ndash; all four meetings ru
 
 
 **2021:**
-[Cleckheaton 22 May](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-1-results.pdf)
-[Newark 19 June](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-2-results.pdf)
-[Newark 4 July](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-3-results.pdf)
-[Newark 1 August](http://pfrac.co.uk/wp-content/uploads/2022/02/2021-NA-Event-4-results.pdf)
+[Cleckheaton 22 May](https://thepowerof10.info/results/results.aspx?meetingid=415233)
+[Newark 19 June](https://thepowerof10.info/results/results.aspx?meetingid=415234)
+[Newark 4 July](https://thepowerof10.info/results/results.aspx?meetingid=415235)
+[Newark 1 August](https://thepowerof10.info/results/results.aspx?meetingid=415236)
 
 
 
 **2019:**
-[Grantham 19 May](http://pfrac.co.uk/wp-content/uploads/2019/06/2019-NA-Event-1-results.pdf)
-[Cleckheaton 16 June](http://pfrac.co.uk/wp-content/uploads/2019/07/2019-NA-Event-2-results.pdf)
-[Cudworth 14 July](http://pfrac.co.uk/wp-content/uploads/2019/07/2019-NA-Event-3-results.pdf)
-[Cudworth 10 August](http://pfrac.co.uk/wp-content/uploads/2020/02/2019-NA-Event-4-results.pdf)
+[Grantham 19 May](https://thepowerof10.info/results/results.aspx?meetingid=276293)
+[Cleckheaton 16 June](https://thepowerof10.info/results/results.aspx?meetingid=276294)
+[Cudworth 14 July](https://thepowerof10.info/results/results.aspx?meetingid=276295)
+[Cudworth 10 August](https://thepowerof10.info/results/results.aspx?meetingid=276296)
 
 
 
