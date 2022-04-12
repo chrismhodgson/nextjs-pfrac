@@ -38,8 +38,8 @@ The club also really needs members to become qualified track and field officials
 
 
 
-- *Men:* 100m, 200m, 400m, 800m, 1500m, 5000m, 110m Hurdles, 400m Hurdles, High Jump, Long Jump, Pole Vault, Triple Jump, Discus, Hammer, Shot, Javelin, 4&times;100m relay, 4&times;400m relay, 3000m Steeplechase, Non Scoring 100m
-- *Women:* 100m, 200m, 400m, 800m, 1500m, 3000m, 100m Hurdles, 400m Hurdles, High Jump, Long Jump, Pole Vault, Triple Jump, Discus, Hammer, Shot, Javelin, 4&times;100m relay, 4&times;400m relay, Non Scoring 100m
+- **Men:** 100m, 200m, 400m, 800m, 1500m, 5000m, 110m Hurdles, 400m Hurdles, High Jump, Long Jump, Pole Vault, Triple Jump, Discus, Hammer, Shot, Javelin, 4&times;100m relay, 4&times;400m relay, 3000m Steeplechase, Non Scoring 100m
+- **Women:** 100m, 200m, 400m, 800m, 1500m, 3000m, 100m Hurdles, 400m Hurdles, High Jump, Long Jump, Pole Vault, Triple Jump, Discus, Hammer, Shot, Javelin, 4&times;100m relay, 4&times;400m relay, Non Scoring 100m
 
 
 
@@ -114,7 +114,7 @@ The events start at 11:00 and run until about 18:00 - all four meetings run to e
 
 
 
-*2021:*
+**2021:**
 [Cleckheaton, 22 May](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-1-results.pdf)
 [Newark, 19 June](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-2-results.pdf)
 [Newark, 4 July](http://pfrac.co.uk/wp-content/uploads/2021/07/2021-NA-Event-3-results.pdf)
@@ -122,7 +122,7 @@ The events start at 11:00 and run until about 18:00 - all four meetings run to e
 
 
 
-*2019:*
+**2019:**
 [Grantham, 19 May](http://pfrac.co.uk/wp-content/uploads/2019/06/2019-NA-Event-1-results.pdf)
 [Cleckheaton, 16 June](http://pfrac.co.uk/wp-content/uploads/2019/07/2019-NA-Event-2-results.pdf)
 [Cudworth, 14 July](http://pfrac.co.uk/wp-content/uploads/2019/07/2019-NA-Event-3-results.pdf)
@@ -130,7 +130,7 @@ The events start at 11:00 and run until about 18:00 - all four meetings run to e
 
 
 
-*2018:*
+**2018:**
 [Boston, 5 May](http://thepowerof10.info/results/results.aspx?meetingid=234500)
 [Grantham, 3 June](https://thepowerof10.info/results/results.aspx?meetingid=234501)
 [Wakefield, 8 July](http://thepowerof10.info/results/results.aspx?meetingid=234502)
@@ -138,7 +138,7 @@ The events start at 11:00 and run until about 18:00 - all four meetings run to e
 
 
 
-*2017:*
+**2017:**
 [Grimsby, 6 May](http://thepowerof10.info/results/results.aspx?meetingid=189129)
 [Grantham, 4 June](http://thepowerof10.info/results/results.aspx?meetingid=189127)
 [Grimsby, 9 July](http://thepowerof10.info/results/results.aspx?meetingid=189128)
