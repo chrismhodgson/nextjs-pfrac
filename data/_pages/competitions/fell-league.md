@@ -3,7 +3,7 @@ title: Fell League
 order: 20
 results: " "
 ---
-###The 2022 Fell League
+### The 2022 Fell League
 
 Following interruptions through 2020 and 2021 due to the pandemic, the 2022 Fell League is back to the original format, ie including all FRA-licenced fell races.
 
