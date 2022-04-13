@@ -5,20 +5,21 @@ start_date_time: TBC
 distance: "Amble: 7½ miles/12km with 1,500ft/450m of ascent. Revenge: 8.1
   miles/13km with 1,500ft/450m of ascent."
 strava_url: ""
-entry: "Pre-entry fees: £12 for EA registered runners and £14 for non-EA
+entry: >-
+  Pre-entry fees: £12 for EA registered runners and £14 for non-EA
   registered.  Entries on the day if the race limit of 350 is not reached for an
-  additional £2."
+  additional £2.
+
+
+  The race will be run under UK Athletics rules of competition &ndash; Multi-Terrain permit applied for. Minimum age to enter is 17 on the day of the race.
 organiser: "Steve Dickinson: steve@osi.uk.co &ndash; 07850 445613"
 order: 40
-registration: >-
+registration: >+
   Registration and number collection from 09:00 at Rafters Bar, adjoined to the
-  <a
-  href="https://www.google.co.uk/maps/place/The+Waggon+and+Horses/@53.5137647,-1.5925454,20.25z/data=!4m5!3m4!1s0x48797d013fbd74c5:0x326af02de12911a!8m2!3d53.5137731!4d-1.5926072"
-  target="_blank" rel="noopener noreferrer">Waggon &amp; Horses</a>, Oxspring,
-  S36 8YQ.
+  [Waggon &amp;
+  Horses](https://www.google.co.uk/maps/place/The+Waggon+and+Horses/@53.5137647,-1.5925454,20.25z/data=!4m5!3m4!1s0x48797d013fbd74c5:0x326af02de12911a!8m2!3d53.5137731!4d-1.5926072),
+  Oxspring, S36 8YQ.
 
-
-  The race will be run under UK Athletics rules of competition - Multi-Terrain permit applied for. Minimum age to enter is 17 on the day.
 results: >-
   ### Previous Race Results
 
