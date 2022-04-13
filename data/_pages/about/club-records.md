@@ -33,7 +33,7 @@ The club was awarded the prestigious Club Mark award in February 2008. This was 
 
 ### The Club Badge
 
-![logo](https://pfrac.chrishodgson.co.uk/static/uploads/pfr-logo-hq-on-black.gif =250x)
+[<img src="https://pfrac.chrishodgson.co.uk/static/uploads/pfr-logo-hq-on-black.gif" width="250"/>](https://pfrac.chrishodgson.co.uk/static/uploads/pfr-logo-hq-on-black.gif)
 
 
 
