@@ -14,33 +14,36 @@ order: 50
 registration: "From 18:30 at Langsett Barn, S36 4GY (on the A616, 1 mile SE of
   the Flouch Roundabout). Grid ref: SE211005)"
 results: >-
-  [2019](http://pfrac.co.uk/wp-content/uploads/2019/05/Hartcliff-2019-Results.pdf)
+  ### Results
 
-  [2018](http://pfrac.co.uk/wp-content/uploads/2018/04/Hartcliff-2018-Results.pdf)
 
-  [2017](http://pfrac.co.uk/wp-content/uploads/2017/04/Hartcliff-2017-Results.pdf)
-
-  [2016](http://pfrac.co.uk/wp-content/uploads/2016/04/Hartcliff-2016-Results.pdf)
-
-  [2015](http://pfrac.co.uk/wp-content/uploads/2015/07/Hartcliff-2015-Results.pdf)
-
-  [2013](http://fellrunner.org.uk/results.php?id=1847)
-
-  [2012](http://fellrunner.org.uk/results.php?id=1246)
-
-  [2011](http://fellrunner.org.uk/results.php?id=650)
-
-  [2010](http://fellrunner.org.uk/results/race10/10_hartcliff_hill.html)
-
-  [2009](http://fellrunner.org.uk/results/race09/09_hartcliffe.html)
-
-  [2008](http://fellrunner.org.uk/results/race08/hartcliffe08.txt)
-
-  [2007](http://fellrunner.org.uk/results/race07/hartcliffehill.txt)
+  [2005](http://fellrunner.org.uk/results/race05/hartcliffe.htm)
 
   [2006](http://fellrunner.org.uk/results/race06/hartcliffe.txt)
 
-  [2005](http://fellrunner.org.uk/results/race05/hartcliffe.htm)
+  [2007](http://fellrunner.org.uk/results/race07/hartcliffehill.txt)
+
+  [2008](http://fellrunner.org.uk/results/race08/hartcliffe08.txt)
+
+  [2009](http://fellrunner.org.uk/results/race09/09_hartcliffe.html)
+
+  [2010](http://fellrunner.org.uk/results/race10/10_hartcliff_hill.html)
+
+  [2011](http://fellrunner.org.uk/results.php?id=650)
+
+  [2012](http://fellrunner.org.uk/results.php?id=1246)
+
+  [2013](http://fellrunner.org.uk/results.php?id=1847)
+
+  [2015](http://pfrac.co.uk/wp-content/uploads/2015/07/Hartcliff-2015-Results.pdf)
+
+  [2016](http://pfrac.co.uk/wp-content/uploads/2016/04/Hartcliff-2016-Results.pdf)
+
+  [2017](http://pfrac.co.uk/wp-content/uploads/2017/04/Hartcliff-2017-Results.pdf)
+
+  [2018](http://pfrac.co.uk/wp-content/uploads/2018/04/Hartcliff-2018-Results.pdf)
+
+  [2019](http://pfrac.co.uk/wp-content/uploads/2019/05/Hartcliff-2019-Results.pdf)
 
 
   Races in 2014, 2020 and 2021 were cancelled.
