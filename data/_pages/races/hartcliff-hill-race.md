@@ -7,9 +7,8 @@ strava_url: https://www.strava.com/segments/9332504/embed
 entry: |-
   Entry £4.50 on the day for FRA or EA members; £5.50 for non-members.
   Minimum age 12 on the day
-organiser: >
-  Ian Charlesworth –
-  [hartcliffhill.fellrace@gmail.com](hartcliffhill.fellrace@gmail.com)
+organiser: |
+  Ian Charlesworth: hartcliffhill.fellrace@gmail.com
 google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
 order: 50
 registration: "From 18:30 at Langsett Barn, S36 4GY (on the A616, 1 mile SE of
