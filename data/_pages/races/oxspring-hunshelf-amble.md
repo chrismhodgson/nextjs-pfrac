@@ -12,7 +12,7 @@ entry: >-
 
 
   The race will be run under UK Athletics rules of competition &ndash; Multi-Terrain permit applied for. Minimum age to enter is 17 on the day of the race.
-organiser: "Steve Dickinson: steve@osi.uk.co – 07850 445613"
+organiser: "Steve Dickinson: steve@osi.uk.com – 07850 445613"
 order: 40
 registration: >+
   Registration and number collection from 09:00 at Rafters Bar, adjoined to the
