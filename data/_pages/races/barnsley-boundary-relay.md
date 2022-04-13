@@ -7,21 +7,28 @@ order: 10
 distance: Approximately 72/115km miles with 7,350ft//2,240m of ascent, over 10 legs
 entry: Contact Race Organiser for entry form.
 registration: See below
-results: >-
+results: >+
   ### Previous Race Results
 
 
-  [2021](http://pfrac.co.uk/wp-content/uploads/2021/06/BoundaryResults2021.pdf)
-
-  [2019](http://pfrac.co.uk/wp-content/uploads/2019/06/BBR-Results-2019.pdf)
-
-  [2018](http://pfrac.co.uk/wp-content/uploads/2018/06/BBR-Results-2018.pdf)
-
-  [2017](http://pfrac.co.uk/wp-content/uploads/2017/06/BBR-Results-2017.pdf)
+  [2015](http://pfrac.co.uk/wp-content/uploads/2015/06/BoundaryResults2015final.xlsx)
 
   [2016](http://pfrac.co.uk/wp-content/uploads/2016/06/BoundaryResults2016.xlsx)
 
-  [2015](http://pfrac.co.uk/wp-content/uploads/2015/06/BoundaryResults2015final.xlsx)
+  [2017](http://pfrac.co.uk/wp-content/uploads/2017/06/BBR-Results-2017.pdf)
+
+  [2018](http://pfrac.co.uk/wp-content/uploads/2018/06/BBR-Results-2018.pdf)
+
+  [2019](http://pfrac.co.uk/wp-content/uploads/2019/06/BBR-Results-2019.pdf)
+
+  [2021](http://pfrac.co.uk/wp-content/uploads/2021/06/BoundaryResults2021.pdf)
+
+
+  The race in 2020 was cancelled.
+
+
+
+
 files:
   - static/uploads/sample.pdf
   - http://results.pfrac.co.uk/BB_gpx_files/BB_Leg_1.gpx
