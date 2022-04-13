@@ -14,7 +14,7 @@ order: 50
 registration: "From 18:30 at Langsett Barn, S36 4GY (on the A616, 1 mile SE of
   the Flouch Roundabout). Grid ref: SE211005)"
 results: >-
-  ### Results
+  ### Previous Race Results
 
 
   [2005](http://fellrunner.org.uk/results/race05/hartcliffe.htm)
