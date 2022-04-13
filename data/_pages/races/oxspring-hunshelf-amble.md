@@ -16,9 +16,7 @@ organiser: "Steve Dickinson: steve@osi.uk.com – 07850 445613"
 order: 40
 registration: >+
   Registration and number collection from 09:00 at Rafters Bar, adjoined to the
-  [Waggon &amp;
-  Horses](https://www.google.co.uk/maps/place/The+Waggon+and+Horses/@53.5137647,-1.5925454,20.25z/data=!4m5!3m4!1s0x48797d013fbd74c5:0x326af02de12911a!8m2!3d53.5137731!4d-1.5926072),
-  Oxspring, S36 8YQ.
+  Waggon & Horses, Oxspring, S36 8YQ.
 
 results: >-
   ### Previous Race Results
