@@ -30,3 +30,13 @@ During 1996, Steve Lavender launched an Olympic Appeal to raise money for equipm
 After being Club President since the club’s formation, Keith Brown stood down in 1996 to be replaced by the current President, Steve Lavender, who was named in the 2014 Honours List for his work in the non-destructive testing industry. He is also a past president of the Institute for the industry. Recent Chairmen of the club are: Dave Lindop (1994&ndash;1999), Andy Plummer (1999&ndash;2010), Keith Gordon (2010&ndash;2014) and Steve Dickinson (2014 to date).
 
 The club was awarded the prestigious Club Mark award in February 2008. This was a cross-sport quality accreditation for clubs with junior sections and shows the club's commitment to the training and welfare of its young athletes.
+
+### The Club Badge
+
+![logo](https://pfrac.chrishodgson.co.uk/static/uploads/pfr-logo-hq-on-black.gif)
+
+Upon its formation the Club adopted the badge which is the Penistone Coat of Arms. It consists of a shield on which are 6 Martlets &ndash; birds which are used in heraldry to denote a title without foundation, ie a title which is bestowed on someone rather than one which is passed down.
+
+The birds originate from the time of the Crusades. Apparently, the Crusaders thought that swifts had no feet because they always seemed to be flying and never landed. The legend was built from there and in 1392 when Penistone Grammar School was founded, they also adopted the birds as their Coat of Arms. The badge has survived until today along with the school, which is amongst the oldest in the country and still has the motto _Never stop flying_.
+
+
