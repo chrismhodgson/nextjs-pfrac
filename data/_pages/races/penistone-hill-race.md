@@ -33,19 +33,7 @@ results: "### Previous Race Results
 
   [2015
   Team](http://pfrac.co.uk/wp-content/uploads/2015/09/Penistone-Hill-Race-team-\
-  results-2015.pdf)
-
-  \r
-
-  \r
-
-  \r
-
-  \r
-
-  \r
-
-  \r
+  results-2015.pdf)\r
 
   [2016
   Individual](http://pfrac.co.uk/wp-content/uploads/2016/09/Penistone-Hill-Race\
@@ -62,12 +50,6 @@ results: "### Previous Race Results
   [2017
   Team](http://pfrac.co.uk/wp-content/uploads/2017/09/Penistone-Hill-Race-team-\
   results-2017.pdf)
-
-  \r
-
-  \r
-
-  \r
 
   [2018](http://pfrac.co.uk/wp-content/uploads/2018/10/Penistone-Hill-Race-re\
   sults-2018.pdf)
