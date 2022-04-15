@@ -48,18 +48,18 @@ results: >-
 
   Races in 2014, 2020 and 2021 were cancelled.
 ---
-Hartcliff Hill is a BS category fell race: 2½ miles with 492 feet of ascent. Marked and marshalled course – no navigation or prior experience required. The terrain is rough and can be extremely boggy.
+Hartcliff Hill is a BS category fell race: 2½ miles with 492 feet of ascent. Marked and marshalled course &ndash; no navigation or prior experience required. The terrain is rough and can be extremely boggy.
 
 The race starts and finishes about ¾ mile from Langsett Barn so allow time after registration.
 
-### Course Records (current course – since 2015)
+### Course Records (current course &ndash; since 2015)
 
-Male: Max Wainwright, Dark Peak Fell Runners, 2019 – 15:37
+Male: Max Wainwright, Dark Peak Fell Runners, 2019 &ndash; 15:37
 
-Female: Katie Walshaw, Holmfirth Harriers, 2019 – 17:47
+Female: Katie Walshaw, Holmfirth Harriers, 2019 &ndash; 17:47
 
 ### Records for previous course:
 
-Male: Stuart Bond, Tommy's Fell Stars, 2009 – 14:54
+Male: Stuart Bond, Tommy's Fell Stars, 2009 &ndash; 14:54
 
-Female: N White, Bingley Harriers & AC, 2006 – 17:19
+Female: N White, Bingley Harriers & AC, 2006 &ndash; 17:19
