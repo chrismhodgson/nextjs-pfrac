@@ -17,8 +17,11 @@ order: 30
 registration: The race starts and finishes at the [Thurlstone Football
   Club](https://www.google.co.uk/maps/place/THURLSTONE+FOOTBALL+CLUB/@53.5280495,-1.6571955,16.25z/data=!4m5!3m4!1s0x487bd7dfc2a74a0d:0x5788c72b004d0bcb!8m2!3d53.528038!4d-1.6591823),
   High Bank Lane, Thurlstone. Grid ref SE226036. Nearest postcode is S36 9PS.
-results: "[2003](http://pfrac.co.uk/wp-content/uploads/2014/10/Thurlstone-Chase\
-  -2003.pdf)
+results: "### Previous Race Results
+
+
+  [2003](http://pfrac.co.uk/wp-content/uploads/2014/10/Thurlstone-Chase-2003.\
+  pdf)
 
   [2004](http://pfrac.co.uk/wp-content/uploads/2014/10/Thurlstone-Chase-2004.\
   pdf)
@@ -81,7 +84,10 @@ results: "[2003](http://pfrac.co.uk/wp-content/uploads/2014/10/Thurlstone-Chase\
 
   \r
 
-  \r\n"
+  \r
+
+
+  The races in 2008 and 2020 were cancelled."
 ---
 The Thurlstone Chase is a BS category fell race, run under licence from the Fell Runners Association.
 
