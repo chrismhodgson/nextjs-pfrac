@@ -1,7 +1,7 @@
 ---
 title: Oxspring Hunshelf Amble
 category: Trail
-start_date_time: TBC
+start_date_time: Amble cancelled for 2022 - Revenge Date TBC
 distance: "Amble: 7½ miles/12km with 1,500ft/450m of ascent. Revenge: 8.1
   miles/13km with 1,500ft/450m of ascent."
 strava_url: ""
