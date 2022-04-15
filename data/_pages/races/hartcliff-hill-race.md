@@ -62,4 +62,4 @@ Female: Katie Walshaw, Holmfirth Harriers, 2019 – 17:47
 
 Male: Stuart Bond, Tommy's Fell Stars, 2009 – 14:54
 
-Female: N White, Bingley, 2006 – 17:19
+Female: N White, Bingley Harriers & AC, 2006 – 17:19
