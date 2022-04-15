@@ -79,5 +79,5 @@ If anyone finds any errors in the GPX files, please contact [Paul Fryers](mailto
 
 ### Course records
 
-Men: Barnsley AC???
-Women: ???
+Male: Barnsley AC???
+Female: ???
