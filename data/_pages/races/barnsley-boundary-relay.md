@@ -76,3 +76,8 @@ The links below give maps and GPX files for each leg. The GPX files can be downl
 |     Start: HD8 8UE / SE 22927 07366   |                 [Map](http://pfrac.co.uk/wp-content/uploads/2021/04/BB_Leg_10.jpg) |                 [GPX](http://results.pfrac.co.uk/BB_gpx_files/BB_Leg_10.gpx) |
 
 If anyone finds any errors in the GPX files, please contact [Paul Fryers](mailto:paul.fryers@gmail.com).
+
+### Course records
+
+Men: Barnsley AC???
+Women: ???
