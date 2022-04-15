@@ -77,23 +77,23 @@ The race has chip timing, and there is a gift for all entrants.
 
 ### Course records
 
-#### Oxspring Hunshelf Amble (2014-18 course)
+#### Oxspring Hunshelf Amble
 
-Male: Andy Swift, 2014 - 50'07"
+Male: Andy Swift, Penistone Footpath Runners & AC, 2014 &ndash; 50'07"
 
-Female: Helen Pickford, 2014 - 61'12"
+Female: Helen Pickford, Sheffield Running Club, 2014 &ndash; 61'12"
 
 #### Amble's Revenge (2019 onwards)
 
-Male: Scott Hinchcliffe, 2019 - 50'35"
+Male: Scott Hinchcliffe, Penistone Footpath Runners & AC, 2019 &ndash; 50'35"
 
-Female: Sam Shaw, 2019 - 62'01"
+Female: Sam Shaw, Penistone Footpath Runners & AC,2019 &ndash; 62'01"
 
-#### Amble's Revenge (2016-18 course)
+#### Amble's Revenge (2016&ndash;18 course)
 
-Male: Scott Hinchcliffe, 2018 - 50'21"
+Male: Scott Hinchcliffe, Penistone Footpath Runners & AC, 2018 &ndash; 50'21"
 
-Female: Zanthe Wray, 2017 - 58'37"
+Female: Zanthe Wray, Dark Peak Fell Runners, 2017 &ndash; 58'37"
 
 ### Race maps
 
