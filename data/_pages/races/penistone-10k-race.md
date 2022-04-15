@@ -77,5 +77,6 @@ results: "### Previous Race Results
 
   The races in 2020 and 2021 were cancelled."
 ---
+The Penistone 10K (formerly the Penistone Show 10K) was established over 30 years ago. It is run under UK Athletics rules of competition on roads and the Trans-Pennine Trail (asphalt surface) around Penistone. [![Bill Reynolds Memorial Trophy Logo](public/static/uploads/bill-reynolds-logo-2017.jpg)](public/static/uploads/bill-reynolds-logo-2017.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in elementum dui. Etiam ut scelerisque odio. Curabitur id neque urna. Proin tincidunt metus vitae euismod feugiat. Pellentesque rutrum nulla sit amet tellus viverra laoreet. Nunc fringilla et dui sit amet ultrices. Quisque eleifend rhoncus nisl, semper fringilla nisi dapibus sed. Vivamus aliquet turpis sed odio vulputate luctus. Fusce aliquet quis tortor in rutrum.
+
