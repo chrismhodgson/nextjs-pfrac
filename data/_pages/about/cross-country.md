@@ -1,6 +1,7 @@
 ---
-title: 'Cross Country'
+title: Cross Country
 order: 60
 ---
+The cross country season runs over the autumn/winter, and many club members, juniors and seniors, take part in the [South Yorkshire Cross Country League](https://www.sycaa.org.uk/cross-country/) each year (normally four races between September and December).  The club often organises one of the races using the Penistone Showground.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in elementum dui. Etiam ut scelerisque odio. Curabitur id neque urna. Proin tincidunt metus vitae euismod feugiat. Pellentesque rutrum nulla sit amet tellus viverra laoreet. Nunc fringilla et dui sit amet ultrices. Quisque eleifend rhoncus nisl, semper fringilla nisi dapibus sed. Vivamus aliquet turpis sed odio vulputate luctus. Fusce aliquet quis tortor in rutrum.
+Anyone who is interested can also enter the [Yorkshire](https://www.northernathletics.co.uk/news/yorkshire-news-page/) and [English](https://www.englishcrosscountry.co.uk/) cross country championships.
