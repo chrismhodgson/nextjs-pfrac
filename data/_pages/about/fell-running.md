@@ -9,11 +9,9 @@ Off-road running is a big part of the club, with options on Tuesdays and Thursda
 - We have a [Fell League](https://pfrac.chrishodgson.co.uk/competitions/fell-league) in which members accumulate points from all the fell races they compete in during the year, and prizes are awarded overall and in each age group.
 
 
-### English Championships
+### English Champions
 
-Members of the club compete in the English and British Fell Championships, and enter teams each year into the British Fell Relay Championships and Hodgson Brothers Mountain Relay.  Juniors can enter county and national championships.
-
-Three club members have been English Champions:
+Many members, junior and senior, compete at all different levels, mostly there to take part, enjoying pushing themselves and/or the sociable nature of fell racing, but we have had a few very successful runners, three of which have been English Fell Champions:
 - 1986: Dave Cartwright, MV40
 - 2012: Barbara Haigh: FV65
 - 2021: Julie Darigala: FV45 and FV50
