@@ -15,6 +15,6 @@ Off-road running is a big part of the club, with options on Tuesdays and Thursda
 Members of the club compete in the English and British Fell Championships, and enter teams each year into the British Fell Relay Championships and Hodgson Brothers Mountain Relay.  Juniors can enter county and national championships.
 
 Three club members have been English Champions:
-- Dave Cartwright, MV40, 1986
-- Barbara Haigh: FV65, 2012
-- Julie Darigala: FV45 and FV50, 2021
+- 1986: Dave Cartwright, MV40
+- 2012: Barbara Haigh: FV65
+- 2021: Julie Darigala: FV45 and FV50
