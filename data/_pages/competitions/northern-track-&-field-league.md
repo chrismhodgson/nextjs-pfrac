@@ -15,11 +15,11 @@ Everyone is welcome to join in and help the club &ndash; you don't need to be an
 
 
 
-Anyone interested in competing, or just wanting more information, should get in touch with [Paul Fryers](mailto: paul.fryers@gmail.com) or [Shaun Dimelow](mailto: shaundimelow@hotmail.com).
+Anyone interested in competing, or just wanting more information, should get in touch with [Paul Fryers](mailto:paul.fryers@gmail.com) or [Shaun Dimelow](mailto:shaundimelow@hotmail.com).
 
 
 
-The club also really needs members to become qualified track and field officials. We are supposed to provide a number of qualified track and field officials, and have a number of people in the process of qualifying, but still need more. The club will pay for courses, so if you are interested please get in touch with [Paul Fryers](mailto: paul.fryers@gmail.com) or [Martyn Cartwright](mailto: martynandpauline@gmail.com).
+The club also really needs members to become qualified track and field officials. We are supposed to provide a number of qualified track and field officials, and have a number of people in the process of qualifying, but still need more. The club will pay for courses, so if you are interested please get in touch with [Paul Fryers](mailto:paul.fryers@gmail.com) or [Martyn Cartwright](mailto:martynandpauline@gmail.com).
 
 
 
