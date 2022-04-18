@@ -8,4 +8,29 @@ For most juniors, the club is something they attend every Tuesday evening, all y
 
 All the coaches and coaching assistants have up-to-date [DBS](https://www.gov.uk/government/organisations/disclosure-and-barring-service) checks, as required by England Athletics.
 
-All juniors are encouraged to join in organised events, including the local track and field league, indoor athletics league, cross country league and fell races.
+### Competing
+
+All juniors are encouraged to join in organised events, including the local track and field league, indoor athletics league, cross country league and off-road races. In particular, the [Junior Trunce](http://www.trunce.org/) is very popular, taking place at the same time as the senior race in Oxspring, 9 times a year.
+
+### The Winter Handicap League
+
+The club organises a winter league based on a series of handicap races for all the juniors in the club, and other ad hoc races in the summer. 
+
+### Awards
+
+Prizes are given out at the annual presentation evening.
+- Trophies for the top three in the Winter Handicap League (LINK NEEDED) and certificates for all participants
+- The Winter League trophies, unhelpfully named but awarded for general performance in internal and external competitions
+- The Track and Field trophies, awarded to the juniors (under 11 and under 17) who showed the largest improvements across all track and field events
+- The Coaches Award, awarded for attitude to training and effort.
+
+Past winners of all the trophies are here (LINK NEEDED).
+
+### Club Records
+
+The club keeps extensive [records](http://results.pfrac.co.uk/Records/) for each age group, with certificates awarded at the annual presentation evening for records broken during the previous year.
+
+There are also records for the Junior Winter Handicap races (LINK NEEDED).
+
+
+
