@@ -29,7 +29,7 @@ See individual race pages for contact details about races the club organises.
 | Lady Member                     | Sue Higham                                                                                     |
 | Fell Running Secretary          | [Ian Charlesworth](mailto:ircy63@gmail.com)                                                    |
 | Fell Relay Secretary            | [Brent Lindsay](mailto:brent.lindsay@btinternet.com)                                           |
-| Road Running & Relay Secretary  | [Malcolm Rose](mailto:malcolmrose.t21@btinternet.com)                                          |
+| Road Running & Relay Secretary  | [Richard Mackie](mailto:macklandr@aol.com)                                          |
 | Cross Country & Relay Secretary | [Nick Whittingham](mailto:nick.whittingham@btinternet.com)                                     |
 | Track and Field Secretary       | [Shaun Dimelow](mailto:shaundimelow@hotmail.com) & [Paul Fryers](mailto:paul.fryers@gmail.com) |
 | Northern T&F Liaison Officers | [Paul Fryers](mailto:paul.fryers@gmail.com) & [Martyn Cartwright](mailto:martynandpauline@gmail.com) |
