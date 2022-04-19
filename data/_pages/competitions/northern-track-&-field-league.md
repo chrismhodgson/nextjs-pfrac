@@ -47,35 +47,38 @@ The club also really needs members to become qualified track and field officials
 
 
 
-The events start at 11:00 and run until about 18:00 &ndash; all four meetings run to exactly the same timetable. What time you need to be there depends on which events you do.
+The events start at 11:00 and run until about 17:30 &ndash; all four meetings run to exactly the same timetable. What time you need to be there depends on which events you do. Warm-ups for the first field events start at 10:40.
 
 
 
 | Time | Events |
 | - | - |
-| 11:30 | Hammer Men, Long Jump Women, Pole Vault Men and Women |
-| 12.30 | Hammer Women |
-| 13.00 | 400m H Women, Long Jump Men |
-| 13.10 | 400m H Men |
+| 11:00 | Hammer Men, Long Jump Women|
+| 11:30 | Pole Vault Men and Women |
+| 12.00 | Hammer Women |
+| 12:35 | Long Jump Men |
+| 12:45 | Shot Women |
+| 13.00 | 400m H Women, Discus Men |
+| 13.10 | 400m H Men, High Jump Men |
 | 13.25 | 800m Women |
-| 13.30 | Discus Men |
 | 13.35 | 800m Men |
-| 13.45 | 100m Women, High Jump Men, Shot Women |
+| 13.45 | 100m Women |
 | 13.55 | 100m Men |
-| 14:00 | Non Scoring 100m (Men and Women), Triple Jump Women |
+| 14:00 | Non Scoring 100m (Men and Women), Shot Men, Discus Women |
 | 14.05 | 3000m S/C Men |
+| 14:10 | Triple Jump Women |
 | 14:25 | 100mH Women |
-| 14.30 | Discus Women |
 | 14.35 | 3000m Women |
+| 14:45 | High Jump Women |
 | 14.55 | 110m H Men |
-| 15.05 | 400m Women, Shot Men |
+| 15:00 | Javelin Men |
+| 15.05 | 400m Women |
 | 15.15 | 400m Men |
-| 15.20 | 1500m Men, Javelin Men, High Jump Women |
-| 15.35 | 1500m Women, Triple Jump Men |
-| 15.45 | 200m Women |
+| 15.20 | 1500m Men |
+| 15.35 | 1500m Women |
+| 15:45 | 200m Women, Triple Jump Men |
 | 15.55 | 200m Men |
-| 16.05 | 5000m Men |
-| 16.10 | Javelin Women |
+| 16.05 | 5000m Men, Javelin Women |
 | 16.30 | 4&times;100m Women |
 | 16.40 | 4&times;100m Men |
 | 16.50 | 4&times;400m Women |
