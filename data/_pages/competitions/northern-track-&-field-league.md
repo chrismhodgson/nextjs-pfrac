@@ -53,36 +53,36 @@ The events start at 11:00 and run until about 17:30 &ndash; all four meetings ru
 
 | Time | Events |
 | - | - |
-| 11:00 | Hammer Men, Long Jump Women|
+| 11:00 | Hammer Men; Long Jump Women|
 | 11:30 | Pole Vault Men and Women |
-| 12.00 | Hammer Women |
+| 12:00 | Hammer Women |
 | 12:35 | Long Jump Men |
 | 12:45 | Shot Women |
-| 13.00 | 400m H Women, Discus Men |
-| 13.10 | 400m H Men, High Jump Men |
-| 13.25 | 800m Women |
-| 13.35 | 800m Men |
-| 13.45 | 100m Women |
-| 13.55 | 100m Men |
-| 14:00 | Non Scoring 100m (Men and Women), Shot Men, Discus Women |
-| 14.05 | 3000m S/C Men |
+| 13:00 | 400m Hurdles Women; Discus Men |
+| 13:10 | 400m Hurdles Men; High Jump Men |
+| 13:25 | 800m Women |
+| 13:35 | 800m Men |
+| 13:45 | 100m Women |
+| 13:55 | 100m Men |
+| 14:00 | Non Scoring 100m (Men and Women); Shot Men; Discus Women |
+| 14:05 | 3000m S/C Men |
 | 14:10 | Triple Jump Women |
-| 14:25 | 100mH Women |
-| 14.35 | 3000m Women |
+| 14:25 | 100m Hurdles Women |
+| 14:35 | 3000m Women |
 | 14:45 | High Jump Women |
-| 14.55 | 110m H Men |
+| 14:55 | 110m Hurdles Men |
 | 15:00 | Javelin Men |
-| 15.05 | 400m Women |
-| 15.15 | 400m Men |
-| 15.20 | 1500m Men |
+| 15:05 | 400m Women |
+| 15:15 | 400m Men |
+| 15:20 | 1500m Men |
 | 15.35 | 1500m Women |
-| 15:45 | 200m Women, Triple Jump Men |
-| 15.55 | 200m Men |
-| 16.05 | 5000m Men, Javelin Women |
-| 16.30 | 4&times;100m Women |
-| 16.40 | 4&times;100m Men |
-| 16.50 | 4&times;400m Women |
-| 17.00 | 4&times;400m Men |
+| 15:45 | 200m Women; Triple Jump Men |
+| 15:55 | 200m Men |
+| 16:05 | 5000m Men; Javelin Women |
+| 16:30 | 4&times;100m Women |
+| 16:40 | 4&times;100m Men |
+| 16:50 | 4&times;400m Women |
+| 17:00 | 4&times;400m Men |
 
 
 
