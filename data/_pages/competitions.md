@@ -1,7 +1,9 @@
 ---
 title: Club Competitions
 ---
-The club runs several competitions through the year for members to take part in if they wish.  They cover every sort of organised event from parkruns to formal races. Details are on the left, and all the standings and results are in the [results section](http://results.pfrac.co.uk/).  A [summary page](http://results.pfrac.co.uk/Runner%20Pages/) is provided for each member, listing [club records](http://results.pfrac.co.uk/Records/) they hold, [road standards](https://pfrac.chrishodgson.co.uk/about/road-running) achieved and current positions in the competitions.
+The club runs several competitions through the year for members to take part in if they wish.  They cover every sort of organised event from parkruns to formal races. Details are on the left, and all the standings and results are in the [results section](http://results.pfrac.co.uk/).
+
+A [summary page](http://results.pfrac.co.uk/Runner%20Pages/) is provided for each member, listing [club records](http://results.pfrac.co.uk/Records/) they hold, [road standards](https://pfrac.chrishodgson.co.uk/about/road-running) achieved and current positions in the competitions.
 
 ### Club records
 
