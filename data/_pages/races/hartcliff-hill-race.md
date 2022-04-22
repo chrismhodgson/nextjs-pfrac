@@ -1,5 +1,5 @@
 ---
-title: Hartcliff Hill Race
+title: Hartcliff Hill
 category: Fell
 start_date_time: TBC
 distance: 2½ miles/4km with 492ft/150m of ascent
