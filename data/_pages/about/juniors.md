@@ -28,16 +28,21 @@ Past winners of all the trophies are here (LINK NEEDED).
 
 ### Track & Field
 
-Juniors have been representing the club in the South Yorkshire Track & Field League and the Indoor League at the English Institute of Sport in Sheffield for several decades.  Anyone interested should contact [Paul Fryers](mailto:paul.fryers@gmail.com).  Recent results are here:
-
-Indoor: 2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2021-22
- 
-Outdoor: 2015 2016 2017 2018 2019
+Juniors have been representing the club in the South Yorkshire Track & Field League and the Indoor League at the English Institute of Sport in Sheffield for several decades. Anyone interested should contact [Paul Fryers](mailto:paul.fryers@gmail.com). Results are all available on the British Athletics [Power of 10](https://www.thepowerof10.info/athletes/athleteslookup.aspx) service.
 
 ### Club Records
 
 The club keeps extensive [records](http://results.pfrac.co.uk/Records/) for each age group, with certificates awarded at the annual presentation evening for records broken during the previous year.
 
 There are also records for the Junior Winter Handicap races (LINK NEEDED).
+
+### Cross Country
+
+Juniors have represented the club in the South Yorkshire Cross Country League each year.  The events take place in parks around the county. Anyone interested should contact [Bob Innes](mailto:jane&bob@btinternet.com). Results are all available on the British Athletics [Power of 10](https://www.thepowerof10.info/athletes/athleteslookup.aspx) service.
+
+
+
+
+
 
 
