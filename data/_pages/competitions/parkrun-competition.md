@@ -1,5 +1,5 @@
 ---
-title: parkrun Competition
+title: Parkrun Competition
 order: 50
 ---
 

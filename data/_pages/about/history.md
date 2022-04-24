@@ -33,7 +33,7 @@ The club was awarded the prestigious Club Mark award in February 2008. This was 
 
 ### The Club Badge
 
-[![Club Badge](https://pfrac.chrishodgson.co.uk/static/uploads/pfr-logo-hq-on-black.gif)](https://pfrac.chrishodgson.co.uk/static/uploads/pfr-logo-hq-on-black.gif)
+[![Club Badge](https://pfrac.chrishodgson.co.uk/static/images/logo.svg)](https://pfrac.chrishodgson.co.uk/static/images/logo.svg)
 
 Upon its formation the Club adopted the badge which is the Penistone Coat of Arms. It consists of a shield on which are 6 Martlets &ndash; birds which are used in heraldry to denote a title without foundation, ie a title which is bestowed on someone rather than one which is passed down.
 
