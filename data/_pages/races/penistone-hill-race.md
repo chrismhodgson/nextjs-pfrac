@@ -3,7 +3,7 @@ title: Penistone Hill Race
 category: Trail
 start_date_time: TBC
 strava_url: https://www.strava.com/segments/30806210/embed
-order: 10
+order: 40
 distance: 6½ miles/10.5km with 1250ft/380m of ascent
 entry: >-
   Pre-entry fees: £10 for EA affiliated runners and £12 for non-EA members.

@@ -13,7 +13,7 @@ The club was founded in late April/May 1982 at the suggestion of Cubley resident
 
 In the course of the next few months, these runs continued, still on footpaths but gradually increasing in length as the running bug began to bite. Meeting places were generally pub car parks, churches or other such points, and as well as the enjoyment of running, the club took an interest in local history landmarks and ornithological sightings.
 
-During the course of these runs, the hardy band eventually met up with other local runners who were already members of established running clubs and from these more experienced runners they began to learn that there was more to the running game than just jogging along on footpaths. However, these runs continued into 1983 and because the numbers had now risen to 40, a more organised system of meeting had to be devised. From then, they met at Penistone Sports Centre. Since August 2002 the club has had its headquarters at <a href="https://www.google.co.uk/maps/place/Penistone+Church+Football+Club/@53.523332,-1.625649,17z/data=!3m1!4b1!4m2!3m1!1s0x48797d6f378b73f1:0x3ae39c5f7e6bf5ba?hl=en-GB">Penistone Church Football Club</a>.
+During the course of these runs, the hardy band eventually met up with other local runners who were already members of established running clubs and from these more experienced runners they began to learn that there was more to the running game than just jogging along on footpaths. However, these runs continued into 1983 and because the numbers had now risen to 40, a more organised system of meeting had to be devised. From then, they met at Penistone Sports Centre. Since August 2002 the club has had its headquarters at [Penistone Church Football Club](https://www.google.co.uk/maps/place/Penistone+Church+Football+Club/@53.523332,-1.625649,17z/data=!3m1!4b1!4m2!3m1!1s0x48797d6f378b73f1:0x3ae39c5f7e6bf5ba?hl=en-GB).
 
 In August 1983, the group entered the _Famous Barnsley 6_ Road Race as an unattached team called "Penistone Footpath Runners". The name was suggested by Doug Carr and someone else suggested that they run in white vests and black shorts as these were the colours which Penistone Grammar school were wearing at the time. It was also suggested that they adopted the Grammar School badge for the front of the vest. In this manner, the Club’s future name and colours were established. The team excelled themselves, coming second in the unattached team event with another Cubley resident, Bryan Hague, taking the honours as the first local unattached finisher.
 
@@ -33,7 +33,7 @@ The club was awarded the prestigious Club Mark award in February 2008. This was 
 
 ### The Club Badge
 
-[<img src="https://pfrac.chrishodgson.co.uk/static/uploads/pfr-logo-hq-on-black.gif" width="175"/>](https://pfrac.chrishodgson.co.uk/static/uploads/pfr-logo-hq-on-black.gif)
+[![Club Badge](https://pfrac.chrishodgson.co.uk/static/uploads/pfr-logo-hq-on-black.gif)](https://pfrac.chrishodgson.co.uk/static/uploads/pfr-logo-hq-on-black.gif)
 
 Upon its formation the Club adopted the badge which is the Penistone Coat of Arms. It consists of a shield on which are 6 Martlets &ndash; birds which are used in heraldry to denote a title without foundation, ie a title which is bestowed on someone rather than one which is passed down.
 

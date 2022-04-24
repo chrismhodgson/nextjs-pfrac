@@ -16,7 +16,7 @@ entry: >-
 
   Minimum age 15 on the day
 organiser: 'Keith Gordon: keithHgordon@me.com'
-order: 20
+order: 30
 registration: Registration will be at (Penistone Church Football
   Club)[https://www.google.co.uk/maps/place/Penistone+Church+Football+Club/@53.523332,-1.625649,17z/data=!3m1!4b1!4m2!3m1!1s0x48797d6f378b73f1:0x3ae39c5f7e6bf5ba?hl=en-GB],
   S36 6AT.

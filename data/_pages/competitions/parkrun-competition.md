@@ -1,6 +1,6 @@
 ---
 title: parkrun Competition
-order: 30
+order: 50
 results: "\n"
 ---
 

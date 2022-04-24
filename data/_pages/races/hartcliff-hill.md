@@ -10,7 +10,7 @@ entry: |-
 organiser: |
   Ian Charlesworth: hartcliffhill.fellrace@gmail.com
 google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
-order: 50
+order: 20
 registration: 'From 18:30 at Langsett Barn, S36 4GY (on the A616, 1 mile SE of
   the Flouch Roundabout). Grid ref: SE211005'
 results: >-
