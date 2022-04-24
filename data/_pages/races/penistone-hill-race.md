@@ -68,11 +68,10 @@ results: "### Previous Race Results
 
   The 2020 race was cancelled.\n"
 ---
+
 The Penistone Hill Race is a multi-terrain race, run in support of Sporting Penistone, the charity that runs [Penistone Leisure Centre](http://www.penistoneleisurecentre.org.uk). It is a tough race on tarmac, trails and paths, with hills and stunning views of the Penistone area, run under UK Athletics rules (cross country permit tbc).
 
 ### Course records
-
-
 
 Male: Tom Saville, Dark Peak Fell Runners, 2018 &ndash; 40:15
 

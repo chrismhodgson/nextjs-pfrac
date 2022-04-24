@@ -2,9 +2,10 @@
 title: Juniors
 order: 30
 ---
-The club has a very popular junior section, taking boys and girls from the age of 8 to 17.  England Athletics rules are very strict about the qualifications needed to lead groups of juniors, and the club is very short of Athletics Coaches who are qualified to take children under 12, so for this age group there is a waiting list. Contact [Bob Innes](mailto:jane&bob@btinternet.com), Junior Secretary, if your son or daughter is interested in joining the club.
 
-For most juniors, the club is something they attend every Tuesday evening, all year round (with breaks for school holidays) where they get some exercise with friends.  Sessions are structured to maintain interest and safety, catering for a wide range of ability.  Those that want to push themselves to get fitter have the opportunity to train with seniors, under the supervision of appropriately qualified coaches.
+The club has a very popular junior section, taking boys and girls from the age of 8 to 17. England Athletics rules are very strict about the qualifications needed to lead groups of juniors, and the club is very short of Athletics Coaches who are qualified to take children under 12, so for this age group there is a waiting list. Contact [Bob Innes](mailto:jane&bob@btinternet.com), Junior Secretary, if your son or daughter is interested in joining the club.
+
+For most juniors, the club is something they attend every Tuesday evening, all year round (with breaks for school holidays) where they get some exercise with friends. Sessions are structured to maintain interest and safety, catering for a wide range of ability. Those that want to push themselves to get fitter have the opportunity to train with seniors, under the supervision of appropriately qualified coaches.
 
 All the coaches and coaching assistants have up-to-date [DBS](https://www.gov.uk/government/organisations/disclosure-and-barring-service) checks, as required by England Athletics.
 
@@ -14,11 +15,12 @@ All juniors are encouraged to join in organised events, including the local trac
 
 ### The Winter Handicap League
 
-The club organises a winter league based on a series of handicap races for all the juniors in the club, and other ad hoc races in the summer. 
+The club organises a winter league based on a series of handicap races for all the juniors in the club, and other ad hoc races in the summer.
 
 ### Awards
 
 Prizes are given out at the annual presentation evening.
+
 - Trophies for the top three in the Winter Handicap League (LINK NEEDED) and certificates for all participants
 - The Winter League trophies, unhelpfully named but awarded for general performance in internal and external competitions
 - The Track and Field trophies, awarded to the juniors (under 11 and under 17) who showed the largest improvements across all track and field events
@@ -38,11 +40,4 @@ There are also records for the Junior Winter Handicap races (LINK NEEDED).
 
 ### Cross Country
 
-Juniors have represented the club in the South Yorkshire Cross Country League each year.  The events take place in parks around the county. Anyone interested should contact [Bob Innes](mailto:jane&bob@btinternet.com). Results are all available on the British Athletics [Power of 10](https://www.thepowerof10.info/athletes/athleteslookup.aspx) service.
-
-
-
-
-
-
-
+Juniors have represented the club in the South Yorkshire Cross Country League each year. The events take place in parks around the county. Anyone interested should contact [Bob Innes](mailto:jane&bob@btinternet.com). Results are all available on the British Athletics [Power of 10](https://www.thepowerof10.info/athletes/athleteslookup.aspx) service.
