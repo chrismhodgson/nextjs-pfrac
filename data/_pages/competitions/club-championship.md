@@ -1,7 +1,6 @@
 ---
 title: Club Championship
 order: 10
-results: " "
 ---
 
 ### The 2022 Club Championship

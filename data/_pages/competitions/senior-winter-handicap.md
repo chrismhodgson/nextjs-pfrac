@@ -1,7 +1,6 @@
 ---
 title: Senior Winter Handicap
 order: 40
-results: ' '
 ---
 
 ### Winter Handicap 2022

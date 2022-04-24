@@ -17,6 +17,8 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
     entry,
     registration,
     organiser,
+    course_records,
+    routes_maps,
     header,
   } = frontMatter
 
@@ -55,54 +57,80 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
               ))}
             </ul>
           </div>
+
           <div className="md:col-span-5  prose dark:prose-dark max-w-non">
             <dl className="pb-2">
               {start_date_time && (
                 <>
                   <dt className="pt-1">Start Date/Time</dt>
-                  <dd className="text-sm text-gray-500 dark:text-gray-400">{start_date_time}</dd>
+                  <dd className="text-gray-500 dark:text-gray-400">{start_date_time}</dd>
                 </>
               )}
 
               {category && (
                 <>
                   <dt className="pt-1">Category</dt>
-                  <dd className="text-sm text-gray-500 dark:text-gray-400">{category}</dd>
+                  <dd className="text-gray-500 dark:text-gray-400">{category}</dd>
                 </>
               )}
 
               {distance && (
                 <>
                   <dt className="pt-1">Distance</dt>
-                  <dd className="text-sm text-gray-500 dark:text-gray-400">{distance}</dd>
-                </>
-              )}
-
-              {entry && (
-                <>
-                  <dt className="pt-1">Entry</dt>
-                  <dd className="text-sm text-gray-500 dark:text-gray-400">{entry}</dd>
-                </>
-              )}
-
-              {registration && (
-                <>
-                  <dt className="pt-1">Registration</dt>
-                  <dd className="text-sm text-gray-500 dark:text-gray-400">{registration}</dd>
+                  <dd className="text-gray-500 dark:text-gray-400">{distance}</dd>
                 </>
               )}
 
               {organiser && (
                 <>
                   <dt className="pt-1">Organiser</dt>
-                  <dd className="text-sm text-gray-500 dark:text-gray-400">{organiser}</dd>
+                  <dd className="text-gray-500 dark:text-gray-400">{organiser}</dd>
+                </>
+              )}
+            </dl>
+
+            {children}
+
+            <dl className="pb-2">
+              {entry && (
+                <>
+                  <dt className="pt-1">Entry</dt>
+                  <dd className="text-gray-500 dark:text-gray-400">{entry}</dd>
+                </>
+              )}
+
+              {registration && (
+                <>
+                  <dt className="pt-1">Registration</dt>
+                  <dd className="text-gray-500 dark:text-gray-400">{registration}</dd>
+                </>
+              )}
+
+              {results && (
+                <>
+                  <dt className="pt-1">Results</dt>
+                  <dd className="text-gray-500 dark:text-gray-400">{results}</dd>
+                </>
+              )}
+
+              {course_records && (
+                <>
+                  <dt className="pt-1">Course Records</dt>
+                  <dd className="text-gray-500 dark:text-gray-400">{course_records}</dd>
+                </>
+              )}
+
+              {routes_maps && (
+                <>
+                  <dt className="pt-1">Routes and Maps</dt>
+                  <dd className="text-gray-500 dark:text-gray-400">{routes_maps}</dd>
                 </>
               )}
 
               {strava_url && (
                 <>
                   <dt className="py-1">Strava Map</dt>
-                  <dd className="text-sm text-gray-500 dark:text-gray-400">
+                  <dd className="text-gray-500 dark:text-gray-400">
                     <iframe
                       title="strava"
                       src={strava_url}
@@ -113,19 +141,18 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
               )}
 
               {/* {google_maps_url && (
-                <>
-                  <dt className="py-1">Google Map</dt>
-                  <dd className="text-sm text-gray-500 dark:text-gray-400">
-                    <iframe
-                      title="googlemaps"
-                      src={google_maps_url}
-                      style={{ width: '100%', height: '400px', display: 'block' }}
-                    />
-                  </dd>
-                </>
-              )} */}
+                  <>
+                    <dt className="py-1">Google Map</dt>
+                    <dd className="text-gray-500 dark:text-gray-400">
+                      <iframe
+                        title="googlemaps"
+                        src={google_maps_url}
+                        style={{ width: '100%', height: '400px', display: 'block' }}
+                      />
+                    </dd>
+                  </>
+                )} */}
             </dl>
-            {children}
           </div>
         </div>
       </article>

@@ -2,7 +2,7 @@
 title: Barnsley Boundary Relay
 category: Trail
 start_date_time: 08:00; 11 June 2022 – see below for individual leg start times
-organiser: "Steve Dickinson: steve@osi.uk.com – 07850 445613"
+organiser: 'Steve Dickinson: steve@osi.uk.com – 07850 445613'
 order: 10
 distance: Approximately 72/115km miles with 7,350ft//2,240m of ascent, over 10 legs
 entry: Contact Race Organiser for entry form.
@@ -26,12 +26,6 @@ results: >+
 
   The race in 2020 was cancelled.
 
-
-
-
-files:
-  - static/uploads/sample.pdf
-  - http://results.pfrac.co.uk/BB_gpx_files/BB_Leg_1.gpx
 ---
 
 The Barnsley Boundary Relay Race is a multi-terrain race following the boundary of Barnsley MBC, using the route of the [Barnsley Boundary Long Distance Path](http://www.ldwa.org.uk/ldp/members/show_path.php?path_name=Barnsley+Boundary+Walk). It is a race for teams of 10, each running legs on roads, tracks and footpaths of between 4 and 11½ miles: 72 miles in total.

@@ -1,7 +1,6 @@
 ---
 title: parkrun Competition
 order: 50
-results: "\n"
 ---
 
 ### The 2022 parkrun Competition

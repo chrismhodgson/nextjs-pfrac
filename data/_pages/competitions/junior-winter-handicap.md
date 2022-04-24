@@ -1,7 +1,6 @@
 ---
 title: Track & Field
 order: 30
-results: ' '
 ---
 
 Juniors can compete in the South Yorkshire Indoor and Outdoor track and field series, and other open events. For more details see the [Juniors](https://pfrac.chrishodgson.co.uk/about/juniors) page.

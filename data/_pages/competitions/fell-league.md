@@ -1,7 +1,6 @@
 ---
 title: Fell League
 order: 20
-results: ' '
 ---
 
 ### The 2022 Fell League

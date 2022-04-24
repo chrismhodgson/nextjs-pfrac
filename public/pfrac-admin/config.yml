@@ -58,19 +58,9 @@ collections:
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
       - { label: 'Category', name: 'category', widget: 'select', options: ['Fell', 'Trail', 'Road'], default: 'Fell', required: true }
-      - { label: 'Start date / time', name: 'start_date_time', widget: 'string', required: true }
+      - { label: 'Start date / time', name: 'start_date_time', widget: 'markdown', required: true }
       - { label: 'Distance', name: 'distance', widget: 'string', required: true }
-      - { label: 'Strava Segment url (ie for iframe)', name: 'strava_url', widget: 'string', hint: 'ie https://www.strava.com/segments/30806210/embed', required: false }
-      - { label: 'Entry', name: 'entry', widget: 'text', required: false }
-      - { label: 'Registration', name: 'registration', widget: 'text', required: false  }
-      - { label: 'Organiser', name: 'organiser', widget: 'text', required: false  }
-      - {
-          label: 'Results',
-          name: 'results',
-          widget: 'markdown',
-          required: true,
-          hint: 'Race results'
-        }
+      - { label: 'Organiser', name: 'organiser', widget: 'markdown', required: false }
       - {
           label: 'Main Content',
           name: 'body',
@@ -78,6 +68,18 @@ collections:
           required: false,
           hint: 'Create your tables using http://tablesgenerator.com/markdown_tables'
         }
+      - { label: 'Entry', name: 'entry', widget: 'markdown', required: false }
+      - { label: 'Registration', name: 'registration', widget: 'markdown', required: false }
+      - {
+          label: 'Results',
+          name: 'results',
+          widget: 'markdown',
+          required: true,
+          hint: 'Race results'
+        }
+      - { label: 'Course records', name: 'course_records', widget: 'markdown', required: false }
+      - { label: 'Routes and Maps', name: 'routes_maps', widget: 'markdown', required: false }
+      - { label: 'Strava Segment url (ie for iframe)', name: 'strava_url', widget: 'string', hint: 'ie https://www.strava.com/segments/30806210/embed', required: false }
 
   - name: 'competitions' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Competitions' # Used in the UI
@@ -86,13 +88,6 @@ collections:
     create: false # Determines whether users can create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
-      - {
-          label: 'Results',
-          name: 'results',
-          widget: 'markdown',
-          required: true,
-          hint: 'Race results'
-        }
       - {
           label: 'Main content',
           name: 'body',
