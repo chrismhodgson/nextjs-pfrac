@@ -1,7 +1,7 @@
 ---
 title: Senior Winter Handicap
 order: 40
-results: " "
+results: ' '
 ---
 
 ### Winter Handicap 2022
@@ -109,5 +109,3 @@ The final race will determine the overall champion. To qualify, you must run at 
 Guests (non-club members) are welcome to run, but do not qualify for prizes.
 
 Any questions or comments contact Keith Gordon.
-
-

@@ -21,7 +21,7 @@ Following on from this success, it was decided to form a club and a meeting was 
 
 Despite being a relatively new club, they quickly gained fame. The first athletic success came just after the formation when George Lilly, David Cartwright and Andy Barrett won the first team prize in a fell race organised by Longwood Harriers. David Cartwright became their first Champion when he took the English Veterans Fell Running title in 1986. Dave has been running throughout his life and left the successful Holmfirth Running Club to join his home town club on its formation.
 
-The Club is very active in organising races, which are detailed [here](https://pfrac.chrishodgson.co.uk/races). The races have thrived thanks mainly to sponsorship from local companies and residents. The Penistone Hill Race is supported by many local people donating prizes and all proceeds from the race and fun run are donated to a local charity. So far, over £6,000 has been raised since the race was first held. In 2005 the Hill race was superceded by the Hartcliff Hill Race, but it was revived in 2013 and both are now run annually.  Past races that are not currently run include the Penistone Tough Ten Mile, Penistone Boundary Race and the Broomhead Chase (DN Link Needed).
+The Club is very active in organising races, which are detailed [here](https://pfrac.chrishodgson.co.uk/races). The races have thrived thanks mainly to sponsorship from local companies and residents. The Penistone Hill Race is supported by many local people donating prizes and all proceeds from the race and fun run are donated to a local charity. So far, over £6,000 has been raised since the race was first held. In 2005 the Hill race was superceded by the Hartcliff Hill Race, but it was revived in 2013 and both are now run annually. Past races that are not currently run include the Penistone Tough Ten Mile, Penistone Boundary Race and the Broomhead Chase (DN Link Needed).
 
 The Penistone 10K road race has benefited from several major local backers including Bridge End Garage, Lavender International NDT, Livingwell, Dearne FM, Penistone Electrical &amp; Mechanical Services Ltd, John Crawshaw's Butchers, Cubley Hall, Bespoke Precast Ltd, Dransfield Hodkinson &amp; Lofthouse, Northern Power Tools, PB Heating, Romely Plant Maintenance, A Bedord light sheet metals and ACS Electrical.
 
@@ -35,14 +35,6 @@ The club was awarded the prestigious Club Mark award in February 2008. This was 
 
 [<img src="https://pfrac.chrishodgson.co.uk/static/uploads/pfr-logo-hq-on-black.gif" width="175"/>](https://pfrac.chrishodgson.co.uk/static/uploads/pfr-logo-hq-on-black.gif)
 
-
-
-
-
 Upon its formation the Club adopted the badge which is the Penistone Coat of Arms. It consists of a shield on which are 6 Martlets &ndash; birds which are used in heraldry to denote a title without foundation, ie a title which is bestowed on someone rather than one which is passed down.
 
-
-
 The birds originate from the time of the Crusades. Apparently, the Crusaders thought that swifts had no feet because they always seemed to be flying and never landed. The legend was built from there and in 1392 when Penistone Grammar School was founded, they also adopted the birds as their Coat of Arms. The badge has survived until today along with the school, which is amongst the oldest in the country and still has the motto _Never stop flying_.
-
-

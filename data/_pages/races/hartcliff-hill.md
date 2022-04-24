@@ -11,8 +11,8 @@ organiser: |
   Ian Charlesworth: hartcliffhill.fellrace@gmail.com
 google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
 order: 50
-registration: "From 18:30 at Langsett Barn, S36 4GY (on the A616, 1 mile SE of
-  the Flouch Roundabout). Grid ref: SE211005"
+registration: 'From 18:30 at Langsett Barn, S36 4GY (on the A616, 1 mile SE of
+  the Flouch Roundabout). Grid ref: SE211005'
 results: >-
   ### Previous Race Results
 
@@ -48,6 +48,7 @@ results: >-
 
   Races in 2014, 2020 and 2021 were cancelled.
 ---
+
 Hartcliff Hill is a BS category fell race: 2½ miles with 492 feet of ascent. Marked and marshalled course &ndash; no navigation or prior experience required. The terrain is rough and can be extremely boggy.
 
 The race starts and finishes about ¾ mile from Langsett Barn so allow time after registration.

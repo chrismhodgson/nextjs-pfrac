@@ -15,7 +15,7 @@ entry: >-
 
 
   Minimum age 15 on the day
-organiser: "Keith Gordon: keithHgordon@me.com"
+organiser: 'Keith Gordon: keithHgordon@me.com'
 order: 20
 registration: Registration will be at (Penistone Church Football
   Club)[https://www.google.co.uk/maps/place/Penistone+Church+Football+Club/@53.523332,-1.625649,17z/data=!3m1!4b1!4m2!3m1!1s0x48797d6f378b73f1:0x3ae39c5f7e6bf5ba?hl=en-GB],
@@ -77,6 +77,7 @@ results: "### Previous Race Results
 
   The races in 2020 and 2021 were cancelled."
 ---
+
 The Penistone 10K (formerly the Penistone Show 10K) was established over 30 years ago. It is run under UK Athletics rules of competition on roads and the Trans-Pennine Trail (asphalt surface) around Penistone. [![Bill Reynolds Memorial Trophy Logo](https://pfrac.chrishodgson.co.uk/static/uploads/bill-reynolds-logo-2017.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/bill-reynolds-logo-2017.jpg)
 
 ### Course records
@@ -84,5 +85,3 @@ The Penistone 10K (formerly the Penistone Show 10K) was established over 30 year
 Male: ???
 
 Female: ???
-
-
