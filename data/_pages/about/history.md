@@ -35,6 +35,6 @@ The club was awarded the prestigious Club Mark award in February 2008. This was 
 
 [![Club Badge](https://pfrac.chrishodgson.co.uk/static/images/logo.svg)](https://pfrac.chrishodgson.co.uk/static/images/logo.svg)
 
-Upon its formation the Club adopted the badge which is the Penistone Coat of Arms. It consists of a shield on which are 6 Martlets &ndash; birds which are used in heraldry to denote a title without foundation, ie a title which is bestowed on someone rather than one which is passed down.
+Upon its formation the Club adopted the badge which is the Penistone Coat of Arms. It consists of a shield on which are 6 martlets &ndash; birds which are used in heraldry to denote a title without foundation, ie a title which is bestowed on someone rather than one which is passed down.
 
 The birds originate from the time of the Crusades. Apparently, the Crusaders thought that swifts had no feet because they always seemed to be flying and never landed. The legend was built from there and in 1392 when Penistone Grammar School was founded, they also adopted the birds as their Coat of Arms. The badge has survived until today along with the school, which is amongst the oldest in the country and still has the motto _Never stop flying_.
