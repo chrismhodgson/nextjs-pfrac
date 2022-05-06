@@ -6,8 +6,7 @@ strava_url: https://www.strava.com/segments/9944323/embed
 order: 100
 distance: 3½ miles/5.6km with 820 feet/250m of ascent
 entry: ""
-registration: |
-  TBC
+registration: "\n"
 results: "[2019](https://fellrunner.org.uk/results.php?id=5893
 
   [2018](http://pfrac.co.uk/wp-content/uploads/2018/07/Broomhead-Chase-2018-R\
