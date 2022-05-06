@@ -6,5 +6,3 @@ The club organises several races each year, either standalone races or parts of 
 - [The Trunce](http://www.trunce.org/)
 - [South Yorkshire Road League](https://www.sycaa.org.uk/road/)
 - [South Yorkshire Cross Country League](https://www.sycaa.org.uk/cross-country/)
-
-(DN Need to add page for Broomhead Chase)
