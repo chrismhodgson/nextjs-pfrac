@@ -2,21 +2,8 @@
 title: Penistone 10K
 category: Road
 start_date_time: Sunday 19 June at 9:30am
-distance: 10km - measured course
-strava_url: https://www.strava.com/segments/18044628/embed
-entry: >-
-  Online entry is available [here](https://racebest.com/races/3wuzs)
-
-
-  £16 for EA members; £18 for non-EA members. An extra £2 for entries on the day assuming the maximum of 500 is not reached.
-
-
-  Closing date for pre-entries: 15 June 2022.
-
-
-  Minimum age 15 on the day
-organiser: 'Keith Gordon: keithHgordon@me.com'
-order: 30
+distance: 10km (measured course)
+organiser: "Keith Gordon: keithHgordon@me.com"
 registration: Registration will be at (Penistone Church Football
   Club)[https://www.google.co.uk/maps/place/Penistone+Church+Football+Club/@53.523332,-1.625649,17z/data=!3m1!4b1!4m2!3m1!1s0x48797d6f378b73f1:0x3ae39c5f7e6bf5ba?hl=en-GB],
   S36 6AT.
@@ -76,6 +63,19 @@ results: "### Previous Race Results
   \r
 
   The races in 2020 and 2021 were cancelled."
+strava_url: https://www.strava.com/segments/18044628/embed
+order: 30
+entry: >-
+  Online entry is available [here](https://racebest.com/races/3wuzs)
+
+
+  £16 for EA members; £18 for non-EA members. An extra £2 for entries on the day assuming the maximum of 500 is not reached.
+
+
+  Closing date for pre-entries: 15 June 2022.
+
+
+  Minimum age 15 on the day
 ---
 
 The Penistone 10K (formerly the Penistone Show 10K) was established over 30 years ago. It is run under UK Athletics rules of competition on roads and the Trans-Pennine Trail (asphalt surface) around Penistone. [![Bill Reynolds Memorial Trophy Logo](https://pfrac.chrishodgson.co.uk/static/uploads/bill-reynolds-logo-2017.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/bill-reynolds-logo-2017.jpg)
