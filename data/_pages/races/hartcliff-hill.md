@@ -1,18 +1,18 @@
 ---
+start_date_time: TBC
+organiser: |
+  Ian Charlesworth: hartcliffhill.fellrace@gmail.com
+strava_url: https://www.strava.com/segments/9332504/embed
+google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
+order: 20
 title: Hartcliff Hill
 category: Fell
-start_date_time: TBC
 distance: 2½ miles/4km with 492ft/150m of ascent
-strava_url: https://www.strava.com/segments/9332504/embed
 entry: |-
   Entry £4.50 on the day for FRA or EA members; £5.50 for non-members.
   Minimum age 12 on the day
-organiser: |
-  Ian Charlesworth: hartcliffhill.fellrace@gmail.com
-google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
-order: 20
-registration: 'From 18:30 at Langsett Barn, S36 4GY (on the A616, 1 mile SE of
-  the Flouch Roundabout). Grid ref: SE211005'
+registration: "From 18:30 at Langsett Barn, S36 4GY (on the A616, 1 mile SE of
+  the Flouch Roundabout). Grid ref: SE211005"
 results: >-
   ### Previous Race Results
 
@@ -47,20 +47,20 @@ results: >-
 
 
   Races in 2014, 2020 and 2021 were cancelled.
+course_records: |
+  ### Current course &ndash; since 2015
+
+  Male: Max Wainwright, Dark Peak Fell Runners, 2019 &ndash; 15:37
+
+  Female: Katie Walshaw, Holmfirth Harriers, 2019 &ndash; 17:47
+
+  ### Previous course:
+
+  Male: Stuart Bond, Tommy's Fell Stars, 2009 &ndash; 14:54
+
+  Female: N White, Bingley Harriers & AC, 2006 &ndash; 17:19
 ---
 
-Hartcliff Hill is a BS category fell race: 2½ miles with 492 feet of ascent. Marked and marshalled course &ndash; no navigation or prior experience required. The terrain is rough and can be extremely boggy.
+Hartcliff Hill is a BS category fell race on a marked and marshalled course &ndash; no navigation or prior experience required. The terrain is rough and can be extremely boggy.
 
 The race starts and finishes about ¾ mile from Langsett Barn so allow time after registration.
-
-### Course Records (current course &ndash; since 2015)
-
-Male: Max Wainwright, Dark Peak Fell Runners, 2019 &ndash; 15:37
-
-Female: Katie Walshaw, Holmfirth Harriers, 2019 &ndash; 17:47
-
-### Records for previous course:
-
-Male: Stuart Bond, Tommy's Fell Stars, 2009 &ndash; 14:54
-
-Female: N White, Bingley Harriers & AC, 2006 &ndash; 17:19
