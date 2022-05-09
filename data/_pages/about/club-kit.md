@@ -14,7 +14,7 @@ Please contact [Jemma Williams](mailto:jemstone1981@hotmail.com) to enquire abou
 Click on images to expand.
 
 | Kit | Sizes | Price | Images |
-| - | - | - | - | - |
+| - | - | - | - |
 
 
 | Club vests | All sizes, junior and senior – _Essential kit item for racing. Great fit, longer length than most club vests and don’t ride up when you wear them!_ | £23.00 | [![Vest](https://pfrac.chrishodgson.co.uk/static/uploads/PFRAC-new-vest-Dan.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/PFRAC-new-vest-Dan.jpg) [![Vest front](https://pfrac.chrishodgson.co.uk/static/uploads/PFRAC-new-vest-front.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/PFRAC-new-vest-front.jpg) |
