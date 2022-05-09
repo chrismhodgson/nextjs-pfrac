@@ -2,6 +2,7 @@
 title: Club Kit
 order: 70
 ---
+
 We have a full range of PFR branded kit available. Most sizes are kept in stock however orders can be placed if we do not have the size you require.
 
 When racing club members should wear a club vest (or technical t-shirt) and black shorts, tights or tracksters. Club vests all have the club logo.
@@ -12,21 +13,44 @@ Please contact [Jemma Williams](mailto:jemstone1981@hotmail.com) to enquire abou
 
 Click on images to expand.
 
-| Kit | Sizes | Price | Images |
-| ---------- | ------------------------------ | ---------- | -------------------- |
 
-| Club vests | All sizes, junior and senior – _Essential kit item for racing. Great fit, longer length than most club vests and don’t ride up when you wear them!_ | £23.00 | [![Vest](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) [![Vest front](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) |
+### Club vests - £23.00
+All sizes, junior and senior – Essential kit item for racing. Great fit, longer length than most club vests and don’t ride up when you wear them!
+[![Vest](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) [![Vest front](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) 
 
-| Technical t-shirts | All sizes, junior and senior – _These can be used for racing and work really well in the winter with a base layer underneath._ | £20.00 | [![T-shirt front](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) [![T-shirt back](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) |
 
-| Winter training tops | All sizes, junior and senior – _Ideal top for training during the winter months or warming up when racing._ | £30.00 | [![Training top front](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) [![Training top back](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) |
+### Technical t-shirts - £20.00
+All sizes, junior and senior – These can be used for racing and work really well in the winter with a base layer underneath.
+[![T-shirt front](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) 
+[![T-shirt back](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) 
 
-| Hoodies | All sizes, junior and senior – _Warm top for winter, pre- and post-race._ | £25.00 | [![Hoodie front](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) [![Hoodie back](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) |
 
-| Buffs | One size – _Keeps your neck or head warm in winter and helps control sweat in summer. Two designs: 'No pain No gain' or club logo_ | £6.00 (NPNG) £5.50 (Logo) | [![NPNG Buff](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) [![Logo Buff](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) |
+### Winter training tops - £30.00 
+All sizes, junior and senior – Ideal top for training during the winter months or warming up when racing.
+[![Training top front](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) 
+[![Training top back](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) 
 
-| Hats | One size – _Warm hat for winter running_ | £8.00 | [![Hat](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) |
-| Number clips | Pack of 4 – _Robust way to keep your race number on your vest or t shirt without putting holes in it._ | £5.00 | [![Number clips](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) |
+
+### Hoodies - £25.00 
+All sizes, junior and senior – Warm top for winter, pre- and post-race.
+[![Hoodie front](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) 
+[![Hoodie back](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) 
+
+
+### Buffs - £6.00 (NPNG) £5.50 (Logo)
+One size – Keeps your neck or head warm in winter and helps control sweat in summer. Two designs: 'No pain No gain' or club logo
+[![NPNG Buff](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) 
+[![Logo Buff](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) 
+
+
+### Hats - £8.00
+One size – Warm hat for winter running
+[![Hat](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) 
+
+
+### Number clips - £5.00
+Pack of 4 – Robust way to keep your race number on your vest or t shirt without putting holes in it.
+[![Number clips](https://via.placeholder.com/100x100)](https://via.placeholder.com/100x100) 
 
 ### Contact details:
 
