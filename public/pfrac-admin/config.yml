@@ -57,7 +57,7 @@ collections:
     create: false # Determines whether users can create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
-      - { label: 'Category', name: 'category', widget: 'select', options: ['Fell', 'Trail', 'Road'], default: 'Fell', required: true }
+      - { label: 'Category', name: 'category', widget: 'select', options: ['Fell', 'Trail', 'Road', 'Multi-terrain relay'], default: 'Fell', required: true }
       - { label: 'Start date / time', name: 'start_date_time', widget: 'markdown', required: true }
       - { label: 'Distance', name: 'distance', widget: 'string', required: true }
       - { label: 'Organiser', name: 'organiser', widget: 'markdown', required: false }
