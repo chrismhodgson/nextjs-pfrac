@@ -2,7 +2,6 @@
 title: Club Championship
 order: 10
 ---
-
 ### The 2022 Club Championship
 
 The format of the Championship in 2022 is unchanged from the planned 2020 Championship, with many of the same races.
