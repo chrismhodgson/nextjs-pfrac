@@ -20,14 +20,14 @@ All sizes, junior and senior – _Essential kit item for racing. Great fit, long
 
 ### Technical t-shirts – £20.00
 All sizes, junior and senior – _These can be used for racing and work really well in the winter with a base layer underneath._
-[![T-shirt front](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-.jpg) 
-[![T-shirt back](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-.jpg) 
+[![T-shirt front](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-t-shirt-front-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-t-shirt-front.jpg) 
+[![T-shirt back](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-t-shirt-back-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-t-shirt-back.jpg) 
 
 
 ### Winter training tops – £30.00 
 All sizes, junior and senior – _Ideal top for training during the winter months or warming up when racing._
-[![Training top front](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-t-shirt-front-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-t-shirt-front.jpg) 
-[![Training top back](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-t-shirt-back-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-t-shirt-back.jpg) 
+[![Training top front](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-training-top-front-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-training-top-front.jpg) 
+[![Training top back](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-training-top-back-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-training-top-back.jpg) 
 
 
 ### Hoodies – £25.00 
