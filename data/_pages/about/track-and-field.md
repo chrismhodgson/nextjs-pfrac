@@ -16,7 +16,7 @@ The club also really needs members to become qualified track and field officials
 
 ### Division East 2 Fixtures 2022
 
-- [Saturday 30 April, Cudworth](https://www.thepowerof10.info/results/results.aspx?meetingid=445769)
+- Saturday 30 April, Cudworth
 - Sunday 12 June, Cudworth
 - Sunday 10 July, Cleckheaton
 - Saturday 6 August, Mansfield
@@ -73,7 +73,6 @@ The events start at 11:00 and run until about 17:30 &ndash; all four meetings ru
 
 - Barnsley AC
 - Bradford Airedale AC
-- Halifax Harriers
 - Longwood Harriers &amp; AC
 - Mansfield Harriers
 - Penistone Footpath Runners &amp; AC
@@ -81,6 +80,12 @@ The events start at 11:00 and run until about 17:30 &ndash; all four meetings ru
 - Worksop Harriers &amp; AC
 
 ### Results
+
+**2022:**
+[Cudworth 30 April](https://thepowerof10.info/results/results.aspx?meetingid=445769)
+[Cudworth 12 June](https://thepowerof10.info/results/results.aspx?meetingid=445770)
+[Cleckheaton 10 July](https://thepowerof10.info/results/results.aspx?meetingid=445771)
+[Mansfield 6 August](https://thepowerof10.info/results/results.aspx?meetingid=445772)
 
 **2021:**
 [Cleckheaton 22 May](https://thepowerof10.info/results/results.aspx?meetingid=415233)
