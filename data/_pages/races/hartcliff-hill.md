@@ -8,57 +8,10 @@ order: 20
 title: Hartcliff Hill
 category: Fell
 distance: 2½ miles/4km with 492ft/150m of ascent
-entry: |-
-  Entry £4.50 on the day for FRA or EA members; £5.50 for non-members.
-  Minimum age 12 on the day
-registration: "From 18:30 at Langsett Barn, S36 4GY (on the A616, 1 mile SE of
-  the Flouch Roundabout). Grid ref: SE211005"
-results: >-
-  ### Previous Race Results
-
-
-  [2005](http://fellrunner.org.uk/results/race05/hartcliffe.htm)
-
-  [2006](http://fellrunner.org.uk/results/race06/hartcliffe.txt)
-
-  [2007](http://fellrunner.org.uk/results/race07/hartcliffehill.txt)
-
-  [2008](http://fellrunner.org.uk/results/race08/hartcliffe08.txt)
-
-  [2009](http://fellrunner.org.uk/results/race09/09_hartcliffe.html)
-
-  [2010](http://fellrunner.org.uk/results/race10/10_hartcliff_hill.html)
-
-  [2011](http://fellrunner.org.uk/results.php?id=650)
-
-  [2012](http://fellrunner.org.uk/results.php?id=1246)
-
-  [2013](http://fellrunner.org.uk/results.php?id=1847)
-
-  [2015](http://pfrac.co.uk/wp-content/uploads/2015/07/Hartcliff-2015-Results.pdf)
-
-  [2016](http://pfrac.co.uk/wp-content/uploads/2016/04/Hartcliff-2016-Results.pdf)
-
-  [2017](http://pfrac.co.uk/wp-content/uploads/2017/04/Hartcliff-2017-Results.pdf)
-
-  [2018](http://pfrac.co.uk/wp-content/uploads/2018/04/Hartcliff-2018-Results.pdf)
-
-  [2019](http://pfrac.co.uk/wp-content/uploads/2019/05/Hartcliff-2019-Results.pdf)
-
-
-  Races in 2014, 2020 and 2021 were cancelled.
-course_records: |
-  ### Current course &ndash; since 2015
-
-  Male: Max Wainwright, Dark Peak Fell Runners, 2019 &ndash; 15:37
-
-  Female: Katie Walshaw, Holmfirth Harriers, 2019 &ndash; 17:47
-
-  ### Previous course:
-
-  Male: Stuart Bond, Tommy's Fell Stars, 2009 &ndash; 14:54
-
-  Female: N White, Bingley Harriers & AC, 2006 &ndash; 17:19
+entry: ""
+registration: ""
+results: " "
+course_records: ""
 ---
 Hartcliff Hill is a BS category fell race on a marked and marshalled course &ndash; no navigation or prior experience required. The terrain is rough and can be extremely boggy.
 
@@ -66,14 +19,42 @@ The race starts and finishes about ¾ mile from Langsett Barn so allow time afte
 
 #### Entry
 
-
+Entry £4.50 on the day for FRA or EA members; £5.50 for non-members.
+Minimum age 12 on the day.
 
 #### Registration
 
-
+From 18:30 at [Langsett Barn](https://www.google.co.uk/maps/place/Langsett+Barn+Outdoor+Centre/@53.5003511,-1.6853282,17z/data=!3m1!4b1!4m5!3m4!1s0x487bd650d87862bb:0xe1e1bf038b748d28!8m2!3d53.5003511!4d-1.6831395), S36 4GY (on the A616, 1 mile SE of the [Flouch Roundabout](https://www.google.co.uk/maps/place/Flouch+Roundabout,+Sheffield+S36+4AA/@53.5089589,-1.7041355,17z/data=!3m1!4b1!4m5!3m4!1s0x487bd70297198877:0x31271495d144b090!8m2!3d53.5089589!4d-1.7019468)). Grid ref: SE211005
 
 #### Results
 
+[2005](http://fellrunner.org.uk/results/race05/hartcliffe.htm)
+[2006](http://fellrunner.org.uk/results/race06/hartcliffe.txt)
+[2007](http://fellrunner.org.uk/results/race07/hartcliffehill.txt)
+[2008](http://fellrunner.org.uk/results/race08/hartcliffe08.txt)
+[2009](http://fellrunner.org.uk/results/race09/09_hartcliffe.html)
+[2010](http://fellrunner.org.uk/results/race10/10_hartcliff_hill.html)
+[2011](http://fellrunner.org.uk/results.php?id=650)
+[2012](http://fellrunner.org.uk/results.php?id=1246)
+[2013](http://fellrunner.org.uk/results.php?id=1847)
+[2015](http://pfrac.co.uk/wp-content/uploads/2015/07/Hartcliff-2015-Results.pdf)
+[2016](http://pfrac.co.uk/wp-content/uploads/2016/04/Hartcliff-2016-Results.pdf)
+[2017](http://pfrac.co.uk/wp-content/uploads/2017/04/Hartcliff-2017-Results.pdf)
+[2018](http://pfrac.co.uk/wp-content/uploads/2018/04/Hartcliff-2018-Results.pdf)
+[2019](http://pfrac.co.uk/wp-content/uploads/2019/05/Hartcliff-2019-Results.pdf)
 
+Races in 2014, 2020 and 2021 were cancelled.
 
 #### Course Records
+
+Current course &ndash; since 2015
+
+Male: Max Wainwright, Dark Peak Fell Runners, 2019 &ndash; 15:37
+
+Female: Katie Walshaw, Holmfirth Harriers, 2019 &ndash; 17:47
+
+Previous course:
+
+Male: Stuart Bond, Tommy's Fell Stars, 2009 &ndash; 14:54
+
+Female: N White, Bingley Harriers & AC, 2006 &ndash; 17:19
