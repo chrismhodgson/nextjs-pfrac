@@ -30,7 +30,7 @@ All members who are first claim Penistone for fell races will be included. Membe
 
 ### Qualifying races
 
-All qualifying races are listed in the [FRA fixtures calendar](http://fellrunner.org.uk/races.php) on the FRA website. Qualifying races are those registered with the FRA, which includes most of those listed in the calendar &ndash; on each race page, if the title of the race is followed by (R) it is an FRA registered race and it will count towards our championship. (Some other races are listed in the FRA calendar for information but are not FRA registered races). Senior races are those with no upper age limit: juniors running in senior races (where permitted) will be included in the League.
+All qualifying races are listed in the [FRA fixtures calendar](http://fellrunner.org.uk/races.php) on the FRA website. Qualifying races are those registered with the FRA, which includes most of those listed in the calendar &ndash; on each race page, under _PERMIT / INSURANCE_, if it says _This race has a Permit and associated UK Athletics insurance from the FRA_ it will count in the fell league. (Some other races are listed in the FRA calendar for information but are not FRA registered races). Senior races are those with no upper age limit: results for juniors running in senior races (where permitted) will be included in the league.
 
 ### Scoring
 
