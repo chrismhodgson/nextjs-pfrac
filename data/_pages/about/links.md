@@ -2,3 +2,48 @@
 title: Links
 order: 100
 ---
+#### Race result links
+
+[South Yorkshire County Athletics Association](http://www.sycaa.co.uk/)
+
+
+[British Athletics Power of 10 site](http://www.thepowerof10.info/athletes/athleteslookup.aspx?club=Penistone)
+
+
+[Fellrunners Association results pages](http://fellrunner.org.uk/results.php)
+
+
+[British Open Fell Runners Association results pages](http://bofra.co.uk/Results.php)
+
+
+[John Schofield's UK Results site](http://www.ukresults.net/index.html)
+
+
+[Latest parkrun results for PFRAC runners](http://www.parkrun.com/results/consolidatedclub/?clubNum=2801)
+
+
+[British Athletics runbritain site](http://www.runbritainrankings.com/runners/runnerslookup.aspx?Club=Penistone)
+
+
+
+#### Other Local Clubs
+
+
+
+
+
+
+
+#### Other links
+
+
+
+[Steve Frith Photography](https://www.stevefrithphotography.com)
+
+
+
+<iframe src="https://www.strava.com/clubs/penistone/latest-rides/5d90c0226d91362addf6d4a84bd6c29619d91302?show_rides=false" width="400" height="160" frameborder="0" scrolling="no"></iframe>
+
+
+
+[The exit](http://www.1112.net/lastpage.html)
