@@ -2,11 +2,11 @@
 title: Club Championship
 order: 10
 ---
-### The 2022 Club Championship
+#### The 2022 Club Championship
 
 The format of the Championship in 2022 is unchanged from the planned 2020 Championship, with many of the same races.
 
-All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/calendar) with links for further information – use the _Championship_ filter.
+All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
 
 The competition involves races across three main sections (Road, Trail/Cross-Country and Fell) plus the club mile. The Championship comprises 22 fixed races (7 from each section plus the club mile), but two of the events are local series of races: Spencer's Dash (road) and Silkstone Shuffle (trail/cross country). Members can run as many of the Spencer's Dash or Silkstone Shuffle series as they wish, and their season’s best time from each will be counted.
 
@@ -14,11 +14,11 @@ The club mile is an additional event which will not count towards any of the thr
 
 This gives 22 events in the Championship competition, and all the races are listed at the bottom of this page with links for further information, as they become available.
 
-### Results
+#### Results
 
 Current standings for 2022 are [here](http://results.pfrac.co.uk/http://results.pfrac.co.uk/Championship2022/Challenge.html).
 
-Final standings for previous years:
+Results for previous years:
 [2004](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2004-Results.xlsx)
 [2005](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2005-Results.xlsx)
 [2006](http://pfrac.co.uk/wp-content/uploads/2015/11/Championship-2006-Results.xlsx)
@@ -32,7 +32,7 @@ Final standings for previous years:
 [2017](http://pfrac.co.uk/wp-content/uploads/2017/12/Championship-2017-Results.pdf)
 [2018 onwards](http://results.pfrac.co.uk)
 
-### Qualification
+#### Qualification
 
 Qualification for the section Championships and overall Championship is exactly as in recent years: to qualify for each section you need to compete in at least 3 of the section events (out of 7 events, including, if you wish, the series event, but you don’t have to run the Spencer’s Dash or Silkstone Shuffle).
 
@@ -40,9 +40,9 @@ To qualify for the Overall Championship you have to compete in 9 from the total 
 
 All first claim members are included in the Championship. Juniors running in senior races (where permitted) will be included in the Under 20 category. Members joining (or re-joining) during the year will only have results counted from the date their subscription has been paid.
 
-### Scoring
+#### Scoring
 
-Points are calculated based on their time relative to the overall race winner (male and female respectively). This is exactly the same as the [Fell League](http://pfrac.co.uk/club-competitions/fell-league/). If a PFR runner is first overall (ie first male or first female), he or she will get 100 points. If your time is exactly double the winner’s time, you get 50 points: the points are calculated on a scale so the faster you run the more points you get. For the series events, the points are based on your fastest time of the series relative to the fastest race winning time of the series.
+Points are calculated based on their time relative to the overall race winner (male and female respectively). This is exactly the same as the [Fell League](https://pfrac.chrishodgson.co.uk/competitions/fell-league). If a PFR runner is first overall (ie first male or first female), he or she will get 100 points. If your time is exactly double the winner’s time, you get 50 points: the points are calculated on a scale so the faster you run the more points you get. For the series events, the points are based on your fastest time of the series relative to the fastest race winning time of the series.
 
 The main advantages of this method are: 1) it means that every second you run faster will gain you points (not a lot, but something – unless you are the race winner). Beating another Penistone runner (of the same sex) in a race will always mean you get more points than them – but the bigger the gap you get the more points you gain. 2) you don’t get points as a result of other PFR runners not turning up – you get points for your own performance.
 
@@ -50,7 +50,7 @@ The disadvantage of this method is that your points do depend on how fast the wi
 
 The Challenge Championship will still be as it currently is – the total points from all events completed (including your best Spencers Dash and Silkstone Shuffle, and the club mile).
 
-### Prizes
+#### Prizes
 
 Your age group for the Championship in any year is determined by your age on January 1st. Prizes will be awarded for each age group for both male and female categories for each section winners, eg Fell Lady Vet 40.
 
