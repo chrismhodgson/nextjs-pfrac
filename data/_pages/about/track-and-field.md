@@ -16,7 +16,7 @@ The club also really needs members to become qualified track and field officials
 
 ### Division East 2 Fixtures 2022
 
-- Saturday 30 April, Cudworth
+- [Saturday 30 April, Cudworth](https://www.thepowerof10.info/results/results.aspx?meetingid=445769)
 - Sunday 12 June, Cudworth
 - Sunday 10 July, Cleckheaton
 - Saturday 6 August, Mansfield
