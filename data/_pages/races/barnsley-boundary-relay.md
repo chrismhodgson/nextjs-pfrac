@@ -1,6 +1,6 @@
 ---
 title: Barnsley Boundary Relay
-category: Trail
+category: Multi-terrain relay
 start_date_time: 08:00; 11 June 2022 – see below for individual leg start times
 organiser: "Steve Dickinson: steve@osi.uk.com – 07850 445613"
 order: 10
