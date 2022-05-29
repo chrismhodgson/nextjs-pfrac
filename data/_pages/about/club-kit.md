@@ -16,11 +16,12 @@ Click on images to expand.
 
 ### Club vests – £23.00
 All sizes, junior and senior – _Essential kit item for racing. Great fit, longer length than most club vests and don’t ride up when you wear them!_
-[![Vest Dan](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-new-vest-dan-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-new-vest-dan.jpg)[![Vest front](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-new-vest-front-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-new-vest-front.jpg) 
+[![Vest Dan](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-new-vest-dan-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-new-vest-dan.jpg)
+[![Vest front](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-new-vest-front-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-new-vest-front.jpg) 
 
 ### Technical t-shirts – £20.00
 All sizes, junior and senior – _These can be used for racing and work really well in the winter with a base layer underneath._
-[![T-shirt front](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-t-shirt-front-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-t-shirt-front.jpg) 
+[![T-shirt front](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-t-shirt-front-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-t-shirt-front.jpg)
 [![T-shirt back](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-t-shirt-back-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/pfrac-t-shirt-back.jpg) 
 
 
