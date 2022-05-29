@@ -6,7 +6,7 @@ distance: 8.1 miles/13km with 1,500ft/450m of ascent.
 organiser: "Steve Dickinson: steve@osi.uk.com – 07850 445613"
 registration: "\n\n"
 results: " "
-strava_url: ""
+strava_url: https://www.strava.com/segments/30676795/embed
 order: 40
 entry: ""
 course_records: ""
