@@ -31,7 +31,7 @@ Registration and number collection from 09:00 at Rafters Bar, adjoined to the Wa
 
 #### Previous Race Results
 
-#### Amble's Revenge
+Amble's Revenge
 
 [2015/16](http://pfrac.co.uk/wp-content/uploads/2016/05/AmblesRevengeResults2016.pdf)
 [2016/17](http://pfrac.co.uk/wp-content/uploads/2017/01/AmblesRevengeResults2017.pdf)
@@ -40,7 +40,7 @@ Registration and number collection from 09:00 at Rafters Bar, adjoined to the Wa
 [2019/20](https://racebest.com/results/xvc86)
 [2020/21](https://racebest.com/results/sv62v)
 
-#### Oxspring Hunshelf Amble
+Oxspring Hunshelf Amble
 
 [2014](http://pfrac.co.uk/wp-content/uploads/2014/12/OxspringHunshelfAmbleResults2014.pdf)
 [2015](http://pfrac.co.uk/wp-content/uploads/2015/06/OxspringHunshelfAmbleResults2015.pdf)
@@ -49,7 +49,7 @@ Registration and number collection from 09:00 at Rafters Bar, adjoined to the Wa
 [2018](http://pfrac.co.uk/wp-content/uploads/2018/07/OxspringHunshelfAmbleResults2018.pdf)
 [2019](http://pfrac.co.uk/wp-content/uploads/2019/07/OxspringHunshelfAmbleResults2019.pdf)
 
-#### Hunshelf Amble
+Hunshelf Amble
 
 [2003](http://pfrac.co.uk/wp-content/uploads/2014/10/HunshelfAmbleResults2003.pdf)
 [2006](http://pfrac.co.uk/wp-content/uploads/2014/10/HunshelfAmbleResults2006.pdf)
@@ -60,25 +60,25 @@ Registration and number collection from 09:00 at Rafters Bar, adjoined to the Wa
 
 #### Course Records
 
-#### Amble's Revenge (2019 onwards)
+Amble's Revenge (2019 onwards)
 
 Male: Scott Hinchcliffe, Penistone Footpath Runners & AC, 2019 &ndash; 50:35
 
 Female: Sam Shaw, Penistone Footpath Runners & AC,2019 &ndash; 62:01
 
-#### Amble's Revenge (2016&ndash;18 course)
+Amble's Revenge (2016&ndash;18 course)
 
 Male: Scott Hinchcliffe, Penistone Footpath Runners & AC, 2018 &ndash; 50:21
 
 Female: Zanthe Wray, Dark Peak Fell Runners, 2017 &ndash; 58:37
 
-#### Oxspring Hunshelf Amble
+Oxspring Hunshelf Amble
 
 Male: Andy Swift, Penistone Footpath Runners & AC, 2014 &ndash; 50:07
 
 Female: Helen Pickford, Sheffield Running Club, 2014 &ndash; 61:12
 
-#### Race maps
+#### Route
 
 The December 2021 Amble's Revenge route map is available [here](http://pfrac.co.uk/club-races/oxspring-hunshelf-amble/ambles-revenge-route-2021/).
 
