@@ -10,7 +10,7 @@ strava_url: https://www.strava.com/segments/18044628/embed
 order: 30
 entry: ""
 ---
-The Penistone 10K (formerly the Penistone Show 10K) was established over 30 years ago. It is run under UK Athletics rules of competition on roads and the Trans-Pennine Trail (asphalt surface) around Penistone. [![Bill Reynolds Memorial Trophy Logo](https://pfrac.chrishodgson.co.uk/static/uploads/bill-reynolds-logo-2017.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/bill-reynolds-logo-2017.jpg)
+The Penistone 10K (formerly the Penistone Show 10K) was established over 30 years ago. It is run under UK Athletics rules of competition on roads and the Trans-Pennine Trail (asphalt surface) around Penistone.
 
 #### Entry
 
@@ -54,3 +54,5 @@ The races in 2020 and 2021 were cancelled.
 Male: ???
 
 Female: ???
+
+[![Bill Reynolds Memorial Trophy Logo](https://pfrac.chrishodgson.co.uk/static/uploads/bill-reynolds-logo-2017.jpg)](https://pfrac.chrishodgson.co.uk/static/uploads/bill-reynolds-logo-2017.jpg)
