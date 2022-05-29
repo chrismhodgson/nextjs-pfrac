@@ -5,7 +5,7 @@ order: 70
 
 We have a full range of PFR branded kit available. Most sizes are kept in stock however orders can be placed if we do not have the size you require.
 
-When racing club members should wear a club vest (or technical t-shirt) and black shorts, tights or tracksters. Club vests all have the club logo.
+When racing club members should wear a club vest (or technical t-shirt) and black shorts, tights or running trousers. Club vests all have the club logo.
 
 Please contact [Jemma Williams](mailto:jemstone1981@hotmail.com) to enquire about or order any kit.
 
