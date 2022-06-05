@@ -26,10 +26,7 @@ Results for previous years:
 [2015–16](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
 [2016–17](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
 [2017–18](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
-[2018–19](http://results.pfrac.co.uk/SeniorWinterHandicap2018/League%20Table.html)
-[2019–20](http://results.pfrac.co.uk/SeniorWinterHandicap2019/League%20Table.html)
-[2020](http://results.pfrac.co.uk/SeniorWinterHandicap2020/League%20Table.html)
-[2021](http://results.pfrac.co.uk/SeniorWinterHandicap2021/League%20Table.html)
+[2018–19 onwards](http://results.pfrac.co.uk)
 
 #### Details
 
