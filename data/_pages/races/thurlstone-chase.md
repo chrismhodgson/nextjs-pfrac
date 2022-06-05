@@ -62,3 +62,4 @@ Female: 22:40 &ndash; C Haigh, 1985
 
 #### Route
 
+The 2021 Thurlstone Chase route map is available [here](https://pfrac.chrishodgson.co.uk/static/images/maps/thurlstone-chase-2021.jpg).
