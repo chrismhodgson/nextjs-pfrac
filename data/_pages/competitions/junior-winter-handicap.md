@@ -24,3 +24,29 @@ Results for previous years:
 
 #### Course Records
 
+One lap (1100m)
+
+Under 11 boys: Nathan Fletcher, 10 February 2015 – 4:00
+
+Under 11 girls: Graihagh Turner, 21 January 2020 – 4:03
+
+Two laps (2200m)
+
+Under 13 boys: Alex O'Gorman, 1 December 1998 – 8:15
+ 
+Under 13 girls: Graihagh Turner, 21 December 2021 – 8:11
+
+Under 15 girls: Hope Claydon, 15 December 2015 – 8:55
+
+Three laps (3300m)
+
+Under 15 boys: Hugh Mackie, 25 September 2018 – 11:43
+
+Under 15 girls: No record
+
+Under 17 boys: Hugh Mackie, 22 October 2019 – 11:17
+
+Under 17 girls: Hope Claydon, 13 December 2016 – 14:04
+
+(Until 2022, under 15 girls ran two laps)
+
