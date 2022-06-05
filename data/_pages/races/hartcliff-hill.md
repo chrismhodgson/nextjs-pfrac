@@ -37,11 +37,11 @@ From 18:30 at [Langsett Barn](https://www.google.co.uk/maps/place/Langsett+Barn+
 [2011](http://fellrunner.org.uk/results.php?id=650)
 [2012](http://fellrunner.org.uk/results.php?id=1246)
 [2013](http://fellrunner.org.uk/results.php?id=1847)
-[2015](http://pfrac.co.uk/wp-content/uploads/2015/07/Hartcliff-2015-Results.pdf)
-[2016](http://pfrac.co.uk/wp-content/uploads/2016/04/Hartcliff-2016-Results.pdf)
-[2017](http://pfrac.co.uk/wp-content/uploads/2017/04/Hartcliff-2017-Results.pdf)
-[2018](http://pfrac.co.uk/wp-content/uploads/2018/04/Hartcliff-2018-Results.pdf)
-[2019](http://pfrac.co.uk/wp-content/uploads/2019/05/Hartcliff-2019-Results.pdf)
+[2015](https://pfrac.chrishodgson.co.uk/static/results/hartcliff-hill/hartcliff-2015-results.pdf)
+[2016](https://pfrac.chrishodgson.co.uk/static/results/hartcliff-hill/hartcliff-2016-results.pdf)
+[2017](https://pfrac.chrishodgson.co.uk/static/results/hartcliff-hill/hartcliff-2017-results.pdf)
+[2018](https://pfrac.chrishodgson.co.uk/static/results/hartcliff-hill/hartcliff-2018-results.pdf)
+[2019](https://pfrac.chrishodgson.co.uk/static/results/hartcliff-hill/hartcliff-2019-results.pdf)
 
 Races in 2014, 2020 and 2021 were cancelled.
 
