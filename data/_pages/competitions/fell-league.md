@@ -18,7 +18,7 @@ Tables will be published here and updated at least every month, but the onus is 
 Current standings for 2022 are [here](http://results.pfrac.co.uk/FellLeague2022/Races.html).
 
 Results for previous years:
-[2017](http://pfrac.co.uk/wp-content/uploads/2018/01/Fell-League-2017-Results.pdf)
+[2017](https://pfrac.chrishodgson.co.uk/static/results/fell-league/fell-league-2017-results.pdf)
 [2018](http://results.pfrac.co.uk/FellLeague2018/Races.html)
 [2019](http://results.pfrac.co.uk/FellLeague2019/Races.html)
 [2020](http://results.pfrac.co.uk/FellLeague2020/Races.html)
