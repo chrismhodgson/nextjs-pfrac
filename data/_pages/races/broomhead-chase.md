@@ -12,7 +12,7 @@ course_records: ""
 ---
 The Broomhead Chase was a BS category fell race, held in conjunction with the Broomhead Show. First organised in 1997, it was run every year except 2001 and 2016 until 2019. The Broomhead Show has ended, and there are no plans to organise the fell race in the future.
 
-#### Past race results
+#### Results
 
 [2019](https://fellrunner.org.uk/results.php?id=5893
 [2018](https://pfrac.chrishodgson.co.uk/static/results/broomhead-chase/broomhead-2018-results.pdf)
@@ -25,7 +25,7 @@ The Broomhead Chase was a BS category fell race, held in conjunction with the Br
 
 2012 results missing
 
-#### Course records
+#### Course Records
 
 Male: Josh Williams, Dark Peak Fell Runners, 2014 &ndash; 24:29
 
