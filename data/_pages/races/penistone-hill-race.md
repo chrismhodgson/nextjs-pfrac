@@ -24,7 +24,7 @@ Minimum age 17 on the day.
 
 Registration from 9am at [Penistone Leisure Centre](https://www.google.co.uk/maps/place/Penistone+Leisure+Centre/@53.5295002,-1.640685,17z/data=!3m1!4b1!4m5!3m4!1s0x48797d601549d167:0x299f865051d4014b!8m2!3d53.5295099!4d-1.6384976), Thurlstone Road, S36 9EF (Grid Ref SE241037) &ndash; allow 10 minutes to walk to the start on [Penistone Showground](https://www.google.co.uk/maps/place/Penistone+Show+Ground/@53.5257723,-1.6358652,17z/data=!3m1!4b1!4m5!3m4!1s0x48797d6164f4b287:0x6f08ef10f1d0cc7a!8m2!3d53.5257723!4d-1.6358652) (behind Tesco).  Parking, changing rooms, showers, hot food available.
 
-#### Previous Race Results
+#### Results
 
 [2013](https://thepowerof10.info/results/results.aspx?meetingid=139172)
 [2014](https://www.runbritainrankings.com/results/results.aspx?meetingid=122543)
@@ -37,10 +37,12 @@ Registration from 9am at [Penistone Leisure Centre](https://www.google.co.uk/map
 
 The 2020 race was cancelled.
 
-#### Course records
+#### Course Records
 
 Male: Tom Saville, Dark Peak Fell Runners, 2018 &ndash; 40:15
 
 Female: Caitlin Rice, Ribble Valley Harriers, 2017 &ndash; 48:57
 
-#### Route map
+#### Route
+
+To be added
