@@ -18,7 +18,7 @@ Current standings for 2022 are [here](http://results.pfrac.co.uk/parkrun2022/Ove
 
 Results for previous years are [here](http://results.pfrac.co.uk).
 
-#### Qualifying runners
+#### Qualifying Runners
 
 All members will be included as long as they have Penistone Footpath Runners registered with parkrun as their club. To add Penistone as your club click on "manage my profile" in any of your results emails from parkrun, and then use the "update" link on the _My Links_ page.
 
