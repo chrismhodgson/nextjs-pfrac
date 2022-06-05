@@ -43,7 +43,3 @@ order: 100
 
 
 <iframe src="https://www.strava.com/clubs/penistone/latest-rides/5d90c0226d91362addf6d4a84bd6c29619d91302?show_rides=false" width="400" height="160" frameborder="0" scrolling="no"></iframe>
-
-
-
-[The exit](http://www.1112.net/lastpage.html)
