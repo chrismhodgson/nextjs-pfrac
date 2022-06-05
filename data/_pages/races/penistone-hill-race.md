@@ -26,18 +26,14 @@ Registration from 9am at [Penistone Leisure Centre](https://www.google.co.uk/map
 
 #### Previous Race Results
 
-[2013](http://pfrac.co.uk/docs/Race%20Results%202013.pdf)
-[2014](http://pfrac.co.uk/wp-content/uploads/2014/10/Penistone-Hill-Race-results-2014.pdf)
-[2015 Individual](http://pfrac.co.uk/wp-content/uploads/2015/09/Penistone-Hill-Race-results-2015.pdf)
-[2015 Team](http://pfrac.co.uk/wp-content/uploads/2015/09/Penistone-Hill-Race-team-results-2015.pdf)
-[2016 Individual](http://pfrac.co.uk/wp-content/uploads/2016/09/Penistone-Hill-Race-results-2016.pdf)
-[2016 Team](http://pfrac.co.uk/wp-content/uploads/2016/09/Penistone-Hill-Race-team-results-2016.pdf)
-[2017 Individual](http://pfrac.co.uk/wp-content/uploads/2017/09/Penistone-Hill-Race-results-2017.pdf)
-[2017 Team](http://pfrac.co.uk/wp-content/uploads/2017/09/Penistone-Hill-Race-team-results-2017.pdf)
-[2018](http://pfrac.co.uk/wp-content/uploads/2018/10/Penistone-Hill-Race-results-2018.pdf)
+[2013](https://thepowerof10.info/results/results.aspx?meetingid=139172)
+[2014](https://www.runbritainrankings.com/results/results.aspx?meetingid=122543)
+[2015](https://www.runbritainrankings.com/results/results.aspx?meetingid=150197)
+[2016](https://thepowerof10.info/results/results.aspx?meetingid=183291)
+[2017](https://www.runbritainrankings.com/results/results.aspx?meetingid=218984)
+[2018](https://thepowerof10.info/results/results.aspx?meetingid=259816)
 [2019](http://pfrac.co.uk/wp-content/uploads/2019/09/Penistone-Hill-Race-results-2019.pdf)
-[2021 Individual](http://pfrac.co.uk/wp-content/uploads/2022/01/Penistone-Hill-Race-results-2021.pdf)
-[2021 Team](http://pfrac.co.uk/wp-content/uploads/2022/01/Penistone-Hill-Race-team-results-2021.pdf)
+[2021](https://www.runbritainrankings.com/results/results.aspx?meetingid=436543)
 
 The 2020 race was cancelled.
 
