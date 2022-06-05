@@ -16,7 +16,7 @@ You will get one _tourist point_ for each different event (ie different location
 
 Current standings for 2022 are [here](http://results.pfrac.co.uk/parkrun2022/Overall.html).
 
-Results for previous years are [here](http://results.pfrac.co.uk/).
+Results for previous years are [here](http://results.pfrac.co.uk).
 
 #### Qualifying runners
 
