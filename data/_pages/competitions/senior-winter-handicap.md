@@ -17,19 +17,19 @@ Provisional dates for 2022 are listed below.
 | 5    | 29 November  |         |        |
 | 6    | 13 December  |         |        |
 
-[The route](http://pfrac.co.uk/wp-content/uploads/2013/07/WHMap.jpg) is approximately 4½ miles long with about 600 feet of ascent. It starts from Penistone Leisure Centre and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
+[The route](https://pfrac.chrishodgson.co.uk/static/images/maps/senior-wh.jpg) is approximately 4½ miles long with about 600 feet of ascent. It starts from Penistone Leisure Centre and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
 
 #### Results
 
 Results for previous years:
-[2021](http://results.pfrac.co.uk/SeniorWinterHandicap2021/League%20Table.html)
-[2020](http://results.pfrac.co.uk/SeniorWinterHandicap2020/League%20Table.html)
-[2019–20](http://results.pfrac.co.uk/SeniorWinterHandicap2019/League%20Table.html)
+[2014–15](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
+[2015–16](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
+[2016–17](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
+[2017–18](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
 [2018–19](http://results.pfrac.co.uk/SeniorWinterHandicap2018/League%20Table.html)
-[2017–18](http://pfrac.co.uk/wp-content/uploads/2018/01/WH-2017-18-Results.pdf)
-[2016–17](http://pfrac.co.uk/wp-content/uploads/2017/02/WH-2016-17-Results.pdf)
-[2015–16](http://pfrac.co.uk/wp-content/uploads/2016/03/WH-2015-16-Final-Results.pdf)
-[2014–15](http://pfrac.co.uk/wp-content/uploads/2015/03/WH-WMA-Final-2015.xlsx)
+[2019–20](http://results.pfrac.co.uk/SeniorWinterHandicap2019/League%20Table.html)
+[2020](http://results.pfrac.co.uk/SeniorWinterHandicap2020/League%20Table.html)
+[2021](http://results.pfrac.co.uk/SeniorWinterHandicap2021/League%20Table.html)
 
 #### Details
 
