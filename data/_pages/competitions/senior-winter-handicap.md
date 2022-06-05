@@ -22,9 +22,9 @@ Provisional dates for 2022 are listed below.
 #### Results
 
 Results for previous years:
-[2014–15](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
-[2015–16](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
-[2016–17](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
+[2014–15](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2014-15-results.pdf)
+[2015–16](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2015-16-results.pdf)
+[2016–17](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2016-17-results.pdf)
 [2017–18](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
 [2018–19 onwards](http://results.pfrac.co.uk)
 
