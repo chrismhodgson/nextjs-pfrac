@@ -28,6 +28,8 @@ These clubs organise races that PFRAC often compete in.
 
 [Barnsley Harriers](http://www.barnsleyharriers.org.uk/)
 
+[Dark Peak Fell Runners](https://www.dpfr.org.uk/)
+
 [Denby Dale AC](https://www.denbydaleac.co.uk/)
 
 [Hillsborough & Rivelin Running Club](https://hillsboroughandrivelinrunningclub.co.uk/)
