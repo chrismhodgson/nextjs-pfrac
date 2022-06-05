@@ -29,7 +29,7 @@ The race will be run under UK Athletics rules of competition &ndash; Multi-Terra
 
 Registration and number collection from 09:00 at Rafters Bar, adjoined to the Waggon & Horses, Oxspring, S36 8YQ.
 
-#### Previous Race Results
+#### Results
 
 Amble's Revenge
 
