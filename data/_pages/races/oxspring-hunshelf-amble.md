@@ -82,4 +82,4 @@ Female: Helen Pickford, Sheffield Running Club, 2014 &ndash; 61:12
 
 The December 2021 Amble's Revenge route map is available [here](https://pfrac.chrishodgson.co.uk/static/images/maps/revenge-2021.jpg).
 
-A GPX file for the route is [here](https://pfrac.chrishodgson.co.uk/static/gpx_files/revenge-2021.gpx).
+A GPX file for the route is [here](https://pfrac.chrishodgson.co.uk/static/gpx-files/revenge-2021.gpx).

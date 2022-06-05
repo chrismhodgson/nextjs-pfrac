@@ -31,25 +31,25 @@ The links below give maps and GPX files for each leg. The GPX files can be downl
 | Leg                                   | Start time (approx)                                                                | Distance/climb                                                               |
 | ------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | 1: Cannon Hall to Bretton Park        | 08:00                                                                              | 5.1M/528'                                                                    |
-|     Start: S75 4AR / SE 27283 07944   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-1.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx_files/bb-leg-1.gpx)  |
+|     Start: S75 4AR / SE 27283 07944   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-1.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx-files/bb-leg-1.gpx)  |
 | 2: Bretton Park to Brierley           | 08:30                                                                              | 10.4M/768'                                                                   |
-|     Start: S75 4BZ / SE 29960 12013   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-2.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx_files/bb-leg-2.gpx)  |
+|     Start: S75 4BZ / SE 29960 12013   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-2.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx-files/bb-leg-2.gpx)  |
 | 3: Brierley to Thurnscoe              | 09:40                                                                              | 6.6M/459'                                                                    |
-|     Start: S72 9JX / SE 40468 11116   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-3.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx_files/bb-leg-3.gpx)  |
+|     Start: S72 9JX / SE 40468 11116   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-3.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx-files/bb-leg-3.gpx)  |
 | 4: Thurnscoe to Brampton              | 10:20                                                                              | 6.4M/196'                                                                    |
-|     Start: S63 0BH / SE 46513 05383   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-4.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx_files/bb-leg-4.gpx)  |
+|     Start: S63 0BH / SE 46513 05383   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-4.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx-files/bb-leg-4.gpx)  |
 | 5: Brampton to Tankersley             | 11:00                                                                              | 5.1M/486'                                                                    |
-|     Start: S73 0SS / SE 41050 02197   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-5.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx_files/bb-leg-5.gpx)  |
+|     Start: S73 0SS / SE 41050 02197   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-5.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx-files/bb-leg-5.gpx)  |
 | 6: Tankersley to Wortley Station      | 11:30                                                                              | 11.4M/1620'                                                                  |
-|     Start: S74 0DU / SK 34896 99492   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-6.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx_files/bb-leg-6.gpx)  |
+|     Start: S74 0DU / SK 34896 99492   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-6.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx-files/bb-leg-6.gpx)  |
 | 7: Wortley Station to Langsett Barn   | 12:45                                                                              | 6.5M/1074'                                                                   |
-|     Start: S35 7DL / SK 29861 99246   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-7.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx_files/bb-leg-7.gpx)  |
+|     Start: S35 7DL / SK 29861 99246   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-7.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx-files/bb-leg-7.gpx)  |
 | 8: Langsett Barn to Winscar Reservoir | 13:40                                                                              | 5.7M/814'                                                                    |
-|     Start: S36 4GY / SE 21082 00444   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-8.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx_files/bb-leg-8.gpx)  |
+|     Start: S36 4GY / SE 21082 00444   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-8.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx-files/bb-leg-8.gpx)  |
 | 9: Winscar Reservoir to Upper Denby   | 14:20                                                                              | 10.5M/1188'                                                                  |
-|     Start: S36 4TF / SE 15296 02048   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-9.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx_files/bb-leg-9.gpx)  |
+|     Start: S36 4TF / SE 15296 02048   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-9.jpg)  |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx-files/bb-leg-9.gpx)  |
 | 10: Upper Denby to Cannon Hall        | 15:30                                                                              | 4.0M/210'                                                                    |
-|     Start: HD8 8UE / SE 22927 07366   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-10.jpg) |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx_files/bb-leg-10.gpx) |
+|     Start: HD8 8UE / SE 22927 07366   |                 [Map](https://pfrac.chrishodgson.co.uk/static/images/maps/bb-leg-10.jpg) |                 [GPX](https://pfrac.chrishodgson.co.uk/static/gpx-files/bb-leg-10.gpx) |
 
 If anyone finds any errors in the GPX files, please contact [Paul Fryers](mailto:paul.fryers@gmail.com).
 
