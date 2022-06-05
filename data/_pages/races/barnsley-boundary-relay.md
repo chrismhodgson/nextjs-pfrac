@@ -20,7 +20,7 @@ GPX files and maps are available for all 10 legs below. If you had previously do
 
 The race is run under a England Athletics licence and minimum ages apply based on the distance of each leg: the minimum age for legs 1, 5, 8 and 10 is 16 and for all other legs is 17.
 
-#### The route
+#### The Route
 
 The first leg starts at 8am. The second leg starts when the first runner reaches the end of leg 1. All leg 2 runners set off together, and so on through the race. Times for each leg are aggregated at the end of the race and the fastest teams in each category (Men, M40+, M50+, M60+, Ladies, L40+ and Mixed) announced at the prize ceremony, which is held in the evening after the race.
 
