@@ -33,30 +33,30 @@ Registration and number collection from 09:00 at Rafters Bar, adjoined to the Wa
 
 Amble's Revenge
 
-[2015/16](http://pfrac.co.uk/wp-content/uploads/2016/05/AmblesRevengeResults2016.pdf)
-[2016/17](http://pfrac.co.uk/wp-content/uploads/2017/01/AmblesRevengeResults2017.pdf)
-[2017/18](http://pfrac.co.uk/wp-content/uploads/2017/12/Hunshelf_2017_12_31.pdf)
-[2018/19](http://pfrac.co.uk/wp-content/uploads/2019/01/AmblesRevengeResults2018.pdf)
+[2015/16](https://pfrac.chrishodgson.co.uk/static/results/revenge/revenge-2015-16-results.pdf)
+[2016/17](https://pfrac.chrishodgson.co.uk/static/results/revenge/revenge-2016-17-results.pdf)
+[2017/18](https://pfrac.chrishodgson.co.uk/static/results/revenge/revenge-2017-18-results.pdf)
+[2018/19](https://pfrac.chrishodgson.co.uk/static/results/revenge/revenge-2018-19-results.pdf)
 [2019/20](https://www.runbritainrankings.com/results/results.aspx?meetingid=338437&event=8.1MMT&venue=Oxspring&date=29-Dec-19)
-[2020/21](https://www.runbritainrankings.com/results/results.aspx?meetingid=440754&event=7.75MMT&venue=Sheffield&date=28-Dec-21)
+[2021/22](https://www.runbritainrankings.com/results/results.aspx?meetingid=440754&event=7.75MMT&venue=Sheffield&date=28-Dec-21)
 
 Oxspring Hunshelf Amble
 
-[2014](http://pfrac.co.uk/wp-content/uploads/2014/12/OxspringHunshelfAmbleResults2014.pdf)
-[2015](http://pfrac.co.uk/wp-content/uploads/2015/06/OxspringHunshelfAmbleResults2015.pdf)
-[2016](http://pfrac.co.uk/wp-content/uploads/2016/07/OxspringHunshelfAmbleResults2016.pdf)
-[2017](http://pfrac.co.uk/wp-content/uploads/2017/07/OxspringHunshelfAmbleResults2017.pdf)
-[2018](http://pfrac.co.uk/wp-content/uploads/2018/07/OxspringHunshelfAmbleResults2018.pdf)
-[2019](http://pfrac.co.uk/wp-content/uploads/2019/07/OxspringHunshelfAmbleResults2019.pdf)
+[2014](https://pfrac.chrishodgson.co.uk/static/results/revenge/amble-2014-results.pdf)
+[2015](https://pfrac.chrishodgson.co.uk/static/results/revenge/amble-2015-results.pdf)
+[2016](https://pfrac.chrishodgson.co.uk/static/results/revenge/amble-2016-results.pdf)
+[2017](https://pfrac.chrishodgson.co.uk/static/results/revenge/amble-2017-results.pdf)
+[2018](https://pfrac.chrishodgson.co.uk/static/results/revenge/amble-2018-results.pdf)
+[2019](https://pfrac.chrishodgson.co.uk/static/results/revenge/amble-2019-results.pdf)
 
 Hunshelf Amble
 
-[2003](http://pfrac.co.uk/wp-content/uploads/2014/10/HunshelfAmbleResults2003.pdf)
-[2006](http://pfrac.co.uk/wp-content/uploads/2014/10/HunshelfAmbleResults2006.pdf)
-[2007](http://pfrac.co.uk/wp-content/uploads/2014/10/HunshelfAmbleResults2007.pdf)
-[2009](http://pfrac.co.uk/wp-content/uploads/2014/10/HunshelfAmbleResults2009.pdf)
-[2010](http://pfrac.co.uk/wp-content/uploads/2014/10/HunshelfAmbleResults2010.pdf)
-[2011](http://pfrac.co.uk/wp-content/uploads/2014/10/HunshelfAmbleResults2011.pdf)
+[2003](https://pfrac.chrishodgson.co.uk/static/results/revenge/amble-2003-results.pdf)
+[2006](https://pfrac.chrishodgson.co.uk/static/results/revenge/amble-2006-results.pdf)
+[2007](https://pfrac.chrishodgson.co.uk/static/results/revenge/amble-2007-results.pdf)
+[2009](https://pfrac.chrishodgson.co.uk/static/results/revenge/amble-2009-results.pdf)
+[2010](https://pfrac.chrishodgson.co.uk/static/results/revenge/amble-2010-results.pdf)
+[2011](https://pfrac.chrishodgson.co.uk/static/results/revenge/amble-2011-results.pdf)
 
 #### Course Records
 
@@ -80,6 +80,6 @@ Female: Helen Pickford, Sheffield Running Club, 2014 &ndash; 61:12
 
 #### Route
 
-The December 2021 Amble's Revenge route map is available [here](http://pfrac.co.uk/club-races/oxspring-hunshelf-amble/ambles-revenge-route-2021/).
+The December 2021 Amble's Revenge route map is available [here](https://pfrac.chrishodgson.co.uk/static/images/maps/revenge-2021.jpg).
 
-A GPX file for the route is [here](http://results.pfrac.co.uk/BB_gpx_files/Ambles_Revenge_2021.gpx).
+A GPX file for the route is [here](https://pfrac.chrishodgson.co.uk/static/gpx_files/revenge-2021.gpx).
