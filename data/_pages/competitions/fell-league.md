@@ -21,11 +21,11 @@ Results for previous years:
 [2017](https://pfrac.chrishodgson.co.uk/static/results/fell-league/fell-league-2017-results.pdf)
 [2018 onwards](http://results.pfrac.co.uk)
 
-#### Qualifying runners
+#### Qualifying Runners
 
 All members who are first claim Penistone for fell races will be included. Members joining (or re-joining) during the year will only have results counted from the date their subscription has been paid.
 
-#### Qualifying races
+#### Qualifying Races
 
 All qualifying races are listed in the [FRA fixtures calendar](http://fellrunner.org.uk/races.php) on the FRA website. Qualifying races are those registered with the FRA, which includes most of those listed in the calendar &ndash; on each race page, under _PERMIT / INSURANCE_, if it says _This race has a Permit and associated UK Athletics insurance from the FRA_ it will count in the fell league. (Some other races are listed in the FRA calendar for information but are not FRA registered races). Senior races are those with no upper age limit: results for juniors running in senior races (where permitted) will be included in the league.
 
