@@ -20,16 +20,16 @@ Current standings for 2022 are [here](http://results.pfrac.co.uk/http://results.
 
 Results for previous years:
 [2004](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2004-results.xlsx)
-[2005](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2004-results.xlsx)
-[2006](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2004-results.xlsx)
-[2007](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2004-results.xlsx)
+[2005](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2005-results.xlsx)
+[2006](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2006-results.xlsx)
+[2007](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2007-results.xlsx)
 [2011](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2011-results.pdf)
-[2012](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2011-results.pdf)
-[2013](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2011-results.pdf)
-[2014](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2011-results.pdf)
-[2015](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2011-results.pdf)
-[2016](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2011-results.pdf)
-[2017](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2011-results.pdf)
+[2012](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2012-results.pdf)
+[2013](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2013-results.pdf)
+[2014](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2014-results.pdf)
+[2015](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2015-results.pdf)
+[2016](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2016-results.pdf)
+[2017](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2017-results.pdf)
 [2018 onwards](http://results.pfrac.co.uk)
 
 #### Qualification
