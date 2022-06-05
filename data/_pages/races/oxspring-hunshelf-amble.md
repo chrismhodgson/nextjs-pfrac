@@ -37,8 +37,8 @@ Amble's Revenge
 [2016/17](http://pfrac.co.uk/wp-content/uploads/2017/01/AmblesRevengeResults2017.pdf)
 [2017/18](http://pfrac.co.uk/wp-content/uploads/2017/12/Hunshelf_2017_12_31.pdf)
 [2018/19](http://pfrac.co.uk/wp-content/uploads/2019/01/AmblesRevengeResults2018.pdf)
-[2019/20](https://racebest.com/results/xvc86)
-[2020/21](https://racebest.com/results/sv62v)
+[2019/20](https://www.runbritainrankings.com/results/results.aspx?meetingid=338437&event=8.1MMT&venue=Oxspring&date=29-Dec-19)
+[2020/21](https://www.runbritainrankings.com/results/results.aspx?meetingid=440754&event=7.75MMT&venue=Sheffield&date=28-Dec-21)
 
 Oxspring Hunshelf Amble
 
