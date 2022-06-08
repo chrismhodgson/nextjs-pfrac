@@ -23,7 +23,7 @@ Online entry will be available nearer the event.
 
 Pre-entry fees: £12 for EA registered runners and £14 for non-EA registered.  Entries on the day if the race limit of 350 is not reached for an additional £2.
 
-The race will be run under UK Athletics rules of competition &ndash; Trail Running Association permit tbc. Minimum age to enter is 17 on the day of the race.
+The race will be run under UK Athletics rules of competition (Trail Running Association permit tbc). Minimum age to enter is 17 on the day of the race.
 
 #### Registration
 
