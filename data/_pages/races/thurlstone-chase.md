@@ -18,7 +18,7 @@ Prizes for the first 3 men and women, then 1st in each age category V40, V50, V6
 
 To pre-enter the race please complete this [online entry form](https://thurchase.uk.to/enter.php). This does not take payment &ndash; please bring £5 cash or cheque on the day. We are expecting it to be possible to enter on the day, but entries in advance help with organisation.
 
-This race has a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 16 on the day of the race. If under 18 please bring a completed [FRA Parental Consent Form](https://races.fellrunner.org.uk/documents/2022/fra-parental-consent-process-form-2022.pdf).
+This race has a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 16 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://races.fellrunner.org.uk/documents/2022/fra-parental-consent-process-form-2022.pdf).
 
 #### Registration
 
