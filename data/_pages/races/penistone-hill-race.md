@@ -10,7 +10,7 @@ strava_url: https://www.strava.com/segments/30806210/embed
 order: 40
 entry: ""
 ---
-The Penistone Hill Race is a multi-terrain race, run in support of Sporting Penistone, the charity that runs [Penistone Leisure Centre](http://www.penistoneleisurecentre.org.uk). It is a tough race on tarmac, trails and paths, with hills and stunning views of the Penistone area, run under UK Athletics rules (cross country permit tbc).
+The Penistone Hill Race is a multi-terrain race, run in support of Sporting Penistone, the charity that runs [Penistone Leisure Centre](http://www.penistoneleisurecentre.org.uk). It is a tough race on tarmac, trails and paths, with hills and stunning views of the Penistone area, run under UK Athletics rules (Trail Running Association permit tbc).
 
 #### Entry
 
