@@ -10,7 +10,7 @@ strava_url: https://www.strava.com/segments/30806210/embed
 order: 40
 entry: ""
 ---
-The Penistone Hill Race is a multi-terrain race, run in support of Sporting Penistone, the charity that runs [Penistone Leisure Centre](http://www.penistoneleisurecentre.org.uk). It is a tough race on tarmac, trails and paths, with hills and stunning views of the Penistone area, run under UK Athletics rules (Trail Running Association permit tbc).
+The Penistone Hill Race is a multi-terrain race, run in support of Sporting Penistone, the charity that runs [Penistone Leisure Centre](http://www.penistoneleisurecentre.org.uk). It is a tough race on tarmac, trails and paths, with hills and stunning views of the Penistone area.
 
 #### Entry
 
@@ -18,7 +18,7 @@ Online entry will be available closer to the time.
 
 Pre-entry fees: £10 for EA affiliated runners and £12 for non-EA members. Entry on the day: £12 for EA affiliated runners and £14 for non-EA members.
 
-Minimum age 17 on the day.
+The race will be run under UK Athletics rules of competition ([Trail Running Association](https://www.tra-uk.org/organisers) permit tbc). Minimum age to enter is 17 on the day of the race.
 
 #### Registration
 
