@@ -21,7 +21,7 @@ The race starts and finishes about ¾ mile from Langsett Barn so allow time afte
 
 Entry £4.50 on the day for FRA or EA members; £5.50 for non-members.
 
-This race has a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 12 on the day of the race.
+This race has a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 12 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://races.fellrunner.org.uk/documents/2022/fra-parental-consent-process-form-2022.pdf).
 
 #### Registration
 
