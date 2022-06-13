@@ -20,7 +20,7 @@ See individual race pages for contact details about races the club organises.
 | President                       | Steve Lavender MBE                                                                             |
 | Chairman                        | [Steve Dickinson](mailto:steve@osi.uk.com)                                                     |
 | Secretary                       | [Martyn Cartwright](mailto:martynandpauline@gmail.com)                                         |
-| Treasurer                       | Pauline Senior                                                                                 |
+| Treasurer                       | [Dean Allcroft](deanallcroft@googlemail.com)                                                                                 |
 | Membership Secretary            | [Peter Cross](mailto:peter.cross@bhp.co.uk)                                                    |
 | Junior Secretary                | [Bob Innes](mailto:janeandbob239@btinternet.com)                                               |
 | Child Protection Officer        | [Dan Limb](mailto:udan2k@hotmail.com)                                                          |
