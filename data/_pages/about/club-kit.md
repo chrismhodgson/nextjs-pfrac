@@ -30,7 +30,7 @@ All sizes, junior and senior – _Ideal top for training during the winter month
 [![Training top back](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-training-top-back-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-training-top-back.jpg) 
 
 
-### Hoodies – £25.00 
+### Hoodies – £26.00 
 All sizes, junior and senior – _Warm top for winter, pre- and post-race._
 [![Hoodie front](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-hoodie-front-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-hoodie-front.jpg) 
 [![Hoodie back](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-hoodie-back-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-hoodie-back.jpg) 
