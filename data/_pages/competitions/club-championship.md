@@ -59,3 +59,25 @@ Your age group for the Championship in any year is determined by your age on Jan
 - The Overall Champions will be the Male and Female with the best scores from the 9 races needed to qualify.
 - A special prize, and title of Challenge Champion will be given to the runner who acquires the most points from all qualifying events.
 - Run as many or as few races as you want but you must compete in the correct number of races to win an award.
+
+#### 2022 events
+
+Road Section
+| | |
+
+| - | - |
+
+| Wombwell 5M | Sun 20 Feb |
+
+Norton 9M
+
+Spencers Dash 
+
+Lindley 10K
+
+
+Vale of York Half Marathon
+
+Guy Fawkes 10M
+
+
