@@ -86,10 +86,10 @@ All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/cal
 
 | Trail/Cross Country Section |        |
 | ---- | ------------ |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
+| [Silkstone Shuffle](http://www.barnsleyharriers.org.uk/index.php/silkstone-shuffle) | Thu 28 Apr, Thu 9 Jun, Thu 25 Aug |
+| [Furty Furlong](https://www.kingstonerunners.co.uk/page4.html) | Sat 14 May |
+| [Kimmy Kanter](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/kimmy-kanter) | Tue 7 Jun |
+| [Oughtibridge Chase](https://www.oughtibridgegala.org/the-tom-holmes-gala-chase) | Wed 15 Jun |
+| [Higham Hurtle](http://www.barnsleyharriers.org.uk/index.php/higham-hurtle) | Thu 8 Sep |
+| [Penistone Hill Race](http://pfrac.co.uk/club-races/penistone-hill-race/) | Sun 25 Sep (TBC) |
+| [SY Cross Country League](http://www.sycaa.co.uk/sycaa/cross-country) | Sun 11 Dec |
