@@ -6,7 +6,7 @@ order: 10
 
 The format of the Championship in 2022 is unchanged from the planned 2020 Championship, with many of the same races.
 
-All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
+All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/calendar) with links for further information – Club Championship races are identified with (C).  There is also a list of events in each section at the bottom of this page.
 
 The competition involves races across three main sections (Road, Trail/Cross-Country and Fell) plus the club mile. The Championship comprises 22 fixed races (7 from each section plus the club mile), but two of the events are local series of races: Spencer's Dash (road) and Silkstone Shuffle (trail/cross country). Members can run as many of the Spencer's Dash or Silkstone Shuffle series as they wish, and their season’s best time from each will be counted.
 
