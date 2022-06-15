@@ -68,12 +68,12 @@ Road Section
 
 | Race | Date         |
 | ---- | ------------ |
-| Wombwell 5M | Sun 20 February |
-| Norton 9M | Sun 9 March |
-| Spencers Dash | Thu 5 May, Thu 14 July, Thu 1 September |
-| Lindley 10K | Sun 26 June |
-| Vale of York Half Marathon | Sun 11 Septemner|
-| Guy Fawkes 10M | Sun 6 November |
+| [Wombwell 5M](https://timemyrace.co.uk/wombwell-5/) | Sun 20 February |
+| [Norton 9M](https://bookitzone.com/phil_tordoff_1/zljFFX) | Sun 9 March |
+| [Spencers Dash](https://www.barnsleyac.co.uk/club-events/spencers-dash/) | Thu 5 May, Thu 14 July, Thu 1 September |
+| [Lindley 10K](https://www.runbritain.com/RaceDetail.aspx?eventid=79bf0fcf5971&raceid=78ba0aca5860) | Sun 26 June |
+| [Vale of York Half Marathon](https://racebest.com/races/ttr57) | Sun 11 September|
+| [Guy Fawkes 10M](http://niddvalleyroadrunners.co.uk/guy-fawkes-10/) | Sun 6 November |
 
 
 
