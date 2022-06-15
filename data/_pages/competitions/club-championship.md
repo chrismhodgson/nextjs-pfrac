@@ -62,22 +62,18 @@ Your age group for the Championship in any year is determined by your age on Jan
 
 #### 2022 events
 
+All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
+
 Road Section
-| | |
 
-| - | - |
+| Race | Date         |
+| ---- | ------------ |
+| Wombwell 5M | Sun 20 February |
+| Norton 9M | Sun 9 March |
+| Spencers Dash | Thu 5 May, Thu 14 July, Thu 1 September |
+| Lindley 10K | Sun 26 June |
+| Vale of York Half Marathon | Sun 11 Septemner|
+| Guy Fawkes 10M | Sun 6 November |
 
-| Wombwell 5M | Sun 20 Feb |
-
-Norton 9M
-
-Spencers Dash 
-
-Lindley 10K
-
-
-Vale of York Half Marathon
-
-Guy Fawkes 10M
 
 
