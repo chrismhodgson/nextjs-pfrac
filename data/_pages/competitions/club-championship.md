@@ -64,9 +64,7 @@ Your age group for the Championship in any year is determined by your age on Jan
 
 All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
 
-Road Section
-
-| Race | Date         |
+| Road Section |        |
 | ---- | ------------ |
 | [Wombwell 5M](https://timemyrace.co.uk/wombwell-5/) | Sun 20 February |
 | [Norton 9M](https://bookitzone.com/phil_tordoff_1/zljFFX) | Sun 9 March |
