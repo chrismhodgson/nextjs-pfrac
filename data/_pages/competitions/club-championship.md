@@ -76,7 +76,7 @@ All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/cal
 
 | Fell Section |        |
 | ---- | ------------ |
-| [Hoppits Hill Race](https://entries.events360.co.uk/events/hoppits-2022) | Sun 27 Feb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| [Hoppits Hill Race](https://entries.events360.co.uk/events/hoppits-2022) | Sun 27 Feb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | [Herod Farm](https://races.fellrunner.org.uk/races/c375f9d5-2a50-4fd7-a3fa-06f55afb7750) | Wed 20 Apr |
 | [Hayfield May Queen](https://races.fellrunner.org.uk/races/11d87884-ac86-4fdd-a422-e3a01695ae62) | Fri 20 May |
 | [Hope Wakes](https://www.fellrunner.org.uk/races/0d29cb05-99b5-4414-946f-4595c945259c) | Wed 29 Jun |
