@@ -68,7 +68,7 @@ All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/cal
 | ---- | ------------ |
 | [Wombwell 5M](https://timemyrace.co.uk/wombwell-5/) | Sun 20 Feb |
 | [Norton 9M](https://bookitzone.com/phil_tordoff_1/zljFFX) | Sun 9 Mar |
-| [Spencers Dash](https://www.barnsleyac.co.uk/club-events/spencers-dash/) | Thu 5 May, Thu 14 Jul, Thu 1 Sep&nbsp; |
+| [Spencers Dash](https://www.barnsleyac.co.uk/club-events/spencers-dash/) | Thu 5 May, Thu 14 Jul, Thu 1 Sep |
 | [Lindley 10K](https://www.runbritain.com/RaceDetail.aspx?eventid=79bf0fcf5971&raceid=78ba0aca5860) | Sun 26 Jun |
 | [Vale of York Half Marathon](https://racebest.com/races/ttr57) | Sun 11 Sep|
 | [Guy Fawkes 10M](http://niddvalleyroadrunners.co.uk/guy-fawkes-10/) | Sun 6 Nov |
@@ -76,7 +76,7 @@ All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/cal
 
 | Fell Section |        |
 | ---- | ------------ |
-| [Hoppits Hill Race](https://entries.events360.co.uk/events/hoppits-2022) | Sun 27 Feb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| [Hoppits Hill Race](https://entries.events360.co.uk/events/hoppits-2022) | Sun 27 Feb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | [Herod Farm](https://races.fellrunner.org.uk/races/c375f9d5-2a50-4fd7-a3fa-06f55afb7750) | Wed 20 Apr |
 | [Hayfield May Queen](https://races.fellrunner.org.uk/races/11d87884-ac86-4fdd-a422-e3a01695ae62) | Fri 20 May |
 | [Hope Wakes](https://www.fellrunner.org.uk/races/0d29cb05-99b5-4414-946f-4595c945259c) | Wed 29 Jun |
