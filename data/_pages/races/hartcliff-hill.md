@@ -25,7 +25,7 @@ This race has a permit and associated UK Athletics insurance from the [Fell Runn
 
 #### Registration
 
-From 18:30 at [Langsett Barn](https://www.google.co.uk/maps/place/Langsett+Barn+Outdoor+Centre/@53.5003511,-1.6853282,17z/data=!3m1!4b1!4m5!3m4!1s0x487bd650d87862bb:0xe1e1bf038b748d28!8m2!3d53.5003511!4d-1.6831395), S36 4GY (on the A616, 1 mile SE of the [Flouch Roundabout](https://www.google.co.uk/maps/place/Flouch+Roundabout,+Sheffield+S36+4AA/@53.5089589,-1.7041355,17z/data=!3m1!4b1!4m5!3m4!1s0x487bd70297198877:0x31271495d144b090!8m2!3d53.5089589!4d-1.7019468)). Grid ref: SE211005
+Resistration from 18:30 at [Langsett Barn](https://www.google.co.uk/maps/place/Langsett+Barn+Outdoor+Centre/@53.5003511,-1.6853282,17z/data=!3m1!4b1!4m5!3m4!1s0x487bd650d87862bb:0xe1e1bf038b748d28!8m2!3d53.5003511!4d-1.6831395), S36 4GY (on the A616, 1 mile SE of the [Flouch Roundabout](https://www.google.co.uk/maps/place/Flouch+Roundabout,+Sheffield+S36+4AA/@53.5089589,-1.7041355,17z/data=!3m1!4b1!4m5!3m4!1s0x487bd70297198877:0x31271495d144b090!8m2!3d53.5089589!4d-1.7019468)). Grid ref: SE211005
 
 #### Results
 
