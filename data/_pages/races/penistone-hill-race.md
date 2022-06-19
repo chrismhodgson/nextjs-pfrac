@@ -22,7 +22,7 @@ The race will be run under UK Athletics rules of competition ([Trail Running Ass
 
 #### Registration
 
-Registration from 9am at [Penistone Leisure Centre](https://www.google.co.uk/maps/place/Penistone+Leisure+Centre/@53.5295002,-1.640685,17z/data=!3m1!4b1!4m5!3m4!1s0x48797d601549d167:0x299f865051d4014b!8m2!3d53.5295099!4d-1.6384976), Thurlstone Road, S36 9EF (Grid Ref SE241037) &ndash; allow 10 minutes to walk to the start on [Penistone Showground](https://www.google.co.uk/maps/place/Penistone+Show+Ground/@53.5257723,-1.6358652,17z/data=!3m1!4b1!4m5!3m4!1s0x48797d6164f4b287:0x6f08ef10f1d0cc7a!8m2!3d53.5257723!4d-1.6358652) (behind Tesco).  Parking, changing rooms, showers, hot food available.
+Registration from 9:00am at [Penistone Leisure Centre](https://www.google.co.uk/maps/place/Penistone+Leisure+Centre/@53.5295002,-1.640685,17z/data=!3m1!4b1!4m5!3m4!1s0x48797d601549d167:0x299f865051d4014b!8m2!3d53.5295099!4d-1.6384976), Thurlstone Road, S36 9EF (Grid Ref SE241037) &ndash; allow 10 minutes to walk to the start on [Penistone Showground](https://www.google.co.uk/maps/place/Penistone+Show+Ground/@53.5257723,-1.6358652,17z/data=!3m1!4b1!4m5!3m4!1s0x48797d6164f4b287:0x6f08ef10f1d0cc7a!8m2!3d53.5257723!4d-1.6358652) (behind Tesco).  Parking, changing rooms, showers, hot food available.
 
 #### Results
 
