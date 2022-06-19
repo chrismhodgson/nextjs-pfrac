@@ -1,7 +1,7 @@
 ---
 title: Penistone 10K
 category: Road
-start_date_time: Sunday 19 June at 9:30am
+start_date_time: TBC
 distance: 10km (measured course)
 organiser: "Keith Gordon: keithHgordon@me.com"
 registration: ""
@@ -14,17 +14,13 @@ The Penistone 10K (formerly the Penistone Show 10K) was established over 30 year
 
 #### Entry
 
-Online entry is available [here](https://racebest.com/races/3wuzs)
-
-£16 for EA members; £18 for non-EA members. An extra £2 for entries on the day assuming the maximum of 500 is not reached.
-
-Closing date for pre-entries: 15 June 2022.
+Details of online entry, prices and closing date for the 2023 race not yet available.
 
 Minimum age 15 on the day
 
 #### Registration
 
-Registration will be at (Penistone Church Football Club)[https://www.google.co.uk/maps/place/Penistone+Church+Football+Club/@53.523332,-1.625649,17z/data=!3m1!4b1!4m2!3m1!1s0x48797d6f378b73f1:0x3ae39c5f7e6bf5ba?hl=en-GB], S36 6AT from 8:30am.
+Registration is at (Penistone Church Football Club)[https://www.google.co.uk/maps/place/Penistone+Church+Football+Club/@53.523332,-1.625649,17z/data=!3m1!4b1!4m2!3m1!1s0x48797d6f378b73f1:0x3ae39c5f7e6bf5ba?hl=en-GB], S36 6AT from 8:30am.
 
 #### Results
 
@@ -45,7 +41,7 @@ Registration will be at (Penistone Church Football Club)[https://www.google.co.u
 [2017](https://www.runbritainrankings.com/results/results.aspx?meetingid=207499)
 [2018](https://www.runbritainrankings.com/results/results.aspx?meetingid=244770)
 [2019](https://www.runbritainrankings.com/results/results.aspx?meetingid=301732)
-
+[2022](https://racebest.com/results/3wuzs)
 
 The races in 2020 and 2021 were cancelled.
 
