@@ -68,6 +68,17 @@ collections:
           required: false,
           hint: 'Create your tables using http://tablesgenerator.com/markdown_tables'
         }
+      - { label: 'Entry', name: 'entry', widget: 'markdown', required: false }
+      - { label: 'Registration', name: 'registration', widget: 'markdown', required: false }
+      - {
+          label: 'Results',
+          name: 'results',
+          widget: 'markdown',
+          required: true,
+          hint: 'Race results'
+        }
+      - { label: 'Course records', name: 'course_records', widget: 'markdown', required: false }
+      - { label: 'Routes and Maps', name: 'routes_maps', widget: 'markdown', required: false }
       - { label: 'Strava Segment url (ie for iframe)', name: 'strava_url', widget: 'string', hint: 'ie https://www.strava.com/segments/30806210/embed', required: false }
 
   - name: 'competitions' # Used in routes, ie.: /admin/collections/:slug/edit

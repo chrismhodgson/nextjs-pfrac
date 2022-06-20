@@ -1,15 +1,17 @@
 ---
 title: Thurlstone Chase
+header: races/thurlstone-chase.jpg
 category: Fell
 start_date_time: Saturday 2 July at 14:00
 distance: 4.2 miles/6.75km with 500ft/150m of ascent
-organiser: "Keith Gordon: thurchase2021@gmail.com"
-registration: ""
-results: " "
-strava_url: ""
+organiser: 'Keith Gordon: thurchase2021@gmail.com'
+registration: ''
+results: ' '
+strava_url: ''
 order: 50
-entry: ""
+entry: ''
 ---
+
 The Thurlstone Chase is a BS category fell race, run under licence from the Fell Runners Association.
 
 Prizes for the first 3 men and women, then 1st in each age category V40, V50, V60 and V70.

@@ -1,5 +1,6 @@
 ---
 title: Juniors
+header: about/juniors.jpg
 order: 30
 ---
 

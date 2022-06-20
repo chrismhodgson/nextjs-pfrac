@@ -1,16 +1,14 @@
 ---
 title: Junior Winter Handicap
+header: competitions/junior-winter-handicap.jpg
 order: 30
 ---
+
 The junior winter handicap league allows all juniors to compete regularly from September and December. The course used is a marshalled 1100m lap on pavements and public footpaths. Under 11s do a single lap, under 13s two laps, under 15s and under 17s three laps. Start times are determined by previous personal best (PB) times, with points for finishing position and PBs. Points are awarded over the series of races and all competitors receive an award at the club's annual presentation evening.
-
-
 
 Dates are the same as the [senior winter handicap](https://pfrac.chrishodgson.co.uk/competitions/senior-winter-handicap) series.
 
 #### Results
-
-
 
 Results for previous years:
 [2010–11](https://pfrac.chrishodgson.co.uk/static/results/junior-wh/junior-wh-2010-11-results.pdf)
@@ -33,7 +31,7 @@ Under 11 girls: Graihagh Turner, 21 January 2020 – 4:03
 Two laps (2200m)
 
 Under 13 boys: Alex O'Gorman, 1 December 1998 – 8:15
- 
+
 Under 13 girls: Graihagh Turner, 21 December 2021 – 8:11
 
 Under 15 girls: Hope Claydon, 15 December 2015 – 8:55
@@ -53,4 +51,3 @@ Under 17 girls: Hope Claydon, 13 December 2016 – 14:04
 #### Route
 
 To be added
-

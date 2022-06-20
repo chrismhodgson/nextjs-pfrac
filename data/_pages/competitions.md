@@ -1,5 +1,6 @@
 ---
 title: Club Competitions
+header: competitions.jpg
 ---
 
 The club runs several competitions through the year for members to take part in if they wish. They cover every sort of organised event from parkruns to formal races. Details are on the left, and all the standings and results are in the [results section](http://results.pfrac.co.uk/).

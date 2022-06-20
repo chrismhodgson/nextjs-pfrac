@@ -1,5 +1,6 @@
 ---
 title: Training
+header: about/training.jpg
 order: 25
 ---
 

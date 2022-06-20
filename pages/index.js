@@ -29,7 +29,7 @@ export default function Homepage({ posts }) {
         </div>
 
         <Image
-          src="/static/images/headers/Barnsley_Boundary_2014_2.jpg"
+          src="/static/images/headers/home.jpg"
           width="1024"
           height="210"
           alt="No pain, no gain"

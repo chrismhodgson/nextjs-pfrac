@@ -1,7 +1,9 @@
 ---
 title: Links
+header: about/links.jpg
 order: 100
 ---
+
 #### Race result links
 
 [South Yorkshire County Athletics Association](http://www.sycaa.co.uk/)

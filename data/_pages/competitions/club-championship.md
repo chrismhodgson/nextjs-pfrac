@@ -1,12 +1,14 @@
 ---
 title: Club Championship
+header: competitions/club-championship.jpg
 order: 10
 ---
+
 #### The 2022 Club Championship
 
 The format of the Championship in 2022 is unchanged from the planned 2020 Championship, with many of the same races.
 
-All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/calendar) with links for further information – Club Championship races are identified with (C).  There is also a list of events in each section at the bottom of this page.
+All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page.
 
 The competition involves races across three main sections (Road, Trail/Cross-Country and Fell) plus the club mile. The Championship comprises 22 fixed races (7 from each section plus the club mile), but two of the events are local series of races: Spencer's Dash (road) and Silkstone Shuffle (trail/cross country). Members can run as many of the Spencer's Dash or Silkstone Shuffle series as they wish, and their season’s best time from each will be counted.
 
@@ -64,32 +66,31 @@ Your age group for the Championship in any year is determined by your age on Jan
 
 All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
 
-| Road Section |        |
-| ---- | ------------ |
-| [Wombwell 5M](https://timemyrace.co.uk/wombwell-5/) | Sun 20 Feb |
-| [Norton 9M](https://bookitzone.com/phil_tordoff_1/zljFFX) | Sun 9 Mar |
-| [Spencers Dash](https://www.barnsleyac.co.uk/club-events/spencers-dash/) | Thu 5 May, Thu 14 Jul, Thu 1 Sep |
-| [Lindley 10K](https://www.runbritain.com/RaceDetail.aspx?eventid=79bf0fcf5971&raceid=78ba0aca5860) | Sun 26 Jun |
-| [Vale of York Half Marathon](https://racebest.com/races/ttr57) | Sun 11 Sep|
-| [Guy Fawkes 10M](http://niddvalleyroadrunners.co.uk/guy-fawkes-10/) | Sun 6 Nov |
+| Road Section                                                                                       |                                  |
+| -------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [Wombwell 5M](https://timemyrace.co.uk/wombwell-5/)                                                | Sun 20 Feb                       |
+| [Norton 9M](https://bookitzone.com/phil_tordoff_1/zljFFX)                                          | Sun 9 Mar                        |
+| [Spencers Dash](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                           | Thu 5 May, Thu 14 Jul, Thu 1 Sep |
+| [Lindley 10K](https://www.runbritain.com/RaceDetail.aspx?eventid=79bf0fcf5971&raceid=78ba0aca5860) | Sun 26 Jun                       |
+| [Vale of York Half Marathon](https://racebest.com/races/ttr57)                                     | Sun 11 Sep                       |
+| [Guy Fawkes 10M](http://niddvalleyroadrunners.co.uk/guy-fawkes-10/)                                | Sun 6 Nov                        |
 
+| Fell Section                                                                                     |                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Hoppits Hill Race](https://entries.events360.co.uk/events/hoppits-2022)                         | Sun 27 Feb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| [Herod Farm](https://races.fellrunner.org.uk/races/c375f9d5-2a50-4fd7-a3fa-06f55afb7750)         | Wed 20 Apr                                                                                                                                                       |
+| [Hayfield May Queen](https://races.fellrunner.org.uk/races/11d87884-ac86-4fdd-a422-e3a01695ae62) | Fri 20 May                                                                                                                                                       |
+| [Hope Wakes](https://www.fellrunner.org.uk/races/0d29cb05-99b5-4414-946f-4595c945259c)           | Wed 29 Jun                                                                                                                                                       |
+| [Crowden Horseshoe](https://races.fellrunner.org.uk/races)                                       | Sun 21 Aug                                                                                                                                                       |
+| [Shelf Moor](https://races.fellrunner.org.uk/races/5c67265a-d4e2-4f1b-844e-3d7a2a6bc70b)         | Sun 25 Sep                                                                                                                                                       |
+| [Wadsworth Half Trog](https://www.cvfr.co.uk/races/wadsworth-half-trog/)                         | Sun 13 Nov                                                                                                                                                       |
 
-| Fell Section |        |
-| ---- | ------------ |
-| [Hoppits Hill Race](https://entries.events360.co.uk/events/hoppits-2022) | Sun 27 Feb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| [Herod Farm](https://races.fellrunner.org.uk/races/c375f9d5-2a50-4fd7-a3fa-06f55afb7750) | Wed 20 Apr |
-| [Hayfield May Queen](https://races.fellrunner.org.uk/races/11d87884-ac86-4fdd-a422-e3a01695ae62) | Fri 20 May |
-| [Hope Wakes](https://www.fellrunner.org.uk/races/0d29cb05-99b5-4414-946f-4595c945259c) | Wed 29 Jun |
-| [Crowden Horseshoe](https://races.fellrunner.org.uk/races) | Sun 21 Aug |
-| [Shelf Moor](https://races.fellrunner.org.uk/races/5c67265a-d4e2-4f1b-844e-3d7a2a6bc70b) | Sun 25 Sep |
-| [Wadsworth Half Trog](https://www.cvfr.co.uk/races/wadsworth-half-trog/) | Sun 13 Nov |
-
-| Trail/Cross Country Section |        |
-| ---- | ------------ |
-| [Silkstone Shuffle](http://www.barnsleyharriers.org.uk/index.php/silkstone-shuffle) | Thu 28 Apr, Thu 9 Jun, Thu 25 Aug |
-| [Furty Furlong](https://www.kingstonerunners.co.uk/page4.html) | Sat 14 May |
-| [Kimmy Kanter](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/kimmy-kanter) | Tue 7 Jun |
-| [Oughtibridge Chase](https://www.oughtibridgegala.org/the-tom-holmes-gala-chase) | Wed 15 Jun |
-| [Higham Hurtle](http://www.barnsleyharriers.org.uk/index.php/higham-hurtle) | Thu 8 Sep |
-| [Penistone Hill Race](http://pfrac.co.uk/club-races/penistone-hill-race/) | Sun 25 Sep (TBC) |
-| [SY Cross Country League](http://www.sycaa.co.uk/sycaa/cross-country) | Sun 11 Dec |
+| Trail/Cross Country Section                                                                         |                                   |
+| --------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [Silkstone Shuffle](http://www.barnsleyharriers.org.uk/index.php/silkstone-shuffle)                 | Thu 28 Apr, Thu 9 Jun, Thu 25 Aug |
+| [Furty Furlong](https://www.kingstonerunners.co.uk/page4.html)                                      | Sat 14 May                        |
+| [Kimmy Kanter](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/kimmy-kanter) | Tue 7 Jun                         |
+| [Oughtibridge Chase](https://www.oughtibridgegala.org/the-tom-holmes-gala-chase)                    | Wed 15 Jun                        |
+| [Higham Hurtle](http://www.barnsleyharriers.org.uk/index.php/higham-hurtle)                         | Thu 8 Sep                         |
+| [Penistone Hill Race](http://pfrac.co.uk/club-races/penistone-hill-race/)                           | Sun 25 Sep (TBC)                  |
+| [SY Cross Country League](http://www.sycaa.co.uk/sycaa/cross-country)                               | Sun 11 Dec                        |
