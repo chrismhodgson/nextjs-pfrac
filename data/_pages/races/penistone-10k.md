@@ -1,15 +1,17 @@
 ---
 title: Penistone 10K
+header: races/penistone-10k.jpg
 category: Road
 start_date_time: TBC
 distance: 10km (measured course)
-organiser: "Keith Gordon: keithHgordon@me.com"
-registration: ""
-results: " "
+organiser: 'Keith Gordon: keithHgordon@me.com'
+registration: ''
+results: ' '
 strava_url: https://www.strava.com/segments/18044628/embed
 order: 30
-entry: ""
+entry: ''
 ---
+
 The Penistone 10K (formerly the Penistone Show 10K) was established over 30 years ago. It is run under UK Athletics rules of competition on roads and the Trans-Pennine Trail (asphalt surface) around Penistone.
 
 #### Entry

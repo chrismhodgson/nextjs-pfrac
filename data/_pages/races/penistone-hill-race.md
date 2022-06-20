@@ -1,15 +1,17 @@
 ---
 title: Penistone Hill Race
+header: races/penistone-hill-race.jpg
 category: Trail
 start_date_time: TBC
 distance: 6½ miles/10.5km with 1250ft/380m of ascent
-organiser: "Shaun Dimelow: shaundimelow@hotmail.com"
+organiser: 'Shaun Dimelow: shaundimelow@hotmail.com'
 registration: "\n"
-results: " "
+results: ' '
 strava_url: https://www.strava.com/segments/30806210/embed
 order: 40
-entry: ""
+entry: ''
 ---
+
 The Penistone Hill Race is a multi-terrain race, run in support of Sporting Penistone, the charity that runs [Penistone Leisure Centre](http://www.penistoneleisurecentre.org.uk). It is a tough race on tarmac, trails and paths, with hills and stunning views of the Penistone area.
 
 #### Entry

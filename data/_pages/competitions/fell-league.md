@@ -1,5 +1,6 @@
 ---
 title: Fell League
+header: competitions/fell-league.jpg
 order: 20
 ---
 

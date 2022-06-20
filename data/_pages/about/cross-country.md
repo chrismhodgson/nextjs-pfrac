@@ -1,5 +1,6 @@
 ---
 title: Cross Country
+header: about/cross-country.jpg
 order: 60
 ---
 

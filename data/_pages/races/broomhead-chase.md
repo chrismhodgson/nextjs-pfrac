@@ -1,15 +1,17 @@
 ---
 title: Broomhead Chase (archive)
+header: races/broomhead-chase.jpg
 category: Fell
 start_date_time: N/A
 strava_url: https://www.strava.com/segments/9944323/embed
 order: 100
 distance: 3½ miles/5.6km with 820 feet/250m of ascent
-entry: ""
+entry: ''
 registration: "\n"
-results: " "
-course_records: ""
+results: ' '
+course_records: ''
 ---
+
 The Broomhead Chase was a BS category fell race, held in conjunction with the Broomhead Show. First organised in 1997, it was run every year except 2001 and 2016 until 2019. The Broomhead Show has ended, and there are no plans to organise the fell race in the future.
 
 #### Results

@@ -1,5 +1,6 @@
 ---
 title: History
+header: about/history.jpg
 order: 80
 ---
 

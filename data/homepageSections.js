@@ -1,39 +1,39 @@
 const homepageSections = [
   {
-    href: '/about/membership',
-    title: 'Membership',
+    href: '/races',
+    title: 'Races',
     description:
-      "We're a friendly bunch and always keen to welcome new members. If you're interested in joining, then come down to one of our training sessions.",
-  },
-  {
-    href: '/about/training',
-    title: 'Training',
-    description:
-      'We meet at Penistone Football Club on Tuesday and Thursday evenings at 6.30pm. There is usually a mixture of road and off-road runs to suit all abilities.',
+      'We organise many races each year, open to members of all clubs and unattached runners. These include road, fell, multi-terrain and trail races.',
   },
   {
     href: '/about/juniors',
     title: 'Juniors',
     description:
-      'We have a very popular Juniors section run by fully qualified instructors with many years of experience aimed at all age groups from 8 years and above.',
+      'We have a very popular junior section, taking boys and girls from the age of 8 to 17. Training sessions, led by qualified coaches, are on Tuesdays at 6:30pm.',
   },
   {
-    href: '/about/fell-running',
-    title: 'Fell Running',
+    href: '/about/training',
+    title: 'Training',
     description:
-      'We have a popular fell running section of the club including a fell league, orienteering events short and long runs. In the summer we have more regular fell runs',
+      'We meet at Penistone Church Football Club on Tuesdays and Thursdays at 6.30pm. All abilities are catered for with training sessions or runs on- and off-road.',
   },
   {
     href: '/about/road-running',
     title: 'Road Running',
     description:
-      'Our most popular type of running is on roads with a variety of distances to suit. We run the Penistone 10k race and also have a parkrun competition.',
+      'We have great access to lots of quiet roads from the club, and plenty of local races for those who want to compete either individually or in a team.',
   },
   {
-    href: '/about/cross-country-trail',
-    title: 'Cross Country / Trail',
+    href: '/about/fell-and-trail-running',
+    title: 'Fell and Trail Running',
     description:
-      'We operate some popular local trail races including the Thurlstone Chase and Penistone Hill Race. We also compete cross country competitions.',
+      'Many in the club prefer to exploit the vast network of local public footpaths and nearby open access fells, for social runs and/or races.',
+  },
+  {
+    href: '/about/membership',
+    title: 'Membership',
+    description:
+      'We are a friendly, inclusive club, affiliated to England Athletics, and welcome all to join us, but also welcome people to try the club out before joining.',
   },
 ]
 
