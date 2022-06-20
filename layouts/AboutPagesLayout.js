@@ -20,7 +20,7 @@ export default function AboutPagesLayout({ frontMatter, children, menu }) {
               <PageTitle>{title}</PageTitle>
             </div>
             <Image
-              src={'/static/images/headers/' + (header || 'Barnsley_Boundary_2014_2.jpg')}
+              src={'/static/images/headers/' + (header || 'default.jpg')}
               width="1024"
               height="210"
               alt="No pain, no gain"
