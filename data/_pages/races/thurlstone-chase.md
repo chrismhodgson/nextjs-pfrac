@@ -1,15 +1,15 @@
 ---
-title: Thurlstone Chase
-header: races/thurlstone-chase.jpg
-category: Fell
 start_date_time: Saturday 2 July at 14:00
-distance: 4.2 miles/6.75km with 500ft/150m of ascent
-organiser: 'Keith Gordon: thurchase2021@gmail.com'
-registration: ''
-results: ' '
-strava_url: ''
+organiser: "Keith Gordon: thurchase2021@gmail.com"
+strava_url: ""
+header: races/thurlstone-chase.jpg
 order: 50
-entry: ''
+entry: ""
+distance: 4.2 miles/6.75km with 500ft/150m of ascent
+results: " "
+title: Thurlstone Chase
+registration: ""
+category: Fell
 ---
 
 The Thurlstone Chase is a BS category fell race, run under licence from the Fell Runners Association.
@@ -18,7 +18,7 @@ Prizes for the first 3 men and women, then 1st in each age category V40, V50, V6
 
 #### Entry
 
-To pre-enter the race please complete this [online entry form](https://thurchase.uk.to/enter.php). This does not take payment &ndash; please bring £5 cash or cheque on the day. We are expecting it to be possible to enter on the day, but entries in advance help with organisation.
+Pre-entry has now closed.  Those that have pre-entered please bring £5 cash or cheque on the day. There are entries available on the day as well - also £5.
 
 This race has a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 16 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://races.fellrunner.org.uk/documents/2022/fra-parental-consent-process-form-2022.pdf).
 
