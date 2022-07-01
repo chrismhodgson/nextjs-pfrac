@@ -19,15 +19,15 @@ Provisional dates for 2022 are listed below.
 | 5    | 29 November  |         |        |
 | 6    | 13 December  |         |        |
 
-[The route](https://pfrac.chrishodgson.co.uk/static/images/maps/senior-wh.jpg) is approximately 4½ miles long with about 600 feet of ascent. It starts from Penistone Leisure Centre and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
+[The route](https://pfrac.co.uk/static/images/maps/senior-wh.jpg) is approximately 4½ miles long with about 600 feet of ascent. It starts from Penistone Leisure Centre and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
 
 #### Results
 
 Results for previous years:
-[2014–15](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2014-15-results.pdf)
-[2015–16](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2015-16-results.pdf)
-[2016–17](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2016-17-results.pdf)
-[2017–18](https://pfrac.chrishodgson.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
+[2014–15](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2014-15-results.pdf)
+[2015–16](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2015-16-results.pdf)
+[2016–17](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2016-17-results.pdf)
+[2017–18](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
 [2018–19 onwards](http://results.pfrac.co.uk)
 
 #### Details

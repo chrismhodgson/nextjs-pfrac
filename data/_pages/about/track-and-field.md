@@ -4,7 +4,7 @@ header: about/track-and-field.jpg
 order: 65
 ---
 
-Juniors can compete in the South Yorkshire Indoor and Outdoor track and field series, and other open events. For more details see the [Juniors](https://pfrac.chrishodgson.co.uk/about/juniors) page.
+Juniors can compete in the South Yorkshire Indoor and Outdoor track and field series, and other open events. For more details see the [Juniors](https://pfrac.co.uk/about/juniors) page.
 
 In 2017, for the first time for many years, the club joined the Northern Track &amp; Field league. Early fixtures in 2017 were poorly attended, but later that year and throughout 2018 and 2019 we fielded much stronger teams as more members discovered how much fun it could be! We finished 5th overall in division 4EC in 2017 and 2018, and 3rd in 2019. Links to the results for all previous fixtures are at the bottom of this page.
 

@@ -16,13 +16,13 @@ All juniors are encouraged to join in organised events, including the local trac
 
 ### The Winter Handicap League
 
-The club organises a [Winter League](https://pfrac.chrishodgson.co.uk/competitions/junior-winter-handicap) based on a series of handicap races for all the juniors in the club, and other ad hoc races in the summer.
+The club organises a [Winter League](https://pfrac.co.uk/competitions/junior-winter-handicap) based on a series of handicap races for all the juniors in the club, and other ad hoc races in the summer.
 
 ### Awards
 
 Prizes are given out at the annual presentation evening.
 
-- Trophies for the top three in the [Winter Handicap League](https://pfrac.chrishodgson.co.uk/competitions/junior-winter-handicap) and certificates for all participants
+- Trophies for the top three in the [Winter Handicap League](https://pfrac.co.uk/competitions/junior-winter-handicap) and certificates for all participants
 - The Winter League trophies, unhelpfully named but awarded for general performance in internal and external competitions
 - The Track and Field trophies, awarded to the juniors (under 11 and under 17) who showed the largest improvements across all track and field events
 - The Coaches' Award, awarded for attitude to training and effort.
@@ -37,7 +37,7 @@ Juniors have been representing the club in the South Yorkshire Track & Field Lea
 
 The club keeps extensive [records](http://results.pfrac.co.uk/Records/) for track and field events for each age group, with certificates awarded at the annual presentation evening for records broken during the previous year.
 
-There are also records for the [Junior Winter Handicap](https://pfrac.chrishodgson.co.uk/competitions/junior-winter-handicap) races.
+There are also records for the [Junior Winter Handicap](https://pfrac.co.uk/competitions/junior-winter-handicap) races.
 
 ### Cross Country
 
