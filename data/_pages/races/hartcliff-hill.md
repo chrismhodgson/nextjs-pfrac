@@ -40,11 +40,11 @@ Resistration from 18:30 at [Langsett Barn](https://www.google.co.uk/maps/place/L
 [2011](http://fellrunner.org.uk/results.php?id=650)
 [2012](http://fellrunner.org.uk/results.php?id=1246)
 [2013](http://fellrunner.org.uk/results.php?id=1847)
-[2015](https://pfrac.chrishodgson.co.uk/static/results/hartcliff-hill/hartcliff-2015-results.pdf)
-[2016](https://pfrac.chrishodgson.co.uk/static/results/hartcliff-hill/hartcliff-2016-results.pdf)
-[2017](https://pfrac.chrishodgson.co.uk/static/results/hartcliff-hill/hartcliff-2017-results.pdf)
-[2018](https://pfrac.chrishodgson.co.uk/static/results/hartcliff-hill/hartcliff-2018-results.pdf)
-[2019](https://pfrac.chrishodgson.co.uk/static/results/hartcliff-hill/hartcliff-2019-results.pdf)
+[2015](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2015-results.pdf)
+[2016](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2016-results.pdf)
+[2017](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2017-results.pdf)
+[2018](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2018-results.pdf)
+[2019](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2019-results.pdf)
 
 Races in 2014, 2020 and 2021 were cancelled.
 

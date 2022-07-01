@@ -8,4 +8,4 @@ The main club sessions for seniors (18+) are at 6:30pm on Tuesday and Thursday a
 
 The club has several qualified coaches, and ensures that all junior sessions are led by coaches appropriately qualified in line with England Athletics rules. Senior sessions are led by a range of qualified coaches and leaders, and experienced runners with a wide range of different experience. Sessions range from tough speed and hill sessions to longer and shorter, faster and slower runs. New members are always welcome to come and try the club out before joining, and can be catered for in one of the training groups.
 
-See the sections on [Road Running](https://pfrac.chrishodgson.co.uk/about/road-running) and [Fell and Trail Running](https://pfrac.chrishodgson.co.uk/about/fell-running) for more details of the types of running available.
+See the sections on [Road Running](https://pfrac.co.uk/about/road-running) and [Fell and Trail Running](https://pfrac.co.uk/about/fell-running) for more details of the types of running available.

@@ -1,14 +1,14 @@
 ---
 start_date_time: Saturday 2 July at 14:00
-organiser: "Keith Gordon: thurchase2021@gmail.com"
-strava_url: ""
+organiser: 'Keith Gordon: thurchase2021@gmail.com'
+strava_url: ''
 header: races/thurlstone-chase.jpg
 order: 50
-entry: ""
+entry: ''
 distance: 4.2 miles/6.75km with 500ft/150m of ascent
-results: " "
+results: ' '
 title: Thurlstone Chase
-registration: ""
+registration: ''
 category: Fell
 ---
 
@@ -18,7 +18,7 @@ Prizes for the first 3 men and women, then 1st in each age category V40, V50, V6
 
 #### Entry
 
-Pre-entry has now closed.  Those that have pre-entered please bring £5 cash or cheque on the day. There are entries available on the day as well - also £5.
+Pre-entry has now closed. Those that have pre-entered please bring £5 cash or cheque on the day. There are entries available on the day as well - also £5.
 
 This race has a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 16 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://races.fellrunner.org.uk/documents/2022/fra-parental-consent-process-form-2022.pdf).
 
@@ -28,23 +28,23 @@ The race starts and finishes at the [Thurlstone Football Club](https://www.googl
 
 #### Results
 
-[2003](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2003-results.pdf)
-[2004](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2004-results.pdf)
-[2005](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2005-results.pdf)
-[2006](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2006-results.pdf)
-[2007](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2007-results.pdf)
-[2009](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2009-results.pdf)
-[2010](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2010-results.pdf)
-[2011](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2011-results.pdf)
-[2012](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2012-results.pdf)
-[2013](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2013-results.pdf)
-[2014](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2014-results.pdf)
-[2015](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2015-results.pdf)
-[2016](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2016-results.pdf)
-[2017](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2017-results.pdf)
-[2018](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2018-results.pdf)
-[2019](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2019-results.pdf)
-[2021](https://pfrac.chrishodgson.co.uk/static/results/thurlstone-chase/thurlstone-chase-2021-results.pdf)
+[2003](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2003-results.pdf)
+[2004](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2004-results.pdf)
+[2005](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2005-results.pdf)
+[2006](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2006-results.pdf)
+[2007](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2007-results.pdf)
+[2009](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2009-results.pdf)
+[2010](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2010-results.pdf)
+[2011](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2011-results.pdf)
+[2012](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2012-results.pdf)
+[2013](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2013-results.pdf)
+[2014](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2014-results.pdf)
+[2015](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2015-results.pdf)
+[2016](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2016-results.pdf)
+[2017](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2017-results.pdf)
+[2018](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2018-results.pdf)
+[2019](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2019-results.pdf)
+[2021](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2021-results.pdf)
 
 The races in 2008 and 2020 were cancelled.
 
@@ -64,4 +64,4 @@ Female: 22:40 &ndash; C Haigh, 1985
 
 #### Route
 
-The 2021 Thurlstone Chase route map is available [here](https://pfrac.chrishodgson.co.uk/static/images/maps/thurlstone-chase-2021.jpg).
+The 2021 Thurlstone Chase route map is available [here](https://pfrac.co.uk/static/images/maps/thurlstone-chase-2021.jpg).

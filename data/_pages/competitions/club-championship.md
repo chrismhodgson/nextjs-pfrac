@@ -8,7 +8,7 @@ order: 10
 
 The format of the Championship in 2022 is unchanged from the planned 2020 Championship, with many of the same races.
 
-All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page.
+All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page.
 
 The competition involves races across three main sections (Road, Trail/Cross-Country and Fell) plus the club mile. The Championship comprises 22 fixed races (7 from each section plus the club mile), but two of the events are local series of races: Spencer's Dash (road) and Silkstone Shuffle (trail/cross country). Members can run as many of the Spencer's Dash or Silkstone Shuffle series as they wish, and their season’s best time from each will be counted.
 
@@ -21,17 +21,17 @@ This gives 22 events in the Championship competition, and all the races are list
 Current standings for 2022 are [here](http://results.pfrac.co.uk/http://results.pfrac.co.uk/Championship2022/Challenge.html).
 
 Results for previous years:
-[2004](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2004-results.xlsx)
-[2005](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2005-results.xlsx)
-[2006](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2006-results.xlsx)
-[2007](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2007-results.xlsx)
-[2011](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2011-results.pdf)
-[2012](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2012-results.pdf)
-[2013](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2013-results.pdf)
-[2014](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2014-results.pdf)
-[2015](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2015-results.pdf)
-[2016](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2016-results.pdf)
-[2017](https://pfrac.chrishodgson.co.uk/static/results/club-championship/championship-2017-results.pdf)
+[2004](https://pfrac.co.uk/static/results/club-championship/championship-2004-results.xlsx)
+[2005](https://pfrac.co.uk/static/results/club-championship/championship-2005-results.xlsx)
+[2006](https://pfrac.co.uk/static/results/club-championship/championship-2006-results.xlsx)
+[2007](https://pfrac.co.uk/static/results/club-championship/championship-2007-results.xlsx)
+[2011](https://pfrac.co.uk/static/results/club-championship/championship-2011-results.pdf)
+[2012](https://pfrac.co.uk/static/results/club-championship/championship-2012-results.pdf)
+[2013](https://pfrac.co.uk/static/results/club-championship/championship-2013-results.pdf)
+[2014](https://pfrac.co.uk/static/results/club-championship/championship-2014-results.pdf)
+[2015](https://pfrac.co.uk/static/results/club-championship/championship-2015-results.pdf)
+[2016](https://pfrac.co.uk/static/results/club-championship/championship-2016-results.pdf)
+[2017](https://pfrac.co.uk/static/results/club-championship/championship-2017-results.pdf)
 [2018 onwards](http://results.pfrac.co.uk)
 
 #### Qualification
@@ -44,7 +44,7 @@ All first claim members are included in the Championship. Juniors running in sen
 
 #### Scoring
 
-Points are calculated based on their time relative to the overall race winner (male and female respectively). This is exactly the same as the [Fell League](https://pfrac.chrishodgson.co.uk/competitions/fell-league). If a PFR runner is first overall (ie first male or first female), he or she will get 100 points. If your time is exactly double the winner’s time, you get 50 points: the points are calculated on a scale so the faster you run the more points you get. For the series events, the points are based on your fastest time of the series relative to the fastest race winning time of the series.
+Points are calculated based on their time relative to the overall race winner (male and female respectively). This is exactly the same as the [Fell League](https://pfrac.co.uk/competitions/fell-league). If a PFR runner is first overall (ie first male or first female), he or she will get 100 points. If your time is exactly double the winner’s time, you get 50 points: the points are calculated on a scale so the faster you run the more points you get. For the series events, the points are based on your fastest time of the series relative to the fastest race winning time of the series.
 
 The main advantages of this method are: 1) it means that every second you run faster will gain you points (not a lot, but something – unless you are the race winner). Beating another Penistone runner (of the same sex) in a race will always mean you get more points than them – but the bigger the gap you get the more points you gain. 2) you don’t get points as a result of other PFR runners not turning up – you get points for your own performance.
 
@@ -64,7 +64,7 @@ Your age group for the Championship in any year is determined by your age on Jan
 
 #### 2022 events
 
-All the events are listed in the [Calendar](https://pfrac.chrishodgson.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
+All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
 
 | Road Section                                                                                       |                                  |
 | -------------------------------------------------------------------------------------------------- | -------------------------------- |

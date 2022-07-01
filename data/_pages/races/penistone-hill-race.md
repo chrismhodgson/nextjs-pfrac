@@ -34,7 +34,7 @@ Registration from 9:00am at [Penistone Leisure Centre](https://www.google.co.uk/
 [2016](https://thepowerof10.info/results/results.aspx?meetingid=183291)
 [2017](https://www.runbritainrankings.com/results/results.aspx?meetingid=218984)
 [2018](https://thepowerof10.info/results/results.aspx?meetingid=259816)
-[2019](https://pfrac.chrishodgson.co.uk/static/results/penistone-hill/penistone-hill-2019-results.pdf)
+[2019](https://pfrac.co.uk/static/results/penistone-hill/penistone-hill-2019-results.pdf)
 [2021](https://www.runbritainrankings.com/results/results.aspx?meetingid=436543)
 
 The 2020 race was cancelled.

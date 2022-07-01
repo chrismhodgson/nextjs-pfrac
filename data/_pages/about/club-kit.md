@@ -17,41 +17,41 @@ Click on images to expand.
 ### Club vests – £23.00
 
 All sizes, junior and senior – _Essential kit item for racing. Great fit, longer length than most club vests and don’t ride up when you wear them!_
-[![Vest Dan](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-new-vest-dan-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-new-vest-dan.jpg)
+[![Vest Dan](https://pfrac.co.uk/static/images/kit/pfrac-new-vest-dan-thumb.jpg)](https://pfrac.co.uk/static/images/kit/pfrac-new-vest-dan.jpg)
 
 ### Technical t-shirts – £20.00
 
 All sizes, junior and senior – _These can be used for racing and work really well in the winter with a base layer underneath._
-[![T-shirt front](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-t-shirt-front-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-t-shirt-front.jpg)
-[![T-shirt back](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-t-shirt-back-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-t-shirt-back.jpg)
+[![T-shirt front](https://pfrac.co.uk/static/images/kit/pfrac-t-shirt-front-thumb.jpg)](https://pfrac.co.uk/static/images/kit/pfrac-t-shirt-front.jpg)
+[![T-shirt back](https://pfrac.co.uk/static/images/kit/pfrac-t-shirt-back-thumb.jpg)](https://pfrac.co.uk/static/images/kit/pfrac-t-shirt-back.jpg)
 
 ### Winter training tops – £30.00
 
 All sizes, junior and senior – _Ideal top for training during the winter months or warming up when racing._
-[![Training top front](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-training-top-front-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-training-top-front.jpg)
-[![Training top back](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-training-top-back-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-training-top-back.jpg)
+[![Training top front](https://pfrac.co.uk/static/images/kit/pfrac-training-top-front-thumb.jpg)](https://pfrac.co.uk/static/images/kit/pfrac-training-top-front.jpg)
+[![Training top back](https://pfrac.co.uk/static/images/kit/pfrac-training-top-back-thumb.jpg)](https://pfrac.co.uk/static/images/kit/pfrac-training-top-back.jpg)
 
 ### Hoodies – £26.00
 
 All sizes, junior and senior – _Warm top for winter, pre- and post-race._
-[![Hoodie front](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-hoodie-front-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-hoodie-front.jpg)
-[![Hoodie back](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-hoodie-back-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-hoodie-back.jpg)
+[![Hoodie front](https://pfrac.co.uk/static/images/kit/pfrac-hoodie-front-thumb.jpg)](https://pfrac.co.uk/static/images/kit/pfrac-hoodie-front.jpg)
+[![Hoodie back](https://pfrac.co.uk/static/images/kit/pfrac-hoodie-back-thumb.jpg)](https://pfrac.co.uk/static/images/kit/pfrac-hoodie-back.jpg)
 
 ### Buffs – £6.00 (NPNG) £5.50 (Logo)
 
 One size – _Keeps your neck or head warm in winter and helps control sweat in summer. Two designs: 'No pain No gain' or club logo._
-[![NPNG Buff](https://pfrac.chrishodgson.co.uk/static/images/kit/buff1-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/images/kit/buff1.jpg)
-[![Logo Buff](https://pfrac.chrishodgson.co.uk/static/images/kit/buff2-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/images/kit/buff2.jpg)
+[![NPNG Buff](https://pfrac.co.uk/static/images/kit/buff1-thumb.jpg)](https://pfrac.co.uk/static/images/kit/buff1.jpg)
+[![Logo Buff](https://pfrac.co.uk/static/images/kit/buff2-thumb.jpg)](https://pfrac.co.uk/static/images/kit/buff2.jpg)
 
 ### Hats – £8.00
 
 One size – _Warm hat for winter_
-[![Hat](https://pfrac.chrishodgson.co.uk/static/images/kit/pfr-hat-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/images/kit/pfr-hat.jpg)
+[![Hat](https://pfrac.co.uk/static/images/kit/pfr-hat-thumb.jpg)](https://pfrac.co.uk/static/images/kit/pfr-hat.jpg)
 
 ### Number clips – £5.00
 
 Pack of 4 – _Robust way to keep your race number on your vest or t shirt without putting holes in it._
-[![Number clips](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-number-clips-thumb.jpg)](https://pfrac.chrishodgson.co.uk/static/images/kit/pfrac-number-clips.jpg)
+[![Number clips](https://pfrac.co.uk/static/images/kit/pfrac-number-clips-thumb.jpg)](https://pfrac.co.uk/static/images/kit/pfrac-number-clips.jpg)
 
 ### Contact details:
 

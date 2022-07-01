@@ -17,13 +17,13 @@ The Broomhead Chase was a BS category fell race, held in conjunction with the Br
 #### Results
 
 [2019](https://fellrunner.org.uk/results.php?id=5893
-[2018](https://pfrac.chrishodgson.co.uk/static/results/broomhead-chase/broomhead-2018-results.pdf)
-[2017](https://pfrac.chrishodgson.co.uk/static/results/broomhead-chase/broomhead-2017-results.pdf)
-[2015](https://pfrac.chrishodgson.co.uk/static/results/broomhead-chase/broomhead-2015-results.pdf)
-[2014](https://pfrac.chrishodgson.co.uk/static/results/broomhead-chase/broomhead-2014-results.pdf)
-[2013](https://pfrac.chrishodgson.co.uk/static/results/broomhead-chase/broomhead-2013-results.pdf)
-[2011](https://pfrac.chrishodgson.co.uk/static/results/broomhead-chase/broomhead-2011-results.pdf)
-[1997-2010](https://pfrac.chrishodgson.co.uk/static/results/broomhead-chase/broomhead-1997-2010-results.xlsx) (spreadsheet containing all the results and race reports from 1997 to 2010)
+[2018](https://pfrac.co.uk/static/results/broomhead-chase/broomhead-2018-results.pdf)
+[2017](https://pfrac.co.uk/static/results/broomhead-chase/broomhead-2017-results.pdf)
+[2015](https://pfrac.co.uk/static/results/broomhead-chase/broomhead-2015-results.pdf)
+[2014](https://pfrac.co.uk/static/results/broomhead-chase/broomhead-2014-results.pdf)
+[2013](https://pfrac.co.uk/static/results/broomhead-chase/broomhead-2013-results.pdf)
+[2011](https://pfrac.co.uk/static/results/broomhead-chase/broomhead-2011-results.pdf)
+[1997-2010](https://pfrac.co.uk/static/results/broomhead-chase/broomhead-1997-2010-results.xlsx) (spreadsheet containing all the results and race reports from 1997 to 2010)
 
 2012 results missing
 
