@@ -1,5 +1,5 @@
 ---
-start_date_time: Date and time of 2023 race tbc
+start_date_time: TBC
 organiser: "Keith Gordon: thurchase2021@gmail.com"
 strava_url: ""
 header: races/thurlstone-chase.jpg
