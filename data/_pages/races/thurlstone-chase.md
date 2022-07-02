@@ -1,14 +1,14 @@
 ---
 start_date_time: Saturday 2 July at 14:00
-organiser: 'Keith Gordon: thurchase2021@gmail.com'
-strava_url: ''
+organiser: "Keith Gordon: thurchase2021@gmail.com"
+strava_url: ""
 header: races/thurlstone-chase.jpg
 order: 50
-entry: ''
+entry: ""
 distance: 4.2 miles/6.75km with 500ft/150m of ascent
-results: ' '
+results: " "
 title: Thurlstone Chase
-registration: ''
+registration: ""
 category: Fell
 ---
 
@@ -45,6 +45,7 @@ The race starts and finishes at the [Thurlstone Football Club](https://www.googl
 [2018](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2018-results.pdf)
 [2019](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2019-results.pdf)
 [2021](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2021-results.pdf)
+[2022](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2022-results.pdf)
 
 The races in 2008 and 2020 were cancelled.
 
