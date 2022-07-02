@@ -1,5 +1,5 @@
 ---
-start_date_time: Saturday 2 July at 14:00
+start_date_time: Date and time of 2023 race tbc
 organiser: "Keith Gordon: thurchase2021@gmail.com"
 strava_url: ""
 header: races/thurlstone-chase.jpg
@@ -18,7 +18,7 @@ Prizes for the first 3 men and women, then 1st in each age category V40, V50, V6
 
 #### Entry
 
-Pre-entry has now closed. Those that have pre-entered please bring £5 cash or cheque on the day. There are entries available on the day as well - also £5.
+Entry on the day will be available.
 
 This race has a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 16 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://races.fellrunner.org.uk/documents/2022/fra-parental-consent-process-form-2022.pdf).
 
