@@ -10,9 +10,9 @@ order: 100
 
 [British Athletics Power of 10 site](http://www.thepowerof10.info/athletes/athleteslookup.aspx?club=Penistone)
 
-[Fellrunners Association results pages](http://fellrunner.org.uk/results.php)
+[Fellrunners Association](http://fellrunner.org.uk/)
 
-[British Open Fell Runners Association results pages](http://bofra.co.uk/Results.php)
+[British Open Fell Runners Association](http://bofra.co.uk/)
 
 [John Schofield's UK Results site](http://www.ukresults.net/index.html)
 
