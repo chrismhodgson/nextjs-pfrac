@@ -26,7 +26,7 @@ Registration from 8:30am at [Penistone Church Football Club](https://www.google.
 
 #### Results
 
-Original Course to top of Hartcliff
+_Original Course to top of Hartcliff_
 
 [1985](https://pfrac.co.uk/static/results/penistone-10k/penistone-10k-1985-results.pdf)
 [1986](https://pfrac.co.uk/static/results/penistone-10k/penistone-10k-1986-results.pdf)
@@ -53,13 +53,13 @@ Original Course to top of Hartcliff
 [2007](https://pfrac.co.uk/static/results/penistone-10k/penistone-10k-2007-results.pdf)
 [2008](https://pfrac.co.uk/static/results/penistone-10k/penistone-10k-2008-results.pdf)
 
-New course down Brockholes Lane and Trans-Pennine Trail
+_New course down Brockholes Lane and Trans-Pennine Trail_
 
 [2009](https://pfrac.co.uk/static/results/penistone-10k/penistone-10k-2009-results.pdf)
 [2010](https://www.runbritainrankings.com/results/results.aspx?meetingid=40802)
 [2011](https://www.runbritainrankings.com/results/results.aspx?meetingid=55198)
 
-Current course from Football Club
+_Current course from Football Club_
 
 [2012](https://www.runbritainrankings.com/results/results.aspx?meetingid=69517)
 [2013](https://www.runbritainrankings.com/results/results.aspx?meetingid=84849)
@@ -75,19 +75,19 @@ The races in 2020 and 2021 were cancelled.
 
 #### Course Records
 
-Original Course to top of Hartcliff
+_Original Course to top of Hartcliff_
 
 Male: Kenny Stuart, Keswick AC, 1989 &ndash; 30:56
 
 Female: Shirley Griffiths, Wakefield Harriers, 1999 &ndash; 38:05
 
-New course down Brockholes Lane and Trans-Pennine Trail
+_New course down Brockholes Lane and Trans-Pennine Trail_
 
 Male: David Thompson, Barnsley AC, 2009 &ndash; 34:39
 
 Female: Julie Buckley, Penistone Footpath Runners & AC, 2009 &ndash; 40:03
 
-Current course from Football Club
+_Current course from Football Club_
 
 Male: Scott Hinchcliffe, Penistone Footpath Runners & AC, 2019 &ndash; 33:25
 
