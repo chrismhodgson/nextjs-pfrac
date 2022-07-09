@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Penistone Footpath Runners', //'Next.js Starter Blog',
+  title: 'Penistone Footpath Runners & AC', //'Next.js Starter Blog',
   author: '', //'Tails Azimuth',
   headerTitle: 'Penistone Footpath Runners', //'Developer Notes', //'TailwindBlog',
   description: '', //'A blog created with Next.js and Tailwind.css',

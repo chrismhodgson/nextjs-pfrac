@@ -25,7 +25,7 @@ export default function Homepage({ posts }) {
 
       <header className="pb-6">
         <div className="text-center pb-8">
-          <PageTitle>Penistone Footpath Runners</PageTitle>
+          <PageTitle>Penistone Footpath Runners &amp; AC</PageTitle>
         </div>
 
         <Image
