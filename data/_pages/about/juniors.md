@@ -22,12 +22,12 @@ The club organises a [Winter League](https://pfrac.co.uk/competitions/junior-win
 
 Prizes are given out at the annual presentation evening.
 
-- Trophies for the top three in the [Winter Handicap League](https://pfrac.co.uk/competitions/junior-winter-handicap) and certificates for all participants
+- Trophies for the top three in the Winter Handicap League and certificates for all participants
 - The Winter League trophies, unhelpfully named but awarded for general performance in internal and external competitions
 - The Track and Field trophies, awarded to the juniors (under 11 and under 17) who showed the largest improvements across all track and field events
 - The Coaches' Award, awarded for attitude to training and effort.
 
-Past winners of all the trophies are here (LINK NEEDED).
+Past winners of all the trophies will be available soon.
 
 ### Track & Field
 
