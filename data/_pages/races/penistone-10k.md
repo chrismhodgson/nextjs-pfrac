@@ -77,7 +77,7 @@ The races in 2020 and 2021 were cancelled.
 
 Original Course to top of Hartcliff
 
-Male: Kenny Stuart, Kewsick AC, 1989 &ndash; 30:56
+Male: Kenny Stuart, Keswick AC, 1989 &ndash; 30:56
 
 Female: Shirley Griffiths, Wakefield Harriers, 1999 &ndash; 38:05
 
