@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-header: about/contact-us.jpg
+header: about/contact.jpg
 order: 10
 ---
 
