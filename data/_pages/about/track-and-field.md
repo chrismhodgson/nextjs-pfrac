@@ -3,7 +3,6 @@ title: Track and Field
 header: about/track-and-field.jpg
 order: 65
 ---
-
 Juniors can compete in the South Yorkshire Indoor and Outdoor track and field series, and other open events. For more details see the [Juniors](https://pfrac.co.uk/about/juniors) page.
 
 In 2017, for the first time for many years, the club joined the Northern Track &amp; Field league. Early fixtures in 2017 were poorly attended, but later that year and throughout 2018 and 2019 we fielded much stronger teams as more members discovered how much fun it could be! We finished 5th overall in division 4EC in 2017 and 2018, and 3rd in 2019. Links to the results for all previous fixtures are at the bottom of this page.
@@ -12,21 +11,21 @@ The 2020 season was abandoned without a shot being put in anger, due the the Cov
 
 Everyone is welcome to join in and help the club &ndash; you don't need to be an expert in an event to get points, but you do need to be there. All members who are first claim Penistone for Track &amp; Field, are in the under 17 age category or above (school year 10 or above) and have paid their England Athletics registration fee are eligible.
 
-Anyone interested in competing, or just wanting more information, should get in touch with [Paul Fryers](mailto:paul.fryers@gmail.com) or [Shaun Dimelow](mailto:shaundimelow@hotmail.com).
+Anyone interested in competing, or just wanting more information, should get in touch with [Paul Fryers](mailto:paul.fryers@gmail.com).
 
 The club also really needs members to become qualified track and field officials. We are supposed to provide a number of qualified track and field officials, and have a number of people in the process of qualifying, but still need more. The club will pay for courses, so if you are interested please get in touch with [Paul Fryers](mailto:paul.fryers@gmail.com) or [Martyn Cartwright](mailto:martynandpauline@gmail.com).
 
 ### Division East 2 Fixtures 2022
 
-- Saturday 30 April, Cudworth
-- Sunday 12 June, Cudworth
-- Sunday 10 July, Cleckheaton
-- Saturday 6 August, Mansfield
+* Saturday 30 April, Cudworth
+* Sunday 12 June, Cudworth
+* Sunday 10 July, Cleckheaton
+* Saturday 6 August, Mansfield
 
 ### Events
 
-- **Men:** 100m, 200m, 400m, 800m, 1500m, 5000m, 110m Hurdles, 400m Hurdles, High Jump, Long Jump, Pole Vault, Triple Jump, Discus, Hammer, Shot, Javelin, 4&times;100m relay, 4&times;400m relay, 3000m Steeplechase, Non Scoring 100m
-- **Women:** 100m, 200m, 400m, 800m, 1500m, 3000m, 100m Hurdles, 400m Hurdles, High Jump, Long Jump, Pole Vault, Triple Jump, Discus, Hammer, Shot, Javelin, 4&times;100m relay, 4&times;400m relay, Non Scoring 100m
+* **Men:** 100m, 200m, 400m, 800m, 1500m, 5000m, 110m Hurdles, 400m Hurdles, High Jump, Long Jump, Pole Vault, Triple Jump, Discus, Hammer, Shot, Javelin, 4&times;100m relay, 4&times;400m relay, 3000m Steeplechase, Non Scoring 100m
+* **Women:** 100m, 200m, 400m, 800m, 1500m, 3000m, 100m Hurdles, 400m Hurdles, High Jump, Long Jump, Pole Vault, Triple Jump, Discus, Hammer, Shot, Javelin, 4&times;100m relay, 4&times;400m relay, Non Scoring 100m
 
 ### Timetable
 
@@ -67,19 +66,19 @@ The events start at 11:00 and run until about 17:30 &ndash; all four meetings ru
 
 ### Notes
 
-- An under 20 athlete (over 17) may only compete in a maximum of 5 events
-- A senior athlete may compete in a maximum of 7 events
-- An under 17 (school years 10 &amp; 11) athlete can only compete in a maximum of 4 events and, if so doing, one must be a relay. In addition, U17 men shall not be allowed to compete in the 3000m steeplechase, 5000m, 110m hurdles, Hammer, Discus or Shot
+* An under 20 athlete (over 17) may only compete in a maximum of 5 events
+* A senior athlete may compete in a maximum of 7 events
+* An under 17 (school years 10 &amp; 11) athlete can only compete in a maximum of 4 events and, if so doing, one must be a relay. In addition, U17 men shall not be allowed to compete in the 3000m steeplechase, 5000m, 110m hurdles, Hammer, Discus or Shot
 
 ### East 2 Division Clubs
 
-- Barnsley AC
-- Bradford Airedale AC
-- Longwood Harriers &amp; AC
-- Mansfield Harriers
-- Penistone Footpath Runners &amp; AC
-- Pontefract AC
-- Worksop Harriers &amp; AC
+* Barnsley AC
+* Bradford Airedale AC
+* Longwood Harriers &amp; AC
+* Mansfield Harriers
+* Penistone Footpath Runners &amp; AC
+* Pontefract AC
+* Worksop Harriers &amp; AC
 
 ### Results
 
