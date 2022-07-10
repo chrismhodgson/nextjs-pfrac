@@ -1,7 +1,7 @@
 ---
 title: Dam Flask Relays
 draft: false
-date: 2022-07-07T23:00:00.000Z
+date: 2022-06-30T23:00:00.000Z
 tags: []
 summary: Results from the Damflask Relays
 ---
