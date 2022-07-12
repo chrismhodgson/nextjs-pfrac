@@ -50,17 +50,17 @@ Races in 2014, 2020 and 2021 were cancelled.
 
 #### Course Records
 
-_Current course &ndash; since 2015_
-
-Male: Max Wainwright, Dark Peak Fell Runners, 2019 &ndash; 15:37
-
-Female: Katie Walshaw, Holmfirth Harriers, 2019 &ndash; 17:47
-
 _Previous course &ndash; 2005&ndash;2013:_
 
 Male: Stuart Bond, Tommy's Fell Stars, 2009 &ndash; 14:54
 
 Female: N White, Bingley Harriers & AC, 2006 &ndash; 17:19
+
+_Current course &ndash; since 2015_
+
+Male: Max Wainwright, Dark Peak Fell Runners, 2019 &ndash; 15:37
+
+Female: Katie Walshaw, Holmfirth Harriers, 2019 &ndash; 17:47
 
 #### Route
 
