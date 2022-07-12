@@ -51,17 +51,19 @@ The races in 2008 and 2020 were cancelled.
 
 #### Course Records
 
+_Previous course &ndash; 2003&ndash;2019_
+
+Male: 20:50 &ndash; P Dugdale, 1986
+
+Female: 22:40 &ndash; C Haigh, 1985
+
+_Current course &ndash; 2021 onwards_
+
 Male: 26:15 &ndash; Joseph Carnelly, Bingley Harriers, 2021
 
 Female: 27:28 &ndash; Ruth Jones, Salford Harriers, 2021
 
 £25 cash prize for 1st male and female breaking the course record.
-
-Previous course records (before 2021 course change)
-
-Male: 20:50 &ndash; P Dugdale, 1986
-
-Female: 22:40 &ndash; C Haigh, 1985
 
 #### Route
 
