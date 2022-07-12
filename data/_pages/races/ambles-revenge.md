@@ -1,16 +1,16 @@
 ---
-title: Amble's Revenge
-header: races/ambles-revenge.jpg
-category: Trail
 start_date_time: Wednesday 28 December at 10:30
-distance: 8.1 miles/13km with 1,500ft/450m of ascent.
-organiser: 'Steve Dickinson: steve@osi.uk.com – 07850 445613'
-registration: "\n\n"
-results: ' '
+organiser: "Steve Dickinson: steve@osi.uk.com – 07850 445613"
 strava_url: https://www.strava.com/segments/30676795/embed
+header: races/ambles-revenge.jpg
 order: 40
-entry: ''
-course_records: ''
+entry: ""
+distance: 8.1 miles/13km with 1,500ft/450m of ascent.
+results: " "
+title: Amble's Revenge
+registration: "\n\n"
+category: Trail
+course_records: ""
 ---
 
 The Amble's Revenge is a trail race based on the former Hunshelf Amble. Whereas the former race started and finished in Green Moor, taking in Oxspring en route, the 7½ mile, undulating, mainly off-road race now starts and finishes in Oxspring, passing through Green Moor. It takes place around Christmas or New Year.
@@ -33,25 +33,7 @@ Registration and number collection from 09:00 at Rafters Bar, adjoined to the Wa
 
 #### Results
 
-Amble's Revenge
-
-[2015/16](https://pfrac.co.uk/static/results/revenge/revenge-2015-16-results.pdf)
-[2016/17](https://pfrac.co.uk/static/results/revenge/revenge-2016-17-results.pdf)
-[2017/18](https://pfrac.co.uk/static/results/revenge/revenge-2017-18-results.pdf)
-[2018/19](https://pfrac.co.uk/static/results/revenge/revenge-2018-19-results.pdf)
-[2019/20](https://www.runbritainrankings.com/results/results.aspx?meetingid=338437&event=8.1MMT&venue=Oxspring&date=29-Dec-19)
-[2021/22](https://www.runbritainrankings.com/results/results.aspx?meetingid=440754&event=7.75MMT&venue=Sheffield&date=28-Dec-21)
-
-Oxspring Hunshelf Amble
-
-[2014](https://pfrac.co.uk/static/results/revenge/amble-2014-results.pdf)
-[2015](https://pfrac.co.uk/static/results/revenge/amble-2015-results.pdf)
-[2016](https://pfrac.co.uk/static/results/revenge/amble-2016-results.pdf)
-[2017](https://pfrac.co.uk/static/results/revenge/amble-2017-results.pdf)
-[2018](https://pfrac.co.uk/static/results/revenge/amble-2018-results.pdf)
-[2019](https://pfrac.co.uk/static/results/revenge/amble-2019-results.pdf)
-
-Hunshelf Amble
+_Hunshelf Amble_
 
 [2003](https://pfrac.co.uk/static/results/revenge/amble-2003-results.pdf)
 [2006](https://pfrac.co.uk/static/results/revenge/amble-2006-results.pdf)
@@ -60,25 +42,43 @@ Hunshelf Amble
 [2010](https://pfrac.co.uk/static/results/revenge/amble-2010-results.pdf)
 [2011](https://pfrac.co.uk/static/results/revenge/amble-2011-results.pdf)
 
+_Oxspring Hunshelf Amble_
+
+[2014](https://pfrac.co.uk/static/results/revenge/amble-2014-results.pdf)
+[2015](https://pfrac.co.uk/static/results/revenge/amble-2015-results.pdf)
+[2016](https://pfrac.co.uk/static/results/revenge/amble-2016-results.pdf)
+[2017](https://pfrac.co.uk/static/results/revenge/amble-2017-results.pdf)
+[2018](https://pfrac.co.uk/static/results/revenge/amble-2018-results.pdf)
+[2019](https://pfrac.co.uk/static/results/revenge/amble-2019-results.pdf)
+
+_Amble's Revenge_
+
+[2015/16](https://pfrac.co.uk/static/results/revenge/revenge-2015-16-results.pdf)
+[2016/17](https://pfrac.co.uk/static/results/revenge/revenge-2016-17-results.pdf)
+[2017/18](https://pfrac.co.uk/static/results/revenge/revenge-2017-18-results.pdf)
+[2018/19](https://pfrac.co.uk/static/results/revenge/revenge-2018-19-results.pdf)
+[2019/20](https://www.runbritainrankings.com/results/results.aspx?meetingid=338437&event=8.1MMT&venue=Oxspring&date=29-Dec-19)
+[2021/22](https://www.runbritainrankings.com/results/results.aspx?meetingid=440754&event=7.75MMT&venue=Sheffield&date=28-Dec-21)
+
 #### Course Records
 
-Amble's Revenge (2019 onwards)
+_Oxspring Hunshelf Amble_
 
-Male: Scott Hinchcliffe, Penistone Footpath Runners & AC, 2019 &ndash; 50:35
+Male: Andy Swift, Penistone Footpath Runners & AC, 2014 &ndash; 50:07
 
-Female: Sam Shaw, Penistone Footpath Runners & AC,2019 &ndash; 62:01
+Female: Helen Pickford, Sheffield Running Club, 2014 &ndash; 61:12
 
-Amble's Revenge (2016&ndash;18 course)
+_Amble's Revenge (2016&ndash;18 course)_
 
 Male: Scott Hinchcliffe, Penistone Footpath Runners & AC, 2018 &ndash; 50:21
 
 Female: Zanthe Wray, Dark Peak Fell Runners, 2017 &ndash; 58:37
 
-Oxspring Hunshelf Amble
+_Amble's Revenge (2019 onwards)_
 
-Male: Andy Swift, Penistone Footpath Runners & AC, 2014 &ndash; 50:07
+Male: Scott Hinchcliffe, Penistone Footpath Runners & AC, 2019 &ndash; 50:35
 
-Female: Helen Pickford, Sheffield Running Club, 2014 &ndash; 61:12
+Female: Sam Shaw, Penistone Footpath Runners & AC,2019 &ndash; 62:01
 
 #### Route
 
