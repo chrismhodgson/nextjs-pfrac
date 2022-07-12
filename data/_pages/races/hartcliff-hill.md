@@ -1,18 +1,18 @@
 ---
-title: Hartcliff Hill
-header: races/hartcliff-hill.jpg
 start_date_time: TBC
 organiser: |
   Ian Charlesworth: hartcliffhill.fellrace@gmail.com
 strava_url: https://www.strava.com/segments/9332504/embed
+header: races/hartcliff-hill.jpg
 google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
 order: 20
-category: Fell
+entry: ""
 distance: 2½ miles/4km with 492ft/150m of ascent
-entry: ''
-registration: ''
-results: ' '
-course_records: ''
+results: " "
+title: Hartcliff Hill
+registration: ""
+category: Fell
+course_records: ""
 ---
 
 Hartcliff Hill is a BS category fell race on a marked and marshalled course &ndash; no navigation or prior experience required. The terrain is rough and can be extremely boggy.
@@ -50,13 +50,13 @@ Races in 2014, 2020 and 2021 were cancelled.
 
 #### Course Records
 
-Current course &ndash; since 2015
+_Current course &ndash; since 2015_
 
 Male: Max Wainwright, Dark Peak Fell Runners, 2019 &ndash; 15:37
 
 Female: Katie Walshaw, Holmfirth Harriers, 2019 &ndash; 17:47
 
-Previous course:
+_Previous course &ndash; 2005&ndash;2013:_
 
 Male: Stuart Bond, Tommy's Fell Stars, 2009 &ndash; 14:54
 
