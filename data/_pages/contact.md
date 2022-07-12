@@ -32,7 +32,7 @@ See individual race pages for contact details about races the club organises.
 | Fell Relay Secretary            | [Brent Lindsay](mailto:brent.lindsay@btinternet.com)                                                 |
 | Road Running & Relay Secretary  | [Richard Mackie](mailto:macklandr@aol.com)                                                           |
 | Cross Country & Relay Secretary | [Nick Whittingham](mailto:nick.whittingham@btinternet.com)                                           |
-| Track and Field Secretary       | [Shaun Dimelow](mailto:shaundimelow@hotmail.com) & [Paul Fryers](mailto:paul.fryers@gmail.com)       |
+| Track and Field Secretary       | [Paul Fryers](mailto:paul.fryers@gmail.com) & Shaun Dimelow       |
 | Northern T&F Liaison Officers   | [Paul Fryers](mailto:paul.fryers@gmail.com) & [Martyn Cartwright](mailto:martynandpauline@gmail.com) |
 | Club Kit                        | [Jemma Williams](mailto:jemstone1981@hotmail.com)                                                    |
 | Club Championship               | [Paul Fryers](mailto:paul.fryers@gmail.com)                                                          |
