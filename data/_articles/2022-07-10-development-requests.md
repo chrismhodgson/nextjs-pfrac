@@ -8,4 +8,10 @@ summary: Bug fixes/developments/suggestions - not for publication
 
 "No Club Records page" - club records are linked to from various places in the website but are not on any menu. Maybe need a holding page (under Competitions probably).  Martyn also previously asked for all the end of year club records to be available. These were static files on the old site but haven't got a place on the new one. If we had a Competitions/Club Records page these would go on here too.
 
+Need instructions for how to use Google calendar on own calendar. Chris to add a page for instructions.
+
+Add favicon for site, same as results pages.
+
+
+
 
