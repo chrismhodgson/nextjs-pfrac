@@ -10,11 +10,13 @@ The club is very active in road running, with training/social runs every Tuesday
 - We enter road relays, such as [Dam Flask](https://www.sheffieldrunningclub.org.uk/racing/our-hosted-races/dam-flask-relays/), [Rother Valley](https://hillsboroughandrivelinrunningclub.co.uk/rother-valley-relays/) and Regional and National Road Relays
 - There is a Road section to the [Club Championship](https://pfrac.co.uk/competitions/club-championship), with races selected each year between 5K and half marathon distance
 - We maintain [Club Records](http://results.pfrac.co.uk/Records/) for each age group, with certificates awarded for breaking club records
-- The club has a set of [Road Standards](http://results.pfrac.co.uk/ClubStandards/), with certificates awarded for different levels of performance in each age group - see below for details
+- The club has a set of [Road Standards](http://results.pfrac.co.uk/ClubStandards/), with certificates awarded for different levels of performance in each age group &ndash; see below for details
 
 ### Road Standards
 
 In 2017 the club introduced a series of standards to apply to road distances. The rationale of the standards is (a) to provide a focus for runners on the improvement curve and (b) to provide a motivation for those moving through the age groups whose PB days may be behind them.
+
+Please note these are not minimum standards for members and they are entirely voluntary &ndash; the club welcomes all runners of all abilities and has a very wide range within the membership!
 
 The list of Penistone runners and the standards they have achieved is [here](http://results.pfrac.co.uk/ClubStandards/). The list gives current age groups: if you click on any name it takes you to a page on which all the standards achieved at different age groups and the races that have counted towards those standards are listed.
 
@@ -27,8 +29,6 @@ For each age category there is a set of 1st, 2nd, 3rd and 4th class standards to
 3. The rounded times are set as the 1st, 2nd, 3rd and 4th class standards respectively.
 
 This method ensures that anyone achieving, say 1st class, for any distance must have got at least a WAVA score of 75%, and also ensures consistency between ages, sexes and distances.
-
-Please note these are not minimum standards for members and they are entirely voluntary - the club welcomes all runners of all abilities and has a very wide range within the membership!
 
 - Times run in races at any time since the runner last joined Penistone Footpath Runners (performances from before a break in membership cannot be included) and while the runner was in the current age category count towards the club standards.
 - To achieve a standard a runner needs to complete any 3 of the 6 distances to the required standard.
