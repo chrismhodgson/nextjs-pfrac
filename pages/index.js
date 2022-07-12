@@ -56,9 +56,15 @@ export default function Homepage({ posts }) {
         })}
       </div>
 
-      <h2 className="text-center pb-6 pt-8 text-3xl font-bold tracking-tight dark:text-gray-100">
-        Latest News
-      </h2>
+      <h3 className="text-center pb-2 pt-8 text-3xl font-bold dark:text-gray-100">Latest News</h3>
+
+      <div className="pb-6 text-center">
+        Read the latest
+        <Link href="/news" className="dark:text-primary-400 px-2">
+          news and events
+        </Link>
+        from the club
+      </div>
 
       <div className="sm:grid sm:grid-cols-9 sm:gap-x-4">
         {posts.slice(0, MAX_POSTS).map((frontMatter) => {

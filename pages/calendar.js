@@ -1,4 +1,5 @@
 import PageTitle from '@/components/PageTitle'
+import Link from '@/components/Link'
 
 export default function Calendar() {
   return (
@@ -8,6 +9,16 @@ export default function Calendar() {
           <PageTitle>Calendar</PageTitle>
         </div>
       </header>
+
+      <div className="pb-5">
+        Some instructions on
+        <Link
+          href="/help/calendar"
+          className="dark:text-primary-400 dark:hover:text-primary-300 pl-2"
+        >
+          How to add the PFRAC Calendar to Google Calendar
+        </Link>
+      </div>
 
       <div className="iframe-screen">
         <iframe
