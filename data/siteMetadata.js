@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'Penistone Footpath Runners', //'Developer Notes', //'TailwindBlog',
   description: '', //'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
-  siteUrl: 'http://pfrac.co.uk',
+  siteUrl: 'https://pfrac.co.uk',
   siteRepo: '', // 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',

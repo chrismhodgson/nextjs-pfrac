@@ -100,9 +100,9 @@ collections:
           hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
 
-  - name: 'pages' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Other Pages' # Used in the UI
-    folder: 'data/_pages'
+  - name: 'help' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Help' # Used in the UI
+    folder: 'data/_pages/help'
     preview_path: '{{slug}}'
     create: false # Determines whether users can create new documents in this collection
     fields: # The fields each document in this collection have
@@ -115,3 +115,17 @@ collections:
           hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
 
+  - name: 'pages' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Top Level Pages' # Used in the UI
+    folder: 'data/_pages'
+    preview_path: '{{slug}}'
+    create: false # Determines whether users can create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
+      - {
+          label: 'Main Content',
+          name: 'body',
+          widget: 'markdown',
+          required: true,
+          hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
+        }
