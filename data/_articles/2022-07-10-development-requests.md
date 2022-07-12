@@ -8,8 +8,6 @@ summary: Bug fixes/developments/suggestions - not for publication
 
 Amble's Revenge should be first on the list of race in the menu bar
 
-Need instructions for how to use Google calendar on own calendar. Chris to add a page for instructions.
-
 Add favicon for site, same as results pages.
 
 ### TBC
