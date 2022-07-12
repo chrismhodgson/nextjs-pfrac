@@ -10,4 +10,4 @@ The club organises several races each year, either standalone races or parts of 
 - [South Yorkshire Road League](https://www.sycaa.org.uk/road/)
 - [South Yorkshire Cross Country League](https://www.sycaa.org.uk/cross-country/)
 
-\* The South Yorkshire series above are only open to England Athletics registered runners from South Yorkshire clubs.
+\* The South Yorkshire series above are only open to England Athletics registered members of South Yorkshire clubs.
