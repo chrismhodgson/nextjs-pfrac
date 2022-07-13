@@ -10,6 +10,10 @@ Amble's Revenge should be first on the list of race in the menu bar
 
 Add favicon for site, same as results pages.
 
+Race pages are still showing "Registration" "Results" sections at bottom, even though they have been deleted from the CMS.  see bottom of Amble's Revenge page, just above "Strava Map"
+
+Rename "Strava Map" "Strava Segment"
+
 ### TBC
 
 "No Home link on top menu" - not doing anything about that at the moment but will keep a count of number of people who mention it: currently 1.
