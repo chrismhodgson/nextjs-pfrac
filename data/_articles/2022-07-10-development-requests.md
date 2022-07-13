@@ -10,7 +10,7 @@ Amble's Revenge should be first on the list of race in the menu bar
 
 Add favicon for site, same as results pages.
 
-Race pages are still showing "Registration" "Results" sections at bottom, even though they have been deleted from the CMS.  see bottom of Amble's Revenge page, just above "Strava Map"
+Race pages are still showing "Registration" and/or "Results" headings at bottom (just above "Strava Map", even though they have been deleted from the CMS.
 
 Rename "Strava Map" "Strava Segment"
 
