@@ -18,7 +18,7 @@ This gives 22 events in the Championship competition, and all the races are list
 
 #### Results
 
-Current standings for 2022 are [here](http://results.pfrac.co.uk/http://results.pfrac.co.uk/Championship2022/Challenge.html).
+[Current standings for 2022](http://results.pfrac.co.uk/Championship2022/Challenge.html).
 
 Results for previous years:
 [2004](https://pfrac.co.uk/static/results/club-championship/championship-2004-results.xlsx)
