@@ -26,7 +26,7 @@ The race is run under a England Athletics licence and minimum ages apply based o
 
 The first leg starts at 8am. The second leg starts when the first runner reaches the end of leg 1. All leg 2 runners set off together, and so on through the race. Times for each leg are aggregated at the end of the race and the fastest teams in each category (Men, M40+, M50+, M60+, Ladies, L40+ and Mixed) announced at the prize ceremony, which is held in the evening after the race.
 
-Ordnance survey map, aerial photography and GPX files for the whole route are available [here](http://www.gps-routes.co.uk/routes/home.nsf/RoutesLinksWalks/barnsley-boundary-walk-walking-route#). Note that the race route does not always follow the same route as marked on the Ordnance Survey maps or the Walking Guides.
+An ordnance survey map, aerial photography and GPX files for the whole route are available on the [Barnsley Boundary Walk](http://www.gps-routes.co.uk/routes/home.nsf/RoutesLinksWalks/barnsley-boundary-walk-walking-route#) website. Note that the race route does not always follow the same route as marked on the Ordnance Survey maps or the Walking Guides.
 
 The links below give maps and GPX files for each leg. The GPX files can be downloaded and imported into GPS software, or uploaded to a phone or watch.
 
