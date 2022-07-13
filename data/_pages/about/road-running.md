@@ -18,9 +18,9 @@ In 2017 the club introduced a series of standards to apply to road distances. Th
 
 Please note these are not minimum standards for members and they are entirely voluntary &ndash; the club welcomes all runners of all abilities and has a very wide range within the membership!
 
-The list of Penistone runners and the standards they have achieved is [here](http://results.pfrac.co.uk/ClubStandards/). The list gives current age groups: if you click on any name it takes you to a page on which all the standards achieved at different age groups and the races that have counted towards those standards are listed.
+The list of Penistone runners and the standards they have achieved is on the [Road Standards results site](http://results.pfrac.co.uk/ClubStandards/). The list gives current age groups: if you click on any name it takes you to a page on which all the standards achieved at different age groups and the races that have counted towards those standards are listed.
 
-The standard times for each age group, sex and distances are listed [here](http://results.pfrac.co.uk/ClubStandards/standardslist.html).
+The results site lists the [standard times](http://results.pfrac.co.uk/ClubStandards/standardslist.html) for each age group, sex and distance.
 
 For each age category there is a set of 1st, 2nd, 3rd and 4th class standards to attain. These are based on [WAVA age-graded tables](http://www.howardgrubb.co.uk/athletics/wmaroad15.html). For 2018 the standards have been adjusted to give consistency across all age groups, distances and standards. The standard times have been calculated as follows:
 
@@ -33,7 +33,7 @@ This method ensures that anyone achieving, say 1st class, for any distance must 
 - Times run in races at any time since the runner last joined Penistone Footpath Runners (performances from before a break in membership cannot be included) and while the runner was in the current age category count towards the club standards.
 - To achieve a standard a runner needs to complete any 3 of the 6 distances to the required standard.
 - The qualifying period for a standard is the whole 5 years within which a runner is within a particular category.
-- All times must be on UKA or ARC measured courses. In the case of the 5K distance, there is a list of parkrun courses which have been measured by a certified course measurer which can count towards achieving the standard. This can be found [here](http://coursemeasurement.org.uk/parkrun/list.php). 5000m and 10000m track races can also count for 5K and 10K respectively.
+- All times must be on UKA or ARC measured courses. In the case of the 5K distance, there is a [list of measured parkrun courses](http://coursemeasurement.org.uk/parkrun/list.php) which have been certified by an official course measurer; these count towards achieving the standard. 5000m and 10000m track races can also count for 5K and 10K respectively.
 - Certificates will be awarded to all runners completing a new standard at the club's Annual Presentation Evening.
 - The results program obtains all results from the [Power of 10](http://www.powerof10.info/athletes/athleteslookup.aspx?club=Penistone) website, including qualifying parkruns. Any races not on Power of 10 should be sent to [Paul Fryers](mailto:paul.fryers@gmail.com) and can then be added manually to the results system.
 
