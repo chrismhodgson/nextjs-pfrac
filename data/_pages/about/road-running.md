@@ -36,3 +36,15 @@ This method ensures that anyone achieving, say 1st class, for any distance must 
 - All times must be on UKA or ARC measured courses. In the case of the 5K distance, there is a list of parkrun courses which have been measured by a certified course measurer which can count towards achieving the standard. This can be found [here](http://coursemeasurement.org.uk/parkrun/list.php). 5000m and 10000m track races can also count for 5K and 10K respectively.
 - Certificates will be awarded to all runners completing a new standard at the club's Annual Presentation Evening.
 - The results program obtains all results from the [Power of 10](http://www.powerof10.info/athletes/athleteslookup.aspx?club=Penistone) website, including qualifying parkruns. Any races not on Power of 10 should be sent to [Paul Fryers](mailto:paul.fryers@gmail.com) and can then be added manually to the results system.
+
+### Outstanding Achievements
+
+Many members compete in road races, at all different levels.  Most of us are there to take part, enjoying pushing ourselves and/or the social side of racing, but we have had a few very successful runners.
+
+Julie Buckley broke the UK all time record for 5km in the Vet 55 category in 2011, with 17:57 at Doncaster, and held the record until 2017.
+
+More recently, three members have qualified for English Masters Vests and represented England internationally:
+
+* 2021: Andrew Pearson, MV55
+* 2021: Malcolm Rose, MV65
+* 2022: Dawn Broom, FV55
