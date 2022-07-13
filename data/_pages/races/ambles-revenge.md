@@ -82,6 +82,6 @@ Female: Sam Shaw, Penistone Footpath Runners & AC,2019 &ndash; 62:01
 
 #### Route
 
-The December 2021 Amble's Revenge route map is available [here](https://pfrac.co.uk/static/images/maps/revenge-2021.jpg).
+[December 2021 Amble's Revenge route map](https://pfrac.co.uk/static/images/maps/revenge-2021.jpg).
 
-A GPX file for the route is [here](https://pfrac.co.uk/static/gpx-files/revenge-2021.gpx).
+[GPX file for the route](https://pfrac.co.uk/static/gpx-files/revenge-2021.gpx).
