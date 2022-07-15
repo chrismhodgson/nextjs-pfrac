@@ -35,7 +35,7 @@ Juniors have been representing the club in the South Yorkshire Track & Field Lea
 
 ### Club Records
 
-The club keeps extensive [records](http://results.pfrac.co.uk/Records/) for track and field events for each age group, with certificates awarded at the annual presentation evening for records broken during the previous year.
+The club keeps extensive [records](http://results.pfrac.co.uk/records/) for track and field events for each age group, with certificates awarded at the annual presentation evening for records broken during the previous year.
 
 There are also records for the [Junior Winter Handicap](https://pfrac.co.uk/competitions/junior-winter-handicap) races.
 
