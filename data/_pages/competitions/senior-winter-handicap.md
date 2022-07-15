@@ -36,9 +36,9 @@ The event starts at 18:45 and the intended finish time is 19:37. The aim is for 
 
 When the handicap list is published (usually the weekend before) you will see three times: Your **expected time** to run the 4½ miles; your **handicap**; and the time that you will **start**.
 
-So if, for example, Keith expects you to run the course in 35 minutes 30 seconds: this means your start time is calculated as 19:37:00&ndash;00:35:30 = 19:01:30.
+So if, for example, Keith expects you to run the course in 35 minutes 30 seconds: this means your start time is calculated as 19:37:00&minus;00:35:30=19:01:30.
 
-As the event starts at 18:45, your handicap will be 19:01:30&ndash;18:45:00 = 16 minutes 30 seconds.
+As the event starts at 18:45, your handicap will be 19:01:30&minus;18:45:00= 16 minutes 30 seconds.
 
 This appears as:
 
@@ -63,10 +63,10 @@ The first three back will get either a bottle of wine or a box of chocolates (bu
 
 Once all runners are in, the times will be added to the finish list, typed up, and published on the club's [results website](http://results.pfrac.co.uk/). You will then see the following information (first two lines of a full set of results shown).
 
-| Pos | Name       | Estimated Time | Finish Time | Actual Time | +/–   |
+| Pos | Name       | Estimated Time | Finish Time | Actual Time | +/&minus;   |
 | --- | ---------- | -------------- | ----------- | ----------- | ----- |
-| 1   | Joe Bloggs | 39:30          | 47:30       | 35:00       | –4:30 |
-| 2   | Jane Doe   | 31:30          | 47:50       | 27:20       | –4:10 |
+| 1   | Joe Bloggs | 39:30          | 47:30       | 35:00       | &minus;4:30 |
+| 2   | Jane Doe   | 31:30          | 47:50       | 27:20       | &minus;4:10 |
 
 This shows the estimated time, the time you finished after the clock started (approximately 18:45), the actual time you took to run the course and the difference between this and Keith's estimated time.
 
