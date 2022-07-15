@@ -22,6 +22,8 @@ Results for previous years:
 [2017](https://pfrac.co.uk/static/results/fell-league/fell-league-2017-results.pdf)
 [2018 onwards](http://results.pfrac.co.uk)
 
+[Past Fell League winners](http://results.pfrac.co.uk/awards/)
+
 #### Qualifying Runners
 
 All members who are first claim Penistone for fell races will be included. Members joining (or re-joining) during the year will only have results counted from the date their subscription has been paid.
