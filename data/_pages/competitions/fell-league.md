@@ -16,7 +16,7 @@ Tables will be published here and updated at least every month, but the onus is 
 
 #### Results
 
-[Current standings for 2022](http://results.pfrac.co.uk/FellLeague2022/Races.html).
+[Current standings for 2022](http://results.pfrac.co.uk/fell-league-2022/races).
 
 Results for previous years:
 [2017](https://pfrac.co.uk/static/results/fell-league/fell-league-2017-results.pdf)
