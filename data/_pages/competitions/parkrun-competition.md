@@ -20,6 +20,8 @@ You will get one _tourist point_ for each different event (ie different location
 
 Results for previous years: [2017 onwards](http://results.pfrac.co.uk).
 
+[Past winners of the parkrun Competition](http://results.pfrac.co.uk/awards/)
+
 #### Qualifying Runners
 
 All members will be included as long as they have Penistone Footpath Runners registered with parkrun as their club. To add Penistone as your club click on "manage my profile" in any of your results emails from parkrun, and then use the "update" link on the _My Links_ page.
