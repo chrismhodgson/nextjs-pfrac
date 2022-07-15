@@ -114,4 +114,4 @@ The events start at 11:00 and run until about 17:30 &ndash; all four meetings ru
 
 ### Club Records
 
-The club keeps [records](http://results.pfrac.co.uk/Records/) for each event for each age group. Records broken are recognised with a certificate at the annual club presentation evening.
+The club keeps [records](http://results.pfrac.co.uk/records/) for each event for each age group. Records broken are recognised with a certificate at the annual club presentation evening.
