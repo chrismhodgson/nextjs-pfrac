@@ -36,9 +36,9 @@ The event starts at 18:45 and the intended finish time is 19:37. The aim is for 
 
 When the handicap list is published (usually the weekend before) you will see three times: Your **expected time** to run the 4½ miles; your **handicap**; and the time that you will **start**.
 
-So if, for example, Keith expects you to run the course in 35 minutes 30 seconds: this means your start time is calculated as 19:37:00 – 00:35:30 = 19:01:30.
+So if, for example, Keith expects you to run the course in 35 minutes 30 seconds: this means your start time is calculated as 19:37:00&ndash;00:35:30 = 19:01:30.
 
-As the event starts at 18:45, your handicap will be 19:01:30 – 18:45:00 = 16 minutes 30 seconds.
+As the event starts at 18:45, your handicap will be 19:01:30&ndash;18:45:00 = 16 minutes 30 seconds.
 
 This appears as:
 
