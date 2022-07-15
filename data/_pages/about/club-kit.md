@@ -50,7 +50,7 @@ One size – _Warm hat for winter_
 
 ### Number clips – £5.00
 
-Pack of 4 – _Robust way to keep your race number on your vest or t shirt without putting holes in it._
+Pack of 4 – _Robust way to keep your race number on your vest or t-shirt without putting holes in it._
 [![Number clips](https://pfrac.co.uk/static/images/kit/pfrac-number-clips-thumb.jpg)](https://pfrac.co.uk/static/images/kit/pfrac-number-clips.jpg)
 
 ### Contact details:
