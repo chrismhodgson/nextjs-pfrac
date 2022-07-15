@@ -6,7 +6,7 @@ order: 50
 
 #### The 2022 parkrun Competition
 
-The parkrun competition, started in 2017, was disrupted in 2020 and 2021 due to Covid-19, but we hope for a complete year in 2022 and return to roughly the same format as before the pandemic.
+The parkrun Competition, started in 2017, was disrupted in 2020 and 2021 due to Covid-19, but we hope for a complete year in 2022 and return to roughly the same format as before the pandemic.
 
 There will be six _set parkruns_: [Barnsley](https://www.parkrun.org.uk/barnsley/), [Brighouse](https://www.parkrun.org.uk/brighouse/), [Cusworth Hall](https://www.parkrun.org.uk/cusworthhall/), [Graves](https://www.parkrun.org.uk/graves/), [Hyde](https://www.parkrun.org.uk/hyde/) and [Penistone](https://www.parkrun.org.uk/penistone/). You don't have to do all these to qualify for the competition, but your best result of the year (the one that gets you most points – see scoring below) from each one will count. These have been chosen as our two local runs, plus one less common one for PFR runners in each direction (N, E, S and W): all just about within 20 miles of Penistone.
 
