@@ -27,7 +27,7 @@ Prizes are given out at the annual presentation evening.
 - The Track and Field trophies, awarded to the juniors (under 11 and under 17) who showed the largest improvements across all track and field events
 - The Coaches' Award, awarded for attitude to training and effort.
 
-Past winners of all the trophies will be available soon.
+[Past winners of awards](http://results.pfrac.co.uk/awards/)
 
 ### Track & Field
 
