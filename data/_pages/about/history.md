@@ -10,7 +10,7 @@ Penistone Footpath Runners &amp; AC cannot claim to be as old as this but has no
 
 Its location on the eastern slopes of the Pennines make it ideal running country. The Moorlands are just over three miles from the town centre and its proximity to the major towns of South and West Yorkshire mean club members can enjoy a wide range of terrains &ndash; fell running, cross country running, road, track and orienteering.
 
-The club was founded in late April/May 1982 at the suggestion of Cubley resident Doug Carr and a hardy band of local residents, who decided that they were unfit and needed to take up some form of exercise. It was agreed that they would meet at Castle Dam on the outskirts of Penistone one Tuesday at 6:30pm. 12 people turned up and proceeded to labour over a 3&ndash;mile jog taking in public footpaths in the Cubley area. Several of these original 12 are still with the club today.
+The club was founded in late April/May 1982 at the suggestion of Cubley resident Doug Carr and a hardy band of local residents, who decided that they were unfit and needed to take up some form of exercise. It was agreed that they would meet at Castle Dam on the outskirts of Penistone one Tuesday at 6:30pm. 12 people turned up and proceeded to labour over a 3-mile jog taking in public footpaths in the Cubley area. Several of these original 12 are still with the club today.
 
 In the course of the next few months, these runs continued, still on footpaths but gradually increasing in length as the running bug began to bite. Meeting places were generally pub car parks, churches or other such points, and as well as the enjoyment of running, the club took an interest in local history landmarks and ornithological sightings.
 
