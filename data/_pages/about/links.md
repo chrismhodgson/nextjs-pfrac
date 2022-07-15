@@ -6,6 +6,8 @@ order: 100
 
 #### Race result links
 
+[Individual runner summaries for PFRAC runners](http://results.pfrac.co.uk/runners/)
+
 [South Yorkshire County Athletics Association](http://www.sycaa.co.uk/)
 
 [British Athletics Power of 10 site](http://www.thepowerof10.info/athletes/athleteslookup.aspx?club=Penistone)
@@ -16,7 +18,7 @@ order: 100
 
 [John Schofield's UK Results site](http://www.ukresults.net/index.html)
 
-[Latest parkrun results for PFRAC runners](http://www.parkrun.com/results/consolidatedclub/?clubNum=2801)
+[Latest parkrun results for PFRAC runners](http://results.pfrac.co.uk/parkrun-2022/latest)
 
 [British Athletics runbritain site](http://www.runbritainrankings.com/runners/runnerslookup.aspx?Club=Penistone)
 
