@@ -87,7 +87,7 @@ Also on the results pages you will see WMA Adjusted Times, which show:
 | 1        | Billy Jones | 24:21       | 24:21         | 25     |
 | 2        | Mary Smith  | 43:19       | 25:39         | 24     |
 
-The time is each runner's actual time adjusted for their age and sex. In the example above, Billy Jones is a male aged between 20-34 so his time is not adjusted, but Mary Smith is a 73 year-old woman so her time is adjusted a lot to allow for her age and sex. Points are allocated on the following basis: 25 points for the best WMA time, 24 points for second WMA time and so on down to 5. All WMA times thereafter will receive 5 points.
+The time is each runner's actual time adjusted for their age and sex. In the example above, Billy Jones is a male aged between 20 and 34 so his time is not adjusted, but Mary Smith is a 73 year-old woman so her time is adjusted a lot to allow for her age and sex. Points are allocated on the following basis: 25 points for the best WMA time, 24 points for second WMA time and so on down to 5. All WMA times thereafter will receive 5 points.
 
 Fastest male and female times for each race, and the series as a whole, are also on the results site.
 
