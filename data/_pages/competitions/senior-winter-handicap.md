@@ -30,6 +30,8 @@ Results for previous years:
 [2017–18](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
 [2018–19 onwards](http://results.pfrac.co.uk)
 
+[Past Winter Handicap winners](http://results.pfrac.co.uk/awards/)
+
 #### Details
 
 The event starts at 18:45 and the intended finish time is 19:37. The aim is for all runners to pass the finish line at the same time. To achieve this all runners are given a handicap based on their ability.
