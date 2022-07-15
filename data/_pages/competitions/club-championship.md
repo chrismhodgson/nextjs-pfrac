@@ -34,6 +34,8 @@ Results for previous years:
 [2017](https://pfrac.co.uk/static/results/club-championship/championship-2017-results.pdf)
 [2018 onwards](http://results.pfrac.co.uk)
 
+[Past Club Champions](http://results.pfrac.co.uk/awards/)
+
 #### Qualification
 
 Qualification for the section Championships and overall Championship is exactly as in recent years: to qualify for each section you need to compete in at least 3 of the section events (out of 7 events, including, if you wish, the series event, but you don’t have to run the Spencer’s Dash or Silkstone Shuffle).
