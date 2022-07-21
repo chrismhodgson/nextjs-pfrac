@@ -4,9 +4,11 @@ header: competitions/senior-winter-handicap.jpg
 order: 40
 ---
 
-#### Winter Handicap 2022
+#### Philip Senior Winter Handicap 2022
 
 The club winter handicap is a series of 6 races on Tuesday evenings running from September to Christmas, organised by [Keith Gordon](mailto:keithHgordon@me.com). It starts at 18:45 on the dates below, at Penistone Leisure Centre, and is open to all senior members of the club.
+
+From 2022 the competition has been named after Philip Senior. A founder member of the club and organiser of the winter handicap series from it's inception in 19xx until 20xx, Philip sadly died in 2020.
 
 Provisional dates for 2022 are listed below.
 
