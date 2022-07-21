@@ -6,15 +6,17 @@ summary: Bug fixes/developments/suggestions - not for publication
 ---
 ### To Do
 
-Amble's Revenge should be first on the list of race in the menu bar
+Add info about Philip Senior Winter Handicap and Norman Cole Penistone 10K.
 
-Add favicon for site, same as results pages.
+Amble's Revenge should be first on the list of race in the menu bar
 
 Race pages are still showing "Registration" and/or "Results" headings at bottom (just above "Strava Map", even though they have been deleted from the CMS.
 
 Rename "Strava Map" "Strava Segment"
 
 ### TBC
+
+Add favicon for site, same as results pages.
 
 "No Home link on top menu" - not doing anything about that at the moment but will keep a count of number of people who mention it: currently 1.
 
