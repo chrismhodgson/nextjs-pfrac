@@ -10,7 +10,7 @@ The format of the Championship in 2022 is unchanged from the planned 2020 Champi
 
 All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page.
 
-The competition involves races across three main sections (Road, Trail/Cross-Country and Fell) plus the club mile. The Championship comprises 22 fixed races (7 from each section plus the club mile), but two of the events are local series of races: Spencer's Dash (road) and Silkstone Shuffle (trail/cross country). Members can run as many of the Spencer's Dash or Silkstone Shuffle series as they wish, and their season’s best time from each will be counted.
+The competition involves races across three main sections (Road, Trail/Cross-Country and Fell) plus the club mile if this takes place. The Championship comprises around 20 fixed races (6 or 7 from each section plus the club mile), but two of the events are local series of races: Spencer's Dash (road) and Silkstone Shuffle (trail/cross country). Members can run as many of the Spencer's Dash or Silkstone Shuffle series as they wish, and their season’s best time from each will be counted.
 
 The club mile is an additional event which will not count towards any of the three sections. It will count towards the overall championship and the challenge championship, but it is optional – you can qualify for every part of the championship without doing the club mile, but you might pick up more points if you do run it.
 
@@ -40,7 +40,7 @@ Results for previous years:
 
 Qualification for the section Championships and overall Championship is exactly as in recent years: to qualify for each section you need to compete in at least 3 of the section events (out of 7 events, including, if you wish, the series event, but you don’t have to run the Spencer’s Dash or Silkstone Shuffle).
 
-To qualify for the Overall Championship you have to compete in 9 from the total of 22, with at least 2 of these races from each section. Your 9 best race scores, including the minimum of 2 from each section, will be added together to form an Overall Championship total. If you do the club mile, that can be one of your 9 qualifying events (if it is one of the 9 best scores).
+To qualify for the Overall Championship you have to compete in 9 events, with at least 2 of these races from each section. Your 9 best race scores, including the minimum of 2 from each section, will be added together to form an Overall Championship total. If you do the club mile, that can be one of your 9 qualifying events (if it is one of the 9 best scores).
 
 All first claim members are included in the Championship. Juniors running in senior races (where permitted) will be included in the Under 20 category. Members joining (or re-joining) during the year will only have results counted from the date their subscription has been paid.
 
@@ -94,5 +94,4 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Kimmy Kanter](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/kimmy-kanter) | Tue 7 Jun                         |
 | [Oughtibridge Chase](https://www.oughtibridgegala.org/the-tom-holmes-gala-chase)                    | Wed 15 Jun                        |
 | [Higham Hurtle](http://www.barnsleyharriers.org.uk/index.php/higham-hurtle)                         | Thu 8 Sep                         |
-| [Penistone Hill Race](http://pfrac.co.uk/club-races/penistone-hill-race/)                           | Sun 25 Sep (TBC)                  |
 | [SY Cross Country League](http://www.sycaa.co.uk/sycaa/cross-country)                               | Sun 11 Dec                        |
