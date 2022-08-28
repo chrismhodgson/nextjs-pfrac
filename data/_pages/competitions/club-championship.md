@@ -8,13 +8,11 @@ order: 10
 
 The format of the Championship in 2022 is unchanged from the planned 2020 Championship, with many of the same races.
 
-All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page.
+All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
 
 The competition involves races across three main sections (Road, Trail/Cross-Country and Fell) plus the club mile if this takes place. The Championship comprises around 20 fixed races (6 or 7 from each section plus the club mile), but two of the events are local series of races: Spencer's Dash (road) and Silkstone Shuffle (trail/cross country). Members can run as many of the Spencer's Dash or Silkstone Shuffle series as they wish, and their season’s best time from each will be counted.
 
-The club mile is an additional event which will not count towards any of the three sections. It will count towards the overall championship and the challenge championship, but it is optional – you can qualify for every part of the championship without doing the club mile, but you might pick up more points if you do run it.
-
-This gives 22 events in the Championship competition, and all the races are listed at the bottom of this page with links for further information, as they become available.
+If the club mile (a track event organised within the club) takes place it will count as an additional event, not towards any of the three sections. It will count towards the overall championship and the challenge championship, but it is optional – you can qualify for every part of the championship without doing the club mile, but you might pick up more points if you do run it.
 
 #### Results
 
@@ -38,7 +36,7 @@ Results for previous years:
 
 #### Qualification
 
-Qualification for the section Championships and overall Championship is exactly as in recent years: to qualify for each section you need to compete in at least 3 of the section events (out of 7 events, including, if you wish, the series event, but you don’t have to run the Spencer’s Dash or Silkstone Shuffle).
+Qualification for the section Championships and overall Championship is exactly as in recent years: to qualify for each section you need to compete in at least 3 of the section events (out of 6/7 events, including, if you wish, the series event, but you don’t have to run the Spencer’s Dash or Silkstone Shuffle).
 
 To qualify for the Overall Championship you have to compete in 9 events, with at least 2 of these races from each section. Your 9 best race scores, including the minimum of 2 from each section, will be added together to form an Overall Championship total. If you do the club mile, that can be one of your 9 qualifying events (if it is one of the 9 best scores).
 
