@@ -7,12 +7,17 @@ order: 30
 entry: ""
 distance: 10km (measured course)
 results: " "
-title: Penistone 10K
+title: Norman Cole Penistone 10K
 registration: ""
 category: Road
 ---
-
 The Penistone 10K (formerly the Penistone Show 10K) was established over 30 years ago. It is run under UK Athletics rules of competition on roads and the Trans-Pennine Trail (asphalt surface) around Penistone.
+
+From 2022 the race has been named after Norman Cole. Norman was one of the founder members of the club and ran in many races over the years. He was always supportive to other members and was well respected within the South Yorkshire running community. He held many club records over the years as he moved up the age groups and set the standard for others to beat.
+
+
+
+Even though he was unwell in the last few years of his life, he often turned up at Barnsley parkrun and used to come to the Trunce to see the friends he had made over the years. He used to run the Penistone 10K every year when he was able. Sadly, Norman died in 2019, and the Penistone 10K has been named after him as a gesture to remember of of our longest serving members.
 
 #### Entry
 
