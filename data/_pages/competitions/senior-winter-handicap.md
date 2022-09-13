@@ -53,9 +53,7 @@ This appears as:
 #### On the night
 
 You must register, so the organisers know how many runners are out. This is essential as we do not want anyone left in a ditch all night.
-There is no cost but you may make a voluntary contribution. Suggested amounts are 50p per race (£3 for the series).
-
-The start (and finish) is the lamppost in front of the leisure centre. The stopwatch will start from 00:00:00 at 18:45. You will be called a minute or so before you are due to set off, but **it is your responsibility to be at the start**. Don't blame the officials if you are having a chat and miss it.
+There is no cost but you may make a voluntary contribution. Suggested amount is £1 per race (maximum £4 for the series). The start (and finish) is the lamppost in front of the leisure centre. The stopwatch will start from 00:00:00 at 18:45. You will be called a minute or so before you are due to set off, but **it is your responsibility to be at the start**. Don't blame the officials if you are having a chat and miss it,
 
 **A reflective vest is mandatory** (Keith can provide spares on the night). Head torches are advisable. The run is in darkness on quiet back roads. Runners run at their own risk and are advised to take care, particularly if it is icy. The road surface is rough in places. Extra care should be taken on the final run in as it is on the main road. Keep on the pavement.
 
