@@ -21,7 +21,7 @@ The race has chip timing, and there is a gift for all entrants.
 
 #### Entry
 
-Online entry will be available nearer the event.
+[Online entry](https://racebest.com/races/46u75) is open.
 
 Pre-entry fees: £12 for EA registered runners and £14 for non-EA registered. Entries on the day if the race limit of 350 is not reached for an additional £2.
 
