@@ -25,6 +25,8 @@ Dates for 2022 are listed below.
 
 #### Results
 
+R﻿esults for the current series: [2022](http://results.pfrac.co.uk/senior-winter-handicap-2022/league-table).
+
 Results for previous years:
 [2014–15](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2014-15-results.pdf)
 [2015–16](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2015-16-results.pdf)
