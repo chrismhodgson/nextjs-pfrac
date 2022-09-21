@@ -14,7 +14,7 @@ Dates for 2022 are listed below.
 
 | Race | Date         | Runners | Winner |
 | ---- | ------------ | ------- | ------ |
-| 1    | 20 September |         |        |
+| 1    | 20 September |    43   | Michael Walsh |
 | 2    | 11 October   |         |        |
 | 3    | 1 November   |         |        |
 | 4    | 15 November  |         |        |
