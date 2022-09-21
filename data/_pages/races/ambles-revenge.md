@@ -21,7 +21,7 @@ The race has chip timing, and there is a gift for all entrants.
 
 #### Entry
 
-[Online entry](https://racebest.com/races/46u75) is open.
+[Online entry](https://racebest.com/races/46u75) is open until 18:00 on 24 December 2022.
 
 Pre-entry fees: £12 for EA registered runners and £14 for non-EA registered. Entries on the day if the race limit of 350 is not reached for an additional £2.
 
