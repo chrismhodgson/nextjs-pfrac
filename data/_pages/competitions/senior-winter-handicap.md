@@ -12,20 +12,20 @@ From 2022 the competition has been named after Philip Senior, who sadly died in 
 
 Dates for 2022 are listed below.
 
-| Race | Date         | Runners | Winner |
-| ---- | ------------ | ------- | ------ |
-| 1    | 20 September |    43   | Michael Walsh |
-| 2    | 11 October   |         |        |
-| 3    | 1 November   |         |        |
-| 4    | 15 November  |         |        |
-| 5    | 6 December   |         |        |
-| 6    | 20 December  |         |        |
+| Race | Date         | 
+| ---- | ------------ |
+| 1    | 20 September |
+| 2    | 11 October   |
+| 3    | 1 November   |
+| 4    | 15 November  |
+| 5    | 6 December   |
+| 6    | 20 December  |
 
 [The route](https://pfrac.co.uk/static/images/maps/senior-wh.jpg) is approximately 4½ miles long with about 600 feet of ascent. It starts from Penistone Leisure Centre and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
 
 #### Results
 
-R﻿esults for the current series: [2022](http://results.pfrac.co.uk/senior-winter-handicap-2022/league-table).
+R﻿esults for the current series: [2022](http://results.pfrac.co.uk/senior-winter-handicap-2022/league-table)
 
 Results for previous years:
 [2014–15](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2014-15-results.pdf)
