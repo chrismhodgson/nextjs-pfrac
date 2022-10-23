@@ -13,12 +13,8 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
     start_date_time,
     distance,
     strava_url,
-    results,
     entry,
-    registration,
     organiser,
-    course_records,
-    routes_maps,
     header,
   } = frontMatter
 
@@ -99,34 +95,6 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
                 </>
               )}
 
-              {registration && (
-                <>
-                  <dt className="pt-1">Registration</dt>
-                  <dd className="text-gray-500 dark:text-gray-400">{registration}</dd>
-                </>
-              )}
-
-              {results && (
-                <>
-                  <dt className="pt-1">Results</dt>
-                  <dd className="text-gray-500 dark:text-gray-400">{results}</dd>
-                </>
-              )}
-
-              {course_records && (
-                <>
-                  <dt className="pt-1">Course Records</dt>
-                  <dd className="text-gray-500 dark:text-gray-400">{course_records}</dd>
-                </>
-              )}
-
-              {routes_maps && (
-                <>
-                  <dt className="pt-1">Routes and Maps</dt>
-                  <dd className="text-gray-500 dark:text-gray-400">{routes_maps}</dd>
-                </>
-              )}
-
               {strava_url && (
                 <>
                   <dt className="py-1">Strava Map</dt>
@@ -139,19 +107,6 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
                   </dd>
                 </>
               )}
-
-              {/* {google_maps_url && (
-                  <>
-                    <dt className="py-1">Google Map</dt>
-                    <dd className="text-gray-500 dark:text-gray-400">
-                      <iframe
-                        title="googlemaps"
-                        src={google_maps_url}
-                        style={{ width: '100%', height: '400px', display: 'block' }}
-                      />
-                    </dd>
-                  </>
-                )} */}
             </dl>
           </div>
         </div>

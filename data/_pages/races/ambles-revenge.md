@@ -1,16 +1,16 @@
 ---
 start_date_time: Wednesday 28 December at 10:30
-organiser: "Steve Dickinson: steve@osi.uk.com – 07850 445613"
+organiser: 'Steve Dickinson: steve@osi.uk.com – 07850 445613'
 strava_url: https://www.strava.com/segments/30676795/embed
 header: races/ambles-revenge.jpg
-order: 40
-entry: ""
+order: 5
+entry: ''
 distance: 8.1 miles/13km with 1,500ft/450m of ascent.
-results: " "
+results: ' '
 title: Amble's Revenge
 registration: "\n\n"
 category: Trail
-course_records: ""
+course_records: ''
 ---
 
 The Amble's Revenge is a trail race based on the former Hunshelf Amble. Whereas the former race started and finished in Green Moor, taking in Oxspring en route, the 7½ mile, undulating, mainly off-road race now starts and finishes in Oxspring, passing through Green Moor. It takes place around Christmas or New Year.
