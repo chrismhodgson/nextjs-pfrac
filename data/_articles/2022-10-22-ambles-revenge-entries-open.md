@@ -1,7 +1,9 @@
 ---
 title: Amble's Revenge - entries open
-draft: false
+draft: true
 date: 2022-10-22T07:09:26.031Z
+tags:
+  - races
 summary: Entries are open for the Amble's Revenge on Wednesday 28 December.
 ---
 Entries are open for the Amble's Revenge on Wednesday 28 December.  See the race page for details.
