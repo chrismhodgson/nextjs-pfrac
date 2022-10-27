@@ -7,4 +7,4 @@ Steve Sanders organises an informal orienteering league for the club using the M
 
 M﻿ore details to be added shortly.
 
-[C﻿urrent standings](https://pfrac.co.uk/static/results/orienteering/results 26.10.22.xlsx)
+[C﻿urrent standings](https://pfrac.co.uk/static/results/orienteering/results-26-10-22.xlsx)
