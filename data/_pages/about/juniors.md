@@ -4,7 +4,7 @@ header: about/juniors.jpg
 order: 30
 ---
 
-The club has a very popular junior section, taking boys and girls from the age of 8 to 17. England Athletics rules are very strict about the qualifications needed to lead groups of juniors, and the club is very short of Athletics Coaches who are qualified to take children under 12, so for this age group there is a waiting list. Contact [Bob Innes](mailto:janebandbob239@btinternet.com), Junior Secretary, if your son or daughter is interested in joining the club.
+The club has a very popular junior section, taking boys and girls from the age of 8 to 17. England Athletics rules are very strict about the qualifications needed to lead groups of juniors, and the club is very short of Athletics Coaches who are qualified to take children under 12, so for this age group there is a waiting list. Contact [Bob Innes](mailto:janeandbob239@btinternet.com), Junior Secretary, if your son or daughter is interested in joining the club.
 
 For most juniors, the club is something they attend every Tuesday evening, all year round (with breaks for school holidays) where they get some exercise with friends. Sessions are structured to maintain interest and safety, catering for a wide range of ability. Those that want to push themselves to get fitter have the opportunity to train with seniors, under the supervision of appropriately qualified coaches.
 
