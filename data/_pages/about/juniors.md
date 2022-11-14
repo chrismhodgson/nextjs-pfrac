@@ -41,4 +41,4 @@ There are also records for the [Junior Winter Handicap](https://pfrac.co.uk/comp
 
 ### Cross Country
 
-Juniors have represented the club in the South Yorkshire Cross Country League each year. The events take place in parks around the county. Anyone interested should contact [Bob Innes](mailto:janebandbob239@btinternet.com). Results are all available on the British Athletics [Power of 10](https://www.thepowerof10.info/athletes/athleteslookup.aspx) service.
+Juniors have represented the club in the South Yorkshire Cross Country League each year. The events take place in parks around the county. Anyone interested should contact [Bob Innes](mailto:janeandbob239@btinternet.com). Results are all available on the British Athletics [Power of 10](https://www.thepowerof10.info/athletes/athleteslookup.aspx) service.
