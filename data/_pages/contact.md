@@ -29,7 +29,7 @@ See individual race pages for contact details about races the club organises.
 | Cross Country Secretary | [Nick Whittingham](mailto:nick.whittingham@btinternet.com)                                           |
 | Fell Running Secretary         | [Ian Charlesworth](mailto:ircy63@gmail.com)                                                          |
 | Press Officer           | [Robin Clough](mailto:robin.clough@dataconsulting.co.uk) |
-| ------------------------------------- |  |
+| **Other elected officers & contacts** |  |
 | Club Kit                        | [Jemma Williams](mailto:jemstone1981@hotmail.com)                                                    |
 | Club Championship               | [Paul Fryers](mailto:paul.fryers@gmail.com)                                                          |
 | Fell Relay Coordinator | [Brent Lindsay](brent.lindsay@btinternet.com) |
