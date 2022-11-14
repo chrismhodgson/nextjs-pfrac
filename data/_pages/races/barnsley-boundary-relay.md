@@ -1,5 +1,5 @@
 ---
-start_date_time: 08:00; 10 June 2023 – see below for individual leg start times
+start_date_time: S﻿aturday 10 June 2023 a﻿t 08:00 – see below for individual leg start times
 organiser: "Steve Dickinson: steve@osi.uk.com – 07850 445613.  Contact Steve if
   interested in entering a team."
 header: races/barnsley-boundary-relay.jpg
