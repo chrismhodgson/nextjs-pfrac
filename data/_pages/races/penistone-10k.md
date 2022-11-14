@@ -1,14 +1,14 @@
 ---
-start_date_time: TBC
-organiser: 'Keith Gordon: keithHgordon@me.com'
+start_date_time: Sunday 25 June at 09:30
+organiser: "Keith Gordon: keithHgordon@me.com"
 strava_url: https://www.strava.com/segments/18044628/embed
 header: races/penistone-10k.jpg
 order: 30
-entry: ''
+entry: ""
 distance: 10km (measured course)
-results: ' '
+results: " "
 title: Norman Cole Penistone 10K
-registration: ''
+registration: ""
 category: Road
 ---
 
