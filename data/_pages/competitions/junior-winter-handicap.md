@@ -40,7 +40,7 @@ Three laps (3300m)
 
 Under 15 boys: Hugh Mackie, 25 September 2018 – 11:43
 
-Under 15 girls: Graihagh Turner, 11 October 2022 – 12:20
+Under 15 girls: Graihagh Turner, 15 November 2022 – 12:11
 
 Under 17 boys: Hugh Mackie, 22 October 2019 – 11:17
 
