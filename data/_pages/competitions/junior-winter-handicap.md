@@ -30,7 +30,7 @@ Under 11 girls: Graihagh Turner, 21 January 2020 – 4:03
 
 Two laps (2200m)
 
-Under 13 boys: Alex O'Gorman, 1 December 1998 – 8:15
+Under 13 boys: Tadek Kunicki-Holda, 21 December 2021 – 8:11
 
 Under 13 girls: Graihagh Turner, 21 December 2021 – 8:11
 
