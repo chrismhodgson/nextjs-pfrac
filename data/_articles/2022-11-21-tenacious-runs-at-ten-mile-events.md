@@ -16,10 +16,10 @@ On the parkrun scene George Parr was first at the Penistone parkrun in 17-40.  J
 
 
 
-*Robin Clough*
+_Robin Clough_
 
 
-Results
+**Results**
 
 
 Barnsley parkrun
