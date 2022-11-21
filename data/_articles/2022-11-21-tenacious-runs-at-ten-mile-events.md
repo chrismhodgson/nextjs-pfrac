@@ -4,7 +4,7 @@ draft: false
 date: 2022-11-21T19:59:27.947Z
 tags:
   - Press
-summary: Results 21 November 2022
+summary: Round-up of Penistone runners' results
 ---
 Ten mile races seemed to be the order of the day on Sunday as Penistone runners travelled to Derby and Tadcaster to compete in ten mile road races.  David Napier and Rob Davies made the trip to Derby posting times of 1-11-12 and 1-17-47 respectively.  Six athletes made the trip to Tadcaster.  First back for the club in a new personal best for the 10 mile distance was James Mumford who placed 26th in a field of over 700 runners in a time of 58-20.  Also breaking the 60 minute barrier was Andrew Heppenstall posting a time of 58-58.  Dawn Broom was the first lady back for the club and placed second overall in the ladies over55 category in a time of 1-13-53.  Another runner finishing on the podium was Martin Ball who grabbed third place in the men’s over50 age category in 1-01-12.
 
