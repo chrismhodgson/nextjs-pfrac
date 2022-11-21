@@ -14,47 +14,30 @@ In the latest round of the Winter Handicap Tracy Woodward collected first place 
 
 On the parkrun scene George Parr was first at the Penistone parkrun in 17-40.  Julia Johnson was second lady at the Dewsbury parkrun.  At the Nostell Priory parkrun Sarah Walch was first lady and Damian Kilpin was second man.  
 
+*Robin Clough*
 
-
-_Robin Clough_
-
-
-**Results**
-
+**Results**
 
 Barnsley parkrun
 
-
 27, Nick Wright 23-27; 35, Paul Fryers 25-15; 43, Stuart Smith 26-16; 64, Daniel Batty 29-37; 65, Rory O'Sullivan 29-39; 76, Susan Hall 31-19; 122, David Horsfall 55-34.
-
- 
 
 Penistone parkrun
 
-
 1, George Parr 17-40; 5, Ben Malcolm 18-53; 10, Oliver France 20-07; 17, Will Hoyland 22-09; 25, Richard Docker 22-46; 26, Rhianna Banford 22-59; 34, Daniel Cooper 23-59; 37, Mark Graham 24-09; 47, Stephen Owen 24-46; 51, Helen Turner 25-26; 52, Emma Stead 25-27.
-
-
 
 Derby 10 mile
 
-
 259, David Napier 1-11-05; 402, Rob Davies 1-17-28.
-
 
 Tadcaster 10 mile
 
-
 26, James Mumford 58-20; 30, Andrew Heppenstall 58-58; 47, Martin Ball 1-01-12; 208, Dawn Broom 1-13-53; 282, John Broom 1-18-06.
-
 
 Clowne Half Marathon
 
-
 24, Will Hoyland 1-25-25; 136, Dan Limb 1-42-13; 159, Chloe Worth 1-43-19; 200, Nick Pepper 1-46-47.
 
-
 Gainsborough 10k
-
 
 74, Jonathan Bentley 37-54.
