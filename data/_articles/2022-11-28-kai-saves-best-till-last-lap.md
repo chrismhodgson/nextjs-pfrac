@@ -2,6 +2,8 @@
 title: Kai saves best till last lap
 draft: false
 date: 2022-11-28T14:11:11.621Z
+tags:
+  - PRESS
 summary: Round-up of Penistone runners' results
 ---
 The third South Yorkshire cross country league fixture took place at the Penistone showground in breezy conditions.  In the men’s senior race Kai Sunman put in a strong last lap to claim fourth place which was his best result to date.  Kai’s position was matched in the ladies race by Ruby Sykes who has consistently finished fourth in the first three fixtures.  Matt Robinson put in a strong performance to figure in the high placings in the men’s over 55 age category as did Julia Johnson in the ladies category for the same age.  In the junior races Flynn Rogers excelled in the boys race.
