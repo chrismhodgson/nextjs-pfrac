@@ -11,12 +11,11 @@ title: Norman Cole Penistone 10K
 registration: ""
 category: Road
 ---
-
 The Penistone 10K (formerly the Penistone Show 10K) was established over 30 years ago. It is run under UK Athletics rules of competition on roads and the Trans-Pennine Trail (asphalt surface) around Penistone.
 
 From 2022 the race has been named after Norman Cole. Norman was one of the founder members of the club and ran in many races over the years. He was always supportive to other members and was well respected within the South Yorkshire running community. He held many club records over the years as he moved up the age groups and set the standard for others to beat.
 
-Even though he was unwell in the last few years of his life, he often turned up at Barnsley parkrun and used to come to the Trunce to see the friends he had made over the years. He used to run the Penistone 10K every year when he was able. Sadly, Norman died in 2019, and the Penistone 10K has been named after him as a gesture to remember of of our longest serving members.
+Even though he was unwell in the last few years of his life, he often turned up at Barnsley parkrun and used to come to the Trunce to see the friends he had made over the years. He used to run the Penistone 10K every year when he was able. Sadly, Norman died in 2019, and the Penistone 10K has been named after him as a gesture to remember one of our longest serving members.
 
 #### Entry
 
@@ -30,7 +29,7 @@ Registration from 8:30am at [Penistone Church Football Club](https://www.google.
 
 #### Results
 
-_Original Course to top of Hartcliff_
+*Original Course to top of Hartcliff*
 
 [1985](https://pfrac.co.uk/static/results/penistone-10k/penistone-10k-1985-results.pdf)
 [1986](https://pfrac.co.uk/static/results/penistone-10k/penistone-10k-1986-results.pdf)
@@ -57,13 +56,13 @@ _Original Course to top of Hartcliff_
 [2007](https://pfrac.co.uk/static/results/penistone-10k/penistone-10k-2007-results.pdf)
 [2008](https://pfrac.co.uk/static/results/penistone-10k/penistone-10k-2008-results.pdf)
 
-_New course down Brockholes Lane and Trans-Pennine Trail_
+*New course down Brockholes Lane and Trans-Pennine Trail*
 
 [2009](https://pfrac.co.uk/static/results/penistone-10k/penistone-10k-2009-results.pdf)
 [2010](https://www.runbritainrankings.com/results/results.aspx?meetingid=40802)
 [2011](https://www.runbritainrankings.com/results/results.aspx?meetingid=55198)
 
-_Current course from Football Club_
+*Current course from Football Club*
 
 [2012](https://www.runbritainrankings.com/results/results.aspx?meetingid=69517)
 [2013](https://www.runbritainrankings.com/results/results.aspx?meetingid=84849)
@@ -79,19 +78,19 @@ The races in 2020 and 2021 were cancelled.
 
 #### Course Records
 
-_Original Course to top of Hartcliff_
+*Original Course to top of Hartcliff*
 
 Male: Kenny Stuart, Keswick AC, 1989 &ndash; 30:56
 
 Female: Shirley Griffiths, Wakefield Harriers, 1999 &ndash; 38:05
 
-_New course down Brockholes Lane and Trans-Pennine Trail_
+*New course down Brockholes Lane and Trans-Pennine Trail*
 
 Male: David Thompson, Barnsley AC, 2009 &ndash; 34:39
 
 Female: Julie Buckley, Penistone Footpath Runners & AC, 2009 &ndash; 40:03
 
-_Current course from Football Club_
+*Current course from Football Club*
 
 Male: Scott Hinchcliffe, Penistone Footpath Runners & AC, 2019 &ndash; 33:25
 
