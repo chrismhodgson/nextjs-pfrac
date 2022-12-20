@@ -3,8 +3,6 @@ title: Track and Field
 header: about/track-and-field.jpg
 order: 65
 ---
-Juniors can compete in the South Yorkshire Indoor and Outdoor track and field series, and other open events. For more details see the [Juniors](https://pfrac.co.uk/about/juniors) page.
-
 In 2017, for the first time for many years, the club joined the Northern Track &amp; Field league. Early fixtures in 2017 were poorly attended, but later that year and throughout 2018 and 2019 we fielded much stronger teams as more members discovered how much fun it could be! We finished 5th overall in division 4EC in 2017 and 2018, and 3rd in 2019. Links to the results for all previous fixtures are at the bottom of this page.
 
 The 2020 season was abandoned without a shot being put in anger, due the the Covid-19 pandemic. The structure of the league was revised for 2021 and we finished 7th in the new East 2 Division, where we remained for 2022.
