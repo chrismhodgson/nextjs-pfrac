@@ -4,9 +4,12 @@ header: about/juniors.jpg
 order: 30
 ---
 
-The club has a very popular junior section, taking boys and girls from the age of 8 to 17. England Athletics rules are very strict about the qualifications needed to lead groups of juniors, and the club is very short of Athletics Coaches who are qualified to take children under 12, so for this age group there is a waiting list. Contact [Bob Innes](mailto:janeandbob239@btinternet.com), Junior Secretary, if your son or daughter is interested in joining the club.
+The club has a very popular junior section, taking boys and girls from the age of 12 to 17.
+Up to 2022, the club took juniors from age 8, but lack of availability of coaches qualified to take the younger age group forced a change.  From January 2023 a new club for children aged 8 to 11 has been set up under the England Athletics "Funetics" programme.  Details of this will be available shortly.
 
-For most juniors, the club is something they attend every Tuesday evening, all year round (with breaks for school holidays) where they get some exercise with friends. Sessions are structured to maintain interest and safety, catering for a wide range of ability. Those that want to push themselves to get fitter have the opportunity to train with seniors, under the supervision of appropriately qualified coaches.
+F﻿or juniors from their 12th birthday contact [Bob Innes](mailto:janeandbob239@btinternet.com), Junior Secretary, if your son or daughter is interested in joining the club.
+
+For most juniors, the club is something they attend every Tuesday evening, all year round (with breaks for school holidays) where they get some exercise with friends. Sessions are structured to maintain interest and safety, catering for a wide range of ability.
 
 All the coaches and coaching assistants have up-to-date [DBS](https://www.gov.uk/government/organisations/disclosure-and-barring-service) checks, as required by England Athletics.
 
@@ -31,7 +34,8 @@ Prizes are given out at the annual presentation evening.
 
 ### Track & Field
 
-Juniors have been representing the club in the South Yorkshire Track & Field League and the Indoor League at the English Institute of Sport in Sheffield for several decades. Anyone interested should contact [Paul Fryers](mailto:paul.fryers@gmail.com). Results are all available on the British Athletics [Power of 10](https://www.thepowerof10.info/athletes/athleteslookup.aspx) service.
+
+For many years, juniors represented the club in the South Yorkshire Track & Field League and the Indoor League at the English Institute of Sport in Sheffield. Results are all available on the British Athletics Power of 10 service. The club withdrew from track and field after the 2022 season as a result of dwindling interest.  Any juniors who do wish to compete in track and field can do so in conjunction with other local clubs.
 
 ### Club Records
 
