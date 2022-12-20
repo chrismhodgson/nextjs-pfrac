@@ -5,9 +5,9 @@ order: 60
 ---
 Steve Sanders organises an informal orienteering league for the club using the MapRun system. Steve sets courses in the local area, some urban, some rural or fell, and anyone can run them at any time.
 
-M﻿aps are circulated by Steve using the members circulation list, showing the checkpoints and any out-of-bounds areas. As runners complete courses their scores are recorded by the MapRun system, collated by Steve and the latest scores for the current series are below.
+M﻿aps are circulated by Steve using the members circulation list, showing the checkpoints and any out-of-bounds areas. As runners complete courses their scores are recorded by the MapRun system, collated by Steve and the final scores for the current series are below.
 
-**[C﻿urrent standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)**
+**[Final standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)**
 
 **How to take part**
 
