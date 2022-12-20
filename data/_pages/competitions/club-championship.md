@@ -3,6 +3,11 @@ title: Club Championship
 header: competitions/club-championship.jpg
 order: 10
 ---
+#### The 2023/24 Club Championship
+
+A﻿t the 2022 AGM the club agreed to change from a January-December membership year to an April-March year.  This lines up with the england Athletics membership year and will make admin easier in several ways.
+
+T﻿he club competitions will also change to be aligned with the club's membership year, so the 2023/24 Championship will begin with races in April.
 
 #### The 2022 Club Championship
 
@@ -92,4 +97,4 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Kimmy Kanter](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/kimmy-kanter) | Tue 7 Jun                         |
 | [Oughtibridge Chase](https://www.oughtibridgegala.org/the-tom-holmes-gala-chase)                    | Wed 15 Jun                        |
 | [Higham Hurtle](http://www.barnsleyharriers.org.uk/index.php/higham-hurtle)                         | Thu 8 Sep                         |
-| [SY Cross Country League](http://www.sycaa.co.uk/sycaa/cross-country)                               | Sun 11 Dec                        |
+| [SY Cross Country League](http://www.sycaa.co.uk/sycaa/cross-country)                               | Sun 21 Jan 2023|
