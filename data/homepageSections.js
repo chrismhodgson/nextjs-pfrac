@@ -9,7 +9,7 @@ const homepageSections = [
     href: '/about/juniors',
     title: 'Juniors',
     description:
-      'We have a very popular junior section, taking boys and girls from the age of 8 to 17. Training sessions, led by qualified coaches, are on Tuesdays at 6:30pm.',
+      'We have a very popular junior section, taking boys and girls from the age of 12 to 17. Training sessions, led by qualified coaches, are on Tuesdays at 6:30pm.',
   },
   {
     href: '/about/training',
