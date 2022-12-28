@@ -9,7 +9,7 @@ summary: The results from today's Amble's Revenge are now online. Thanks to all
 ---
 [F﻿ull results](https://racebest.com/results/46u75)
 
-F﻿irst man was Alan Ford of Barnsley Harriers in 55:02. First Lady was Emily Cowper Coles of Denby Dale AC, in 60:38, a record for the new course (since 2021).
+F﻿irst man was Alan Ford of Barnsley Harriers in 55:02. First lady was Emily Cowper Coles of Denby Dale AC, in 60:38, a record for the new course (since 2021).
 
 F﻿irst male team was Penistone, with George Parr, Tom Fryers and James Fryers finishing 2nd, 3rd and 4th respectively.
 
