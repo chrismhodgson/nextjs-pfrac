@@ -1,7 +1,7 @@
 ---
 title: Graihagh showing good form
 draft: false
-date: 2022-12-28T19:48:56.595Z
+date: 2022-12-26T00:00:00.000Z
 tags:
   - PRESS
 summary: Round-up of Penistone runners' results
