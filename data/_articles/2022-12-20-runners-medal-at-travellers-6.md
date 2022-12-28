@@ -10,22 +10,14 @@ A strong contingent of 18 Penistone runners made the short trip to Denby Dale to
 
 On the parkrun scene Tom Fryers was second finisher at Cusworth Hall in 18-35, ahead of his dad Paul Fryers who claimed his best ever parkrun finish in 5th place.  Nell Law notched up 100 parkruns whilst taking part in the Barnsley parkrun.
 
-
-
 *Robin Clough*
 
-
-**Results**
-
+**Results**
 
 Travellers 6
 
-
 8, George Parr 37-04; 10, Andrew Heppenstall 37-35; 30, Oliver Pike 44-21; 44, Michael Walsh 45-58; 48, Suzanne McGill 46-25; 56, Chloe Worth 48-00; 58, Jemma Williams 48-11; 61, Nick Pepper 48-36; 65, Richard Docker 49-25; 78, Peter Beever 50-52; 86, Bill Phillips 52-00; 93, Keith Gordon 53-30; 100, Stuart Woodhead 53-58; 102, Stu Smith 54-07; 122, Nick Whittingham 57-12; 134, Tracy Woodward 60-35; 138, Ian Wragg 61-08.
 
-
-
 Barnsley parkrun
-
 
 10, Patrick Needham 22-07; 15, Oliver France 22-31; 24, Michael Walsh 24-14; 57, Lisa Hinchliffe 28-02; 70, Luke McGuinness 29-26; 80, Daniel Batty 29-46; 87, Eleanor Law 30-40; 95, Susan Hall 32-03; 96, Stuart Smith 32-05; 109, Karen Schofield 34-05; 138, Raymond Brown 50-28.
