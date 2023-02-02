@@ -27,5 +27,3 @@ Penistone parkrun
 Barnsley parkrun
 
 20, Michael Walsh 22-40; 37, Alan Knox 25-14; 46, Mark Graham 26-05; 56, Martyn Goodwin 26-54; 84, Daniel Batty 29-16; 94, Susan Hall 30-42; 95, Stuart Smith 30-42; 110, John Spencer 33-27; 111, Raymond Brown 33-40.
-
-<!--EndFragment-->
