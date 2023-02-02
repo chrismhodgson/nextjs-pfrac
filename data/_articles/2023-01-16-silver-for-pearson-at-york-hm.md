@@ -25,5 +25,3 @@ Penistone parkrun
 2, Ben Malcolm 19-01; 3, George Parr 19-15; 4, Andrew Paul Heppenstall 19-20; 7, James Mumford 20-07; 12, Oliver Pike 21-24; 21, Steven John Stead 22-51; 30, Michael Nicholson 23-41; 34, Matthew Coldwell 23-55; 35, Daniel Cooper 24-00; 36, Lesley Parker 24-11; 40, Oliver Found 24-26; 58, Keith Gordon 26-27; 64, Emma Stead 27-17; 65, Jill Carlton 27-18; 113, Peter Stanley 33-06.Barnsley parkrun
 
 20, Michael Walsh 22-40; 37, Alan Knox 25-14; 46, Mark Graham 26-05; 56, Martyn Goodwin 26-54; 84, Daniel Batty 29-16; 94, Susan Hall 30-42; 95, Stuart Smith 30-42; 110, John Spencer 33-27; 111, Raymond Brown 33-40.
-
-<!--EndFragment-->
