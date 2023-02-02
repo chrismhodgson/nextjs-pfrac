@@ -19,7 +19,7 @@ Even though he was unwell in the last few years of his life, he often turned up 
 
 #### Entry
 
-Details of online entry, prices and closing date for the 2023 race not yet available.
+[Online entry](https://racebest.com/races/a2eeh) for the 2023 race is now open.
 
 Minimum age 15 on the day
 
