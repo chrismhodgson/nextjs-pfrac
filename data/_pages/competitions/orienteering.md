@@ -5,18 +5,39 @@ order: 60
 ---
 Steve Sanders organises an informal orienteering league for the club using the MapRun system. Steve sets courses in the local area, some urban, some rural or fell, and anyone can run them at any time.
 
-M﻿aps are circulated by Steve using the members circulation list, showing the checkpoints and any out-of-bounds areas. As runners complete courses their scores are recorded by the MapRun system, collated by Steve and the final scores for the current series are below.
+M﻿aps are drawn up by Steve and posted below, showing the checkpoints and any out-of-bounds areas. As runners complete courses their scores are recorded by the MapRun system, collated by Steve and posted below.
 
-**[Final standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)**
+**2023 Series**
+
+There will 8 different courses, each with its own time limit between 45 and 90 minutes.  The courses will be made available progressively through the year. The first two are available to run from 1 March to 30 April. They can be run at any time, but will only count towards the series during that time.
+
+[P﻿enistone 2023 45 min](https://pfrac.co.uk/static/images/maps/penistone-2023-maprun.pdf)
+
+[Millhouse 2023 60 min](https://pfrac.co.uk/static/images/maps/millhouse-2023-maprun.pdf)
+
+They are score events: collect as many points as you can before returning to the start within the allotted time limit. There is a penalty of –10 points for every minute (or part of a minute) late back so someone scoring 100 points would lose them all if they were 10 minutes over time.
+
+
+You can only get the points for a control once, even if you run to it several times.
+
+The naming of the controls shows how many points they are worth (01–09 = 10 points, 11–19 = 20 points, 21–29 = 30 points, 31–39 = 40 points, etc).
+
+
+
+Your best 6 scores will be summed to determine your final score for the series.
+
+**Results**
+
+[2022 Final standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)
 
 **How to take part**
 
 There’s a user guide on the [MapRun website](http://maprunners.weebly.com/quick-guide.html) which should get you set up. If you have any problems contact [Steve](mailto:stevemsanders71@gmail.com).
 
 You will need to download the app (MapRun 6) to your phone and enter a username. You will need to make sure the app has access to location and data settings. The app needs to be able to run in the background. Once started with the app you can then search for the event. The simplest way is to use “select event”. This will take you through a series of
-folders – UK &ndash;&gt; South Yorkshire &ndash;&gt; PFRAC and select the course you want to run. The details in grey under the name just specify the course type and rules.
+folders: UK &ndash;&gt; South Yorkshire &ndash;&gt; PFRAC and select the course you want to run. The details in grey under the name just specify the course type and rules.
 
-You then simply select “Go To Start” where you will need to enter the PIN which is printed on the map. The map will load up on the screen and you can zoom in and out but the important thing to look for is the bar at the bottom of the screen where it says “GPS”. This bar must be green before setting off to confirm the app has a GPS signal. Once you have a green GPS status bar then just set off on the course. The app will beep, and start timing, as soon as you pass through the start/ finish point.
+You then simply select “Go To Start” where you will need to enter the PIN which is printed on the map. The map will load up on the screen and you can zoom in and out but the important thing to look for is the bar at the bottom of the screen where it says “GPS”. This bar must be green before setting off to confirm the app has a GPS signal. Once you have a green GPS status bar then just set off on the course. The app will beep, and start timing, as soon as you pass through the start/finish point.
 
 As soon as you cross back through the start/finish the app will stop your time (even if you’ve not been to any controls so once you’ve set off be sure not to turn back straight away). Your phone should beep when you get to a control (or near to it) but don’t worry if it doesn’t. If you don’t hear a beep carry on your run and Steve can sort it out afterwards.
 
@@ -25,4 +46,5 @@ checkpoint but not close enough it will be in red and you tick the box at the si
 tolerance then the results would show Rev30.
 
 For anyone who doesn’t want to (or isn’t able to) use the app, you can just record your run on a watch and email the GPX file to Steve (downloadable from the activity on
-Strava/Garmin/Suunto etc). There is also an option to use a Garmin watch with [MapRunG](https://maprunners.weebly.com/maprung.html) loaded onto it, which means you can run without your phone, the watch beeps when you reach a checkpoint and will upload to MapRun when you sync your run.
+Strava/Garmin/Suunto etc). There is also an option to use a Garmin watch with [MapRunG](https://maprunners.weebly.com/maprung.html) loaded onto it, which means you can run without your phone, the watch beeps when you reach a checkpoint and will upload to MapRun when you sync your run. Another option within the app allows you to upload a track from Strava instead of using the app to record the run.  Instructions are available on the [MapRun website](https://maprunners.weebly.com/maprun---any-track.html).
+
