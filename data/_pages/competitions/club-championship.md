@@ -5,23 +5,17 @@ order: 10
 ---
 #### The 2023/24 Club Championship
 
-A﻿t the 2022 AGM the club agreed to change from a January-December membership year to an April-March year.  This lines up with the england Athletics membership year and will make admin easier in several ways.
+A﻿t the 2022 AGM the club agreed to change from a January-December membership year to an April-March year.  This lines up with the England Athletics membership year and will make admin easier in several ways. T﻿he club competitions will also change to be aligned with the club's membership year, so the 2023/24 Championship will begin with races in April.
 
-T﻿he club competitions will also change to be aligned with the club's membership year, so the 2023/24 Championship will begin with races in April.
+#### The 2023/24 Club Championship
 
-#### The 2022 Club Championship
+The format of the Championship in 2023/24 is similar to previous years. All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
 
-The format of the Championship in 2022 is unchanged from the planned 2020 Championship, with many of the same races.
-
-All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
-
-The competition involves races across three main sections (Road, Trail/Cross-Country and Fell) plus the club mile if this takes place. The Championship comprises around 20 fixed races (6 or 7 from each section plus the club mile), but two of the events are local series of races: Spencer's Dash (road) and Silkstone Shuffle (trail/cross country). Members can run as many of the Spencer's Dash or Silkstone Shuffle series as they wish, and their season’s best time from each will be counted.
-
-If the club mile (a track event organised within the club) takes place it will count as an additional event, not towards any of the three sections. It will count towards the overall championship and the challenge championship, but it is optional – you can qualify for every part of the championship without doing the club mile, but you might pick up more points if you do run it.
+The competition involves races across three main sections (Road, Trail/Cross-Country and Fell). The Championship comprises 16 fixed races (5 or 6 from each section plus the club mile), but three of the events are local series of races: Spencer's Dash and Loxley Lash (road), and Silkstone Shuffle (trail/cross country). Members can run as many of the Spencer's Dash, Loxley Lash or Silkstone Shuffle series as they wish, and their season’s best time from each will be counted.
 
 #### Results
 
-[Current standings for 2022](http://results.pfrac.co.uk/championship-2022/challenge).
+[Current standings for 2023/24](http://results.pfrac.co.uk/championship-2023-24/challenge).
 
 Results for previous years:
 [2004](https://pfrac.co.uk/static/results/club-championship/championship-2004-results.xlsx)
@@ -41,7 +35,7 @@ Results for previous years:
 
 #### Qualification
 
-Qualification for the section Championships and overall Championship is exactly as in recent years: to qualify for each section you need to compete in at least 3 of the section events (out of 6/7 events, including, if you wish, the series event, but you don’t have to run the Spencer’s Dash or Silkstone Shuffle).
+Qualification for the section Championships and overall Championship is exactly as in recent years: to qualify for each section you need to compete in at least 3 of the section events (out of 5/6 events, including, if you wish, series events, but you don’t have to run the Spencer’s Dash, Loxley Lash or Silkstone Shuffle).
 
 To qualify for the Overall Championship you have to compete in 9 events, with at least 2 of these races from each section. Your 9 best race scores, including the minimum of 2 from each section, will be added together to form an Overall Championship total. If you do the club mile, that can be one of your 9 qualifying events (if it is one of the 9 best scores).
 
@@ -53,9 +47,9 @@ Points are calculated based on their time relative to the overall race winner (m
 
 The main advantages of this method are: 1) it means that every second you run faster will gain you points (not a lot, but something – unless you are the race winner). Beating another Penistone runner (of the same sex) in a race will always mean you get more points than them – but the bigger the gap you get the more points you gain. 2) you don’t get points as a result of other PFR runners not turning up – you get points for your own performance.
 
-The disadvantage of this method is that your points do depend on how fast the winner is – if Mo Farah or Eilish McColgan turn up to Oughtibridge Chase, the points will go down – generally, less popular races will yeald more points. This may help boost less popular races, which is no bad thing.
+The disadvantage of this method is that your points do depend on how fast the winner is – if Mo Farah or Eilish McColgan turn up to Oughtibridge Chase, the points will go down – generally, less popular races will yield more points. This may help boost less popular races, which is no bad thing.
 
-The Challenge Championship will still be as it currently is – the total points from all events completed (including your best Spencers Dash and Silkstone Shuffle, and the club mile).
+The Challenge Championship is based on the total points from all events completed (including your best Spencers Dash, Loxley Lash and Silkstone Shuffle). The more races you complete, the more points you will get.
 
 #### Prizes
 
@@ -64,37 +58,11 @@ Your age group for the Championship in any year is determined by your age on Jan
 - The groups are as follows: Male U20, M Senior, MV35, MV40, MV45, MV50, MV55, MV60, MV65, MV70, MV75, MV80, Female U20, F Senior, LV35, LV40, LV45, LV50, LV55, LV60, LV65, LV70, LV75, LV80.
 - The Sections are Road, Trail/Cross Country and Fell.
 - The Overall Champions will be the Male and Female with the best scores from the 9 races needed to qualify.
-- A special prize, and title of Challenge Champion will be given to the runner who acquires the most points from all qualifying events.
+- The title of Challenge Champion will be given to the runner who acquires the most points from all qualifying events.
 - Run as many or as few races as you want but you must compete in the correct number of races to win an award.
 
-#### 2022 events
+#### 2023/24 events
 
 All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
 
-| Road Section                                                                                       |                                  |
-| -------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [Wombwell 5M](https://timemyrace.co.uk/wombwell-5/)                                                | Sun 20 Feb                       |
-| [Norton 9M](https://bookitzone.com/phil_tordoff_1/zljFFX)                                          | Sun 9 Mar                        |
-| [Spencers Dash](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                           | Thu 5 May, Thu 14 Jul, Thu 1 Sep |
-| [Lindley 10K](https://www.runbritain.com/RaceDetail.aspx?eventid=79bf0fcf5971&raceid=78ba0aca5860) | Sun 26 Jun                       |
-| [Vale of York Half Marathon](https://racebest.com/races/ttr57)                                     | Sun 11 Sep                       |
-| [Guy Fawkes 10M](http://niddvalleyroadrunners.co.uk/guy-fawkes-10/)                                | Sun 6 Nov                        |
 
-| Fell Section                                                                                     |                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Hoppits Hill Race](https://entries.events360.co.uk/events/hoppits-2022)                         | Sun 27 Feb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| [Herod Farm](https://races.fellrunner.org.uk/races/c375f9d5-2a50-4fd7-a3fa-06f55afb7750)         | Wed 20 Apr                                                                                                                                                       |
-| [Hayfield May Queen](https://races.fellrunner.org.uk/races/11d87884-ac86-4fdd-a422-e3a01695ae62) | Fri 20 May                                                                                                                                                       |
-| [Hope Wakes](https://www.fellrunner.org.uk/races/0d29cb05-99b5-4414-946f-4595c945259c)           | Wed 29 Jun                                                                                                                                                       |
-| [Crowden Horseshoe](https://races.fellrunner.org.uk/races)                                       | Sun 21 Aug                                                                                                                                                       |
-| [Shelf Moor](https://races.fellrunner.org.uk/races/5c67265a-d4e2-4f1b-844e-3d7a2a6bc70b)         | Sun 25 Sep                                                                                                                                                       |
-| [Wadsworth Half Trog](https://www.cvfr.co.uk/races/wadsworth-half-trog/)                         | Sun 13 Nov                                                                                                                                                       |
-
-| Trail/Cross Country Section                                                                         |                                   |
-| --------------------------------------------------------------------------------------------------- | --------------------------------- |
-| [Silkstone Shuffle](http://www.barnsleyharriers.org.uk/index.php/silkstone-shuffle)                 | Thu 28 Apr, Thu 9 Jun, Thu 25 Aug |
-| [Furty Furlong](https://www.kingstonerunners.co.uk/page4.html)                                      | Sat 14 May                        |
-| [Kimmy Kanter](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/kimmy-kanter) | Tue 7 Jun                         |
-| [Oughtibridge Chase](https://www.oughtibridgegala.org/the-tom-holmes-gala-chase)                    | Wed 15 Jun                        |
-| [Higham Hurtle](http://www.barnsleyharriers.org.uk/index.php/higham-hurtle)                         | Thu 8 Sep                         |
-| [SY Cross Country League](http://www.sycaa.co.uk/sycaa/cross-country)                               | Sun 21 Jan 2023|
