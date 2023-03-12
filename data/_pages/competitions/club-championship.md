@@ -87,7 +87,7 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Silkstone Shuffle 3](http://www.barnsleyharriers.org.uk/index.php?option=com_content&view=article&id=2&Itemid=109) | Thu 14 Sep |
 | [SY Cross Country - race 1](https://www.sycaa.org.uk/cross-country/) | Sun 15 Oct |
 
-| Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  |
+| Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  |
 | - | - |
 | [Herod Farm](https://www.fellrunner.org.uk/races/52a86ba5-059a-485c-a355-838f25f26e27) | Wed 19 Apr |
 | [James Blakeley](https://www.fellrunner.org.uk/races/70092187-2285-423c-a0c8-9c66cbf0972c) | Sat 24 Jun |
