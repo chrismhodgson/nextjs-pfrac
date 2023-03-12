@@ -65,7 +65,7 @@ Your age group for the Championship in any year is determined by your age on Jan
 
 All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
 
-| Road Section                       |  |
+| Road Section &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp |  |
 | - | - |
 | [Spencers Dash 1](https://www.barnsleyac.co.uk/club-events/spencers-dash/) | Thu 4 May |
 | [Loxley Lash 1](https://www.sheffieldrunningclub.org.uk/racing/our-hosted-races/loxley-lash/) | Wed 10 May |
