@@ -1,5 +1,5 @@
 ---
-start_date_time: TBC
+start_date_time: Saturday 8th July at 14:00
 organiser: "Keith Gordon: thurchase2021@gmail.com"
 strava_url: ""
 header: races/thurlstone-chase.jpg
