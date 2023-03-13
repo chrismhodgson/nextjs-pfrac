@@ -4,19 +4,19 @@ header: competitions/fell-league.jpg
 order: 20
 ---
 
-#### The 2022 Fell League
+#### The 2023/24 Fell League
 
-Following interruptions through 2020 and 2021 due to the pandemic, the 2022 Fell League is back to the original format, ie including all FRA-licenced fell races.
+A﻿s the club has changed its membership your to run from April to March, the Fell League will also - all races from 1 April 2023 to 31 March 2024 will count.
 
-All first claim members' results in all FRA registered senior races count towards the Fell League &ndash; you get points for every race, without any limit, and you get more points the faster you run.
+All first claim members' results in all FRA licenced senior races count towards the league &ndash; you get points for every race, without any limit, and you get more points the faster you run.
 
-All FRA registered senior races count, which includes all 9 Trunces, Hartcliff Hill and Thurlstone Chase, as well as all the Club Championship Fell Section races, English Championships, etc.
+All FRA licenced senior races count, which includes all 9 Trunces, Hartcliff Hill and Thurlstone Chase, as well as all the Club Championship Fell Section races, English Championships, etc.
 
-Tables will be published here and updated at least every month, but the onus is on the runner to tell me ([paul.fryers@gmail.com](mailto:paul.fryers@gmail.com)) of their results: I can't check the results of every race to find PFR runners, although where there is a big turnout I don't need everyone to supply their own result. Just tell me the race you ran and your time.
+T﻿he results are updated frequently, but the onus is on the runner to tell me ([Paul Fryers](mailto:paul.fryers@gmail.com)) of their results: I can't check the results of every race to find PFR runners, although where there is a big turnout I don't need everyone to supply their own result. Just tell me the race you ran and your time.
 
 #### Results
 
-[Current standings for 2022](http://results.pfrac.co.uk/fell-league-2022/races).
+S﻿tandings for 2023/24 will be posted here.
 
 Results for previous years:
 [2017](https://pfrac.co.uk/static/results/fell-league/fell-league-2017-results.pdf)
