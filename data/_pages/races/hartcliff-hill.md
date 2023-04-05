@@ -16,9 +16,7 @@ course_records: ""
 ---
 Hartcliff Hill is a BS category fell race on a marked and marshalled course &ndash; no navigation or prior experience required. The terrain is rough and can be extremely boggy.
 
-The race starts and finishes about ¾ mile from Langsett Barn so allow time after registration.
-
-Complications over parking arrangements have made it difficult to organise this race - if these can be resolved a date will be decided and published here.
+The race starts and finishes about ¾ mile from registration at Langsett Barn so allow time.  It has been difficult to organise this race because of parking permissions.  Please park according to instructions and restrictions on the day.
 
 #### Entry
 
