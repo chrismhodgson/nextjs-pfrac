@@ -1,5 +1,5 @@
 ---
-start_date_time: TBC
+start_date_time: W﻿ednesday 26 April at 19:30
 organiser: |
   Ian Charlesworth: hartcliffhill.fellrace@gmail.com
 strava_url: https://www.strava.com/segments/9332504/embed
@@ -14,7 +14,6 @@ registration: ""
 category: Fell
 course_records: ""
 ---
-
 Hartcliff Hill is a BS category fell race on a marked and marshalled course &ndash; no navigation or prior experience required. The terrain is rough and can be extremely boggy.
 
 The race starts and finishes about ¾ mile from Langsett Barn so allow time after registration.
@@ -23,13 +22,13 @@ Complications over parking arrangements have made it difficult to organise this 
 
 #### Entry
 
-Entry £4.50 on the day for FRA or EA members; £5.50 for non-members.
+Entry £5.00 on the day for FRA or EA members; £6.00 for non-members..
 
-This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 12 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://races.fellrunner.org.uk/documents/2022/fra-parental-consent-process-form-2022.pdf).
+This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 14 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://races.fellrunner.org.uk/documents/2022/fra-parental-consent-process-form-2022.pdf).
 
 #### Registration
 
-Resistration from 18:30 at [Langsett Barn](https://www.google.co.uk/maps/place/Langsett+Barn+Outdoor+Centre/@53.5003511,-1.6853282,17z/data=!3m1!4b1!4m5!3m4!1s0x487bd650d87862bb:0xe1e1bf038b748d28!8m2!3d53.5003511!4d-1.6831395), S36 4GY (on the A616, 1 mile SE of the [Flouch Roundabout](https://www.google.co.uk/maps/place/Flouch+Roundabout,+Sheffield+S36+4AA/@53.5089589,-1.7041355,17z/data=!3m1!4b1!4m5!3m4!1s0x487bd70297198877:0x31271495d144b090!8m2!3d53.5089589!4d-1.7019468)). Grid ref: SE211005
+Resistration from 18:00 at [Langsett Barn](https://www.google.co.uk/maps/place/Langsett+Barn+Outdoor+Centre/@53.5003511,-1.6853282,17z/data=!3m1!4b1!4m5!3m4!1s0x487bd650d87862bb:0xe1e1bf038b748d28!8m2!3d53.5003511!4d-1.6831395), S36 4GY (on the A616, 1 mile SE of the [Flouch Roundabout](https://www.google.co.uk/maps/place/Flouch+Roundabout,+Sheffield+S36+4AA/@53.5089589,-1.7041355,17z/data=!3m1!4b1!4m5!3m4!1s0x487bd70297198877:0x31271495d144b090!8m2!3d53.5089589!4d-1.7019468)). Grid ref: SE211005
 
 #### Results
 
@@ -52,13 +51,13 @@ Races in 2014, 2020 and 2021 were cancelled due to the Covid-19 pandemic, and th
 
 #### Course Records
 
-_Previous course &ndash; 2005&ndash;2013:_
+*Previous course &ndash; 2005&ndash;2013:*
 
 Male: Stuart Bond, Tommy's Fell Stars, 2009 &ndash; 14:54
 
 Female: N White, Bingley Harriers & AC, 2006 &ndash; 17:19
 
-_Current course &ndash; since 2015_
+*Current course &ndash; since 2015*
 
 Male: Max Wainwright, Dark Peak Fell Runners, 2019 &ndash; 15:37
 
