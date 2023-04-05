@@ -1,7 +1,7 @@
 ---
 title: Graihagh competes for England
 draft: false
-date: 2023-04-05T05:11:00.837Z
+date: 2023-03-27T05:11:00.837Z
 tags:
   - PRESS
 summary: Round-up of Penistone runners' results
