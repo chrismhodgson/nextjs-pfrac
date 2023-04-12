@@ -28,7 +28,9 @@ Your best 6 scores will be summed to determine your final score for the series.
 
 **Results**
 
-[2022 Final standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)
+[2023 Standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)
+
+[2022 Final Standings](https://pfrac.co.uk/static/results/orienteering/2022-results.xlsx)
 
 **How to take part**
 
