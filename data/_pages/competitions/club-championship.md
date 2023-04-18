@@ -67,7 +67,7 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 
 | Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  |
 | - | - |
-| [Spencers Dash 1](https://www.barnsleyac.co.uk/club-events/spencers-dash/) | Thu 4 May |
+| [Spencers Dash 1](https://racebest.com/races/972yw) | Thu 4 May |
 | [Loxley Lash 1](https://www.sheffieldrunningclub.org.uk/racing/our-hosted-races/loxley-lash/) | Wed 10 May |
 | [Loxley Lash 2](https://www.sheffieldrunningclub.org.uk/racing/our-hosted-races/loxley-lash/) | Wed 7 Jun |
 | [Loxley Lash 3](https://www.sheffieldrunningclub.org.uk/racing/our-hosted-races/loxley-lash/) | Wed 5 Jul |
