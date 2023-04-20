@@ -24,7 +24,6 @@ See individual race pages for contact details about races the club organises.
 | Membership Secretary            | [Peter Cross](mailto:peter.cross@bhp.co.uk)                                                          |
 | Junior Section Secretary        | [Bob Innes](mailto:janeandbob239@btinternet.com)                                                     |
 | Child Protection Officer        | [Dan Limb](mailto:udan2k@hotmail.com)                                                                |
-| Track and Field Secretary       | [Paul Fryers](mailto:paul.fryers@gmail.com) |
 | Road Secretary   | [Richard Mackie](mailto:macklandr@aol.com)                                                     |
 | Cross Country Secretary | [Nick Whittingham](mailto:nick.whittingham@btinternet.com)                                           |
 | Fell Running Secretary         | [Ian Charlesworth](mailto:ircy63@gmail.com)                                                          |
