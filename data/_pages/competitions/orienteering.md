@@ -5,7 +5,7 @@ order: 60
 ---
 Steve Sanders organises an informal orienteering league for the club using the MapRun system. Steve sets courses in the local area, some urban, some rural or fell, and anyone can run them at any time.
 
-M﻿aps are drawn up by Steve and posted below, showing the checkpoints and any out-of-bounds areas. As runners complete courses their scores are recorded by the MapRun system, collated by Steve and posted below.
+M﻿aps are drawn up by Steve (under licence from Ordnance Survey) and posted below, showing the checkpoints and any out-of-bounds areas. As runners complete courses their scores are recorded by the MapRun system, collated by Steve and posted below.
 
 **2023 Series**
 
