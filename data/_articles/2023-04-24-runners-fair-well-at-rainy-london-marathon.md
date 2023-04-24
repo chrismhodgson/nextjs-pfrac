@@ -1,5 +1,5 @@
 ---
-title: Runners fair well at rainy London Marathon
+title: Runners fare well at rainy London Marathon
 draft: false
 date: 2023-04-24T16:21:20.960Z
 tags:
