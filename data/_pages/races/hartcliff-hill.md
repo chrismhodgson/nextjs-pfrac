@@ -46,7 +46,7 @@ Resistration from 18:00 at [Langsett Barn](https://www.google.co.uk/maps/place/L
 [2019](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2019-results.pdf)
 [2023](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2023-results.pdf)
 
-The races in 2014 was cancelled due to the Foot and Mouth outbreak, those in 2020 and 2021 due to the Covid-19 pandemic, and the 2022 race due to lack of parking facilities.
+The race in 2014 was cancelled due to the Foot and Mouth outbreak, those in 2020 and 2021 due to the Covid-19 pandemic, and the 2022 race due to lack of parking facilities.
 
 #### Course Records
 
