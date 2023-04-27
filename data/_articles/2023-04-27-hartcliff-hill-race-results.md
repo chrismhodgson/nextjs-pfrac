@@ -6,4 +6,4 @@ tags:
   - RESULTS
 summary: Results from Hartcliff Hill Race, 26 April 2023
 ---
-Thanks to all organisers, marshals, volunteers and runners at this year's Hartcliff Hill Race. The results are on the race page in the Races section of the website.
+Thanks to all organisers, marshals, volunteers and runners at this year's Hartcliff Hill Race. The [results](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2023-results.pdf) are on the race page in the Races section of the website.
