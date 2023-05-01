@@ -9,7 +9,16 @@ M﻿aps are drawn up by Steve (under licence from Ordnance Survey) and posted be
 
 **2023 Series**
 
-There will 8 different courses, each with its own time limit between 45 and 90 minutes.  The courses will be made available progressively through the year. The first two are available to run from 1 March to 30 April. They can be run at any time, but will only count towards the series during that time.
+There will 8 different courses, each with its own time limit between 45 and 90 minutes. 
+ The courses will be made available progressively through the year. Scores will only count towards the league if you do the courses within the stated period.
+
+*C﻿urrent courses - 1 May to 30 June*
+
+[Upper Denby 60 min](https://pfrac.co.uk/static/images/maps/upper-denby-2023-maprun.pdf)
+
+[Low Bradfield 75 min](https://pfrac.co.uk/static/images/maps/low-bradfield-2023-maprun.pdf)
+
+*Previous courses - (still available if you want to do them, but scores won't count towards the league)*
 
 [P﻿enistone 2023 45 min](https://pfrac.co.uk/static/images/maps/penistone-2023-maprun.pdf)
 
@@ -17,12 +26,9 @@ There will 8 different courses, each with its own time limit between 45 and 90 m
 
 They are score events: collect as many points as you can before returning to the start within the allotted time limit. There is a penalty of –10 points for every minute (or part of a minute) late back so someone scoring 100 points would lose them all if they were 10 minutes over time.
 
-
 You can only get the points for a control once, even if you run to it several times.
 
 The naming of the controls shows how many points they are worth (01–09 = 10 points, 11–19 = 20 points, 21–29 = 30 points, 31–39 = 40 points, etc).
-
-
 
 Your best 6 scores will be summed to determine your final score for the series.
 
@@ -49,4 +55,3 @@ tolerance then the results would show Rev30.
 
 For anyone who doesn’t want to (or isn’t able to) use the app, you can just record your run on a watch and email the GPX file to Steve (downloadable from the activity on
 Strava/Garmin/Suunto etc). There is also an option to use a Garmin watch with [MapRunG](https://maprunners.weebly.com/maprung.html) loaded onto it, which means you can run without your phone, the watch beeps when you reach a checkpoint and will upload to MapRun when you sync your run. Another option within the app allows you to upload a track from Strava instead of using the app to record the run.  Instructions are available on the [MapRun website](https://maprunners.weebly.com/maprun---any-track.html).
-
