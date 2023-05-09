@@ -19,7 +19,7 @@ The car park at Yummy Yorkshire will be closed and locked at 21:00. No facilitie
 
 **The course** is left handed (anticlockwise). You will be directed at each junction (1 to 11 on [map](https://pfrac.co.uk/static/images/maps/syrl-2023-race-4.jpg)) by marshals. A lead car will direct the lead runners. Please keep to the left unless instructed by marshals at the 2 right turns on the course. The course is a steady climb for the first 1.2 miles. After turning left onto Whitley Road the course is fairly flat on the top ridge; enjoy the views! It starts to go downhill after the dog leg as you approach the windmills on your left. At the end of Whitley Road you turn left up a short sharp hill at Royd Moor Hill between marshal points 5 and 6.  At 6 you turn left back onto Spicer House Lane going downhill. There's a slight rise before turning right onto Annat Royd Lane: a marshal will indicate where to get over to the right at this point in preparation for turning right down Annat Royd Lane. The last 1.2 miles is all downhill or flat back along the reservoir back towards The Fountain Pub. The finish is just beyond where the dam wall finishes. 
 
-**Presentation and Apres Race**
+**Presentation and Après Race**
 
 Please join us at [The Fountain](https://goo.gl/maps/9BtNRd54mhUPPdEk9) for the presentation of prizes for the race series. Food will be available at the kiosk in the outside area of the pub. The restaurant inside will need to be booked in advance. 
 
