@@ -5,7 +5,7 @@ order: 30
 ---
 
 The club has a very popular junior section, taking boys and girls from the age of 12 to 17.
-Up to 2022, the club took juniors from age 8, but lack of availability of coaches qualified to take the younger age group forced a change.  From January 2023 a new club for children aged 8 to 11 has been set up under the England Athletics "Funetics" programme.  Anyone interested should contact [Suzanne McGill](mailto:funetics-penistone@hotmail.com).
+Up to 2022, the club took juniors from age 8, but lack of availability of coaches qualified to take the younger age group forced a change.  From January 2023 a new club for children aged 8 to 11 has been set up under the England Athletics "Funetics" programme.  Anyone interested should contact [Suzanne McGill](mailto:funetics_penistone@hotmail.com).
 
 F﻿or juniors from their 12th birthday contact [Bob Innes](mailto:janeandbob239@btinternet.com), Junior Secretary, if your son or daughter is interested in joining the club.
 
