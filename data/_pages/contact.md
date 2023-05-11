@@ -32,6 +32,6 @@ See individual race pages for contact details about races the club organises.
 | Club Kit                        | [Jemma Williams](mailto:jemstone1981@hotmail.com)                                                    |
 | Club Championship               | [Paul Fryers](mailto:paul.fryers@gmail.com)                                                          |
 | Fell Relay Coordinator | [Brent Lindsay](brent.lindsay@btinternet.com) |
-| Funetics Liaison | [Suzanne McGill](funetics-penistone@hotmail.com) |
+| Funetics Liaison | [Suzanne McGill](funetics_penistone@hotmail.com) |
 | Website | Chris Hodgson & [Paul Fryers](mailto:paul.fryers@gmail.com)                                                          |
 | Raffle Tickets                  | Anne Smythe                                                                                          |
