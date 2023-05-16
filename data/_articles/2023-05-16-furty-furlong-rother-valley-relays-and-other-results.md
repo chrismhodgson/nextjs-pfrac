@@ -1,7 +1,7 @@
 ---
 title: Furty Furlong, Rother Valley Relays and other results
 draft: false
-date: 2023-05-16T16:14:45.585Z
+date: 2023-05-15T16:14:45.585Z
 tags:
   - PRESS
 summary: Round-up of Penistone runners' results
