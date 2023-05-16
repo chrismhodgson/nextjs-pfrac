@@ -11,7 +11,7 @@ The race will start at **19:15 on Wednesday 24th May** on [Horn Lane](https://
 
 **Parking** is available at [Yummy Yorkshire](https://goo.gl/maps/NRGgANxG5q2zZ8gb8), a farm complex with cafe/restaurant located about 400 yards past the turn off to The Fountain on the A629 between Penistone and Huddersfield on the left hand side. Any overflow parking will be on the Left hand side of Falledge Lane, which is the road to Upper Denby from Ingbirchworth off the main A629.  It is 10 minutes walk from the car park to the race HQ, and a further 20 minutes walk from race HQ to the start of the race.
 
-The car park at Yummy Yorkshire will be closed and locked at 21:00. No facilities will be available at Yummy Yorkshire apart from parking.
+The car park at Yummy Yorkshire will be closed and locked at 21:30. No facilities will be available at Yummy Yorkshire apart from parking.
 
 **Toilets**: please do not use the roads or paths around the residential parts of Ingbirchworth. A portaloo will be located near the finish which most runners will pass through on the way to the start. There will also be 2 portaloos located in the holding area before the start (See below). We can also use the toilets at the Fountain Pub but please be mindful of diners using the pub and show them respect. 
 
