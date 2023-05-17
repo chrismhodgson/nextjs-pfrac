@@ -15,7 +15,7 @@ The competition involves races across three main sections (Road, Trail/Cross-Cou
 
 #### Results
 
-[Current standings for 2023/24](http://results.pfrac.co.uk/championship-2023-24/challenge).
+[Current standings for 2023/24](http://results.pfrac.co.uk/championship-2023/challenge).
 
 Results for previous years:
 [2004](https://pfrac.co.uk/static/results/club-championship/championship-2004-results.xlsx)
