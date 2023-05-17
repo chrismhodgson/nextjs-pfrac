@@ -16,7 +16,7 @@ T﻿he results are updated frequently, but the onus is on the runner to tell me 
 
 #### Results
 
-S﻿tandings for 2023/24 will be posted here.
+[Current standings for 2023/24](http://results.pfrac.co.uk/fell-league-2023/races).
 
 Results for previous years:
 [2017](https://pfrac.co.uk/static/results/fell-league/fell-league-2017-results.pdf)
