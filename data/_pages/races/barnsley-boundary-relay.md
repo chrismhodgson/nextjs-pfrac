@@ -1,5 +1,5 @@
 ---
-start_date_time: S﻿aturday 10 June 2023 a﻿t 08:00 – see below for individual leg start times
+start_date_time: 2024 date tbc a﻿t 08:00 – see below for individual leg start times
 organiser: "Steve Dickinson: steve@osi.uk.com – 07850 445613.  Contact Steve if
   interested in entering a team."
 header: races/barnsley-boundary-relay.jpg
@@ -64,5 +64,7 @@ If anyone finds any errors in the GPX files, please contact [Paul Fryers](mailto
 [2019](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2019-results.pdf)
 [2021](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2021-results.pdf)
 [2022](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2022-results.pdf)
+[2023](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2023-results.pdf)
+
 
 The race in 2020 was cancelled.
