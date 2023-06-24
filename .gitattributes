@@ -200,3 +200,7 @@ Procfile          text
 
 # Ignore files (like .npmignore or .gitignore)
 *.*ignore         text
+
+# Documents
+*.xlsx            binary
+*.docx            binary
