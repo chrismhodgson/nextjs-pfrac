@@ -15,7 +15,7 @@ There will 8 different courses, each with its own time limit between 45 and 90 m
 
 [Wortley 80 min](https://pfrac.co.uk/static/images/maps/wortley-2023-maprun.pdf)
 
-[Hood Green](https://pfrac.co.uk/static/images/maps/hood-green-2023-maprun.pdf)
+[Hood Green 60 min](https://pfrac.co.uk/static/images/maps/hood-green-2023-maprun.pdf)
 
 *Previous courses – (still available if you want to do them, but scores won't count towards the league)*
 
