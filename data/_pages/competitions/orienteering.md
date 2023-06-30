@@ -9,16 +9,19 @@ M﻿aps are drawn up by Steve (under licence from Ordnance Survey) and posted be
 
 **2023 Series**
 
-There will 8 different courses, each with its own time limit between 45 and 90 minutes. 
- The courses will be made available progressively through the year. Scores will only count towards the league if you do the courses within the stated period.
+There will 8 different courses, each with its own time limit between 45 and 90 minutes. The courses will be made available progressively through the year. Scores will only count towards the league if you do the courses within the stated period.
 
-*C﻿urrent courses - 1 May to 30 June*
+*C﻿urrent courses – 1 July to 31 August*
+
+[Wortley 80 min](https://pfrac.co.uk/static/images/maps/wortley-2023-maprun.pdf)
+
+[Hood Green](https://pfrac.co.uk/static/images/maps/hood-green-2023-maprun.pdf)
+
+*Previous courses – (still available if you want to do them, but scores won't count towards the league)*
 
 [Upper Denby 60 min](https://pfrac.co.uk/static/images/maps/upper-denby-2023-maprun.pdf)
 
 [Low Bradfield 75 min](https://pfrac.co.uk/static/images/maps/low-bradfield-2023-maprun.pdf)
-
-*Previous courses - (still available if you want to do them, but scores won't count towards the league)*
 
 [P﻿enistone 2023 45 min](https://pfrac.co.uk/static/images/maps/penistone-2023-maprun.pdf)
 
