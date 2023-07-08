@@ -72,7 +72,8 @@ Registration from 8:30am at [Penistone Church Football Club](https://www.google.
 [2017](https://www.runbritainrankings.com/results/results.aspx?meetingid=207499)
 [2018](https://www.runbritainrankings.com/results/results.aspx?meetingid=244770)
 [2019](https://www.runbritainrankings.com/results/results.aspx?meetingid=301732)
-[2022](https://racebest.com/results/3wuzs)
+[2022](https://www.runbritainrankings.com/results/results.aspx?meetingid=472332)
+[2023](https://www.runbritainrankings.com/results/results.aspx?meetingid=544717)
 
 The races in 2020 and 2021 were cancelled.
 
