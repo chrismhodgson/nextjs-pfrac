@@ -18,13 +18,13 @@ Prizes for the first 3 men and women, then 1st in each age category V40, V50, V6
 
 #### Entry
 
-Entry on the day will be available.
+Entry on the day is available.
 
 This race has a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 16 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://races.fellrunner.org.uk/documents/2022/fra-parental-consent-process-form-2022.pdf).
 
 #### Registration
 
-The race starts and finishes at the [Thurlstone Football Club](https://www.google.co.uk/maps/place/THURLSTONE+FOOTBALL+CLUB/@53.5280495,-1.6571955,16.25z/data=!4m5!3m4!1s0x487bd7dfc2a74a0d:0x5788c72b004d0bcb!8m2!3d53.528038!4d-1.6591823), High Bank Lane, Thurlstone. Grid ref SE226036. Nearest postcode is S36 9PS.
+Registration, and the race start and finish, are at [Thurlstone Football Club](https://www.google.co.uk/maps/place/THURLSTONE+FOOTBALL+CLUB/@53.5280495,-1.6571955,16.25z/data=!4m5!3m4!1s0x487bd7dfc2a74a0d:0x5788c72b004d0bcb!8m2!3d53.528038!4d-1.6591823), High Bank Lane, Thurlstone. Grid ref SE226036. Nearest postcode is S36 9PS.
 
 #### Results
 
@@ -46,6 +46,7 @@ The race starts and finishes at the [Thurlstone Football Club](https://www.googl
 [2019](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2019-results.pdf)
 [2021](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2021-results.pdf)
 [2022](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2022-results.pdf)
+[2023](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2023-results.pdf)
 
 The races in 2008 and 2020 were cancelled.
 
@@ -59,7 +60,7 @@ Female: 22:40 &ndash; C Haigh, 1985
 
 _Current course &ndash; 2021 onwards_
 
-Male: 26:15 &ndash; Joseph Carnelly, Bingley Harriers, 2021
+Male: 25:28 &ndash; Phil Montgomery, Dark Peak Fell Runners, 2023
 
 Female: 27:28 &ndash; Ruth Jones, Salford Harriers, 2021
 
