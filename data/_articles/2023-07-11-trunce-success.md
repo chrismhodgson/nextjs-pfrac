@@ -6,7 +6,7 @@ tags:
   - PRESS
 summary: Round-up of Penistone runners' results
 ---
-Penistone runners claimed first place in the senior and junior races at the sixth running this summer of the Trunce trail race at Oxspring.  George Parr was first in the senior race followed in by clubmate Richard Cottam who took second.  Finn Pepper finished third boy in the junior race.  There were age category wins for Lesley Parker (first over40 lady), Barbara Haigh (first over70 lady) and Richard Cottam (first over40 man).  Others finishing in the top three in their age categories were Valentina Wright (second over40 lady), Steve Sanders (third over50 man) and Ray Brown (third over50 man).
+Penistone runners claimed first place in the senior and junior races at the sixth running this summer of the Trunce trail race at Oxspring.  George Parr was first in the senior race followed in by clubmate Richard Cottam who took second.  Former Penistone runner Tadek Kunicki-Holda was first in the junior race, with Finn Pepper finishing third boy.  There were age category wins for Lesley Parker (first over40 lady), Barbara Haigh (first over70 lady) and Richard Cottam (first over40 man).  Others finishing in the top three in their age categories were Valentina Wright (second over40 lady), Steve Sanders (third over50 man) and Ray Brown (third over50 man).
 
 Saturday saw the running of the Thurlstone Chase trail race.  Richard Cottam claimed second place just ahead of teammate James Fryers who placed third.  Chloe Worth was third lady and also picked up first over40 lady.  There were age groups wins for Richard Docker (over60 man), Bill Phillips (over70 man), Barbara Haigh (over70 lady) and Ray Brown (over80 man).
 
