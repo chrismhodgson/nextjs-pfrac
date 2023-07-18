@@ -14,6 +14,8 @@ Peter Beever ventured over to Blackpool to compete in the 10k race.  He got rou
 
 Five Penistone runners competed in the Bamford Sheep Trials fell race.  First back was Jon Hallam (38-30) followed by Martyn Goodwin (45-08), Becky Timms (47-26), Pete Stanley (55-43) and Bernice Nixon (56-04).
 
+Some of the younger members of Penistone took part in the Big Stone fell race.  Graihagh Turner was first in the girls under17 age category and Hugh Mackie was 3rd under20 boy.
+
 On the parkrun scene Penistone runners were spread across a record number of parkrun venues, 25 in total.  There were first places for James Mumford (Cross Flats) and George Parr (Penistone). There were second places for Monty Hallam (Tolson junior parkrun), Flynn Rogers (Sheffield Olympic junior parkrun), Tom Fryers (Storeys Field) and Alex Melhuish (Nydnyski in Poland).
 
 **R﻿esults**
