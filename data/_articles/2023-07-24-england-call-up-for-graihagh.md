@@ -16,4 +16,4 @@ George Parr placed sixth in the Nostell Priory 10k in a time of 38-00.  In the 
 
 Five Penistone runners completed the Blackamoor Chase fell race in the peak district.  First back for the club was Steve Sanders in 30th place which was good enough for fourth in the men’s over50 age category.  First lady back was Olivia Bagley who was seventh lady overall and fourth in the ladies open age category.  Steve Storey finished third in the men’s over60 age category.
 
-On the parkrun scene there were first places for George Parr (Penistone) and Graihagh Turner (Penistone).  Alex Melhuish was second at the Hellbrun parkrun in Germany.
+On the [parkrun](https://results.pfrac.co.uk/parkrun-2023/latest) scene there were first places for George Parr (Penistone) and Graihagh Turner (Penistone).  Alex Melhuish was second at the Hellbrun parkrun in Germany.
