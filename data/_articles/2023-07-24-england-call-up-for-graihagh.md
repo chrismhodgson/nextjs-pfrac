@@ -14,6 +14,6 @@ Thursday saw the latest running of the Silkstone Shuffle.  Simon Pike was insid
 
 George Parr placed sixth in the Nostell Priory 10k in a time of 38-00.  In the Sale Sizzler 5k John Broom ran a time of 20-15 which was his fastest time at the distance for four years.  In the same race John’s wife Dawn grabbed first place in the ladies over55 age category in a time of 21-11.
 
-Five Penistone runners completed the Blackamoor Chase fell race in the peak district.  First back for the club was Steve Sanders in 30th place which was good enough for fourth in the men’s over50 age category.  First lady back was Olivia Bagley who was seventh lady overall and fourth in the ladies open age category.  Steve Storey finished third in the men’s over60 age category.
+Five Penistone runners completed the [Blackamoor Chase](https://results.pfrac.co.uk/fell-league-2023/blackamoor-chase) fell race in the peak district.  First back for the club was Steve Sanders in 30th place which was good enough for fourth in the men’s over50 age category.  First lady back was Olivia Bagley who was seventh lady overall and fourth in the ladies open age category.  Steve Storey finished third in the men’s over60 age category.
 
 On the [parkrun](https://results.pfrac.co.uk/parkrun-2023/latest) scene there were first places for George Parr (Penistone) and Graihagh Turner (Penistone).  Alex Melhuish was second at the Hellbrun parkrun in Germany.
