@@ -8,7 +8,7 @@ summary: Round-up of Penistone runners' results
 ---
 Following her first place at the home countries selection race last weekend Graihagh Turner received a call this week to confirm she had been selected for the England girls under17 fell running team.  The selection is all the more impressive given Graihagh is only fourteen years of age.
 
-Four hardy souls took on the tough Holme Moss fell race in extremely wet conditions.  The race takes place in the northern fringes of the Peak District and is 18 miles in distance over tough terrain and involved over 3,000 feet of climbing.  James Fryers was just outside the top ten in eleventh place but still managed to claim first in the men’s under23 age category in a time of 3-03-49.  The other three runners taking part were Steve Sanders, Chris Hodgson and Simon Pike, who all completed the course in under four hours.
+Four hardy souls took on the tough Holme Moss fell race in extremely wet conditions.  The race takes place in the northern fringes of the Peak District and is 18 miles in distance over tough terrain and involved over 3,000 feet of climbing.  James Fryers was just outside the top ten in eleventh place but still managed to claim first in the men’s under23 age category in a time of 3-03-49.  The other three runners taking part were Steve Sanders, Chris Hodgson and Simon Pike, who all completed the course in around 4 hours.
 
 Thursday saw the latest running of the Silkstone Shuffle.  Simon Pike was inside the top ten finishers placing seventh in a time of 31-36.  First lady back for Penistone was Jo Boreham in 42-06.  There were age category wins for Suzanne McGill (over40 ladies), Jo Boreham (over50 ladies), Barbara Haigh (over70 ladies) and Ray Brown (over80 men).
 
