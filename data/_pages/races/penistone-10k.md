@@ -1,5 +1,5 @@
 ---
-start_date_time: Sunday 18 June at 09:30
+start_date_time: Sunday 23 June 2024 at 09:30
 organiser: "Keith Gordon: keithHgordon@me.com"
 strava_url: https://www.strava.com/segments/18044628/embed
 header: races/penistone-10k.jpg
@@ -19,7 +19,7 @@ Even though he was unwell in the last few years of his life, he often turned up 
 
 #### Entry
 
-[Online entry](https://racebest.com/races/a2eeh) for the 2023 race is now open.
+Online entry will be available nearer the time.
 
 Minimum age 15 on the day
 
