@@ -1,5 +1,5 @@
 ---
-title: Penistone Runners Collect Fell Race Category Prizes
+title: Penistone runners collect fell race category prizes
 draft: false
 date: 2023-08-07T16:31:12.898Z
 tags:
