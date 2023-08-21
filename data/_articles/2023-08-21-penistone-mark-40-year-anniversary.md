@@ -1,5 +1,5 @@
 ---
-title: Penistone mark 40 year anniversary
+title: 40-year anniversary road race
 draft: false
 date: 2023-08-21T12:42:44.465Z
 tags:
