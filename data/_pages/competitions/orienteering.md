@@ -17,17 +17,14 @@ W﻿ill be posted here imminently.
 
 *Previous courses – (still available if you want to do them, but scores won't count towards the league)*
 
-[Upper Denby 60 min](https://pfrac.co.uk/static/images/maps/upper-denby-2023-maprun.pdf)
-
-[Low Bradfield 75 min](https://pfrac.co.uk/static/images/maps/low-bradfield-2023-maprun.pdf)
-
-[P﻿enistone 2023 45 min](https://pfrac.co.uk/static/images/maps/penistone-2023-maprun.pdf)
-
-[Millhouse 2023 60 min](https://pfrac.co.uk/static/images/maps/millhouse-2023-maprun.pdf)
-
-[Wortley 80 min](https://pfrac.co.uk/static/images/maps/wortley-2023-maprun.pdf)
-
-[Hood Green 60 min](https://pfrac.co.uk/static/images/maps/hood-green-2023-maprun.pdf)
+| Course |  |
+| - | - |
+| [Upper Denby 60 min](https://pfrac.co.uk/static/images/maps/upper-denby-2023-maprun.pdf) | Results |
+| [Low Bradfield 75 min](https://pfrac.co.uk/static/images/maps/low-bradfield-2023-maprun.pdf) | Results |
+| [P﻿enistone 2023 45 min](https://pfrac.co.uk/static/images/maps/penistone-2023-maprun.pdf) | Results |
+| [Millhouse 2023 60 min](https://pfrac.co.uk/static/images/maps/millhouse-2023-maprun.pdf) | Results |
+| [Wortley 80 min](https://pfrac.co.uk/static/images/maps/wortley-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?days=200&act=fileToSplitsBrowser&eventName=ScoreResults_Wortley%2520PZ%2520PXAS%2520ScoreN80.csv) |
+| [Hood Green 60 min](https://pfrac.co.uk/static/images/maps/hood-green-2023-maprun.pdf) | Results |
 
 They are score events: collect as many points as you can before returning to the start within the allotted time limit. There is a penalty of –10 points for every minute (or part of a minute) late back so someone scoring 100 points would lose them all if they were 10 minutes over time.
 
