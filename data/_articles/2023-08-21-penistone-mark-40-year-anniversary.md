@@ -1,5 +1,5 @@
 ---
-title: 40-year anniversary road race
+title: 40-Year Anniversary Road Race
 draft: false
 date: 2023-08-21T12:42:44.465Z
 tags:
