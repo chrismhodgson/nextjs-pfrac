@@ -19,12 +19,12 @@ W﻿ill be posted here imminently.
 
 | Course |  |
 | - | - |
-| [Upper Denby 60 min](https://pfrac.co.uk/static/images/maps/upper-denby-2023-maprun.pdf) | Results |
-| [Low Bradfield 75 min](https://pfrac.co.uk/static/images/maps/low-bradfield-2023-maprun.pdf) | Results |
-| [P﻿enistone 2023 45 min](https://pfrac.co.uk/static/images/maps/penistone-2023-maprun.pdf) | Results |
-| [Millhouse 2023 60 min](https://pfrac.co.uk/static/images/maps/millhouse-2023-maprun.pdf) | Results |
-| [Wortley 80 min](https://pfrac.co.uk/static/images/maps/wortley-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?days=200&act=fileToSplitsBrowser&eventName=ScoreResults_Wortley%2520PZ%2520PXAS%2520ScoreN80.csv) |
-| [Hood Green 60 min](https://pfrac.co.uk/static/images/maps/hood-green-2023-maprun.pdf) | Results |
+| [Upper Denby 60 min](https://pfrac.co.uk/static/images/maps/upper-denby-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Upper%2520Denby%2520PZ%2520PXAS%2520ScoreN60.csv) |
+| [Low Bradfield 75 min](https://pfrac.co.uk/static/images/maps/low-bradfield-2023-maprun.pdf) | [Results](https://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Bradfield%2520PZ%2520PXAS%2520ScoreN75.csv) |
+| [P﻿enistone 45 min](https://pfrac.co.uk/static/images/maps/penistone-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Penistone%2520PZ%2520PXAS%2520ScoreN60.csv) |
+| [Millhouse 60 min](https://pfrac.co.uk/static/images/maps/millhouse-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Millhouse%2520PZ%2520PXAS%2520ScoreN60.csv) |
+| [Wortley 80 min](https://pfrac.co.uk/static/images/maps/wortley-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Wortley%2520PZ%2520PXAS%2520ScoreN80.csv) |
+| [Hood Green 60 min](https://pfrac.co.uk/static/images/maps/hood-green-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Hood%2520Green%2520PZ%2520PXAS%2520ScoreN60.csv) |
 
 They are score events: collect as many points as you can before returning to the start within the allotted time limit. There is a penalty of –10 points for every minute (or part of a minute) late back so someone scoring 100 points would lose them all if they were 10 minutes over time.
 
