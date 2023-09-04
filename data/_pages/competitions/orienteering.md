@@ -41,6 +41,8 @@ Your best 6 scores will be summed to determine your final score for the series.
 
 [2023 Standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)
 
+[40th Anniversary Event](https://pfrac.co.uk/static/results/orienteering/40th_anniversary_orienteering_results.png)
+
 [2022 Final Standings](https://pfrac.co.uk/static/results/orienteering/2022-results.xlsx)
 
 **How to take part**
