@@ -10,22 +10,22 @@ The club winter handicap is a series of 6 races on Tuesday evenings running from
 
 From 2022 the competition has been named after Philip Senior, who sadly died in 2020. Phil never ran but was a great supporter of the club when it was first formed and was made a life member. He was always at our races helping timekeeping or recording numbers. Pauline, Phil's wife, used to run with the club, before serving as the club's treasurer for many years, and their son Michael, as a teenager, ran some fantastic times and still holds some club records. Phil helped set the winter handicap up when it was first run and organised it and did the handicapping for quite a few years.
 
-Dates for 2023 eill be listed below.
+#### Dates for 2023
 
 | Race | Date         | 
 | ---- | ------------ |
-| 1    |  |
-| 2    |  |
-| 3    |  |
-| 4    |  |
-| 5    |  |
-| 6    |  |
+| 1    | 12 September |
+| 2    | 3 October |
+| 3    | 24 October |
+| 4    | 14 November |
+| 5    | 5 December | 
+| 6    | 19 December |
 
 [The route](https://pfrac.co.uk/static/images/maps/senior-wh.jpg) is approximately 4½ miles long with about 600 feet of ascent. It starts from Penistone Leisure Centre and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
 
 #### Results
 
-R﻿esults for the 2023 series will be posted here.
+R﻿esults for the 2023 series will be posted here after the first race.
 
 Results for previous years:
 [2014–15](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2014-15-results.pdf)
