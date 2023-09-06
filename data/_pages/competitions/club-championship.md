@@ -72,8 +72,8 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Loxley Lash 2](https://www.sheffieldrunningclub.org.uk/racing/our-hosted-races/loxley-lash/) | Wed 7 Jun |
 | [Loxley Lash 3](https://www.sheffieldrunningclub.org.uk/racing/our-hosted-races/loxley-lash/) | Wed 5 Jul |
 | [Spencers Dash 2](https://www.barnsleyac.co.uk/club-events/spencers-dash/) | Thu 13 Jul |
-| [Vale of York Half Marathon](https://racebest.com/races/h894w) | Sun 10 Sep |
 | [Spencers Dash 3](https://www.barnsleyac.co.uk/club-events/spencers-dash/) | Thu 7 Sep |
+| [Vale of York Half Marathon](https://racebest.com/races/h894w) | Sun 10 Sep |
 | [Travellers 6](https://www.denbydaleac.co.uk/travellers-6) | Sun TBC Dec |
 | [Meltham 10K](https://melthamac.com/races/meltham-10k/) | Sun TBC Jan |
 
