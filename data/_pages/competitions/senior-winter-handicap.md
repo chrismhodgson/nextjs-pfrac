@@ -28,7 +28,7 @@ From 2022 the competition has been named after Philip Senior, who sadly died in 
 R﻿esults for the 2023 series will be posted here after the first race.
 
 Results for previous years:
-[2014–15](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2014-15-results.pdf)
+[2014–15](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2014-15-results.xlsx)
 [2015–16](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2015-16-results.pdf)
 [2016–17](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2016-17-results.pdf)
 [2017–18](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
