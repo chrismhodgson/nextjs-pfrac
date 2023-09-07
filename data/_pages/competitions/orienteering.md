@@ -13,7 +13,8 @@ There will 8 different courses, each with its own time limit between 45 and 90 m
 
 *C﻿urrent courses – 1 September to 31 October*
 
-W﻿ill be posted here imminently.
+[Hoylandswaine 45 min](https://pfrac.co.uk/static/images/maps/hoylandswaine-2023-maprun.pdf)
+[Winscar 90 min](https://pfrac.co.uk/static/images/maps/winscar-2023-maprun.pdf)
 
 *Previous courses – (still available if you want to do them, but scores won't count towards the league)*
 
