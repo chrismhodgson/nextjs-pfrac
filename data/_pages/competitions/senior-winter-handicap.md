@@ -3,7 +3,6 @@ title: Senior Winter Handicap
 header: competitions/senior-winter-handicap.jpg
 order: 40
 ---
-
 #### Philip Senior Winter Handicap
 
 The club winter handicap is a series of 6 races on Tuesday evenings running from September to Christmas, organised by [Keith Gordon](mailto:keithHgordon@me.com). It starts at 18:45 on the dates below, at Penistone Leisure Centre, and is open to all senior members of the club.
@@ -12,20 +11,20 @@ From 2022 the competition has been named after Philip Senior, who sadly died in 
 
 #### Dates for 2023
 
-| Race | Date         | 
-| ---- | ------------ |
-| 1    | 12 September |
-| 2    | 3 October |
-| 3    | 24 October |
-| 4    | 14 November |
-| 5    | 5 December | 
-| 6    | 19 December |
+| Race | Date         | Winner        |
+| ---- | ------------ | ------------- |
+| 1    | 12 September | Shaun Swallow |
+| 2    | 3 October    |               |
+| 3    | 24 October   |               |
+| 4    | 14 November  |               |
+| 5    | 5 December   |               |
+| 6    | 19 December  |               |
 
 [The route](https://pfrac.co.uk/static/images/maps/senior-wh.jpg) is approximately 4½ miles long with about 600 feet of ascent. It starts from Penistone Leisure Centre and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
 
 #### Results
 
-R﻿esults for the 2023 series will be posted here after the first race.
+[](https://results.pfrac.co.uk/senior-winter-handicap-2023/league-table)﻿Latest results for [2023](https://results.pfrac.co.uk/senior-winter-handicap-2023/league-table)
 
 Results for previous years:
 [2014–15](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2014-15-results.xlsx)
@@ -68,7 +67,7 @@ The first three back will get either a bottle of wine or a box of chocolates (bu
 Once all runners are in, the times will be added to the finish list, typed up, and published on the club's [results website](http://results.pfrac.co.uk/). You will then see the following information (first two lines of a full set of results shown).
 
 | Pos | Name       | Estimated Time | Finish Time | Actual Time | +/&minus;   |
-| --- | ---------- | -------------- | ----------- | ----------- | ----- |
+| --- | ---------- | -------------- | ----------- | ----------- | ----------- |
 | 1   | Joe Bloggs | 39:30          | 47:30       | 35:00       | &minus;4:30 |
 | 2   | Jane Doe   | 31:30          | 47:50       | 27:20       | &minus;4:10 |
 
@@ -101,10 +100,10 @@ The final race will determine the overall champion. To qualify, you must run at 
 
 #### Prizes
 
-- 1st, 2nd and 3rd overall winter championship
-- 1st, 2nd and 3rd WMA championship
-- Fastest lady on actual times over the series
-- Fastest man on actual times over the series
+* 1st, 2nd and 3rd overall winter championship
+* 1st, 2nd and 3rd WMA championship
+* Fastest lady on actual times over the series
+* Fastest man on actual times over the series
 
 Guests (non-club members) are welcome to run, but do not qualify for prizes.
 
