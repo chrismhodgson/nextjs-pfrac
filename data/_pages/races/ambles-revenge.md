@@ -20,6 +20,8 @@ The race has chip timing, and there is a gift for all entrants.
 
 #### Entry
 
+[Online entries](https://racebest.com/races/xcr4y) are open.
+
 Pre-entry fees: £12 for EA registered runners and £14 for non-EA registered. Entries on the day if the race limit of 350 is not reached for an additional £2.
 
 The race is run under UK Athletics rules of competition ([Trail Running Association](https://www.tra-uk.org/organisers) permit). Minimum age to enter is 17 on the day of the race.
@@ -83,7 +85,6 @@ Female: Sam Shaw, Penistone Footpath Runners & AC, 2019 &ndash; 62:01
 Male: Jonathan Escalante-Phillips, Cambridge & Coleridge AC, 2021 &ndash; 54:37
 
 Female: Emily Cowper Coles, Denby Dale AC, 2022 &ndash; 60:38
-
 
 #### Route
 
