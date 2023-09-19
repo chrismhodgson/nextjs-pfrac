@@ -1,6 +1,6 @@
 ---
 title: Amble's Revenge entries open
-draft: true
+draft: false
 date: 2023-09-19T13:51:50.120Z
 tags:
   - RACES
