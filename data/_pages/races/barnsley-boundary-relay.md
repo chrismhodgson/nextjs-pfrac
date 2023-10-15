@@ -1,7 +1,7 @@
 ---
-start_date_time: 2024 date tbc a﻿t 08:00 – see below for individual leg start times
-organiser: "Steve Dickinson: steve@osi.uk.com – 07850 445613.  Contact Steve if
-  interested in entering a team."
+start_date_time: 15 June 2024 a﻿t 08:00 – see below for individual leg start times
+organiser: "Steve Dickinson: [steve@osi.uk.com](mailto:steve@osi.uk.com) – 07850
+  445613.  Contact Steve if interested in entering a team."
 header: races/barnsley-boundary-relay.jpg
 order: 10
 entry: ""
