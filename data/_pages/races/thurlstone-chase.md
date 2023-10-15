@@ -1,6 +1,6 @@
 ---
-start_date_time: Saturday 8th July at 14:00
-organiser: "Keith Gordon: thurchase2021@gmail.com"
+start_date_time: 2024 date tbc at 14:00
+organiser: "[Keith Gordon](thurchase2021@gmail.com)"
 strava_url: ""
 header: races/thurlstone-chase.jpg
 order: 50
