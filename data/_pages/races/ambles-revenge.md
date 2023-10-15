@@ -1,6 +1,6 @@
 ---
 start_date_time: Thursday 28 December at 10:30
-organiser: "Steve Dickinson: steve@osi.uk.com – 07850 445613"
+organiser: "[Steve Dickinson](steve@osi.uk.com) – 07850 445613"
 strava_url: https://www.strava.com/segments/33486757/embed
 header: races/ambles-revenge.jpg
 order: 5
