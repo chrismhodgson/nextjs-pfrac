@@ -1,13 +1,13 @@
 ---
-start_date_time: W﻿ednesday 26 April at 19:30
+start_date_time: 2024 date tbc at 19:30
 organiser: |
-  Ian Charlesworth: hartcliffhill.fellrace@gmail.com
+  [Ian Charlesworth](hartcliffhill.fellrace@gmail.com)
 strava_url: https://www.strava.com/segments/9332504/embed
 header: races/hartcliff-hill.jpg
 google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
 order: 20
 entry: ""
-distance: 2½ miles/4km with 492ft/150m of ascent
+distance: 2½ miles/4km with 492ft/150m of ascent - route for 2024 tbc
 results: " "
 title: Hartcliff Hill
 registration: ""
