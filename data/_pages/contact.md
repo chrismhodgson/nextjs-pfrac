@@ -7,11 +7,11 @@ For general club enquiries contact [Martyn Cartwright](mailto:martynandpauline@g
 
 For senior (18+) membership enquiries contact [Peter Cross](mailto:peter.cross@bhp.co.uk), membership secretary, or visit the [club membership website](https://membermojo.co.uk/pfrac) to join online.
 
-For junior (under 18) membership enquiries contact [Bob Innes](mailto:janeandbob239@btinternet.com), junior secretary. There is usually a waiting list for younger age groups.
+For junior enquiries contact [Suzanne McGill](mailto:funetics_penistone@hotmail.com) (under 12) or [Bob Innes](mailto:janeandbob239@btinternet.com) (12-17).
 
 For website enquiries contact [Paul Fryers](mailto:paul.fryers@gmail.com).
 
-See individual race pages for contact details about races the club organises.
+See individual [race pages](https://pfrac.co.uk/races) for contact details about races the club organises.
 
 ### Club Officials
 
