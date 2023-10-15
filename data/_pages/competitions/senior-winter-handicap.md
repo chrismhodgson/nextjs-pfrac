@@ -14,7 +14,7 @@ From 2022 the competition has been named after Philip Senior, who sadly died in 
 | Race | Date         | Winner        |
 | ---- | ------------ | ------------- |
 | 1    | 12 September | Shaun Swallow |
-| 2    | 3 October    |               |
+| 2    | 3 October    | Oliver France |
 | 3    | 24 October   |               |
 | 4    | 14 November  |               |
 | 5    | 5 December   |               |
