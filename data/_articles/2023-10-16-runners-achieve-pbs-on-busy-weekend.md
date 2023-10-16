@@ -10,7 +10,7 @@ It was a busy weekend for the club's runners as they took part in several races 
 
 The event also saw a shorter 10 mile event.  Ray Brown claimed first place in the men’s over80 age category in 1-40-22.  This knocked 8 minutes off Ray’s own [club record](http://results.pfrac.co.uk/records/) for the 10 mile road distance.
 
-James Sidebottom, Rhianna Banford, Chloe Worth and Will Hoyland completed the Ladybower Reservoir 50k Ultra.  They crossed the line together in 7-13-58.  At the same event there was also a 15 mile half marathon race and Heather Graham completed this in 2-56-39.
+James Sidebottom, Rhianna Banford, Chloe Worth and Will Hoyland completed the Ladybower Reservoir 50k Ultra.  They crossed the line together in 7-13-58.  At the same event there was also a 15 mile race and Heather Graham completed this in 2-56-39.
 
 A good contingent of Penistone runners travelled over the Pennines to compete in the Manchester Half Marathon.  Their trip was rewarded with impressive personal bests for everyone.  Andrew Heppenstall was first back in a time of 1-15-20.  Next was James Mumford in 1-17-07.  Martin Ball followed in 1-20-49, a personal best at the age of 52.  Ashley Firth finished in 1-25-58.  Rob Lees also completed the course in an impressive 1-21-58 just behind Matt Robinson who clocked 1-20-42.
 
