@@ -75,7 +75,7 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Spencers Dash 3](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 7 Sep  |
 | [Vale of York Half Marathon](https://racebest.com/races/h894w)                                                                      | Sun 10 Sep |
 | [Travellers 6](https://www.denbydaleac.co.uk/travellers-6)                                                                          | Sun 17 Dec |
-| [Meltham 10K](https://https://www.runbritain.com/RaceDetail.aspx?eventid=7dbd08c95865&raceid=79b80bc05856)                          | Sun 28 Jan |
+| [Meltham 10K](https://bookitzone.com/andy_whitworth/TbjFFX)                          | Sun 28 Jan |
 
 | Trail/Cross Country Section                                                                                         |            |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
