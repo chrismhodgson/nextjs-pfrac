@@ -6,7 +6,7 @@ tags:
   - PRESS
 summary: Round-up of Penistone runners' results
 ---
-It was a busy weekend for the club's runners as they took part in several races across the North of England.  Suzanne McGill claimed a personal best and a [club record](http://results.pfrac.co.uk/records/) at the Yorkshire Marathon where she clocked 3-22-56.  This gave her a top ten position in the ladies over45 age category.  Also competing was Michael Walsh who finished in a time of 3-58-26 to get under the four hour barrier.  Second overall in the race was Gary Briscoe from Penistone who competes for Barnsley AC.  Gary claimed a pb in a very rapid 2-26-05.  
+It was a busy weekend for the club's runners as they took part in several races across the North of England.  Suzanne McGill claimed a personal best and a [club record](http://results.pfrac.co.uk/records/) at the Yorkshire Marathon where she clocked 3-22-56.  This gave her a top ten position in the ladies over45 age category.  Also competing was Michael Walsh who finished in a time of 3-58-26 to get under the four hour barrier.  Second overall in the race was Gary Briscoe from Penistone who competes for Barnsley AC.  Gary claimed a personal best in a very rapid 2-26-05.  
 
 The event also saw a shorter 10 mile event.  Ray Brown claimed first place in the men’s over80 age category in 1-40-22.  This knocked 8 minutes off Ray’s own [club record](http://results.pfrac.co.uk/records/) for the 10 mile road distance.
 
