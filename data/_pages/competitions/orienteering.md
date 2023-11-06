@@ -9,17 +9,9 @@ M﻿aps are drawn up by Steve (under licence from Ordnance Survey) and posted be
 
 **2023 Series**
 
-There will 8 different courses, each with its own time limit between 45 and 90 minutes. The courses will be made available progressively through the year. Scores will only count towards the league if you do the courses within the stated period.
+The series finished on 31 October.  Previous courses are still available (links below) if you want to do them, but scores won't count towards the league.  There were 8 different courses, each with its own time limit between 45 and 90 minutes, made available progressively through the year, with scores only counting towards the league during set two-month periods.
 
-*C﻿urrent courses – 1 September to 31 October*
-
-[Hoylandswaine 45 min](https://pfrac.co.uk/static/images/maps/hoylandswaine-2023-maprun.pdf)
-
-[Winscar 90 min](https://pfrac.co.uk/static/images/maps/winscar-2023-maprun.pdf)
-
-*Previous courses – (still available if you want to do them, but scores won't count towards the league)*
-
-| Course |  |
+| 2023 Courses |  |
 | - | - |
 | [Millhouse 60 min](https://pfrac.co.uk/static/images/maps/millhouse-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Millhouse%2520PZ%2520PXAS%2520ScoreN60.csv) |
 | [P﻿enistone 45 min](https://pfrac.co.uk/static/images/maps/penistone-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Penistone%2520PZ%2520PXAS%2520ScoreN45.csv) |
@@ -27,6 +19,8 @@ There will 8 different courses, each with its own time limit between 45 and 90 m
 | [Upper Denby 60 min](https://pfrac.co.uk/static/images/maps/upper-denby-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Upper%2520Denby%2520PZ%2520PXAS%2520ScoreN60.csv) |
 | [Hood Green 60 min](https://pfrac.co.uk/static/images/maps/hood-green-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Hood%2520Green%2520PZ%2520PXAS%2520ScoreN60.csv) |
 | [Wortley 80 min](https://pfrac.co.uk/static/images/maps/wortley-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Wortley%2520PZ%2520PXAS%2520ScoreN80.csv) |
+| [Hoylandswaine 45 min](https://pfrac.co.uk/static/images/maps/hoylandswaine-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?days=20&act=fileToSplitsBrowser&eventName=ScoreResults_Hoylandswaine%2520PZ%2520PXAS%2520ScoreN45.csv) |
+| [Winscar 90 min](https://pfrac.co.uk/static/images/maps/winscar-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?days=20&act=fileToSplitsBrowser&eventName=ScoreResults_Winscar%2520PZ%2520PXAS%2520ScoreN90.csv) |
 
 They are score events: collect as many points as you can before returning to the start within the allotted time limit. There is a penalty of –10 points for every minute (or part of a minute) late back so someone scoring 100 points would lose them all if they were 10 minutes over time.
 
@@ -38,7 +32,7 @@ Your best 6 scores will be summed to determine your final score for the series.
 
 **Results**
 
-[2023 Standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)
+[2023 Standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx) - final results available soon.
 
 [40th Anniversary Event](https://pfrac.co.uk/static/results/orienteering/40th_anniversary_orienteering_results.png)
 
