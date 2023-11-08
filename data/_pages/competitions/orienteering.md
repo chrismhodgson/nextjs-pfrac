@@ -9,18 +9,18 @@ M﻿aps are drawn up by Steve (under licence from Ordnance Survey) and posted be
 
 **2023 Series**
 
-The series finished on 31 October.  Previous courses are still available (links below) if you want to do them, but scores won't count towards the league.  There were 8 different courses, each with its own time limit between 45 and 90 minutes, made available progressively through the year, with scores only counting towards the league during set two-month periods.
+The series finished on 31 October ([Final Standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)).  Previous courses are still available (links below) if you want to do them, but scores won't count towards the league.  There were 8 different courses, each with its own time limit between 45 and 90 minutes, made available progressively through the year, with scores only counting towards the league during set two-month periods.
 
-| 2023 Courses |  |
-| - | - |
-| [Millhouse 60 min](https://pfrac.co.uk/static/images/maps/millhouse-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Millhouse%2520PZ%2520PXAS%2520ScoreN60.csv) |
-| [P﻿enistone 45 min](https://pfrac.co.uk/static/images/maps/penistone-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Penistone%2520PZ%2520PXAS%2520ScoreN45.csv) |
-| [Low Bradfield 75 min](https://pfrac.co.uk/static/images/maps/low-bradfield-2023-maprun.pdf) | [Results](https://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Bradfield%2520PZ%2520PXAS%2520ScoreN75.csv) |
-| [Upper Denby 60 min](https://pfrac.co.uk/static/images/maps/upper-denby-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Upper%2520Denby%2520PZ%2520PXAS%2520ScoreN60.csv) |
-| [Hood Green 60 min](https://pfrac.co.uk/static/images/maps/hood-green-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Hood%2520Green%2520PZ%2520PXAS%2520ScoreN60.csv) |
-| [Wortley 80 min](https://pfrac.co.uk/static/images/maps/wortley-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Wortley%2520PZ%2520PXAS%2520ScoreN80.csv) |
+| 2023 Courses                                                                                 |                                                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Millhouse 60 min](https://pfrac.co.uk/static/images/maps/millhouse-2023-maprun.pdf)         | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Millhouse%2520PZ%2520PXAS%2520ScoreN60.csv)             |
+| [P﻿enistone 45 min](https://pfrac.co.uk/static/images/maps/penistone-2023-maprun.pdf)        | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Penistone%2520PZ%2520PXAS%2520ScoreN45.csv)             |
+| [Low Bradfield 75 min](https://pfrac.co.uk/static/images/maps/low-bradfield-2023-maprun.pdf) | [Results](https://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Bradfield%2520PZ%2520PXAS%2520ScoreN75.csv)            |
+| [Upper Denby 60 min](https://pfrac.co.uk/static/images/maps/upper-denby-2023-maprun.pdf)     | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Upper%2520Denby%2520PZ%2520PXAS%2520ScoreN60.csv)       |
+| [Hood Green 60 min](https://pfrac.co.uk/static/images/maps/hood-green-2023-maprun.pdf)       | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Hood%2520Green%2520PZ%2520PXAS%2520ScoreN60.csv)        |
+| [Wortley 80 min](https://pfrac.co.uk/static/images/maps/wortley-2023-maprun.pdf)             | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Wortley%2520PZ%2520PXAS%2520ScoreN80.csv)               |
 | [Hoylandswaine 45 min](https://pfrac.co.uk/static/images/maps/hoylandswaine-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?days=20&act=fileToSplitsBrowser&eventName=ScoreResults_Hoylandswaine%2520PZ%2520PXAS%2520ScoreN45.csv) |
-| [Winscar 90 min](https://pfrac.co.uk/static/images/maps/winscar-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?days=20&act=fileToSplitsBrowser&eventName=ScoreResults_Winscar%2520PZ%2520PXAS%2520ScoreN90.csv) |
+| [Winscar 90 min](https://pfrac.co.uk/static/images/maps/winscar-2023-maprun.pdf)             | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?days=20&act=fileToSplitsBrowser&eventName=ScoreResults_Winscar%2520PZ%2520PXAS%2520ScoreN90.csv)       |
 
 They are score events: collect as many points as you can before returning to the start within the allotted time limit. There is a penalty of –10 points for every minute (or part of a minute) late back so someone scoring 100 points would lose them all if they were 10 minutes over time.
 
@@ -28,11 +28,11 @@ You can only get the points for a control once, even if you run to it several ti
 
 The naming of the controls shows how many points they are worth (01–09 = 10 points, 11–19 = 20 points, 21–29 = 30 points, 31–39 = 40 points, etc).
 
-Your best 6 scores will be summed to determine your final score for the series.
+Your best 6 scores will be summed to determine your final score for the series.  Where people finish with the same number of points, the runner with the lowest average time (time as a proportion of the permitted time for the course) across their best 6 courses will be placed ahead in the table.
 
 **Results**
 
-[2023 Standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx) – final results available soon.
+[2023 Final Standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)
 
 [40th Anniversary Event](https://pfrac.co.uk/static/results/orienteering/40th_anniversary_orienteering_results.png)
 
