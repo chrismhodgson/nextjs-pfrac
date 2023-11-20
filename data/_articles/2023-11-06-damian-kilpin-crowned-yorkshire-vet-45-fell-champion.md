@@ -1,5 +1,5 @@
 ---
-title: Damian Kilpin Crowned Yorkshire Vet-45 Fell Champion
+title: Damian Kilpin crowned Yorkshire Vet-45 Fell Champion
 draft: false
 date: 2023-11-06T15:31:40.042Z
 tags:
