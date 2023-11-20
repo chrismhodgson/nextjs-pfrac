@@ -1,5 +1,5 @@
 ---
-title: Ruby take cross country Silver
+title: Ruby takes cross country Silver
 draft: false
 date: 2023-10-23T13:48:19.349Z
 tags:
