@@ -1,6 +1,6 @@
 ---
 title: Busy weekend for Penistone runners
-draft: true
+draft: false
 date: 2023-11-20T14:51:22.748Z
 tags:
   - PRESS
