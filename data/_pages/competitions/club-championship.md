@@ -53,7 +53,7 @@ The Challenge Championship is based on the total points from all events complete
 
 #### Prizes
 
-Your age group for the Championship in any year is determined by your age on January 1st. Prizes will be awarded for each age group for both male and female categories for each section winners, eg Fell Lady Vet 40.
+Your age group for the Championship in any year is determined by your age on April 1st. Prizes will be awarded for each age group for both male and female categories for each section winners, eg Fell Lady Vet 40.
 
 * The groups are as follows: Male U20, M Senior, MV35, MV40, MV45, MV50, MV55, MV60, MV65, MV70, MV75, MV80, Female U20, F Senior, LV35, LV40, LV45, LV50, LV55, LV60, LV65, LV70, LV75, LV80.
 * The Sections are Road, Trail/Cross Country and Fell.
@@ -75,7 +75,7 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Spencers Dash 3](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 7 Sep  |
 | [Vale of York Half Marathon](https://racebest.com/races/h894w)                                                                      | Sun 10 Sep |
 | [Travellers 6](https://www.denbydaleac.co.uk/travellers-6)                                                                          | Sun 17 Dec |
-| [Meltham 10K](https://bookitzone.com/andy_whitworth/TbjFFX)                          | Sun 28 Jan |
+| [Meltham 10K](https://bookitzone.com/andy_whitworth/TbjFFX)                                                                         | Sun 28 Jan |
 
 | Trail/Cross Country Section                                                                                         |            |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -87,11 +87,11 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Silkstone Shuffle 3](http://www.barnsleyharriers.org.uk/index.php?option=com_content&view=article&id=2&Itemid=109) | Thu 14 Sep |
 | [SY Cross Country – race 1](https://www.sycaa.org.uk/cross-country/)                                                | Sun 15 Oct |
 
-| Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Herod Farm](https://www.fellrunner.org.uk/races/52a86ba5-059a-485c-a355-838f25f26e27)                                                                   | Wed 19 Apr  |
-| [James Blakeley](https://www.fellrunner.org.uk/races/70092187-2285-423c-a0c8-9c66cbf0972c)                                                               | Sat 24 Jun  |
-| [Thurlstone Chase](https://pfrac.co.uk/races/thurlstone-chase)                                                                                           | Sat 8 Jul   |
-| [Salt Cellar](https://www.fellrunner.org.uk/races/e774172f-6aa8-47c8-8fd0-00af3da01346)                                                                  | Fri 4 Aug   |
-| [Baslow Bolt](https://www.fellrunner.org.uk/races/681e9f80-d5ed-4c29-9314-4a23e3221885)                                                                  | Sat 25 Nov  |
+| Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Herod Farm](https://www.fellrunner.org.uk/races/52a86ba5-059a-485c-a355-838f25f26e27)                                                                   | Wed 19 Apr |
+| [James Blakeley](https://www.fellrunner.org.uk/races/70092187-2285-423c-a0c8-9c66cbf0972c)                                                               | Sat 24 Jun |
+| [Thurlstone Chase](https://pfrac.co.uk/races/thurlstone-chase)                                                                                           | Sat 8 Jul  |
+| [Salt Cellar](https://www.fellrunner.org.uk/races/e774172f-6aa8-47c8-8fd0-00af3da01346)                                                                  | Fri 4 Aug  |
+| [Baslow Bolt](https://www.fellrunner.org.uk/races/681e9f80-d5ed-4c29-9314-4a23e3221885)                                                                  | Sat 25 Nov |
 | [Hoppits Hill](http://www.hoppits.co.uk/)                                                                                                                | Sun 25 Feb |
