@@ -1,6 +1,6 @@
 ---
 start_date_time: Sunday 23 June 2024 at 09:30
-organiser: "[Keith Gordon](keithhgordon@me.com)"
+organiser: Keith Gordon (keithhgordon@me.com)
 strava_url: https://www.strava.com/segments/18044628/embed
 header: races/penistone-10k.jpg
 order: 30
