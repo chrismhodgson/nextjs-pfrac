@@ -1,7 +1,7 @@
 ---
 start_date_time: TBC
-organiser: "[Jill Carlton](jillycarlton1@gmail.com) & [Suzanne
-  McGill](funetics_penistone@hotmail.com)"
+organiser: Jill Carlton (jillycarlton1@gmail.com) & Suzanne McGill
+  (funetics_penistone@hotmail.com)
 strava_url: https://www.strava.com/segments/30806210/embed
 header: races/penistone-hill-race.jpg
 order: 40
