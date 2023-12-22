@@ -1,6 +1,6 @@
 ---
 start_date_time: Thursday 28 December at 10:30
-organiser: "[Steve Dickinson](steve@osi.uk.com) – 07850 445613"
+organiser: <a href="mailto:steve@osi.uk.com">Steve Dickinson</a> – 07850 445613
 strava_url: https://www.strava.com/segments/33486757/embed
 header: races/ambles-revenge.jpg
 order: 5
@@ -20,7 +20,7 @@ The race has chip timing, and there is a gift for all entrants.
 
 #### Entry
 
-[Online entries](https://racebest.com/races/xcr4y) are open.
+**The race is full and there will be no entries on the day.**
 
 Pre-entry fees: £12 for EA registered runners and £14 for non-EA registered. Entries on the day if the race limit of 350 is not reached for an additional £2.
 
