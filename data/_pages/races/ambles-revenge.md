@@ -1,11 +1,11 @@
 ---
-start_date_time: Thursday 28 December at 10:30
+start_date_time: Date for 2024 tbc
 organiser: Steve Dickinson (steve@osi.uk.com) – 07850 445613
 strava_url: https://www.strava.com/segments/33486757/embed
 header: races/ambles-revenge.jpg
 order: 5
 entry: ""
-distance: 8.1 miles/13km with 1,500ft/450m of ascent.
+distance: Approximately 8 miles/13km with 1,500ft/450m of ascent.
 results: " "
 title: Amble's Revenge
 registration: "\n\n"
@@ -20,7 +20,7 @@ The race has chip timing, and there is a gift for all entrants.
 
 #### Entry
 
-**The race is full and there will be no entries on the day.**
+Online entry will be available.
 
 Pre-entry fees: £12 for EA registered runners and £14 for non-EA registered. Entries on the day if the race limit of 350 is not reached for an additional £2.
 
@@ -58,7 +58,8 @@ Registration and number collection from 09:00 at Rafters Bar, adjoined to the Wa
 [2018/19](https://pfrac.co.uk/static/results/revenge/revenge-2018-19-results.pdf)
 [2019/20](https://www.runbritainrankings.com/results/results.aspx?meetingid=338437)
 [2021/22](https://www.runbritainrankings.com/results/results.aspx?meetingid=440754)
-[2022/23](https://racebest.com/results/46u75)
+[2022/23](https://www.runbritainrankings.com/results/results.aspx?meetingid=507259)
+[2023/24](https://racebest.com/results/xcr4y)
 
 #### Course Records
 
@@ -84,7 +85,7 @@ Female: Sam Shaw, Penistone Footpath Runners & AC, 2019 &ndash; 62:01
 
 Male: Jonathan Escalante-Phillips, Cambridge & Coleridge AC, 2021 &ndash; 54:37
 
-Female: Emily Cowper Coles, Denby Dale AC, 2022 &ndash; 60:38
+Female: Emily Cowper Coles, Denby Dale AC, 2023 &ndash; 57:34
 
 #### Route
 
