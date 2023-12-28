@@ -5,7 +5,7 @@ strava_url: https://www.strava.com/segments/33486757/embed
 header: races/ambles-revenge.jpg
 order: 5
 entry: ""
-distance: Approximately 8 miles/13km with 1,500ft/450m of ascent.
+distance: Approximately 7¾ miles/12½km with 1,500ft/450m of ascent.
 results: " "
 title: Amble's Revenge
 registration: "\n\n"
