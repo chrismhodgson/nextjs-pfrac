@@ -47,7 +47,7 @@ Points are calculated based on their time relative to the overall race winner (m
 
 The main advantages of this method are: 1) it means that every second you run faster will gain you points (not a lot, but something – unless you are the race winner). Beating another Penistone runner (of the same sex) in a race will always mean you get more points than them – but the bigger the gap you get the more points you gain. 2) you don’t get points as a result of other PFR runners not turning up – you get points for your own performance.
 
-The disadvantage of this method is that your points do depend on how fast the winner is – if Mo Farah or Eilish McColgan turn up to Oughtibridge Chase, the points will go down – generally, less popular races will yield more points. This may help boost less popular races, which is no bad thing.
+The disadvantage of this method is that your points do depend on how fast the winner is – if Mo Farah or Eilish McColgan turn up to the Oughtibridge Chase, the points will go down – generally, less popular races will yield more points. This may help boost less popular races, which is no bad thing.
 
 The Challenge Championship is based on the total points from all events completed (including your best Spencers Dash, Loxley Lash and Silkstone Shuffle). The more races you complete, the more points you will get.
 
