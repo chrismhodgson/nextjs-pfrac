@@ -8,7 +8,7 @@ summary: Round-up of Penistone runners' results
 ---
 The 2024 [Trigger](https://results.pfrac.co.uk/fell-league-2023/trigger) race took place on Sunday, a brutal 20.5 mile race across the moors from Marsden to Edale involving over 5400 ft of elevation.
 
-First back for Penistone was Richard Cottam in a time of 4:02:50, finishing in 29th place.
+First back for Penistone was Richard Cottam in a time of 4:02:50, finishing in 29th place. Simon Pike, Chris Hodgson, Harriet Drouin and Helen Wright also finished the race - completing the physical endurance and navigation challenge in any time is a great acheivement.
 
 Former Penistone runner Phil Montgomery, who now runs for Dark Peak Fell Runners, had a strong run to finish fourth overall in a time of 3:28:09.
 
