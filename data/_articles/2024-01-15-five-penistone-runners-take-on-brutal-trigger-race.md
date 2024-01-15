@@ -12,7 +12,7 @@ First back for Penistone was Richard Cottam in a time of 4:02:50, finishing in 2
 
 Former Penistone runner Phil Montgomery, who now runs for Dark Peak Fell Runners, had a strong run to finish fourth overall in a time of 3:28:09.
 
-At Barnsley AC’s midweek track meet, James Mumford set a new v40 club record over 2 miles with a time of 11-23.5.
+At Barnsley AC’s midweek track meet, James Mumford set a new v40 [club record](https://results.pfrac.co.uk/records/) over 2 miles with a time of 11-23.5.
 
 Simon Pike competed in both the one and two mile events, finishing third in his race in the former.
 
