@@ -1,0 +1,13 @@
+---
+title: Prizes galore at tough Meltham Tough 10k
+draft: false
+date: 2024-01-29T11:09:29.700Z
+tags:
+  - PRESS
+summary: Round-up of Penistone runners' results
+---
+Sixteen hardy Penistone runners made the trip to Meltham to take part in the notoriously tough [Meltham 10k](https://results.pfrac.co.uk/championship-2023/meltham-10k), which traverses the hills around Meltham before a final mile downhill to the finish.  The runners were rewarded with a good degree of success, with three runners picking up first place in their respective age categories.  Suzanne McGill was first lady back from the club and also picked up first place in the ladies over45 age category.  Her time was 47-58.  Another lady winner was Barbara Haigh who won the ladies over75 age category in 66-13.  Martin Ball completed the trio of winners grabbing first place in the men’s over50 age category in an impressive 39-40.  Other runners making the podium in their age groups were Bill Phillips (2nd over75 man) and Keith Gordon (3rd over75 man).  Andrew Heppenstall was first back for the club in 12th place overall and finished just one place outside the medals in the men’s over40 age category.  His time was 37-33.  Rory O’Sullivan also completed a 10k race at the Stockport Daffodil 10k.  His time of 49-32 was new personal best for the distance.
+
+On the fells three Penistone runners completed the [Tigger Tor](https://results.pfrac.co.uk/fell-league-2023/tigger-tor) fell race, a race know for its steep climbs, exposed ridges and rocky sections.  First back was Gareth Irvine in 90th place in 1-24-52, followed by Ian Charlesworth in 1-33-47 and Lesley Parker in 1-36-28.  Also on the fells Steve Sanders competed in the [Birkrigg Common](https://results.pfrac.co.uk/fell-league-2023/birkrigg-common) fell race near Ulverston.  He placed 46th in a field of 148 runners in a time of 27-32.
+
+On the [parkrun](https://results.pfrac.co.uk/parkrun-2024/2024-01-27) scene the club held its monthly parkrun on tour with a trip to the Rother Valley parkrun.  First back in 31st place was Phil Hinchliffe in 20-11. First lady back was Emma Stead in 122nd place in 24-56. Elsewhere George Parr was first at Penistone parkrun and Flynn Rogers was first at Hillsborough juniors.  Three runners had milestones: Jill Scrivens (100), John Howsham (250) and Jackie Howsham (250).  Age graded parkrun runners of the week were Dawn Broom (76.75%), Damian Kilpin (75%), Phil Hinchliffe (74.24%), Keith Gordon (73.45%) and George Parr (70.31%).
