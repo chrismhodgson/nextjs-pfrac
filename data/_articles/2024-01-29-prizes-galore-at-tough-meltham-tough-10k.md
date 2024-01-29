@@ -1,5 +1,5 @@
 ---
-title: Prizes galore at Meltham Tough 10k
+title: Prizes galore at tough Meltham 10k
 draft: false
 date: 2024-01-29T11:09:29.700Z
 tags:
