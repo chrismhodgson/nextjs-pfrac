@@ -1,19 +1,21 @@
 ---
-start_date_time: 2024 date tbc at 19:30
+start_date_time: 24 April 2024 at 19:00
 organiser: |
   Ian Charlesworth (hartcliffhill.fellrace@gmail.com)
-strava_url: https://www.strava.com/segments/9332504/embed
+strava_url: ""
 header: races/hartcliff-hill.jpg
 google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
 order: 20
 entry: ""
-distance: 2½ miles/4km with 492ft/150m of ascent - route for 2024 tbc
+distance: 4½ miles7km with 755ft/230m of ascent
 results: " "
 title: Hartcliff Hill
 registration: ""
 category: Fell
 course_records: ""
 ---
+**New course for 2024!**
+
 Hartcliff Hill is a BS category fell race on a marked and marshalled course &ndash; no navigation or prior experience required. The terrain is rough and can be extremely boggy.
 
 The race starts and finishes about ¾ mile from registration at Langsett Barn so allow time.  It has been difficult to organise this race because of parking permissions.  Please park according to instructions and restrictions on the day.
@@ -22,7 +24,7 @@ The race starts and finishes about ¾ mile from registration at Langsett Barn so
 
 Entry £5.00 on the day for FRA or EA members; £6.00 for non-members..
 
-This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 14 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://races.fellrunner.org.uk/documents/2022/fra-parental-consent-process-form-2022.pdf).
+This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 15 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://races.fellrunner.org.uk/documents/2022/fra-parental-consent-process-form-2022.pdf).
 
 #### Registration
 
@@ -50,13 +52,13 @@ The race in 2014 was cancelled due to the Foot and Mouth outbreak, those in 2020
 
 #### Course Records
 
-*Previous course &ndash; 2005&ndash;2013:*
+*2005&ndash;2013 course:*
 
 Male: Stuart Bond, Tommy's Fell Stars, 2009 &ndash; 14:54
 
 Female: N White, Bingley Harriers & AC, 2006 &ndash; 17:19
 
-*Current course &ndash; since 2015*
+*2015&ndash;2023 course:*
 
 Male: Max Wainwright, Dark Peak Fell Runners, 2019 &ndash; 15:37
 
@@ -64,4 +66,4 @@ Female: Katie Walshaw, Holmfirth Harriers, 2019 &ndash; 17:47
 
 #### Route
 
-To be added
+[Race map](https://pfrac.co.uk/static/images/maps/hartcliff-hill-2024.jpg)
