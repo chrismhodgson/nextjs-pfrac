@@ -20,7 +20,7 @@ Prizes for the first 3 men and women, then 1st in each age category V40, V50, V6
 
 Entry on the day is available.
 
-This race has a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 16 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://races.fellrunner.org.uk/documents/2022/fra-parental-consent-process-form-2022.pdf).
+This race has a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 16 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
 
 #### Registration
 
