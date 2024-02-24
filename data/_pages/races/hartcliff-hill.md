@@ -66,4 +66,4 @@ Female: Katie Walshaw, Holmfirth Harriers, 2019 &ndash; 17:47
 
 #### Route
 
-[Race map](https://pfrac.co.uk/static/images/maps/hartcliff-hill-2024.pdf
+[Race map](https://pfrac.co.uk/static/images/maps/hartcliff-hill-2024.pdf)
