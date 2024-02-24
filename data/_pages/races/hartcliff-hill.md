@@ -24,7 +24,7 @@ The race starts and finishes about ¾ mile from registration at Langsett Barn so
 
 Entry £5.00 on the day for FRA or EA members; £6.00 for non-members..
 
-This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 15 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://races.fellrunner.org.uk/documents/2022/fra-parental-consent-process-form-2022.pdf).
+This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 15 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
 
 #### Registration
 
@@ -66,4 +66,4 @@ Female: Katie Walshaw, Holmfirth Harriers, 2019 &ndash; 17:47
 
 #### Route
 
-[Race map](https://pfrac.co.uk/static/images/maps/hartcliff-hill-2024.jpg)
+[Race map](https://pfrac.co.uk/static/images/maps/hartcliff-hill-2024.pdf
