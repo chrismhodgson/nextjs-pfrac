@@ -3,19 +3,17 @@ title: Club Championship
 header: competitions/club-championship.jpg
 order: 10
 ---
-#### The 2023/24 Club Championship
+# PAGE CURRENTLY BEING UPDATED
 
-A﻿t the 2022 AGM the club agreed to change from a January-December membership year to an April-March year.  This lines up with the England Athletics membership year and will make admin easier in several ways. T﻿he club competitions will also change to be aligned with the club's membership year, so the 2023/24 Championship will begin with races in April.
+#### The 2024/25 Club Championship
 
-#### The 2023/24 Club Championship
+The format of the Championship is similar to previous years. All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
 
-The format of the Championship in 2023/24 is similar to previous years. All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
-
-The competition involves races across three main sections (Road, Trail/Cross-Country and Fell). The Championship comprises 16 fixed races (5 or 6 from each section plus the club mile), but three of the events are local series of races: Spencer's Dash and Loxley Lash (road), and Silkstone Shuffle (trail/cross country). Members can run as many of the Spencer's Dash, Loxley Lash or Silkstone Shuffle series as they wish, and their season’s best time from each will be counted.
+The competition involves races across three main sections (Road, Trail/Cross-Country and Fell). The Championship comprises 18 fixed races (6 from each section), but two of the 'races' are the Spencer's Dash and Silkstone Shuffle series. Members can run as many of the Spencer's Dash or Silkstone Shuffle races as they wish, and their season’s best time from each will be counted.
 
 #### Results
 
-[Current standings for 2023/24](http://results.pfrac.co.uk/championship-2023/challenge).
+Standings for 2024/25 will be posted here.
 
 Results for previous years:
 [2004](https://pfrac.co.uk/static/results/club-championship/championship-2004-results.xlsx)
@@ -35,7 +33,7 @@ Results for previous years:
 
 #### Qualification
 
-Qualification for the section Championships and overall Championship is exactly as in recent years: to qualify for each section you need to compete in at least 3 of the section events (out of 5/6 events, including, if you wish, series events, but you don’t have to run the Spencer’s Dash, Loxley Lash or Silkstone Shuffle).
+Qualification for the section Championships and overall Championship is exactly as in recent years: to qualify for each section you need to compete in at least 3 of the section events (out of 6 events, including, if you wish, series events, but you don’t have to run the Spencer’s Dash or Silkstone Shuffle).
 
 To qualify for the Overall Championship you have to compete in 9 events, with at least 2 of these races from each section. Your 9 best race scores, including the minimum of 2 from each section, will be added together to form an Overall Championship total. If you do the club mile, that can be one of your 9 qualifying events (if it is one of the 9 best scores).
 
@@ -67,25 +65,24 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 
 | Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Spencers Dash 1](https://racebest.com/races/972yw)                                                                                 | Thu 4 May  |
-| [Loxley Lash 1](https://www.sheffieldrunningclub.org.uk/racing/our-hosted-races/loxley-lash/)                                       | Wed 10 May |
-| [Loxley Lash 2](https://www.sheffieldrunningclub.org.uk/racing/our-hosted-races/loxley-lash/)                                       | Wed 7 Jun  |
-| [Loxley Lash 3](https://www.sheffieldrunningclub.org.uk/racing/our-hosted-races/loxley-lash/)                                       | Wed 5 Jul  |
-| [Spencers Dash 2](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 13 Jul |
-| [Spencers Dash 3](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 7 Sep  |
-| [Vale of York Half Marathon](https://racebest.com/races/h894w)                                                                      | Sun 10 Sep |
-| [Travellers 6](https://www.denbydaleac.co.uk/travellers-6)                                                                          | Sun 17 Dec |
-| [Meltham 10K](https://bookitzone.com/andy_whitworth/TbjFFX)                                                                         | Sun 28 Jan |
+| [Spencers Dash 1](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                                                 | Thu 18 Apr |
+| [Rother Valley Relays](https://www.facebook.com/groups/431233151372212/)                                | Tue 14 May |
+| [Joe Percy 10K](https://www.holmfirthharriers.com/event/joe-percy-10k/)                                       | Wed 12 Jun |
+| [Spencers Dash 2](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 11 Jul |
+| [Spencers Dash 3](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 29 Aug  |
+| [Worksop Half Marathon](https://www.worksophalfmarathon.co.uk/)                                                                      | Sun 27 Oct |
+| [Travellers 6](https://www.denbydaleac.co.uk/travellers-6)                                                                          | Sun tbc Dec |
+| [Wombwell 5](https://www.kingstonerunners.co.uk/Wombwell5.html)                                                                         | Sun 5 Feb |
 
 | Trail/Cross Country Section                                                                                         |            |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [Higham Hurtle](http://www.barnsleyharriers.org.uk/index.php?option=com_content&view=article&id=104&Itemid=192)     | Thu 27 Apr |
 | [Furty Furlong](https://racebest.com/races/ykcew)                                                                   | Sat 13 May |
-| [Silkstone Shuffle 1](http://www.barnsleyharriers.org.uk/index.php?option=com_content&view=article&id=2&Itemid=109) | Thu 18 May |
-| [Oughtibridge Chase](https://www.oughtibridgegala.org/the-tom-holmes-gala-chase)                                    | Wed 14 Jun |
-| [Silkstone Shuffle 2](http://www.barnsleyharriers.org.uk/index.php?option=com_content&view=article&id=2&Itemid=109) | Thu 20 Jul |
+| [Silkstone Shuffle 1](https://www.barnsleyharriers.org.uk/) | Thu 25 Apr |
+| [Oughtibridge Chase](https://www.oughtibridgegala.org/the-tom-holmes-gala-chase)                                    | Wed 19 Jun |
+| [Silkstone Shuffle 2](https://www.barnsleyharriers.org.uk/) | Thu 20 Jul |
 | [Silkstone Shuffle 3](http://www.barnsleyharriers.org.uk/index.php?option=com_content&view=article&id=2&Itemid=109) | Thu 14 Sep |
-| [SY Cross Country – race 1](https://www.sycaa.org.uk/cross-country/)                                                | Sun 15 Oct |
+| [SY Cross Country – race tbc](https://www.sycaa.org.uk/cross-country/)                                                | Date tbc |
 
 | Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
