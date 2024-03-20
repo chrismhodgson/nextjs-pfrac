@@ -3,8 +3,6 @@ title: Club Championship
 header: competitions/club-championship.jpg
 order: 10
 ---
-# PAGE CURRENTLY BEING UPDATED
-
 #### The 2024/25 Club Championship
 
 The format of the Championship is similar to previous years. All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
@@ -59,7 +57,7 @@ Your age group for the Championship in any year is determined by your age on Apr
 * The title of Challenge Champion will be given to the runner who acquires the most points from all qualifying events.
 * Run as many or as few races as you want but you must compete in the correct number of races to win an award.
 
-#### 2023/24 events
+#### 2024/25 events - PROVISIONAL
 
 All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
 
@@ -83,7 +81,7 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Silkstone Shuffle - 3](https://www.barnsleyharriers.org.uk/) | Thu 8 Aug |
 | [Stan's Toffee Run](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/stan-s-toffee-run)     | Thu 15 Aug |
 | [Higham Hurtle](https://www.barnsleyharriers.org.uk/)     | Thu 5 Sep |
-| [SY Cross Country – race tbc](https://www.sycaa.org.uk/cross-country/)                                                | Date tbc |
+| [SY Cross Country – race 1](https://www.sycaa.org.uk/cross-country/)                                                | Sun 13 October |
 
 | Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
