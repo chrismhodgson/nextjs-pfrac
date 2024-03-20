@@ -45,7 +45,7 @@ The main advantages of this method are: 1) it means that every second you run fa
 
 The disadvantage of this method is that your points do depend on how fast the winner is – if Mo Farah or Eilish McColgan turn up to the Oughtibridge Chase, the points will go down – generally, less popular races will yield more points. This may help boost less popular races, which is no bad thing.
 
-The Challenge Championship is based on the total points from all events completed (including your best Spencers Dash, Loxley Lash and Silkstone Shuffle). The more races you complete, the more points you will get.
+The Challenge Championship is based on the total points from all events completed (including your best Spencers Dash and Silkstone Shuffle). The more races you complete, the more points you will get.
 
 #### Prizes
 
