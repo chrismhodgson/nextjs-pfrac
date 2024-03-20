@@ -87,9 +87,9 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 
 | Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Herod Farm](https://www.fellrunner.org.uk/races/52a86ba5-059a-485c-a355-838f25f26e27)                                                                   | Wed 19 Apr |
-| [James Blakeley](https://www.fellrunner.org.uk/races/70092187-2285-423c-a0c8-9c66cbf0972c)                                                               | Sat 24 Jun |
-| [Thurlstone Chase](https://pfrac.co.uk/races/thurlstone-chase)                                                                                           | Sat 8 Jul  |
-| [Salt Cellar](https://www.fellrunner.org.uk/races/e774172f-6aa8-47c8-8fd0-00af3da01346)                                                                  | Fri 4 Aug  |
-| [Baslow Bolt](https://www.fellrunner.org.uk/races/681e9f80-d5ed-4c29-9314-4a23e3221885)                                                                  | Sat 25 Nov |
-| [Hoppits Hill](http://www.hoppits.co.uk/)                                                                                                                | Sun 25 Feb |
+| [Bamford Sheepdog Trials](https://www.fellrunner.org.uk/races/adcb9c4d-5881-475f-bbd2-5a8e158a8755)                                                                   | Mon 27 May |
+| [Castleton](https://www.fellrunner.org.uk/races/a410b298-74f4-4e82-a823-0cba7327baa7)                                                                  | Fri 7 Jun  |
+| [Charlesworth & Chiswick Carnival](https://www.fellrunner.org.uk/races/61755c75-844d-4cf1-884f-a2981e210515)                                                               | Sat 24 Jun |
+| [Denis Stitt](https://pfrac.co.uk/races/thurlstone-chase)                                                                                           | Sat 8 Jul  |
+| [Cop Hill](https://www.fellrunner.org.uk/races/681e9f80-d5ed-4c29-9314-4a23e3221885)                                                                  | Sun 3 Nov |
+| [Hoppits Hill](http://www.hoppits.co.uk/)                                                                                                                | Sun tbc Feb |
