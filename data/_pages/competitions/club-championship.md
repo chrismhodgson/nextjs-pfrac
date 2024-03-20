@@ -65,7 +65,7 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 
 | Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Spencers Dash 1](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                                                 | Thu 18 Apr |
+| [Spencers Dash 1](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                                                 | Thu 9 May |
 | [Rother Valley Relays](https://www.facebook.com/groups/431233151372212/)                                | Tue 14 May |
 | [Joe Percy 10K](https://www.holmfirthharriers.com/event/joe-percy-10k/)                                       | Wed 12 Jun |
 | [Spencers Dash 2](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 11 Jul |
@@ -76,12 +76,13 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 
 | Trail/Cross Country Section                                                                                         |            |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Higham Hurtle](http://www.barnsleyharriers.org.uk/index.php?option=com_content&view=article&id=104&Itemid=192)     | Thu 27 Apr |
-| [Furty Furlong](https://racebest.com/races/ykcew)                                                                   | Sat 13 May |
-| [Silkstone Shuffle 1](https://www.barnsleyharriers.org.uk/) | Thu 25 Apr |
+| [Silkstone Shuffle - 1](https://www.barnsleyharriers.org.uk/) | Thu 25 Apr |
+| [Furty Furlong](https://racebest.com/races/txgcg)                                                                   | Sat 11 May |
 | [Oughtibridge Chase](https://www.oughtibridgegala.org/the-tom-holmes-gala-chase)                                    | Wed 19 Jun |
-| [Silkstone Shuffle 2](https://www.barnsleyharriers.org.uk/) | Thu 20 Jul |
-| [Silkstone Shuffle 3](http://www.barnsleyharriers.org.uk/index.php?option=com_content&view=article&id=2&Itemid=109) | Thu 14 Sep |
+| [Silkstone Shuffle - 2](https://www.barnsleyharriers.org.uk/) | Thu 27 Jun |
+| [Silkstone Shuffle - 3](https://www.barnsleyharriers.org.uk/) | Thu 8 Aug |
+| [Stan's Toffee Run](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/stan-s-toffee-run)     | Thu 15 Aug |
+| [Higham Hurtle](https://www.barnsleyharriers.org.uk/)     | Thu 5 Sep |
 | [SY Cross Country – race tbc](https://www.sycaa.org.uk/cross-country/)                                                | Date tbc |
 
 | Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
