@@ -7,20 +7,13 @@ Steve Sanders organises an informal orienteering league for the club using the M
 
 M﻿aps are drawn up by Steve (under licence from Ordnance Survey) and posted below, showing the checkpoints and any out-of-bounds areas. As runners complete courses their scores are recorded by the MapRun system, collated by Steve and posted below.
 
-**2023 Series**
+**2024 Series**
 
-The series finished on 31 October ([Final Standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)).  Previous courses are still available (links below) if you want to do them, but scores won't count towards the league.  There were 8 different courses, each with its own time limit between 45 and 90 minutes, made available progressively through the year, with scores only counting towards the league during set two-month periods.
+The series runs from 1 April to 31 October.  There will be 8 different courses, each with its own time limit between 45 and 90 minutes, made available progressively through the year, with scores only counting towards the league during set two-month periods.  Steve will email the courses to the club mailing list shortly before the start of each period; if you run the courses outside the specified time window the results won't count towards the league.  Previous courses are still available (contact [Steve](mailto:stevemsanders71@gmail.com) for the maps) if you want to do them.  
 
-| 2023 Courses                                                                                 |                                                                                                                                                                                                  |
-| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Millhouse 60 min](https://pfrac.co.uk/static/images/maps/millhouse-2023-maprun.pdf)         | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Millhouse%2520PZ%2520PXAS%2520ScoreN60.csv)             |
-| [P﻿enistone 45 min](https://pfrac.co.uk/static/images/maps/penistone-2023-maprun.pdf)        | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Penistone%2520PZ%2520PXAS%2520ScoreN45.csv)             |
-| [Low Bradfield 75 min](https://pfrac.co.uk/static/images/maps/low-bradfield-2023-maprun.pdf) | [Results](https://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Bradfield%2520PZ%2520PXAS%2520ScoreN75.csv)            |
-| [Upper Denby 60 min](https://pfrac.co.uk/static/images/maps/upper-denby-2023-maprun.pdf)     | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Upper%2520Denby%2520PZ%2520PXAS%2520ScoreN60.csv)       |
-| [Hood Green 60 min](https://pfrac.co.uk/static/images/maps/hood-green-2023-maprun.pdf)       | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Hood%2520Green%2520PZ%2520PXAS%2520ScoreN60.csv)        |
-| [Wortley 80 min](https://pfrac.co.uk/static/images/maps/wortley-2023-maprun.pdf)             | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Wortley%2520PZ%2520PXAS%2520ScoreN80.csv)               |
-| [Hoylandswaine 45 min](https://pfrac.co.uk/static/images/maps/hoylandswaine-2023-maprun.pdf) | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?days=20&act=fileToSplitsBrowser&eventName=ScoreResults_Hoylandswaine%2520PZ%2520PXAS%2520ScoreN45.csv) |
-| [Winscar 90 min](https://pfrac.co.uk/static/images/maps/winscar-2023-maprun.pdf)             | [Results](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?days=20&act=fileToSplitsBrowser&eventName=ScoreResults_Winscar%2520PZ%2520PXAS%2520ScoreN90.csv)       |
+**2024 Courses** 
+
+* Coming shortly
 
 They are score events: collect as many points as you can before returning to the start within the allotted time limit. There is a penalty of –10 points for every minute (or part of a minute) late back so someone scoring 100 points would lose them all if they were 10 minutes over time.
 
@@ -36,13 +29,23 @@ Your best 6 scores will be summed to determine your final score for the series. 
 
 [40th Anniversary Event](https://pfrac.co.uk/static/results/orienteering/40th_anniversary_orienteering_results.png)
 
+*2023 Course results*
+* [Millhouse 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Millhouse%2520PZ%2520PXAS%2520ScoreN60.csv)
+* [P﻿enistone 45 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Penistone%2520PZ%2520PXAS%2520ScoreN45.csv)
+* [Low Bradfield 75 min](https://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Bradfield%2520PZ%2520PXAS%2520ScoreN75.csv)
+* [Upper Denby 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Upper%2520Denby%2520PZ%2520PXAS%2520ScoreN60.csv)
+* [Hood Green 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Hood%2520Green%2520PZ%2520PXAS%2520ScoreN60.csv)
+* [Wortley 80 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Wortley%2520PZ%2520PXAS%2520ScoreN80.csv)
+* [Hoylandswaine 45 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?days=20&act=fileToSplitsBrowser&eventName=ScoreResults_Hoylandswaine%2520PZ%2520PXAS%2520ScoreN45.csv)
+* [Winscar 90 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?days=20&act=fileToSplitsBrowser&eventName=ScoreResults_Winscar%2520PZ%2520PXAS%2520ScoreN90.csv)
+
 [2022 Final Standings](https://pfrac.co.uk/static/results/orienteering/2022-results.xlsx)
 
 **How to take part**
 
 There’s a user guide on the [MapRun website](http://maprunners.weebly.com/quick-guide.html) which should get you set up. If you have any problems contact [Steve](mailto:stevemsanders71@gmail.com).
 
-You will need to download the app (either MapRun6 or MapRun is fine – MapRun is the latest version) to your phone and enter a username. You will need to make sure the app has access to location and data settings. The app needs to be able to run in the background. Once started with the app you can then search for the event. The simplest way is to use “select event”. This will take you through a series of folders: UK &ndash;&gt; South Yorkshire &ndash;&gt; PFRAC &ndash;&gt; 2023 and select the course you want to run. The details in grey under the name just specify the course type and rules.
+You will need to download the app (either MapRun6 or MapRun is fine – MapRun is the latest version) to your phone and enter a username. You will need to make sure the app has access to location and data settings. The app needs to be able to run in the background. Once started with the app you can then search for the event. The simplest way is to use “select event”. This will take you through a series of folders: UK &ndash;&gt; South Yorkshire &ndash;&gt; PFRAC &ndash;&gt; 2024 and select the course you want to run. The details in grey under the name just specify the course type and rules.
 
 You then simply select “Go To Start” where you will need to enter the PIN which is printed on the map. The map will load up on the screen and you can zoom in and out but the important thing to look for is the bar at the bottom of the screen where it says “GPS”. This bar must be green before setting off to confirm the app has a GPS signal. Once you have a green GPS status bar then just set off on the course. The app will beep, and start timing, as soon as you pass through the start/finish point.
 
