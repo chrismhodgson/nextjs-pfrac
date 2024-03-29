@@ -84,7 +84,7 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [Bamford Sheepdog Trials](https://www.fellrunner.org.uk/races/adcb9c4d-5881-475f-bbd2-5a8e158a8755)                                                                   | Mon 27 May |
-| [Charlesworth & Chiswick Carnival](https://www.fellrunner.org.uk/races/61755c75-844d-4cf1-884f-a2981e210515)                                                               | Sat 24 Jun |
+| [Charlesworth & Chiswick Carnival](https://www.fellrunner.org.uk/races/61755c75-844d-4cf1-884f-a2981e210515)                                                               | Sat 13 Jul |
 | [Crowden Horseshoe](https://events360.co.uk/crowden/) | Sun 18 Aug |
 | [Cop Hill](https://www.fellrunner.org.uk/races/71b5f8ea-16ea-4c34-98bf-45b80c694135)                                                                  | Sun 3 Nov |
 | [Hoppits Hill](http://www.hoppits.co.uk/)                                                                                                                | Sun tbc Feb |
