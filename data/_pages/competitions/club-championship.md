@@ -7,7 +7,7 @@ order: 10
 
 The format of the Championship is similar to previous years. All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
 
-The competition involves races across three main sections (Road, Trail/Cross-Country and Fell). The Championship comprises 15 fixed races (5 from each section), but two of the 'races' are the Spencer's Dash and Silkstone Shuffle series. Members can run as many of the Spencer's Dash or Silkstone Shuffle races as they wish, and their season’s best time from each will be counted.
+The competition involves races across three main sections (Road, Trail/Cross-Country and Fell). The Championship comprises 15 fixed races (5 in each section), but two of the 'races' are the Spencer's Dash and Silkstone Shuffle series. Members can run as many of the Spencer's Dash or Silkstone Shuffle races as they wish, and their season’s best time from each will be counted.
 
 #### Results
 
