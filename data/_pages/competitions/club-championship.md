@@ -7,7 +7,7 @@ order: 10
 
 The format of the Championship is similar to previous years. All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
 
-The competition involves races across three main sections (Road, Trail/Cross-Country and Fell). The Championship comprises 18 fixed races (6 from each section), but two of the 'races' are the Spencer's Dash and Silkstone Shuffle series. Members can run as many of the Spencer's Dash or Silkstone Shuffle races as they wish, and their season’s best time from each will be counted.
+The competition involves races across three main sections (Road, Trail/Cross-Country and Fell). The Championship comprises 15 fixed races (5 from each section), but two of the 'races' are the Spencer's Dash and Silkstone Shuffle series. Members can run as many of the Spencer's Dash or Silkstone Shuffle races as they wish, and their season’s best time from each will be counted.
 
 #### Results
 
@@ -67,8 +67,7 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Rother Valley Relays](https://www.facebook.com/groups/431233151372212/)                                | Tue 14 May |
 | [Joe Percy 10K](https://www.holmfirthharriers.com/event/joe-percy-10k/)                                       | Wed 12 Jun |
 | [Spencers Dash 2](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 11 Jul |
-| [Spencers Dash 3](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 29 Aug  |
-| [Worksop Half Marathon](https://www.worksophalfmarathon.co.uk/)                                                                      | Sun 27 Oct |
+| [Spencers Dash 3](https://www.barnsleyac.co.uk/club-events/spencers-dash/)  | Thu 29 Aug |                                                      
 | [Travellers 6](https://www.denbydaleac.co.uk/travellers-6)                                                                          | Sun tbc Dec |
 | [Wombwell 5](https://www.kingstonerunners.co.uk/Wombwell5.html)                                                                         | Sun 5 Feb |
 
@@ -81,13 +80,11 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Silkstone Shuffle - 3](https://www.barnsleyharriers.org.uk/) | Thu 8 Aug |
 | [Stan's Toffee Run](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/stan-s-toffee-run)     | Thu 15 Aug |
 | [Higham Hurtle](https://www.barnsleyharriers.org.uk/)     | Thu 5 Sep |
-| [SY Cross Country – race 1](https://www.sycaa.org.uk/cross-country/)                                                | Sun 13 October |
 
 | Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [Bamford Sheepdog Trials](https://www.fellrunner.org.uk/races/adcb9c4d-5881-475f-bbd2-5a8e158a8755)                                                                   | Mon 27 May |
-| [Castleton](https://www.fellrunner.org.uk/races/a410b298-74f4-4e82-a823-0cba7327baa7)                                                                  | Fri 7 Jun  |
 | [Charlesworth & Chiswick Carnival](https://www.fellrunner.org.uk/races/61755c75-844d-4cf1-884f-a2981e210515)                                                               | Sat 24 Jun |
-| [Denis Stitt](https://pfrac.co.uk/races/thurlstone-chase)                                                                                           | Sat 8 Jul  |
-| [Cop Hill](https://www.fellrunner.org.uk/races/681e9f80-d5ed-4c29-9314-4a23e3221885)                                                                  | Sun 3 Nov |
+| [Crowden Horseshoe](https://events360.co.uk/crowden/) | Sun 18 Aug |
+| [Cop Hill](https://www.fellrunner.org.uk/races/71b5f8ea-16ea-4c34-98bf-45b80c694135)                                                                  | Sun 3 Nov |
 | [Hoppits Hill](http://www.hoppits.co.uk/)                                                                                                                | Sun tbc Feb |
