@@ -31,9 +31,9 @@ Results for previous years:
 
 #### Qualification
 
-Qualification for the section Championships and overall Championship is exactly as in recent years: to qualify for each section you need to compete in at least 3 of the section events (out of 6 events, including, if you wish, series events, but you don’t have to run the Spencer’s Dash or Silkstone Shuffle).
+Qualification for the section Championships and overall Championship is similar to recent years, but the number of races has been reduced a bit: to qualify for each section you need to compete in at least 3 of the section events (out of 5 events, including, if you wish, series events, but you don’t have to run the Spencer’s Dash or Silkstone Shuffle).
 
-To qualify for the Overall Championship you have to compete in 9 events, with at least 2 of these races from each section. Your 9 best race scores, including the minimum of 2 from each section, will be added together to form an Overall Championship total. If you do the club mile, that can be one of your 9 qualifying events (if it is one of the 9 best scores).
+To qualify for the Overall Championship you have to compete in 8 events, with at least 2 of these races from each section. Your 8 best race scores, including the minimum of 2 from each section, will be added together to form an Overall Championship total.
 
 All first claim members are included in the Championship. Juniors running in senior races (where permitted) will be included in the Under 20 category. Members joining (or re-joining) during the year will only have results counted from the date their subscription has been paid.
 
@@ -53,13 +53,13 @@ Your age group for the Championship in any year is determined by your age on Apr
 
 * The groups are as follows: Male U20, M Senior, MV35, MV40, MV45, MV50, MV55, MV60, MV65, MV70, MV75, MV80, Female U20, F Senior, LV35, LV40, LV45, LV50, LV55, LV60, LV65, LV70, LV75, LV80.
 * The Sections are Road, Trail/Cross Country and Fell.
-* The Overall Champions will be the Male and Female with the best scores from the 9 races needed to qualify.
+* The Overall Champions will be the Male and Female with the best scores from the 8 races needed to qualify.
 * The title of Challenge Champion will be given to the runner who acquires the most points from all qualifying events.
 * Run as many or as few races as you want but you must compete in the correct number of races to win an award.
 
 #### 2024/25 events - PROVISIONAL
 
-All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
+All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
 
 | Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -84,7 +84,7 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [Bamford Sheepdog Trials](https://www.fellrunner.org.uk/races/adcb9c4d-5881-475f-bbd2-5a8e158a8755)                                                                   | Mon 27 May |
-| [Charlesworth & Chiswick Carnival](https://www.fellrunner.org.uk/races/61755c75-844d-4cf1-884f-a2981e210515)                                                               | Sat 13 Jul |
+| [Charlesworth & Chiswick Carnival](https://www.fellrunner.org.uk/races/61755c75-844d-4cf1-884f-a2981e210515)                                                               | Sat 24 Jun |
 | [Crowden Horseshoe](https://events360.co.uk/crowden/) | Sun 18 Aug |
 | [Cop Hill](https://www.fellrunner.org.uk/races/71b5f8ea-16ea-4c34-98bf-45b80c694135)                                                                  | Sun 3 Nov |
 | [Hoppits Hill](http://www.hoppits.co.uk/)                                                                                                                | Sun tbc Feb |
