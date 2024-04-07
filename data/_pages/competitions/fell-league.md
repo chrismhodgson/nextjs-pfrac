@@ -3,16 +3,13 @@ title: Fell League
 header: competitions/fell-league.jpg
 order: 20
 ---
+#### The 2024/25 Fell League
 
-#### The 2023/24 Fell League
-
-A﻿s the club has changed its membership your to run from April to March, the Fell League will also - all races from 1 April 2023 to 31 March 2024 will count.
-
-All first claim members' results in all FRA licenced senior races count towards the league &ndash; you get points for every race, without any limit, and you get more points the faster you run.
+The competition runs from 1 April 2024 to 31 March 2025. All first claim members' results in all FRA licenced senior races count towards the league &ndash; you get points for every race, without any limit, and you get more points the faster you run.
 
 All FRA licenced senior races count, which includes all 9 Trunces, Hartcliff Hill and Thurlstone Chase, as well as all the Club Championship Fell Section races, English Championships, etc.
 
-T﻿he results are updated frequently, but the onus is on the runner to tell me ([Paul Fryers](mailto:paul.fryers@gmail.com)) of their results: I can't check the results of every race to find PFR runners, although where there is a big turnout I don't need everyone to supply their own result. Just tell me the race you ran and your time.
+T﻿he results are updated frequently, but the onus is on the runner to tell me ([Paul Fryers](mailto:paul.fryers@gmail.com)) of their results: I can't check the results of every race to find PFR runners, although where there is a big turnout I don't need everyone to supply their own result. Just tell me the race you ran and your time. Please send results as soon after the races as possible, and no later than six weeks after the race. This is partly to make administration easier, and partly to ensure that the competition is fair and everyone knows what other competitors have done.  Results sent in more than six weeks after the race will not be included in the league.  If the race results have not been published anywhere in six weeks I will include them when they are available, as long as I've been told about the race within six weeks.  At the end of the year there will be a shorter deadline to ensure results are finalised in time for the club presentation evening.
 
 #### Results
 
@@ -30,7 +27,7 @@ All members who are first claim Penistone for fell races will be included. Membe
 
 #### Qualifying Races
 
-All qualifying races are listed in the [FRA fixtures calendar](http://fellrunner.org.uk/races.php) on the FRA website. Qualifying races are those registered with the FRA, which includes most of those listed in the calendar &ndash; on each race page, under _PERMIT / INSURANCE_, if it says _This race has a Permit and associated UK Athletics insurance from the FRA_ it will count in the fell league. (Some other races are listed in the FRA calendar for information but are not FRA registered races). Senior races are those with no upper age limit: results for juniors running in senior races (where permitted) will be included in the league.
+All qualifying races are listed in the [FRA fixtures calendar](http://fellrunner.org.uk/races.php) on the FRA website. Qualifying races are those registered with the FRA, which includes most of those listed in the calendar &ndash; on each race page, under *PERMIT / INSURANCE*, if it says *This race has a Permit and associated UK Athletics insurance from the FRA* it will count in the fell league. (Some other races are listed in the FRA calendar for information but are not FRA registered races). Senior races are those with no upper age limit: results for juniors running in senior races (where permitted) will be included in the league.
 
 #### Scoring
 
