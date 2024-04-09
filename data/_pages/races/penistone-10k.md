@@ -19,7 +19,7 @@ Even though he was unwell in the last few years of his life, he often turned up 
 
 #### Entry
 
-Online entry will be available nearer the time.
+[Online entry](https://racebest.com/races/6secg) is open.  Entry on the day will be available if entry limit not reached.
 
 Minimum age 15 on the day
 
