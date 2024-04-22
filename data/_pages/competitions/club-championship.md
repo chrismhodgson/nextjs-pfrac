@@ -61,30 +61,30 @@ Your age group for the Championship in any year is determined by your age on Apr
 
 All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
 
-| Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Spencers Dash 1](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                                                 | Thu 9 May |
-| [Rother Valley Relays](https://www.facebook.com/groups/431233151372212/)                                | Tue 14 May |
-| [Joe Percy 10K](https://www.holmfirthharriers.com/event/joe-percy-10k/)                                       | Wed 12 Jun |
-| [Spencers Dash 2](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 11 Jul |
-| [Spencers Dash 3](https://www.barnsleyac.co.uk/club-events/spencers-dash/)  | Thu 29 Aug |                                                      
+| Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |             |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Spencers Dash 1](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 9 May   |
+| [Rother Valley Relays](https://www.facebook.com/groups/431233151372212/)                                                            | Tue 14 May  |
+| [Joe Percy 10K](https://www.holmfirthharriers.com/event/joe-percy-10k/)                                                             | Wed 12 Jun  |
+| [Spencers Dash 2](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 11 Jul  |
+| [Spencers Dash 3](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 29 Aug  |
 | [Travellers 6](https://www.denbydaleac.co.uk/travellers-6)                                                                          | Sun tbc Dec |
-| [Wombwell 5](https://www.kingstonerunners.co.uk/Wombwell5.html)                                                                         | Sun 5 Feb |
+| [Wombwell 5](https://www.kingstonerunners.co.uk/Wombwell5.html)                                                                     | Sun 5 Feb   |
 
-| Trail/Cross Country Section                                                                                         |            |
-| ------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Silkstone Shuffle - 1](https://www.barnsleyharriers.org.uk/) | Thu 25 Apr |
-| [Furty Furlong](https://racebest.com/races/txgcg)                                                                   | Sat 11 May |
-| [Oughtibridge Chase](https://www.oughtibridgegala.org/the-tom-holmes-gala-chase)                                    | Wed 19 Jun |
-| [Silkstone Shuffle - 2](https://www.barnsleyharriers.org.uk/) | Thu 27 Jun |
-| [Silkstone Shuffle - 3](https://www.barnsleyharriers.org.uk/) | Thu 8 Aug |
-| [Stan's Toffee Run](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/stan-s-toffee-run)     | Thu 15 Aug |
-| [Higham Hurtle](https://www.barnsleyharriers.org.uk/)     | Thu 5 Sep |
+| Trail/Cross Country Section                                                                                   |            |
+| ------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Silkstone Shuffle - 1](https://www.barnsleyharriers.org.uk/)                                                 | Thu 25 Apr |
+| [Furty Furlong](https://racebest.com/races/txgcg)                                                             | Sat 11 May |
+| [Oughtibridge Chase](https://www.oughtibridgegala.org/the-tom-holmes-gala-chase)                              | Wed 19 Jun |
+| [Silkstone Shuffle - 2](https://www.barnsleyharriers.org.uk/)                                                 | Thu 27 Jun |
+| [Silkstone Shuffle - 3](https://www.barnsleyharriers.org.uk/)                                                 | Thu 8 Aug  |
+| [Stan's Toffee Run](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/stan-s-toffee-run) | Thu 15 Aug |
+| [Higham Hurtle](https://www.barnsleyharriers.org.uk/)                                                         | Thu 5 Sep  |
 
-| Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Bamford Sheepdog Trials](https://www.fellrunner.org.uk/races/adcb9c4d-5881-475f-bbd2-5a8e158a8755)                                                                   | Mon 27 May |
-| [Charlesworth & Chiswick Carnival](https://www.fellrunner.org.uk/races/61755c75-844d-4cf1-884f-a2981e210515)                                                               | Sat 24 Jun |
-| [Crowden Horseshoe](https://events360.co.uk/crowden/) | Sun 18 Aug |
-| [Cop Hill](https://www.fellrunner.org.uk/races/71b5f8ea-16ea-4c34-98bf-45b80c694135)                                                                  | Sun 3 Nov |
+| Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Bamford Sheepdog Trials](https://www.fellrunner.org.uk/races/adcb9c4d-5881-475f-bbd2-5a8e158a8755)                                                      | Mon 27 May  |
+| [Charlesworth & Chiswick Carnival](https://www.fellrunner.org.uk/races/61755c75-844d-4cf1-884f-a2981e210515)                                             | Sat 13 Jul  |
+| [Crowden Horseshoe](https://events360.co.uk/crowden/)                                                                                                    | Sun 18 Aug  |
+| [Cop Hill](https://www.fellrunner.org.uk/races/71b5f8ea-16ea-4c34-98bf-45b80c694135)                                                                     | Sun 3 Nov   |
 | [Hoppits Hill](http://www.hoppits.co.uk/)                                                                                                                | Sun tbc Feb |
