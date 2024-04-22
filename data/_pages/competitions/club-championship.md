@@ -63,11 +63,11 @@ All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) wi
 
 | Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |             |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Spencers Dash 1](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 9 May   |
+| [Spencers Dash 1](https://racebest.com/races/v6t5g)                                                          | Thu 9 May   |
 | [Rother Valley Relays](https://www.facebook.com/groups/431233151372212/)                                                            | Tue 14 May  |
 | [Joe Percy 10K](https://www.holmfirthharriers.com/event/joe-percy-10k/)                                                             | Wed 12 Jun  |
-| [Spencers Dash 2](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 11 Jul  |
-| [Spencers Dash 3](https://www.barnsleyac.co.uk/club-events/spencers-dash/)                                                          | Thu 29 Aug  |
+| [Spencers Dash 2](https://racebest.com/races/v6t5g)                                                          | Thu 11 Jul  |
+| [Spencers Dash 3](https://racebest.com/races/v6t5g)                                                          | Thu 29 Aug  |
 | [Travellers 6](https://www.denbydaleac.co.uk/travellers-6)                                                                          | Sun tbc Dec |
 | [Wombwell 5](https://www.kingstonerunners.co.uk/Wombwell5.html)                                                                     | Sun 5 Feb   |
 
