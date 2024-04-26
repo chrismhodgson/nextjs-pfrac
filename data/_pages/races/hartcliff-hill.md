@@ -22,7 +22,7 @@ The race starts and finishes about ¾ mile from registration at Langsett Barn so
 
 #### Entry
 
-Entry £5.00 on the day for FRA or EA members; £6.00 for non-members..
+Entry £5.00 on the day for FRA or EA members; £6.00 for non-members.
 
 This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 15 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
 
@@ -47,6 +47,7 @@ Resistration from 18:00 at [Langsett Barn](https://www.google.co.uk/maps/place/L
 [2018](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2018-results.pdf)
 [2019](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2019-results.pdf)
 [2023](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2023-results.pdf)
+[2024](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2024-results.pdf)
 
 The race in 2014 was cancelled due to the Foot and Mouth outbreak, those in 2020 and 2021 due to the Covid-19 pandemic, and the 2022 race due to lack of parking facilities.
 
@@ -63,6 +64,12 @@ Female: N White, Bingley Harriers & AC, 2006 &ndash; 17:19
 Male: Max Wainwright, Dark Peak Fell Runners, 2019 &ndash; 15:37
 
 Female: Katie Walshaw, Holmfirth Harriers, 2019 &ndash; 17:47
+
+*2024 course:*
+
+Male: Philip Montgomery, Dark Peak Fell Runners, 2024 &ndash; 29:08
+
+Female: Sylvie Ellis, Denby Dale AC, 2024 &ndash; 41:10
 
 #### Route
 
