@@ -1,5 +1,5 @@
 ---
-title: New Walk To Run Group in Penistone
+title: Penistone Walk To Run Group
 draft: false
 date: 2024-04-28T23:00:00.000Z
 tags:
