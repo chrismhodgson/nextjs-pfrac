@@ -7,7 +7,7 @@ tags:
 summary: The final South Yorkshire Road League race will take place at
   Ingbirchworth, at 19:15 on Wednesday 22 May.  Details for runners are here.
 ---
-The race will start at **19:15 on Wednesday 22nd May** on [Horn Lane](https://goo.gl/maps/fDt7bfFjFdgyYLgp8) close to Ingbirchworth Reservoir. Race HQ and the venue for the presentation after the race will be the [Fountain](https://goo.gl/maps/9BtNRd54mhUPPdEk9) pub on Wellthorne Lane, Ingbirchworth.  The race route is [here](https://pfrac.co.uk/static/images/maps/syrl-2023-race-4.jpg).
+The race will start at **19:15 on Wednesday 22nd May** on [Horn Lane](https://goo.gl/maps/fDt7bfFjFdgyYLgp8) close to Ingbirchworth Reservoir. Race HQ and the venue for the presentation after the race will be the [Fountain](https://goo.gl/maps/9BtNRd54mhUPPdEk9) pub on Wellthorne Lane, Ingbirchworth.  The race route is [here](https://pfrac.co.uk/static/images/maps/syrl-2024-race-4.jpg).
 
 **Parking** is available at [Yummy Yorkshire](https://goo.gl/maps/NRGgANxG5q2zZ8gb8), a farm complex with cafe/restaurant located about 400 yards past the turn off to the Fountain on the A629 between Penistone and Huddersfield on the left hand side. Any overflow parking will be on the left hand side of Falledge Lane, which is the road to Upper Denby from Ingbirchworth off the main A629.  It is 10 minutes walk from the car park to the race HQ, and a further 20 minutes walk from race HQ to the start of the race.
 
