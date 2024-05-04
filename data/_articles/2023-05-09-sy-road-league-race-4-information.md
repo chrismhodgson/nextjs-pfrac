@@ -13,7 +13,7 @@ The race will start at **19:15 on Wednesday 22nd May** on [Horn Lane](https://
 
 The car park at Yummy Yorkshire will be closed and locked at 21:30. No facilities will be available at Yummy Yorkshire apart from parking.
 
-**Toilets**: please do not use the roads or paths around the residential parts of Ingbirchworth. A portable toilet will be located near the finish, which most runners will pass through on the way to the start. There will also be 2 portable toilets located in the holding area before the start (see below). We can also use the toilets at the Fountain but please be mindful of diners using the pub and show them respect.
+**Toilets and Baggage**: please do not use the roads or paths around the residential parts of Ingbirchworth. A portable toilet will be located near the finish, which most runners will pass through on the way to the start. There will also be 2 portable toilets located in the holding area before the start (see below). We can also use the toilets at the Fountain but please be mindful of diners using the pub and show them respect.  There will also be a baggage area at the Fountain.
 
 **Race Start** will be on Horn Lane which is on the opposite side of Ingbirchworth Reservoir and about a mile from the Fountain, so please allow plenty of time to get to the start. There will be a holding area for the runners prior to the start, on a track at the [junction of Annat Royd Lane and Horn Lane](https://goo.gl/maps/mCXcB61GqSGEd3m67). It can be reached by going across the dam wall from the Fountain and following the road to the right (0.8 miles). From there the runners will be led the 400 yards on the road to the start.
 
