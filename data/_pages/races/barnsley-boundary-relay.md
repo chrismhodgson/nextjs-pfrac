@@ -11,7 +11,6 @@ title: Barnsley Boundary Relay
 registration: ""
 category: Multi-terrain relay
 ---
-
 The Barnsley Boundary Relay Race is a multi-terrain race following the boundary of Barnsley MBC, using the route of the [Barnsley Boundary Long Distance Path](http://www.ldwa.org.uk/ldp/members/show_path.php?path_name=Barnsley+Boundary+Walk). It is a race for teams of 10, each running legs on roads, tracks and footpaths of between 4 and 11½ miles: 72 miles in total.
 
 It is organised by Penistone Footpath Runners in conjunction with [Barnsley Rockley Rotary Club](http://barnsleyrockleyrotary.org.uk/) and with the support of other local running clubs.
@@ -20,7 +19,7 @@ Entries are welcome from any running clubs, organisations or businesses. Some le
 
 GPX files and maps are available for all 10 legs below. If you had previously downloaded files from here you are advised to replace them with the current ones: all 10 were checked on the ground in April 2021.
 
-The race is run under a England Athletics licence and minimum ages apply based on the distance of each leg: the minimum age for legs 1, 5, 8 and 10 is 16 and for all other legs is 17.
+The race is run under licence (no 6490) from the Trail Running Association and [minimum ages](https://www.tra-uk.org/organisers/age-restrictions) apply based on the distance of each leg: the minimum age for legs 1, 5, 8 and 10 is 16 and for all other legs is 17.
 
 #### The Route
 
@@ -65,6 +64,5 @@ If anyone finds any errors in the GPX files, please contact [Paul Fryers](mailto
 [2021](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2021-results.pdf)
 [2022](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2022-results.pdf)
 [2023](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2023-results.pdf)
-
 
 The race in 2020 was cancelled.
