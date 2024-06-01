@@ -9,11 +9,16 @@ M﻿aps are drawn up by Steve (under licence from Ordnance Survey) and posted be
 
 **2024 Series**
 
+[Latest results](https://pfrac.co.uk/static/results/orienteering/latest-results.ods)
+
 The series runs from 1 April to 30 November.  There will be 8 different courses, each with its own time limit between 30 and 90 minutes, made available progressively through the year, with scores only counting towards the league during set two-month periods.  Steve will email the courses to the club mailing list shortly before the start of each period; if you run the courses outside the specified time window the results won't count towards the league.  Previous courses are still available (contact [Steve](mailto:stevemsanders71@gmail.com) for the maps) if you want to do them.  
 
 **2024 Courses** 
 
-* Coming shortly
+* [Ingbirchworth 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Ingbirchworth%2520PZ%2520PXAS%2520ScoreN60.csv)
+* [Tankersley 40 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Tankersley%2520PZ%2520PXAS%2520ScoreN40.csv)
+* Bolsterstone 60 min
+* Fiddlers Green 90 min
 
 They are score events: collect as many points as you can before returning to the start within the allotted time limit. There is a penalty of –10 points for every minute (or part of a minute) late back so someone scoring 100 points would lose them all if they were 10 minutes over time.
 
@@ -25,7 +30,7 @@ Your best 6 scores will be summed to determine your final score for the series. 
 
 **Results**
 
-[2023 Final Standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)
+[2023 Final Standings](https://pfrac.co.uk/static/results/orienteering/2023-results.xlsx)
 
 [40th Anniversary Event](https://pfrac.co.uk/static/results/orienteering/40th_anniversary_orienteering_results.png)
 
