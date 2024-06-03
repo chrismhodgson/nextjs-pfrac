@@ -8,7 +8,7 @@ summary: Round-up of Penistone runners' results
 ---
 Penistone runner Graihagh Turner this week received confirmation that she had been selected for England to compete in the Mountain Running International Youth cup in Palencia in Spain.  The race is over 5km with 220 metres of climbing.  The racing is to take place later this month over the course of 21st and 22nd June.
 
-Nine Penistone runners took part in the [Bamford Sheepdog Trials](https://results.pfrac.co.uk/fell-league-2024/bamford-sheepdog-trials) fell race, which involves an ascent and descent of Win Hill.   First back for the club was Hannah Shaw in a time of 46-59.  Next in was Matthew Coldwell in 56-35.  Barbara Haigh claimed second place in the ladies over70 age category and Bill Phillips achieved the same position in the men’s over70 age category.
+11 Penistone runners took part in the [Bamford Sheepdog Trials](https://results.pfrac.co.uk/fell-league-2024/bamford-sheepdog-trials) fell race, which involves an ascent and descent of Win Hill.   First back for the club was Hannah Shaw in a time of 46-59.  Next in was Matthew Coldwell in 56-35.  Barbara Haigh claimed second place in the ladies over70 age category and Bill Phillips achieved the same position in the men’s over70 age category.
 
 Three runners made the trip east to compete in the Grimsby 10k.  First back was Peter Beever in 46-34.  Next in was Keith Gordon in 52-05.  Keith also claimed second place in the men’s over75 age category in a time of 52-05.
 
