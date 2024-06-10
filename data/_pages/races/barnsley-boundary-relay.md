@@ -29,6 +29,10 @@ An ordnance survey map, aerial photography and GPX files for the whole route are
 
 The links below give maps and GPX files for each leg. The GPX files can be downloaded and imported into GPS software, or uploaded to a phone or watch.
 
+**Note for 2024: There is a diversion on leg 4 where an underpass is currently blocked.  The council have put in a diversion using Barrowfield Road.  Runners will be told by marshals at the start of the leg to follow the official diversion.** 
+
+
+
 | Leg                                   | Start time (approx)                                                         | Distance/climb                                                            |
 | ------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 1: Cannon Hall to Bretton Park        | 08:00                                                                       | 5.1M/528'                                                                 |
