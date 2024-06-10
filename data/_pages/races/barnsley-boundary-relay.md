@@ -19,7 +19,7 @@ Entries are welcome from any running clubs, organisations or businesses. Some le
 
 GPX files and maps are available for all 10 legs below. If you had previously downloaded files from here you are advised to replace them with the current ones: all 10 were checked on the ground in April 2021.
 
-The race is run under licence (no 6490) from the Trail Running Association and [minimum ages](https://www.tra-uk.org/organisers/age-restrictions) apply based on the distance of each leg: the minimum age for legs 1, 5, 8 and 10 is 16 and for all other legs is 17.
+The race is run under licence from the Trail Running Association and [minimum ages](https://www.tra-uk.org/organisers/age-restrictions) apply based on the distance of each leg: the minimum age for legs 1, 5, 8 and 10 is 16 and for all other legs is 17.
 
 #### The Route
 
