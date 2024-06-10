@@ -29,9 +29,7 @@ An ordnance survey map, aerial photography and GPX files for the whole route are
 
 The links below give maps and GPX files for each leg. The GPX files can be downloaded and imported into GPS software, or uploaded to a phone or watch.
 
-**Note for 2024: There is a diversion on leg 4 where an underpass is currently blocked.  The council have put in a diversion using Barrowfield Road.  Runners will be told by marshals at the start of the leg to follow the official diversion.** 
-
-
+**Note for 2024: There is a diversion on leg 4 where an underpass is currently blocked.  The council have put in a diversion using Barrowfield Road.  Runners will be told by marshals at the start of the leg to follow the official diversion. [This map](https://pfrac.co.uk/static/images/maps/leg-4-diversion-2024) shows the usual route in green and the diversion in red.**
 
 | Leg                                   | Start time (approx)                                                         | Distance/climb                                                            |
 | ------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
