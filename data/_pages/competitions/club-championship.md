@@ -57,7 +57,7 @@ Your age group for the Championship in any year is determined by your age on Apr
 * The title of Challenge Champion will be given to the runner who acquires the most points from all qualifying events.
 * Run as many or as few races as you want but you must compete in the correct number of races to win an award.
 
-#### 2024/25 events - PROVISIONAL
+#### 2024/25 events
 
 All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
 
