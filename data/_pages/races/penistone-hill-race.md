@@ -13,7 +13,7 @@ registration: "\n"
 category: Trail
 ---
 
-The Penistone Hill Race is a multi-terrain race, run in support of Sporting Penistone, the charity that runs [Penistone Leisure Centre](http://www.penistoneleisurecentre.org.uk). It is a tough race on tarmac, trails and paths, with hills and stunning views of the Penistone area.  It has not been decided yet whether the club will organise this race for 2023/24.
+The Penistone Hill Race is a multi-terrain race, run in support of Sporting Penistone, the charity that runs [Penistone Leisure Centre](http://www.penistoneleisurecentre.org.uk). It is a tough race on tarmac, trails and paths, with hills and stunning views of the Penistone area.  It has not been decided yet whether the club will organise this race in 2024.
 
 #### Entry
 
@@ -38,7 +38,7 @@ Registration from 9:00am at [Penistone Leisure Centre](https://www.google.co.uk/
 [2019](https://pfrac.co.uk/static/results/penistone-hill/penistone-hill-2019-results.pdf)
 [2021](https://www.runbritainrankings.com/results/results.aspx?meetingid=436543)
 
-The 2020 race was cancelled due to the Covid-19 pandemic. No race was organised in 2022.
+The 2020 race was cancelled due to the Covid-19 pandemic. No race has been organised since 2021.
 
 #### Course Records
 
