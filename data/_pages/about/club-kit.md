@@ -25,12 +25,6 @@ All sizes, junior and senior – _These can be used for racing and work really w
 [![T-shirt front](https://pfrac.co.uk/static/images/kit/pfrac-t-shirt-front-thumb.jpg)](https://pfrac.co.uk/static/images/kit/pfrac-t-shirt-front.jpg)
 [![T-shirt back](https://pfrac.co.uk/static/images/kit/pfrac-t-shirt-back-thumb.jpg)](https://pfrac.co.uk/static/images/kit/pfrac-t-shirt-back.jpg)
 
-### Winter training tops – £30.00
-
-All sizes, junior and senior – _Ideal top for training during the winter months or warming up when racing._
-[![Training top front](https://pfrac.co.uk/static/images/kit/pfrac-training-top-front-thumb.jpg)](https://pfrac.co.uk/static/images/kit/pfrac-training-top-front.jpg)
-[![Training top back](https://pfrac.co.uk/static/images/kit/pfrac-training-top-back-thumb.jpg)](https://pfrac.co.uk/static/images/kit/pfrac-training-top-back.jpg)
-
 ### Hoodies – £26.00
 
 All sizes, junior and senior – _Warm top for winter, pre- and post-race._
