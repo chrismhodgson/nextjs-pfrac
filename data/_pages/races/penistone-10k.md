@@ -1,5 +1,5 @@
 ---
-start_date_time: Sunday 23 June 2024 at 09:30
+start_date_time: Sunday TBC June 2025 at 09:30
 organiser: Keith Gordon (keithhgordon@me.com)
 strava_url: https://www.strava.com/segments/18044628/embed
 header: races/penistone-10k.jpg
@@ -19,7 +19,7 @@ Even though he was unwell in the last few years of his life, he often turned up 
 
 #### Entry
 
-[Online entry](https://racebest.com/races/6secg) is open.  Entry on the day will be available if entry limit not reached.
+Online entry will be available early in 2025.  Entry on the day will be available if entry limit not reached.  In 2024 the race was full and no entries were available on the day.
 
 Minimum age 15 on the day
 
@@ -74,6 +74,7 @@ Registration from 8:30am at [Penistone Church Football Club](https://www.google.
 [2019](https://www.runbritainrankings.com/results/results.aspx?meetingid=301732)
 [2022](https://www.runbritainrankings.com/results/results.aspx?meetingid=472332)
 [2023](https://www.runbritainrankings.com/results/results.aspx?meetingid=544717)
+[2024](https://racebest.com/results/6secg)
 
 The races in 2020 and 2021 were cancelled.
 
