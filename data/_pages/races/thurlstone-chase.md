@@ -1,5 +1,5 @@
 ---
-start_date_time: 6 July 2024 at 14:00
+start_date_time: TBC - expected to be a Saturday, early July 2025 at 14:00
 organiser: Keith Gordon (thurchase2021@gmail.com)
 strava_url: ""
 header: races/thurlstone-chase.jpg
@@ -18,9 +18,9 @@ Prizes for the first 3 men and women, then 1st in each age category V40, V50, V6
 
 #### Entry
 
-Entry on the day is available.
+Entry on the day will be available.
 
-This race has a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 16 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
+This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 16 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
 
 #### Registration
 
@@ -47,6 +47,7 @@ Registration, and the race start and finish, are at [Thurlstone Football Club](h
 [2021](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2021-results.pdf)
 [2022](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2022-results.pdf)
 [2023](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2023-results.pdf)
+[2024](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2024-results.pdf)
 
 The races in 2008 and 2020 were cancelled.
 
