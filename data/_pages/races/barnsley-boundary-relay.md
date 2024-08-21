@@ -1,5 +1,5 @@
 ---
-start_date_time: 15 June 2024 a﻿t 08:00 – see below for individual leg start times
+start_date_time: Date for 2025 tbc a﻿t 08:00 – see below for individual leg start times
 organiser: Steve Dickinson (steve@osi.uk.com) – 07850 445613.  Contact Steve if
   interested in entering a team.
 header: races/barnsley-boundary-relay.jpg
@@ -17,7 +17,7 @@ It is organised by Penistone Footpath Runners in conjunction with [Barnsley Rock
 
 Entries are welcome from any running clubs, organisations or businesses. Some legs require some navigation or previous knowledge – there are plenty of opportunities to be shown the way before the day. It is an sociable event.
 
-GPX files and maps are available for all 10 legs below. If you had previously downloaded files from here you are advised to replace them with the current ones: all 10 were checked on the ground in April 2021.
+GPX files and maps are available for all 10 legs below.
 
 The race is run under licence from the Trail Running Association and [minimum ages](https://www.tra-uk.org/organisers/age-restrictions) apply based on the distance of each leg: the minimum age for legs 1, 5, 8 and 10 is 16 and for all other legs is 17.
 
@@ -67,6 +67,5 @@ If anyone finds any errors in the GPX files, please contact [Paul Fryers](mailto
 [2022](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2022-results.pdf)
 [2023](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2023-results.pdf)
 [2024](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2024-results.pdf)
-
 
 The race in 2020 was cancelled.
