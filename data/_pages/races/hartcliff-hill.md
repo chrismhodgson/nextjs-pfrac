@@ -1,5 +1,5 @@
 ---
-start_date_time: 24 April 2024 at 19:00
+start_date_time: Date for 2025 tbc at 19:00
 organiser: |
   Ian Charlesworth (hartcliffhill.fellrace@gmail.com)
 strava_url: https://www.strava.com/segments/36750791/embed
