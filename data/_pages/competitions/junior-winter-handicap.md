@@ -1,12 +1,11 @@
 ---
-title: Junior Winter Handicap
+title: Junior Winter Handicap (archive)
 header: competitions/junior-winter-handicap.jpg
 order: 30
 ---
-
 The junior winter handicap league allowed all juniors to compete regularly from September and December. The course used was a marshalled 1100m lap on pavements and public footpaths. Under 11s did a single lap, under 13s two laps, under 15s and under 17s three laps. Start times were determined by previous personal best (PB) times, with points for finishing position and PBs. Points were awarded over the series of races and all competitors received an award at the club's annual presentation evening.
 
-There are no plans to run the junior winter handicap in 2023.
+The reorganisation of the junior section and reduction in both coaches and runners mean there are no current plans to run the junior handicap competition.
 
 #### Results
 
