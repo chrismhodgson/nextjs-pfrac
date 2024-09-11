@@ -11,14 +11,14 @@ From 2022 the competition has been named after Philip Senior, who sadly died in 
 
 #### Dates for 2024
 
-| Race | Date         | Winner           | Runners |
-| ---- | ------------ | ---------------- | ------- |
-| 1    | 26 September |              |         |
-| 2    | 10 October    |    |       |
-| 3    | 24 October   |     |      |
-| 4    | 7 November  |    |     |
-| 5    | 21 November   | |      |
-| 6    | 19 December  |      |      |
+| Race | Date         | Winner | Runners |
+| ---- | ------------ | ------ | ------- |
+| 1    | 26 September |        |         |
+| 2    | 10 October   |        |         |
+| 3    | 24 October   |        |         |
+| 4    | 7 November   |        |         |
+| 5    | 21 November  |        |         |
+| 6    | 19 December  |        |         |
 
 [The route](https://pfrac.co.uk/static/images/maps/senior-wh.jpg) is approximately 4½ miles long with about 600 feet of ascent. It starts from Penistone Leisure Centre and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
 
@@ -33,7 +33,7 @@ Results for previous years:
 [2017–18](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2017-18-results.pdf)
 [2018–19 onwards](http://results.pfrac.co.uk)
 
-Past Winter Handicap winners (t﻿o be added to database)
+[Past Winter Handicap winners](https://results.pfrac.co.uk/awards/)
 
 #### Details
 
