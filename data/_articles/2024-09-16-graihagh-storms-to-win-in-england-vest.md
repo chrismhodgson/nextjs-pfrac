@@ -10,7 +10,7 @@ Penistone runner Graihagh Turner put in an amazing performance to win the girls 
 
 Monday saw the [final race](https://results.pfrac.co.uk/fell-league-2024/trunce-9) of the Trunce series which takes place over the summer.  There were series wins for Alan Knox (over70 men), Sarah Walch (over40 ladies) and Barbara Haigh (over70 ladies).  Podium finishes were achieved by George Parr (second overall man), Helen Wright (third over40 lady) and Lois Lopez (third over50 lady).  Special mention to Andy Plummer who steps down as organiser of the Trunce race after many years in the role.
 
-Six Penistone runners competed in the [Stanage Struggle](https://results.pfrac.co.uk/fell-league-2024/stanage-struggle) fell race.  Richard Cottam was first back in sixth place overall and also picked up first place in the men's over40 age category.  Sarah Walch was first lady back for Penistone in 98th place overall.
+Six Penistone runners competed in the [Stanage Struggle](https://results.pfrac.co.uk/fell-league-2024/fat-boys-stanage-struggle) fell race.  Richard Cottam was first back in sixth place overall and also picked up first place in the men's over40 age category.  Sarah Walch was first lady back for Penistone in 98th place overall.
 
 Peter Beever and Kelvin Bowskill competed in the Treeton Bolt Race.  Kelvin had a good run to claim first place in the men's over70 age category in a time of 37-02.  Nick Whittingham and Gareth Irvine completed the Worrall Festival Chase.  Nick captured first place in the men's over70 age category.
 
