@@ -87,4 +87,4 @@ All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) wi
 | [Charlesworth & Chiswick Carnival](https://www.fellrunner.org.uk/races/61755c75-844d-4cf1-884f-a2981e210515)                                             | Sat 13 Jul  |
 | [Crowden Horseshoe](https://events360.co.uk/crowden/)                                                                                                    | Sun 18 Aug  |
 | [Padfield](https://events360.co.uk/padfieldplum/)                                                                     | Sat 16 Nov   |
-| [Hoppits Hill](https://www.fellrunner.org.uk/races/f43df1aa-a670-4348-9a1d-56313a39be20)                                                                                                                | Sun 16 Feb |
+| [Hoppits Hill](https://www.hoppits.co.uk/)                                                                                                                | Sun 16 Feb |
