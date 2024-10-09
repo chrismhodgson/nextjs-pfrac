@@ -1,5 +1,5 @@
 ---
-start_date_time: Sunday TBC June 2025 at 09:30
+start_date_time: Sunday 22 June 2025 at 09:30
 organiser: Keith Gordon (keithhgordon@me.com)
 strava_url: https://www.strava.com/segments/18044628/embed
 header: races/penistone-10k.jpg
