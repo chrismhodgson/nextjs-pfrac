@@ -17,12 +17,13 @@ See individual [race pages](https://pfrac.co.uk/races) for contact details about
 
 |                                       |                                                             |
 | ------------------------------------- | ----------------------------------------------------------- |
-| President                             | [Keith Gordon](mailto:keithhgordon@me.com)                |
-| Chair                                 | [Steve Dickinson](mailto:steve@osi.uk.com)                  |
-| Treasurer                             | [Dean Allcroft](mailto:deanallcroft@gmail.com)                |
+| President                             | [Keith Gordon](mailto:keithhgordon@me.com)                  |
+| Chair                                 | [Jill Carlton](mailto:jillycarlton1@gmail.com)                     |
+| Treasurer                             | [Dean Allcroft](mailto:deanallcroft@gmail.com)              |
 | Secretary                             | [Martyn Cartwright](mailto:martynandpauline@gmail.com)      |
 | Membership Secretary                  | [Peter Cross](mailto:peter.cross@bhp.co.uk)                 |
 | Junior Section Secretary              | [Bob Innes](mailto:janeandbob239@btinternet.com)            |
+| Lead Welfare Officer              | [Kirsty Rogers](kirstyandflynn@gmail.com)  & [Andy Taylor](mailto:at.topcop7572@hotmail.com)                       |
 | Child Protection Officer              | [Dan Limb](mailto:udan2k@hotmail.com)                       |
 | Road Secretary                        | [Richard Mackie](mailto:macklandr@aol.com)                  |
 | Cross Country Secretary               | [Nick Whittingham](mailto:nick.whittingham@btinternet.com)  |
@@ -31,7 +32,7 @@ See individual [race pages](https://pfrac.co.uk/races) for contact details about
 | **Other elected officers & contacts** |                                                             |
 | Club Kit                              | [Jemma Williams](mailto:jemstone1981@hotmail.com)           |
 | Club Championship                     | [Paul Fryers](mailto:paul.fryers@gmail.com)                 |
-| Fell Relay Coordinator                | [Brent Lindsay](mailto:brent.lindsay@btinternet.com)               |
-| Funetics Liaison                      | [Suzanne McGill](mailto:funetics_penistone@hotmail.com)            |
+| Fell Relay Coordinator                | [Steve Sanders](mailto:stevemsanders71@gmail.com)        |
+| Funetics Liaison                      | [Suzanne McGill](mailto:funetics_penistone@hotmail.com)     |
 | Website                               | Chris Hodgson & [Paul Fryers](mailto:paul.fryers@gmail.com) |
 | Raffle Tickets                        | Anne Smythe                                                 |
