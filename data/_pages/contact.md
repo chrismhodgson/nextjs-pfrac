@@ -28,11 +28,16 @@ See individual [race pages](https://pfrac.co.uk/races) for contact details about
 | Road Secretary                        | [Richard Mackie](mailto:macklandr@aol.com)                  |
 | Cross Country Secretary               | [Nick Whittingham](mailto:nick.whittingham@btinternet.com)  |
 | Fell Running Secretary                | [Ian Charlesworth](mailto:ircy63@gmail.com)                 |
-| Press Officer                         | [Robin Clough](mailto:robin.clough@dataconsulting.co.uk)    |
-| **Other elected officers & contacts** |                                                             |
+
+**Other elected officers & contacts**     
+                                                      
+|                                       |  |                                                            
+| ------------------------------------- | ----------------------------------------------------------- |
 | Club Kit                              | [Jemma Williams](mailto:jemstone1981@hotmail.com)           |
 | Club Championship                     | [Paul Fryers](mailto:paul.fryers@gmail.com)                 |
 | Fell Relay Coordinator                | [Steve Sanders](mailto:stevemsanders71@gmail.com)        |
 | Funetics Liaison                      | [Suzanne McGill](mailto:funetics_penistone@hotmail.com)     |
+| Press Officer                         | [Robin Clough](mailto:robin.clough@dataconsulting.co.uk)    |
+| Social Secretary                   | [Steve Dickinson](mailto:steve@osi.uk.com)                 |
 | Website                               | Chris Hodgson & [Paul Fryers](mailto:paul.fryers@gmail.com) |
 | Raffle Tickets                        | Anne Smythe                                                 |
