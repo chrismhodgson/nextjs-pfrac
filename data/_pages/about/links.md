@@ -12,15 +12,15 @@ order: 100
 
 [British Athletics Power of 10 site](http://www.thepowerof10.info/athletes/athleteslookup.aspx?club=Penistone)
 
-[Fellrunners Association](http://fellrunner.org.uk/)
+[British Athletics runbritain site](http://www.runbritainrankings.com/runners/runnerslookup.aspx?Club=Penistone)
+
+[Fellrunners Association](http://fellrunner.org.uk/results)
 
 [British Open Fell Runners Association](http://bofra.co.uk/)
 
 [John Schofield's UK Results site](http://www.ukresults.net/index.html)
 
-[Latest parkrun results for PFRAC runners](http://results.pfrac.co.uk/parkrun-2022/latest)
-
-[British Athletics runbritain site](http://www.runbritainrankings.com/runners/runnerslookup.aspx?Club=Penistone)
+[Latest parkrun results for PFRAC runners](http://results.pfrac.co.uk/parkrun-2024/latest)
 
 #### Other Local Clubs
 
@@ -36,7 +36,7 @@ These clubs organise races that PFRAC often compete in.
 
 [Denby Dale AC](https://www.denbydaleac.co.uk/)
 
-[Hillsborough & Rivelin Running Club](https://hillsboroughandrivelinrunningclub.co.uk/)
+[Hillsborough & Rivelin Running Club](https://www.hillsboroughandrivelinrunningclub.co/)
 
 [Holmfirth Harriers AC](https://www.holmfirthharriers.com/)
 
@@ -48,8 +48,8 @@ These clubs organise races that PFRAC often compete in.
 
 [Steel City Striders](https://www.steelcitystriders.co.uk/)
 
-#### Other links
+#### Club policies
 
-[Steve Frith Photography](https://www.flickr.com/photos/193220902@N03/albums/)
+[Links to follow](https://hmpg.net/)
 
 <iframe src="https://www.strava.com/clubs/penistone/latest-rides/5d90c0226d91362addf6d4a84bd6c29619d91302?show_rides=false" width="400" height="160" frameborder="0" scrolling="no"></iframe>
