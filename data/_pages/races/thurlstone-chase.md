@@ -1,5 +1,5 @@
 ---
-start_date_time: TBC - expected to be a Saturday, early July 2025 at 14:00
+start_date_time: Thursday 3 July, time tbc
 organiser: Keith Gordon (thurchase2021@gmail.com)
 strava_url: ""
 header: races/thurlstone-chase.jpg
