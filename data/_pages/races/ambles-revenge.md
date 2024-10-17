@@ -1,5 +1,5 @@
 ---
-start_date_time: Date for 2024 tbc
+start_date_time: Sunday 29 December at 10:30
 organiser: Steve Dickinson (steve@osi.uk.com) – 07850 445613
 strava_url: https://www.strava.com/segments/33486757/embed
 header: races/ambles-revenge.jpg
@@ -20,11 +20,11 @@ The race has chip timing, and there is a gift for all entrants.
 
 #### Entry
 
-Online entry will be available.
+[Online entry](https://racebest.com/races/yy897) is available.
 
-Pre-entry fees: £12 for EA registered runners and £14 for non-EA registered. Entries on the day if the race limit of 350 is not reached for an additional £2.
+Pre-entry fees: £12 for EA registered runners and £14 for non-EA registered. Entries on the day if the race limit of 350 is not reached for an additional £2.  Please note this race has sold out well before the date in recent years.
 
-The race is run under UK Athletics rules of competition ([Trail Running Association](https://www.tra-uk.org/organisers) permit). Minimum age to enter is 17 on the day of the race.
+The race is run under UK Athletics rules of competition ([Trail Running Association](https://www.tra-uk.org/organisers) permit no 6820). Minimum age to enter is 17 on the day of the race.
 
 #### Registration
 
@@ -52,14 +52,14 @@ Registration and number collection from 09:00 at Rafters Bar, adjoined to the Wa
 
 *Amble's Revenge*
 
-[2015/16](https://pfrac.co.uk/static/results/revenge/revenge-2015-16-results.pdf)
-[2016/17](https://pfrac.co.uk/static/results/revenge/revenge-2016-17-results.pdf)
-[2017/18](https://pfrac.co.uk/static/results/revenge/revenge-2017-18-results.pdf)
-[2018/19](https://pfrac.co.uk/static/results/revenge/revenge-2018-19-results.pdf)
-[2019/20](https://www.runbritainrankings.com/results/results.aspx?meetingid=338437)
-[2021/22](https://www.runbritainrankings.com/results/results.aspx?meetingid=440754)
-[2022/23](https://www.runbritainrankings.com/results/results.aspx?meetingid=507259)
-[2023/24](https://racebest.com/results/xcr4y)
+[2015](https://pfrac.co.uk/static/results/revenge/revenge-2015-16-results.pdf)
+[2016](https://pfrac.co.uk/static/results/revenge/revenge-2016-17-results.pdf)
+[2017](https://pfrac.co.uk/static/results/revenge/revenge-2017-18-results.pdf)
+[2018](https://pfrac.co.uk/static/results/revenge/revenge-2018-19-results.pdf)
+[2019](https://racebest.com/results/xvc86)
+[2021](https://racebest.com/results/sv62v)
+[2022](https://racebest.com/results/46u75)
+[2023](https://racebest.com/results/xcr4y)
 
 #### Course Records
 
