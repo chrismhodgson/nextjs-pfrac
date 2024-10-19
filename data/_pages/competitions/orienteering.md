@@ -17,8 +17,10 @@ The series runs from 1 April to 30 November.  There will be 8 different courses,
 
 * [Ingbirchworth 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Ingbirchworth%2520PZ%2520PXAS%2520ScoreN60.csv)
 * [Tankersley 40 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Tankersley%2520PZ%2520PXAS%2520ScoreN40.csv)
-* Bolsterstone 60 min
-* Fiddlers Green 90 min
+* [Bolsterstone 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Bolsterstone%2520PZ%2520PXAS%2520ScoreN60.csv)
+* [Fiddlers Green 90 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Fiddlers%2520Green%2520PZ%2520PXAS%2520ScoreN90.csv)
+* [Higham 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Higham%2520PZ%2520PXAS%2520ScoreN60.csv)
+* [Strines 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Strines%2520PZ%2520PXAS%2520ScoreN60.csv)
 
 They are score events: collect as many points as you can before returning to the start within the allotted time limit. There is a penalty of –10 points for every minute (or part of a minute) late back so someone scoring 100 points would lose them all if they were 10 minutes over time.
 
