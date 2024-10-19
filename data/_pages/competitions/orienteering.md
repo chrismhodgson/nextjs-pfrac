@@ -21,6 +21,8 @@ The series runs from 1 April to 30 November.  There will be 8 different courses,
 * [Fiddlers Green 90 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Fiddlers%2520Green%2520PZ%2520PXAS%2520ScoreN90.csv)
 * [Higham 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Higham%2520PZ%2520PXAS%2520ScoreN60.csv)
 * [Strines 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Strines%2520PZ%2520PXAS%2520ScoreN60.csv)
+* [Cawthorne 40 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Cawthorne%2520PZ%2520PXAS%2520ScoreN40.csv)
+* [Penistone 40 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Penistone%2520PZ%2520PXAS%2520ScoreN40.csv)
 
 They are score events: collect as many points as you can before returning to the start within the allotted time limit. There is a penalty of –10 points for every minute (or part of a minute) late back so someone scoring 100 points would lose them all if they were 10 minutes over time.
 
