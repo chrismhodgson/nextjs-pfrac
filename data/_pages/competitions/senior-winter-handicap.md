@@ -13,9 +13,9 @@ From 2022 the competition has been named after Philip Senior, who sadly died in 
 
 | Race | Date         | Winner | Runners |
 | ---- | ------------ | ------ | ------- |
-| 1    | 26 September |        |         |
-| 2    | 10 October   |        |         |
-| 3    | 24 October   |        |         |
+| 1    | 26 September | Myfanwy Cross | 42 |
+| 2    | 10 October   | Ian Neville | 40 |
+| 3    | 24 October   | Kim Rogers | 38  |
 | 4    | 7 November   |        |         |
 | 5    | 21 November  |        |         |
 | 6    | 19 December  |        |         |
