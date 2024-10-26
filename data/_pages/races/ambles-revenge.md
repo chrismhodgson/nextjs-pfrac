@@ -89,6 +89,6 @@ Female: Emily Cowper Coles, Denby Dale AC, 2023 &ndash; 57:34
 
 #### Route
 
-[Amble's Revenge route map](https://pfrac.co.uk/static/images/maps/ambles-revenge-2021.png).
+[Amble's Revenge route map](https://pfrac.co.uk/static/images/maps/ambles-revenge-2021.png)
 
-[GPX file for the route](https://pfrac.co.uk/static/gpx-files/revenge-2021.gpx).
+[GPX file for the route](https://pfrac.co.uk/static/gpx-files/revenge-2021.gpx)
