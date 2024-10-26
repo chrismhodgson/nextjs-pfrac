@@ -49,4 +49,4 @@ Under 17 girls: Hope Claydon, 13 December 2016 – 14:04
 
 #### Route
 
-To be added
+[Junior Winter Handicap route map](https://pfrac.co.uk/static/images/maps/junior-winter-handicap.png)
