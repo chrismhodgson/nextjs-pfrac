@@ -48,4 +48,4 @@ Female: Caitlin Rice, Ribble Valley Harriers, 2017 &ndash; 48:57
 
 #### Route
 
-To be added
+[Penistone Hill Race route map](https://pfrac.co.uk/static/images/maps/penistone-hill-race.png)
