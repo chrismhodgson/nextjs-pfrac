@@ -69,4 +69,4 @@ Female: 27:28 &ndash; Ruth Jones, Salford Harriers, 2021
 
 #### Route
 
-[Current Thurlstone Chase route map](https://pfrac.co.uk/static/images/maps/thurlstone-chase-2021.png).
+[Thurlstone Chase route map](https://pfrac.co.uk/static/images/maps/thurlstone-chase.png).
