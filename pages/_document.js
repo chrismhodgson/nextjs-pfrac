@@ -5,8 +5,8 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <link rel="icon" href="/static/images/logo.svg" />
-          <meta name="msapplication-TileColor" content="#000000" />
-          <meta name="theme-color" content="#000000" />
+          <meta name="msapplication-TileColor" content="#181818" />
+          <meta name="theme-color" content="#181818" />
           <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
           <link
