@@ -24,7 +24,7 @@ From 2022 the competition has been named after Philip Senior, who sadly died in 
 
 #### Results
 
-[](https://results.pfrac.co.uk/senior-winter-handicap-2023/league-table)Final results for [2023](https://results.pfrac.co.uk/senior-winter-handicap-2023/league-table)
+[](https://results.pfrac.co.uk/senior-winter-handicap-2024/league-table)Results for [2024](https://results.pfrac.co.uk/senior-winter-handicap-2024/league-table)
 
 Results for previous years:
 [2014–15](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2014-15-results.xlsx)
