@@ -12,7 +12,7 @@ Harriet Drouin took on the unique challenge of the Escape from Meriden event.  
 
 Mark Crossley completed the 20 mile Wharfedale Skyline in 4-49-12.  On Wednesday night Dave Lovatt took on the Hathersage Night Race finishing in a time of 46-29.  The race is run in the dark and requires competitors to complete the route using head torches.
 
-Four runners travelled north to compete in the Tadcaster 10 mile road race.  First back for the club was Michael Nicholson in 1-18-17.  Bill Phillips' time of 1-26-07 was a new [club record](https://results.pfrac.co.uk/records/) in the men’s over75 age category.  Shaun Swallow ran the same distance but at the Derby 10 mile road race where he finished in a time of 1-14-22. 
+Four runners travelled north to compete in the Tadcaster 10 mile road race.  First back for the club was Michael Nicholson in 1-18-17.  Bill Phillips' time of 1-25-46 was a new [club record](https://results.pfrac.co.uk/records/) in the men’s over75 age category.  Shaun Swallow ran the same distance but at the Derby 10 mile road race where he finished in a time of 1-14-22. 
 
 Sunday saw the third and penultimate race in the South Yorkshire Cross Country League at a breezy and cold Penistone showground.  Results still to be released but there were plenty of strong runs from juniors through to the veterans.
 
