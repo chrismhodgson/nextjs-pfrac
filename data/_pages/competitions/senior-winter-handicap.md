@@ -17,7 +17,7 @@ From 2022 the competition has been named after Philip Senior, who sadly died in 
 | 2    | 10 October   | Ian Neville   | 40      |
 | 3    | 24 October   | Kim Rogers    | 38      |
 | 4    | 7 November   | Kent Hannard  | 24      |
-| 5    | 21 November  |               |         |
+| 5    | 21 November  | Cancelled     |         |
 | 6    | 19 December  |               |         |
 
 [The route](https://pfrac.co.uk/static/images/maps/winter-handicap.png) is approximately 4½ miles long with about 600 feet of ascent. It starts from Penistone Leisure Centre and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
