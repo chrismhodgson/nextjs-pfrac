@@ -69,7 +69,7 @@ All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) wi
 | [Spencers Dash 2](https://racebest.com/races/v6t5g)                                                          | Thu 11 Jul  |
 | [Spencers Dash 3](https://racebest.com/races/v6t5g)                                                          | Thu 29 Aug  |
 | [Travellers 6](https://racebest.com/races/cey77)                                                                          | Sun 15 Dec |
-| [Wombwell 5](https://www.kingstonerunners.co.uk/Wombwell5.html)                                                                     | Sun 5 Feb   |
+| [Wombwell 5](https://www.kingstonerunners.co.uk/Wombwell5.html)                                                                     | Sun 16 Feb   |
 
 | Trail/Cross Country Section                                                                                   |            |
 | ------------------------------------------------------------------------------------------------------------- | ---------- |
