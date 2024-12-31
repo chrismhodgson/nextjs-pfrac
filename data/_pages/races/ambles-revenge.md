@@ -1,5 +1,5 @@
 ---
-start_date_time: Sunday 29 December at 10:30
+start_date_time: Date for 2025 tbc
 organiser: Steve Dickinson (steve@osi.uk.com) – 07850 445613
 strava_url: https://www.strava.com/segments/33486757/embed
 header: races/ambles-revenge.jpg
@@ -60,6 +60,7 @@ Registration and number collection from 09:00 at Rafters Bar, adjoined to the Wa
 [2021](https://racebest.com/results/sv62v)
 [2022](https://racebest.com/results/46u75)
 [2023](https://racebest.com/results/xcr4y)
+[2024](https://racebest.com/results/yy897)
 
 #### Course Records
 
@@ -83,7 +84,7 @@ Female: Sam Shaw, Penistone Footpath Runners & AC, 2019 &ndash; 62:01
 
 *Amble's Revenge (2021 onwards)*
 
-Male: Jonathan Escalante-Phillips, Cambridge & Coleridge AC, 2021 &ndash; 54:37
+Male: Stuart Brown, Tonbridge AC, 2024 &ndash; 52:42
 
 Female: Emily Cowper Coles, Denby Dale AC, 2023 &ndash; 57:34
 
