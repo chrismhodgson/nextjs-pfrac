@@ -1,24 +1,23 @@
 ---
-start_date_time: June TBC 2025 at 19:00
-organiser: |
-  Ian Charlesworth (hartcliffhill.fellrace@gmail.com)
+start_date_time: Tuesday May 6 2025 at 19:00
+organiser: TBC (hartcliffhill.fellrace@gmail.com)
 strava_url: https://www.strava.com/segments/36750791/embed
 header: races/hartcliff-hill.jpg
 google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
 order: 20
 entry: ""
-distance: 4½ miles7km with 755ft/230m of ascent
+distance: 4.6 miles/7.4km with 500ft/150m of ascent
 results: " "
-title: Hartcliff Hill
+title: Hartcliff Hill Race
 registration: ""
 category: Fell
 course_records: ""
 ---
-**New course for 2024!**
+**Change of route and start/finish location for 2025**
 
-Hartcliff Hill is a BS category fell race on a marked and marshalled course &ndash; no navigation or prior experience required. The terrain is rough and can be extremely boggy.
+Hartcliff Hill is a CS category fell race on a marked and marshalled course &ndash; no navigation or prior experience required. The terrain is a mixture of fields and rough tracks, with three short sections of asphalt road.
 
-The race starts and finishes about ¾ mile from registration at Langsett Barn so allow time.  It has been difficult to organise this race because of parking permissions.  Please park according to instructions and restrictions on the day.
+The race starts and finishes in Penistone, on the playing fields next to the [Bowling Club](https://maps.app.goo.gl/naJ6HVefAArV7hf99). The race previously started near Langsett reservoir, but in recent years it has been difficult to organise because of parking permissions.
 
 #### Entry
 
@@ -28,7 +27,7 @@ This race will have a permit and associated UK Athletics insurance from the [Fel
 
 #### Registration
 
-Resistration from 18:00 at [Langsett Barn](https://www.google.co.uk/maps/place/Langsett+Barn+Outdoor+Centre/@53.5003511,-1.6853282,17z/data=!3m1!4b1!4m5!3m4!1s0x487bd650d87862bb:0xe1e1bf038b748d28!8m2!3d53.5003511!4d-1.6831395), S36 4GY (on the A616, 1 mile SE of the [Flouch Roundabout](https://www.google.co.uk/maps/place/Flouch+Roundabout,+Sheffield+S36+4AA/@53.5089589,-1.7041355,17z/data=!3m1!4b1!4m5!3m4!1s0x487bd70297198877:0x31271495d144b090!8m2!3d53.5089589!4d-1.7019468)). Grid ref: SE211005
+Registration from 18:00 at [location tbc]. Grid ref: SE244032tbc
 
 #### Results
 
@@ -73,4 +72,4 @@ Female: Sylvie Ellis, Denby Dale AC, 2024 &ndash; 41:10
 
 #### Route
 
-Completely new route for 2024: [Race map](https://pfrac.co.uk/static/images/maps/hartcliff-hill-2024.png)
+New route for 2025: [Race map](https://pfrac.co.uk/static/images/maps/hartcliff-hill-2025.png)
