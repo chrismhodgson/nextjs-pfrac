@@ -72,4 +72,4 @@ Female: Sylvie Ellis, Denby Dale AC, 2024 &ndash; 41:10
 
 #### Route
 
-New route for 2025: [Race map](https://pfrac.co.uk/static/images/maps/hartcliff-hill-2025.png)
+New route for 2025: [Race map](https://pfrac.co.uk/static/images/maps/hartcliff-hill-race-2025.png)
