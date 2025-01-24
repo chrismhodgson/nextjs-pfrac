@@ -3,6 +3,29 @@ title: Links
 header: about/links.jpg
 order: 100
 ---
+#### Club policies
+
+These are currently under review and links will be added here as they are agreed.
+
+Club constitution
+
+Grievance and disciplinary policy
+
+[Privacy notice](https://pfrac.co.uk/static/uploads/pfrac-privacy-notice.pdf)
+
+Inclusion policy
+
+Health and safety policy
+
+Social media policy
+
+#### England Athletics Policies and Procedures
+
+As an England Athletics affiliated club, all club officials and members are required to follow all the policies and procedures on the pages linked to below.
+
+[Safeguarding](https://www.englandathletics.org/welfare/safeguarding/)
+
+[Reporting a concern](https://www.englandathletics.org/welfare/reporting-a-concern/)
 
 #### Race result links
 
