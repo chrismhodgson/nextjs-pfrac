@@ -11,7 +11,7 @@ Club constitution
 
 Grievance and disciplinary policy
 
-[Privacy notice](https://pfrac.co.uk/static/uploads/pfrac-privacy-notice.pdf)
+[Privacy notice](https://pfrac.co.uk/static/policies/pfrac-privacy-notice.pdf)
 
 Inclusion policy
 
