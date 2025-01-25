@@ -1,7 +1,7 @@
 ---
 start_date_time: N/A
 organiser: ""
-strava_url: https://www.strava.com/segments/30806210/embed
+strava_url: https://www.strava.com/segments/13236014/embed
 header: races/penistone-hill-race.jpg
 order: 40
 entry: ""
@@ -11,7 +11,7 @@ title: Penistone Hill Race (archive)
 registration: "\n"
 category: Trail
 ---
-The Penistone Hill Race was a multi-terrain race, run in support of Sporting Penistone, the charity that runs [Penistone Leisure Centre](http://www.penistoneleisurecentre.org.uk). It was a tough race on tarmac, trails and paths, with hills and stunning views of the Penistone area.  No race has been organised since 2021 and in 2025 the club decided it would not attempt to organise it in the near future.  However, [Hartcliff Hill Race](https://pfrac.co.uk/races/hartcliff-hill) will start and finish in Penistone and follow much of the same route as the Penistone Hill Race.
+The Penistone Hill Race was a multi-terrain race, run in support of [Penistone Leisure Centre](http://www.penistoneleisurecentre.org.uk). It was a tough race on tarmac, trails and paths, with hills and stunning views of the Penistone area.  No race has been organised since 2021 and in 2025 the club decided it would not attempt to organise it in the near future.  However, [Hartcliff Hill Race](https://pfrac.co.uk/races/hartcliff-hill) will start and finish in Penistone and follow much of the same route as the Penistone Hill Race.
 
 #### Results
 
