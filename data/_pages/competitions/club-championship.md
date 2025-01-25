@@ -3,11 +3,11 @@ title: Club Championship
 header: competitions/club-championship.jpg
 order: 10
 ---
-#### The 2024/25 Club Championship
+#### The 2024/25 and 2025/26 Club Championship
 
 The format of the Championship is similar to previous years. All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
 
-The competition involves races across three main sections (Road, Trail/Cross-Country and Fell). The Championship comprises 15 fixed races (5 in each section), but two of the 'races' are the Spencer's Dash and Silkstone Shuffle series. Members can run as many of the Spencer's Dash or Silkstone Shuffle races as they wish, and their season’s best time from each will be counted.
+The competition involves races across three main sections (Road, Trail/Cross-Country and Fell). The Championship comprises 15 races (5 in each section).
 
 #### Results
 
@@ -31,9 +31,9 @@ Results for previous years:
 
 #### Qualification
 
-Qualification for the section Championships and overall Championship is similar to recent years, but the number of races has been reduced a bit: to qualify for each section you need to compete in at least 3 of the section events (out of 5 events, including, if you wish, series events, but you don’t have to run the Spencer’s Dash or Silkstone Shuffle).
+To qualify for each section you need to compete in at least 3 of the 5 races.
 
-To qualify for the Overall Championship you have to compete in 8 events, with at least 2 of these races from each section. Your 8 best race scores, including the minimum of 2 from each section, will be added together to form an Overall Championship total.
+To qualify for the overall Championship you have to compete in 8 events, with at least 2 of these races from each section. Your 8 best race scores, including the minimum of 2 from each section, will be added together to form an overall Championship total.
 
 All first claim members are included in the Championship. Juniors running in senior races (where permitted) will be included in the Under 20 category. Members joining (or re-joining) during the year will only have results counted from the date their subscription has been paid.
 
@@ -43,9 +43,9 @@ Points are calculated based on their time relative to the overall race winner (m
 
 The main advantages of this method are: 1) it means that every second you run faster will gain you points (not a lot, but something – unless you are the race winner). Beating another Penistone runner (of the same sex) in a race will always mean you get more points than them – but the bigger the gap you get the more points you gain. 2) you don’t get points as a result of other PFR runners not turning up – you get points for your own performance.
 
-The disadvantage of this method is that your points do depend on how fast the winner is – if Mo Farah or Eilish McColgan turn up to the Oughtibridge Chase, the points will go down – generally, less popular races will yield more points. This may help boost less popular races, which is no bad thing.
+The disadvantage of this method is that your points do depend on how fast the winner is – if Mo Farah or Eilish McColgan turn up to the Silkstone Shuffle, the points will go down – generally, less popular races will yield more points. This may help boost less popular races, which is no bad thing.
 
-The Challenge Championship is based on the total points from all events completed (including your best Spencers Dash and Silkstone Shuffle). The more races you complete, the more points you will get.
+The Challenge Championship is based on the total points from all events completed. The more races you complete, the more points you will get.
 
 #### Prizes
 
