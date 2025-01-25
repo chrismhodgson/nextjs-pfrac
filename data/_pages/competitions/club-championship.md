@@ -31,15 +31,15 @@ Results for previous years:
 
 #### Qualification
 
-To qualify for each section you need to compete in at least 3 of the 5 races.
+To qualify for each section you need to compete in at least 3 of the 5 races. Your best 3 scores will be summed to give your total for the section.
 
-To qualify for the overall Championship you have to compete in 8 events, with at least 2 of these races from each section. Your 8 best race scores, including the minimum of 2 from each section, will be added together to form an overall Championship total.
+To qualify for the overall Championship you have to compete in 8 races, with at least 2 of these from each section. Your 8 best race scores, including the minimum of 2 from each section, will be added together to form an overall Championship total.
 
 All first claim members are included in the Championship. Juniors running in senior races (where permitted) will be included in the Under 20 category. Members joining (or re-joining) during the year will only have results counted from the date their subscription has been paid.
 
 #### Scoring
 
-Points are calculated based on their time relative to the overall race winner (male and female respectively). This is exactly the same as the [Fell League](https://pfrac.co.uk/competitions/fell-league). If a PFR runner is first overall (ie first male or first female), he or she will get 100 points. If your time is exactly double the winner’s time, you get 50 points: the points are calculated on a scale so the faster you run the more points you get. For the series events, the points are based on your fastest time of the series relative to the fastest race winning time of the series.
+Each runner's points are calculated based on their time relative to the overall race winner (male and female respectively). This is exactly the same as the [Fell League](https://pfrac.co.uk/competitions/fell-league). If a PFR runner is first male or first female, he or she will get 100 points. If your time is exactly double the winner’s time, you get 50 points: the points are calculated on a scale so the faster you run the more points you get. For the series events, the points are based on your fastest time of the series relative to the fastest race winning time of the series.
 
 The main advantages of this method are: 1) it means that every second you run faster will gain you points (not a lot, but something – unless you are the race winner). Beating another Penistone runner (of the same sex) in a race will always mean you get more points than them – but the bigger the gap you get the more points you gain. 2) you don’t get points as a result of other PFR runners not turning up – you get points for your own performance.
 
