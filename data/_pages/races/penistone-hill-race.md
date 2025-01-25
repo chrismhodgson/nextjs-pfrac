@@ -1,5 +1,5 @@
 ---
-start_date_time: Saturday 5 March at 2pm
+start_date_time: N/A
 organiser: ""
 strava_url: https://www.strava.com/segments/30806210/embed
 header: races/penistone-hill-race.jpg
