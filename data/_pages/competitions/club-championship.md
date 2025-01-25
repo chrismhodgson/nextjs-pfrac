@@ -99,7 +99,7 @@ All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) wi
 | [Joe Percy 10K](https://www.holmfirthharriers.com/event/joe-percy-10k/)                                                             | Wed 11 Jun  |
 | [Barnsley 10K](https://racebest.com/races/2uakk)                                                             | Sun 29 Jun  |
 | [Clowne Half Marathon](https://clowneroadrunners.org/?page_id=2080)                                                                          | Sun tbc Nov |
-| [Meltham 10K](https://melthamac.com/races/meltham-10k/)                                                                     | Sun tbc Feb   |
+| [Meltham 10K](https://melthamac.com/races/meltham-10k/)                                                                     | Sun tbc Jan   |
 
 | Trail/Cross Country Section                                                                                   |            |
 | ------------------------------------------------------------------------------------------------------------- | ---------- |
