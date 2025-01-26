@@ -1,6 +1,6 @@
 ---
 start_date_time: Tuesday May 6 2025 at 19:00
-organiser: TBC (hartcliffhill.fellrace@gmail.com)
+organiser: Steve Sanders (stevemsanders71@gmail.com)
 strava_url: https://www.strava.com/segments/36750791/embed
 header: races/hartcliff-hill.jpg
 google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
@@ -21,13 +21,13 @@ The race starts and finishes in Penistone, on the playing fields next to the [Bo
 
 #### Entry
 
-Entry £5.00 on the day for FRA or EA members; £6.00 for non-members.
+Pre-entry £6.00 (link to follow); on the day £8.00.
 
-This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 15 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
+This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 17 on the 31 December 2025 (FRA rules). If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
 
 #### Registration
 
-Registration from 18:00 at [location tbc]. Grid ref: SE244032tbc
+Registration from 18:00 at [Penistone Bowling Club](https://maps.app.goo.gl/naJ6HVefAArV7hf99). Grid ref: SE244032tbc.
 
 #### Results
 
