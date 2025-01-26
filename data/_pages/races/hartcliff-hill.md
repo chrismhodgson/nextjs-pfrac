@@ -27,7 +27,7 @@ This race will have a permit and associated UK Athletics insurance from the [Fel
 
 #### Registration
 
-Registration from 18:00 at [Penistone Bowling Club](https://maps.app.goo.gl/naJ6HVefAArV7hf99). Grid ref: SE244032tbc.
+Registration from 18:00 at [Penistone Bowling Club](https://maps.app.goo.gl/naJ6HVefAArV7hf99). Grid ref: SE244032.
 
 #### Results
 
