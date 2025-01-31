@@ -6,7 +6,7 @@ header: races/hartcliff-hill.jpg
 google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
 order: 20
 entry: ""
-distance: 4.6 miles/7.4km with 500ft/150m of ascent
+distance: 4.6 miles/7.4km with 709ft/216m of ascent
 results: " "
 title: Hartcliff Hill Race
 registration: ""
