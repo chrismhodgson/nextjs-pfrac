@@ -5,7 +5,7 @@ order: 40
 ---
 #### Philip Senior Winter Handicap
 
-The club winter handicap is a series of 6 races on Thursday evenings (note change from Tuesday evenings) running from September to Christmas, organised by [Keith Gordon](mailto:keithHgordon@me.com). It starts at 18:45 on the dates below, at Penistone Leisure Centre, and is open to all senior members of the club.
+The club winter handicap is a series of 6 races on Thursday evenings (note change from Tuesday evenings) running from September to Christmas, organised by [Keith Gordon](mailto:keithHgordon@me.com). It starts at 18:45 on the dates below, at [Penistone Leisure Centre](https://maps.app.goo.gl/HVB75oP8BDZY4eDZ6), and is open to all senior members of the club.
 
 From 2022 the competition has been named after Philip Senior, who died in 2020. Phil never ran but was a great supporter of the club when it was first formed and was made a life member. He was always at our races helping timekeeping or recording numbers. Pauline, Phil's wife, used to run with the club, before serving as the club's treasurer for many years, and their son Michael, as a teenager, ran some fantastic times and still holds some club records. Phil helped set the winter handicap up when it was first run and organised it and did the handicapping for quite a few years.
 
@@ -20,7 +20,7 @@ From 2022 the competition has been named after Philip Senior, who died in 2020. 
 | 5    | 20 November  |        |         |
 | 6    | 4 December   |        |         |
 
-[The route](https://pfrac.co.uk/static/images/maps/winter-handicap.png) is approximately 4½ miles long with about 600 feet of ascent. It starts from Penistone Leisure Centre and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
+[The route](https://pfrac.co.uk/static/images/maps/winter-handicap.png) is approximately 4½ miles long with about 600 feet of ascent. It starts from [Penistone Leisure Centre](https://maps.app.goo.gl/HVB75oP8BDZY4eDZ6) and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
 
 #### Results
 
@@ -56,7 +56,7 @@ This appears as:
 You must register, so the organisers know how many runners are out. This is essential as we do not want anyone left in a ditch all night.
 There is no cost but you may make a voluntary contribution. Suggested amount is £1 per race (maximum £4 for the series). The start (and finish) is the lamppost in front of the leisure centre. The stopwatch will start from 00:00:00 at 18:45. You will be called a minute or so before you are due to set off, but **it is your responsibility to be at the start**. Don't blame the officials if you are having a chat and miss it,
 
-**A reflective vest is mandatory** (Keith can provide spares on the night). Head torches are advisable. The run is in darkness on quiet back roads. Runners run at their own risk and are advised to take care, particularly if it is icy. The road surface is rough in places. Extra care should be taken on the final run in as it is on the main road. Keep on the pavement.
+**A reflective vest or jacket is mandatory** (Keith can provide spares on the night). Head torches are advisable. The run is in darkness on quiet back roads. Runners run at their own risk and are advised to take care, particularly if it is icy. The road surface is rough in places. Extra care should be taken on the final run in as it is on the main road. Keep on the pavement.
 
 #### When you finish
 
