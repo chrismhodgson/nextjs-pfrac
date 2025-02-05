@@ -1,7 +1,7 @@
 ---
 start_date_time: Tuesday May 6 2025 at 19:00
 organiser: Steve Sanders (stevemsanders71@gmail.com)
-strava_url: https://www.strava.com/segments/36750791/embed
+strava_url: https://www.strava.com/segments/38554004/embed
 header: races/hartcliff-hill.jpg
 google_maps_url: https://www.google.com/maps/d/u/0/viewer?mid=1EM11MzyonbhY9uGBGz9TcX9yeOw&hl=en&ll=53.53444107128965%2C-1.6152743120117141&z=12
 order: 20
