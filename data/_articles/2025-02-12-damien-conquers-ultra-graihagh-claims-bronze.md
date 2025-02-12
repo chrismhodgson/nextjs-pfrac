@@ -8,7 +8,7 @@ summary: Round-up of Penistone runners' results
 ---
 Penistone runner Damien Briscoe dug deep to complete the 32-mile Peak District Ultra in challenging weather conditions. In a race that saw over 50 competitors withdraw, Damien managed to finish in a very creditable 16th place with a time of 7 hours and 56 minutes. The tough route included Winnats Pass, Mam Tor, Edale Valley and Kinder Scout.
 
-In slightly warmer conditions, Graihagh Turner, running for Rotherham Harriers, put in an excellent performance to claim third place in the U17 girls' 1,500 metres at the English Indoor Championships in Sheffield.
+In slightly warmer conditions, Graihagh Turner, running for Rotherham Harriers, put in an excellent performance of 4:36.2 to claim third place in the U17 girls' 1,500 metres at the English Indoor Championships in Sheffield.
 
 Peter Beever took part in the Bolsover 10K, finishing in a personal best time of 45-51. Also competing were Daniel Canetti (47-39) and Emma Canetti (57-20).
 
