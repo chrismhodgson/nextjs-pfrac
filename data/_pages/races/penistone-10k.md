@@ -19,7 +19,7 @@ Even though he was unwell in the last few years of his life, he often turned up 
 
 #### Entry
 
-Pre-entry £16 for England Athletics Affiliated runners; £18 for unaffiliated runners.
+Pre-entry £16 for England Athletics affiliated runners; £18 for unaffiliated runners.
 
 Entry on the day will be available for an additional £2 if entry limit not reached.  In 2024 the race was full and no entries were available on the day.
 
