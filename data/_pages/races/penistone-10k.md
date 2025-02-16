@@ -21,11 +21,11 @@ Even though he was unwell in the last few years of his life, he often turned up 
 
 Pre-entry £16 for England Athletics affiliated runners; £18 for unaffiliated runners.
 
-Entry on the day will be available for an additional £2 if entry limit of 300 not reached.  In 2024 the race was full and no entries were available on the day.
+Minimum age 15 on the day.
 
 [ENTER NOW](https://racebest.com/races/qqwsu)
 
-Minimum age 15 on the day
+Entry on the day will be available for an additional £2 if entry limit of 300 not reached.  In 2024 the race was full and no entries were available on the day.
 
 #### Registration
 
