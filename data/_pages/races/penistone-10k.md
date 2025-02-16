@@ -19,7 +19,7 @@ Even though he was unwell in the last few years of his life, he often turned up 
 
 #### Entry
 
-Online entry will be available early in 2025.  Entry on the day will be available if entry limit not reached.  In 2024 the race was full and no entries were available on the day.
+Online entry will be available early in 2025.  Entry on the day will be available if entry limit not reached.  In 2024 the race was full and no entries were available on the day. <a href="[https://racebest.com/​races/qqwsu](https://racebest.com/races/gsfgv)" target="_blank"><img src="[https://racebest.com/_​res/img/racebest-enter-button.​svg](https://racebest.com/_res/img/racebest-enter-button.svg)" alt="Enter Now"/></a>
 
 Minimum age 15 on the day
 
