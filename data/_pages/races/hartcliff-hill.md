@@ -21,9 +21,9 @@ The race starts and finishes in Penistone, on the playing fields next to the [Bo
 
 #### Entry
 
-Pre-entry £6.00; on the day £8.00. <a href="[https://racebest.com/​races/gsfgv](https://racebest.com/races/gsfgv)" target="_blank"><img src="[https://racebest.com/_​res/img/racebest-enter-button.​svg](https://racebest.com/_res/img/racebest-enter-button.svg)" alt="Enter Now"/></a>
+Pre-entry £6.00; on the day £8.00. <a href="[https://racebest.com/​races/gsfgv](https://racebest.com/races/gsfgv)" target="_blank"><img src="\[https://racebest.com/_​res/img/racebest-enter-button.​svg](https://racebest.com/_res/img/racebest-enter-button.svg)" alt="Enter Now"/></a>
 
-This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 17 on the 31 December 2025 (FRA rules). If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
+This race has a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 17 on the 31 December 2025 (FRA rules). If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
 
 #### Registration
 
