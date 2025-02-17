@@ -3,15 +3,15 @@ title: Club Championship
 header: competitions/club-championship.jpg
 order: 10
 ---
-#### The 2024/25 and 2025/26 Club Championship
+#### The 2025/26 Club Championship
 
-The format of the Championship has been similar for many years. All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
+The format of the Championship has been similar for many years. All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
 
 The competition involves races across three main sections (Road, Trail/Cross-Country and Fell). The Championship comprises 15 races (5 in each section).
 
 #### Results
 
-[Standings for 2024/25](http://results.pfrac.co.uk/championship-2024/challenge)
+[Final Standings for 2024/25](http://results.pfrac.co.uk/championship-2024/challenge)
 
 Results for previous years:
 [2004](https://pfrac.co.uk/static/results/club-championship/championship-2004-results.xlsx)
@@ -57,41 +57,9 @@ Your age group for the Championship in any year is determined by your age on Apr
 * The title of Challenge Champion will be given to the runner who acquires the most points from all qualifying events.
 * Run as many or as few races as you want but you must compete in the correct number of races to win an award.
 
-#### 2024/25 events
-
-All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
-
-| Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |             |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Spencers Dash 1](https://racebest.com/races/v6t5g)                                                          | Thu 9 May   |
-| [Rother Valley Relays](https://www.facebook.com/groups/431233151372212/)                                                            | Tue 14 May  |
-| [Joe Percy 10K](https://www.holmfirthharriers.com/event/joe-percy-10k/)                                                             | Wed 12 Jun  |
-| [Spencers Dash 2](https://racebest.com/races/v6t5g)                                                          | Thu 11 Jul  |
-| [Spencers Dash 3](https://racebest.com/races/v6t5g)                                                          | Thu 29 Aug  |
-| [Travellers 6](https://racebest.com/races/cey77)                                                                          | Sun 15 Dec |
-| [Wombwell 5](https://www.kingstonerunners.co.uk/Wombwell5.html)                                                                     | Sun 16 Feb   |
-
-| Trail/Cross Country Section                                                                                   |            |
-| ------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Silkstone Shuffle - 1](https://www.barnsleyharriers.org.uk/)                                                 | Thu 25 Apr |
-| [Furty Furlong](https://racebest.com/races/txgcg)                                                             | Sat 11 May |
-| [Oughtibridge Chase](https://www.oughtibridgegala.org/the-tom-holmes-gala-chase)                              | Wed 19 Jun |
-| [Silkstone Shuffle - 2](https://www.barnsleyharriers.org.uk/)                                                 | Thu 27 Jun |
-| [Silkstone Shuffle - 3](https://www.barnsleyharriers.org.uk/)                                                 | Thu 8 Aug  |
-| [Stan's Toffee Run](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/stan-s-toffee-run) | Thu 15 Aug |
-| [Higham Hurtle](https://www.barnsleyharriers.org.uk/)                                                         | Thu 5 Sep  |
-
-| Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Bamford Sheepdog Trials](https://www.fellrunner.org.uk/races/adcb9c4d-5881-475f-bbd2-5a8e158a8755)                                                      | Mon 27 May  |
-| [Charlesworth & Chiswick Carnival](https://www.fellrunner.org.uk/races/61755c75-844d-4cf1-884f-a2981e210515)                                             | Sat 13 Jul  |
-| [Crowden Horseshoe](https://events360.co.uk/crowden/)                                                                                                    | Sun 18 Aug  |
-| [Padfield](https://events360.co.uk/padfieldplum/)                                                                     | Sat 16 Nov   |
-| [Hoppits Hill](https://www.hoppits.co.uk/)                                                                                                                | Sun 16 Feb |
-
 #### 2025/26 events
 
-All the events will be listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
+All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
 
 | Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |             |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- |
