@@ -25,6 +25,9 @@ Pre-entry £6.
 
 Minimum age to enter is 17 on the 31 December 2025 (FRA rules).
 
+[![Enter Now](https://pfrac.co.uk/static/images/enter-now-button.png)](https://racebest.com/races/gsfgv)
+
+
 [ENTER NOW](https://racebest.com/races/gsfgv)
 
 Entry on the day will be available for £8 if entry limit of 200 not reached.
