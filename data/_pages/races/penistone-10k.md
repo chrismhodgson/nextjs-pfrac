@@ -23,7 +23,7 @@ Pre-entry £16 for England Athletics affiliated runners; £18 for unaffiliated r
 
 Minimum age 15 on the day.
 
-[ENTER NOW](https://racebest.com/races/qqwsu)
+[![Enter Now](https://pfrac.co.uk/static/images/enter-now-button.png)](https://racebest.com/races/qqwsu)
 
 Entry on the day will be available for an additional £2 if entry limit of 300 not reached.  In 2024 the race was full and no entries were available on the day.
 
