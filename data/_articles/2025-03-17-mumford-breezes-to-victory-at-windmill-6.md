@@ -14,8 +14,10 @@ A few Penistone runners competed in the Retford Half Marathon which is a flat, f
 
 Six runners made the trip to Thirsk to compete in the local 10 mile road race.  There were personal bests for Pete Beever (1-16-11), Lois Lopez (1-19-56), Stefan Butler-Gillen (1-24-02) and Jill Scrivens (1-24-17).
 
+There were strong runs from Lee Hopkins (48-47), Kelly Howson (52-16), Stu Smith (54-31) and Steve Dommett (1-10-25) at the Wakefield 10K.
+
 Off the road Damian Kilpin had a good run at the Blakey Blitz which is a challenging 10 mile fell race held in the North Yorkshire Moors.  Damian finished in a time of 1-35-06 which gave him 17th place overall and second in the men’s over45 age category.
 
-There were strong runs from Lee Hopkins (48-47), Kelly Howson (52-16), Stu Smith (54-31) and Steve Dommett (1-10-25) at the Wakefield 10K.
+Tom Fryers ran in the Cambridge Boundary Run, a multi-terrain marathon distance race, finishing 4th in a time of 2:54:13.
 
 On the [parkrun](https://results.pfrac.co.uk/parkrun-2025/2025-03-15) scene there were first gender places for Jade Crosby (Barnsley) and Richard Cottam (Concord).  Second gender places for Emma Stead (Ellesmere Port), Lesley Parker (Concord) and James Fryers was third at Glossop.  Ian McNulty celebrated a milestone, completing his 50th parkrun at Penistone.  Age graded runs of the week were Andrew Heppenstall (80.30%), Richard Cottam (79.90%), James Mumford (79.55%), Ian Neville (79.04%) and Lesley Parker (75.02%).
