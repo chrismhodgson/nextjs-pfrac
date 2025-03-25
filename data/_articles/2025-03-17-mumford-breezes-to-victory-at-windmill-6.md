@@ -16,7 +16,7 @@ Six runners made the trip to Thirsk to compete in the local 10 mile road race. 
 
 There were strong runs from Lee Hopkins (48-47), Kelly Howson (52-16), Stu Smith (54-31) and Steve Dommett (1-10-25) at the Wakefield 10K.
 
-Off the road Damian Kilpin had a good run at the Blakey Blitz which is a challenging 10 mile fell race held in the North Yorkshire Moors.  Damian finished in a time of 1-35-06 which gave him 17th place overall and second in the men’s over45 age category.
+Off the road Damian Kilpin had a good run at the [Blakey Blitz](https://results.pfrac.co.uk/fell-league-2024/blakey-blitz-2025) which is a challenging 10 mile fell race held in the North Yorkshire Moors.  Damian finished in a time of 1-35-06 which gave him 17th place overall and second in the men’s over45 age category.
 
 Tom Fryers ran in the Cambridge Boundary Run, a multi-terrain marathon distance race, finishing 4th in a time of 2:54:13.
 
