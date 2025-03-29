@@ -4,7 +4,7 @@ header: competitions/parkrun-competition.jpg
 order: 50
 ---
 
-The Parkrun Competition ran from 2017 to 2022.  From 2023 there is no competition, but a summary of each week's performances, and some statistics for the year for Penistone runners, are kept up to date on the [results website](http://results.pfrac.co.uk/). All the columns on the summary pages are sortable, so you can sort by fastest time, best age grade, most parkruns etc by clicking on the column headings.
+The Parkrun Competition ran from 2017 to 2022.  From 2023 there has been no competition, but a summary of each week's performances, and some statistics for the year for Penistone runners, are kept up to date on the [results website](http://results.pfrac.co.uk/). All the columns on the summary pages are sortable, so you can sort by fastest time, best age grade, most parkruns etc by clicking on the column headings.
 
 #### Results
 
