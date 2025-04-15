@@ -1,7 +1,7 @@
 ---
 title: Hartcliff Hill and Penistone 10K
 draft: false
-date: 2025-03-04T08:39:31.320Z
+date: 2025-04-13T07:39:31.320Z
 tags:
   - RACES
 summary: Online pre-entries available now
