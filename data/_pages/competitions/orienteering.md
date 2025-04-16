@@ -3,17 +3,15 @@ title: Orienteering
 header: competitions/orienteering.jpg
 order: 60
 ---
-Steve Sanders organises an informal orienteering league for the club using the MapRun system. Steve sets courses in the local area, some urban, some rural or fell, and anyone can run them at any time.
+Steve Sanders organises an informal orienteering league for the club using the MapRun system. Steve sets courses in the local area, some urban, some rural or fell, and anyone can run them at any time.  Details on how to join in are further down this page.
 
 M﻿aps are drawn up by Steve (under licence from Ordnance Survey) and posted below, showing the checkpoints and any out-of-bounds areas. As runners complete courses their scores are recorded by the MapRun system, collated by Steve and posted below.
 
-**2024 Series**
+**2025 Series**
 
-[Latest results](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)
+[Latest results](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx) will be posted here from June onwards.
 
 The series run from 1 April to 30 November.  There are 8 different courses, each with its own time limit between 30 and 90 minutes, made available progressively through the year, with scores only counting towards the league during set two-month periods.  Steve will email the courses to the club mailing list shortly before the start of each period; if you run the courses outside the specified time window the results won't count towards the league.  Previous courses are still available (contact [Steve](mailto:stevemsanders71@gmail.com) for the maps) if you want to do them.  
-
-
 
 They are score events: collect as many points as you can before returning to the start within the allotted time limit. There is a penalty of –10 points for every minute (or part of a minute) late back so someone scoring 100 points would lose them all if they were 10 minutes over time.
 
@@ -28,6 +26,7 @@ Your best 6 scores will be summed to determine your final score for the series. 
 [2024 Final Standings](https://pfrac.co.uk/static/results/orienteering/2024-results.xlsx)
 
 *2024 course results*
+
 * [Ingbirchworth 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Ingbirchworth%2520PZ%2520PXAS%2520ScoreN60.csv)
 * [Tankersley 40 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Tankersley%2520PZ%2520PXAS%2520ScoreN40.csv)
 * [Bolsterstone 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Bolsterstone%2520PZ%2520PXAS%2520ScoreN60.csv)
@@ -42,6 +41,7 @@ Your best 6 scores will be summed to determine your final score for the series. 
 [40th Anniversary Event](https://pfrac.co.uk/static/results/orienteering/40th_anniversary_orienteering_results.png)
 
 *2023 course results*
+
 * [Millhouse 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Millhouse%2520PZ%2520PXAS%2520ScoreN60.csv)
 * [P﻿enistone 45 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Penistone%2520PZ%2520PXAS%2520ScoreN45.csv)
 * [Low Bradfield 75 min](https://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Bradfield%2520PZ%2520PXAS%2520ScoreN75.csv)
