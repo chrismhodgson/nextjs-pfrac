@@ -17,11 +17,20 @@ They are score events: collect as many points as you can before returning to the
 
 You can only get the points for a control once, even if you run to it several times.
 
-The naming of the controls shows how many points they are worth (01–09 = 10 points, 11–19 = 20 points, 21–29 = 30 points, 31–39 = 40 points, etc).
+The naming of the controls shows how many points they are worth (01 to 09 = 10 points, 11 to 19 = 20 points, 21 to 29 = 30 points, 31 to 39 = 40 points, etc).
 
 Your best 6 scores will be summed to determine your final score for the series.  Where people finish with the same number of points, the runner with the lowest average time (time as a proportion of the permitted time for the course) across their best 6 courses will be placed ahead in the table.
 
 **Results**
+
+
+
+*2025 course results*
+
+* [Elsecar 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Elsecar%2520PZ%2520PXAS%2520ScoreN60.csv)
+* [Hartcliff 40 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Hartcliff%2520PZ%2520PXAS%2520ScoreN40.csv)
+
+
 
 [2024 Final Standings](https://pfrac.co.uk/static/results/orienteering/2024-results.xlsx)
 
@@ -57,7 +66,7 @@ Your best 6 scores will be summed to determine your final score for the series. 
 
 There’s a user guide on the [MapRun website](http://maprunners.weebly.com/quick-guide.html) which should get you set up. If you have any problems contact [Steve](mailto:stevemsanders71@gmail.com).
 
-You will need to download the app (either MapRun6 or MapRun is fine – MapRun is the latest version) to your phone and enter a username. You will need to make sure the app has access to location and data settings. The app needs to be able to run in the background. Once started with the app you can then search for the event. The simplest way is to use “select event”. This will take you through a series of folders: UK &ndash;&gt; South Yorkshire &ndash;&gt; PFRAC &ndash;&gt; 2024 and select the course you want to run. The details in grey under the name just specify the course type and rules.
+You will need to download the app (either MapRun6 or MapRun is fine – MapRun is the latest version) to your phone and enter a username. You will need to make sure the app has access to location and data settings. The app needs to be able to run in the background. Once started with the app you can then search for the event. The simplest way is to use “select event”. This will take you through a series of folders: UK &ndash;&gt; South Yorkshire &ndash;&gt; PFRAC &ndash;&gt; 2025 and select the course you want to run. The details in grey under the name just specify the course type and rules.
 
 You then simply select “Go To Start” where you will need to enter the PIN which is printed on the map. The map will load up on the screen and you can zoom in and out but the important thing to look for is the bar at the bottom of the screen where it says “GPS”. This bar must be green before setting off to confirm the app has a GPS signal. Once you have a green GPS status bar then just set off on the course. The app will beep, and start timing, as soon as you pass through the start/finish point.
 
