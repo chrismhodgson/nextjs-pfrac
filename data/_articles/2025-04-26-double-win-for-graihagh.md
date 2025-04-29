@@ -2,6 +2,8 @@
 title: Double win for Graihagh
 draft: false
 date: 2025-04-21T15:19:47.045Z
+tags:
+  - PRESS
 summary: Round-up of Penistone runners' results
 ---
 Graihagh Turner ran at the Isle of Man running festival.  She took part in two races: on Saturday the Pell Hill Race and on Sunday the Douglas 5k.  In both races she placed first in the ladies under17 age category.
