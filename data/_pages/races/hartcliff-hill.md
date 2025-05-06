@@ -1,5 +1,8 @@
 ---
-start_date_time: Tuesday May 6 2025 at 19:00
+start_date_time: |-
+  Tuesday May 6 2025 at 19:00
+
+  2026 date TBC
 organiser: Steve Sanders (stevemsanders71@gmail.com)
 strava_url: https://www.strava.com/segments/38554004/embed
 header: races/hartcliff-hill.jpg
@@ -13,8 +16,6 @@ registration: ""
 category: Fell
 course_records: ""
 ---
-**Change of route and start/finish location for 2025**
-
 Hartcliff Hill is a BS category fell race on a marked and marshalled course &ndash; no navigation or prior experience required, however all runners should familiarise themselves with the route. The terrain is a mixture of fields and rough tracks, with three short sections of asphalt road.
 
 The race starts and finishes in Penistone, on the playing fields next to the [Bowling Club](https://maps.app.goo.gl/naJ6HVefAArV7hf99). The race previously started near Langsett reservoir, but in recent years it has been difficult to organise because of parking permissions.
@@ -24,8 +25,6 @@ The race starts and finishes in Penistone, on the playing fields next to the [Bo
 Pre-entry £6.
 
 Minimum age to enter is 17 on the 31 December 2025 (FRA rules).
-
-[![Enter Now](https://pfrac.co.uk/static/images/enter-now-button.png)](https://racebest.com/races/gsfgv)
 
 Entry on the day will be available for £8 if entry limit of 200 not reached.
 
@@ -53,6 +52,7 @@ Registration from 18:00 at [Penistone Bowling Club](https://maps.app.goo.gl/naJ6
 [2019](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2019-results.pdf)
 [2023](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2023-results.pdf)
 [2024](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2024-results.pdf)
+[2025](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2025-results.pdf)
 
 The race in 2014 was cancelled due to the Foot and Mouth outbreak, those in 2020 and 2021 due to the Covid-19 pandemic, and the 2022 race due to lack of parking facilities.
 
@@ -75,6 +75,12 @@ Female: Katie Walshaw, Holmfirth Harriers, 2019 &ndash; 17:47
 Male: Philip Montgomery, Dark Peak Fell Runners, 2024 &ndash; 29:08
 
 Female: Sylvie Ellis, Denby Dale AC, 2024 &ndash; 41:10
+
+*2025 course:*
+
+Male: Lewis Roberts, Dark Peak Fell Runners, 2025 &ndash; 27:48
+
+Female: Suzanne McGill, Penistone Footpath Runners & AC, 2025 &ndash; 34:24
 
 #### Route
 
