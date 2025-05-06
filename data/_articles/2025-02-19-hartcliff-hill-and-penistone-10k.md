@@ -4,7 +4,7 @@ draft: false
 date: 2025-05-06T07:39:31.320Z
 tags:
   - RACES
-summary: Online pre-entries available now
+summary: Online pre-entries available now for 10K - on the day for Hartcliff
 ---
 [Hartcliff Hill Race](https://pfrac.co.uk/races/hartcliff-hill) is tonight at 7pm. Entries on the day are available from 6pm at the [Bowling Club](https://maps.app.goo.gl/naJ6HVefAArV7hf99).
 
