@@ -29,7 +29,11 @@ An ordnance survey map, aerial photography and GPX files for the whole route are
 
 The links below give maps and GPX files for each leg. The GPX files can be downloaded and imported into GPS software, or uploaded to a phone or watch.
 
-**Note for 2025: There are two major changes to the route on leg 2.  Please check the map below and ensure you are familiar with the new route.**
+**Notes for 2025**
+
+**There are two major changes to the route on leg 2.  The map and GPX file below show the new routes. The changes are described in detail in [this document](https://pfrac.co.uk/static/uploads/leg-2-update-2025.pdf).**
+
+**There is a small diversion on leg 6.  Details are in [this document](https://pfrac.co.uk/static/uploads/leg-6-update-2025.pdf).**
 
 | Leg                                   | Start time (approx)                                                         | Distance/climb                                                            |
 | ------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
