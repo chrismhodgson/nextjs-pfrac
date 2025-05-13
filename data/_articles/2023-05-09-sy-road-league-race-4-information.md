@@ -1,7 +1,7 @@
 ---
 title: SY Road League Race 4 Information
 draft: false
-date: 2025-04-28T23:00:00.000Z
+date: 2025-05-12T23:00:00.000Z
 tags:
   - INFORMATION
 summary: The final South Yorkshire Road League race will take place at
