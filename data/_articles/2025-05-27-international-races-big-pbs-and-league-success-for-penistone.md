@@ -2,6 +2,8 @@
 title: International Races, Big PBs, and League Success for Penistone
 draft: false
 date: 2025-05-19T07:23:28.528Z
+tags:
+  - PRESS
 summary: Round-up of Penistone runners' results
 ---
 It’s been a packed week of racing for the club, with members taking on events across the UK and beyond. From Manchester to Snowdonia, Shrewsbury to Riga, Chester to Dearne Valley and Eyam, the club picked up PBs, age group wins, milestones and strong finishes across all terrains.
