@@ -1,5 +1,5 @@
 ---
-title: International Races, Big PBs, and League Success for Penistone
+title: International Races, Big PBs, and League Success
 draft: false
 date: 2025-05-19T07:23:28.528Z
 tags:
