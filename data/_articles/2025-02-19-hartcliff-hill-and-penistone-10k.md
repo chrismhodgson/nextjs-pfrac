@@ -1,7 +1,7 @@
 ---
 title: Penistone 10K
 draft: false
-date: 2025-05-06T07:39:31.320Z
+date: 2025-05-27T07:39:31.320Z
 tags:
   - RACES
 summary: Online pre-entries available now
