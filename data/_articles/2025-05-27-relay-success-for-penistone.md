@@ -1,0 +1,13 @@
+---
+title: Relay success for Penistone
+draft: false
+date: 2025-05-26T07:30:58.896Z
+tags:
+  - PRESS
+summary: Round-up of Penistone runners' results
+---
+Wednesday saw the annual running of the Rother Valley Relays, one of the most popular events on the regional athletics calendar, drawing 270 teams from clubs across South Yorkshire. Conditions were ideal for running and the fourteen teams from Penistone Footpath Runners fared well.  The club’s men’s over40 team delivered one of the most impressive results of the day, finishing fourth overall and placing first in their age category.  The team consisted of Alan Nutton, Richard Cottam, Andrew Heppenstall and James Mumford.  Their time overall was 1-08-46.  The ladies over50 team also put in an excellent performance, taking second in their category thanks to the efforts of Rachael Mayston, Lois Lopez and Nicola McAnally.  In the men’s over50 category, the team of Andrew Pearson, Martin Ball, Matt Robinson and Ian Neville secured a well-earned third place.  Adding to the club’s success, Penistone’s youth male team raced to second place in their category, with Finn Pepper running the first and third legs after a last minute substitution, and Edward Holley running the second leg.  The senior ladies team of Suzanne McGill, Jade Crosby and Hannah Shaw put in a strong performance to claim sixth overall in the ladies category.  
+
+The following evening saw the first running this year of the Silkstone Shuffle which is a 4.5 mile hilly trail race.  Penistone runner George Parr was first overall clocking 28-29.  Loida Lopez of Penistone was second lady overall and first over50 lady in a time of 39-15.  Heather Simpson grabbed third lady overall in 39-37.  There was an age category win for Alan Knox (men over70).
+
+A weekend packed with standout performances saw Penistone’s runners securing podium places across several [parkrun](https://results.pfrac.co.uk/parkrun-2025/2025-05-24) events, with the ladies leading the charge in impressive fashion. First gender finishers were Alan Nutton at Nostell, Jade Crosby at Thornes, and Suzanne McGill at Concord. Second gender places went to Julia Johnson at Nostell, Hannah Shaw at Penistone, and Richard Cottam at Dover Waterfront. Third gender places were earned by Lesley Parker at Concord, Rhianna Banford at Penistone, and Rob Lees at Muncaster Castle. A special mention goes to Suzanne McGill, who not only took top spot at Concord but also broke the ladies over45 course record previously held for over 16 years by fellow club member Dawn Broom. In terms of age-graded performances, Julia Johnson topped the weekend with a remarkable 85.58%, followed by Suzanne McGill at 82.45%, Dawn Broom at 81.23%, Ian Neville at 78.34%, and Richard Cottam at 77.45%.
