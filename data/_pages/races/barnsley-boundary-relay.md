@@ -31,7 +31,7 @@ The links below give maps and GPX files for each leg. The GPX files can be downl
 
 **Notes for 2025**
 
-**There are two major changes to the route on leg 2.  The map and GPX file below show the new routes. These have been updated on the website on 28 May 2025 - those available before that had an error. The changes are described in detail in [this document](https://pfrac.co.uk/static/uploads/leg-2-update-2025.pdf).**
+**There are two major changes to the route on leg 2.  The map and GPX file below show the new routes. These have been updated on the website on 28 May 2025 – those available before that had an error. The changes are described in detail in [this document](https://pfrac.co.uk/static/uploads/leg-2-update-2025.pdf).**
 
 **There is a small diversion on leg 6.  Details are in [this document](https://pfrac.co.uk/static/uploads/leg-6-update-2025.pdf).**
 
