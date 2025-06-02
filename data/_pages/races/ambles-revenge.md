@@ -1,5 +1,5 @@
 ---
-start_date_time: Monday December 29 at 10:30
+start_date_time: Sunday December 28 at 10:30
 organiser: Steve Dickinson (steve@osi.uk.com) – 07850 445613
 strava_url: https://www.strava.com/segments/33486757/embed
 header: races/ambles-revenge.jpg
