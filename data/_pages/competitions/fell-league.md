@@ -3,9 +3,9 @@ title: Fell League
 header: competitions/fell-league.jpg
 order: 20
 ---
-#### The 2024/25 Fell League
+#### The 2025/25 Fell League
 
-The competition runs from 1 April 2024 to 31 March 2025. All first claim members' results in all FRA licenced senior races count towards the league &ndash; you get points for every race, without any limit, and you get more points the faster you run.
+The competition runs from 1 April 2025 to 31 March 2026. All first claim members' results in all FRA licenced senior races count towards the league &ndash; you get points for every race, without any limit, and you get more points the faster you run.
 
 All FRA licenced senior races count, which includes all 9 Trunces, Hartcliff Hill and Thurlstone Chase, as well as all the Club Championship Fell Section races, English Championships, etc.
 
@@ -13,7 +13,7 @@ T﻿he results are updated frequently, but the onus is on the runner to tell me 
 
 #### Results
 
-[Current standings for 2024/25](http://results.pfrac.co.uk/fell-league-2024/races).
+[Current standings for 2025/26](https://results.pfrac.co.uk/fell-league-2025/races).
 
 Results for previous years:
 [2017](https://pfrac.co.uk/static/results/fell-league/fell-league-2017-results.pdf)
