@@ -23,15 +23,9 @@ Pre-entry £16 for England Athletics affiliated runners; £18 for unaffiliated r
 
 Minimum age 15 on the day
 
-The 2025 race is full and there will be no entries available on the day.
-
-<!---
-
-[![Enter Now](https://pfrac.co.uk/static/images/enter-now-button.png)](https://racebest.com/races/qqwsu)
+**The 2025 race is full and there will be no entries available on the day.**
 
 Entry on the day will be available for an additional £2 if entry limit of 300 not reached.  In 2025 the race was full and no entries were available on the day.
-
---->
 
 #### Registration
 
