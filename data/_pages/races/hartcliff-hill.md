@@ -8,7 +8,7 @@ order: 20
 entry: ""
 distance: 4.6 miles/7.4km with 709ft/216m of ascent
 results: " "
-title: Hartcliff Hill Race
+title: Hartcliff Hill
 registration: ""
 category: Fell
 course_records: ""
@@ -19,9 +19,9 @@ The race starts and finishes in Penistone, on the playing fields next to the [Bo
 
 #### Entry
 
-Pre-entry £6.
+Pre-entry will be available closer to the time for £6.
 
-Minimum age to enter is 17 on the 31 December 2025 (FRA rules).
+Minimum age to enter is 17 on the 31 December 2026 (FRA rules).
 
 Entry on the day will be available for £8 if entry limit of 200 not reached.
 
