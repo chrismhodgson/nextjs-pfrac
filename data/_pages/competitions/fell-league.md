@@ -3,7 +3,7 @@ title: Fell League
 header: competitions/fell-league.jpg
 order: 20
 ---
-#### The 2025/25 Fell League
+#### The 2025/26 Fell League
 
 The competition runs from 1 April 2025 to 31 March 2026. All first claim members' results in all FRA licenced senior races count towards the league &ndash; you get points for every race, without any limit, and you get more points the faster you run.
 
