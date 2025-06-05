@@ -1,8 +1,5 @@
 ---
-start_date_time: |-
-  Tuesday May 6 2025 at 19:00
-
-  2026 date TBC
+start_date_time: 2026 date TBC - probably a Tuesday in May.
 organiser: Steve Sanders (stevemsanders71@gmail.com)
 strava_url: https://www.strava.com/segments/38554004/embed
 header: races/hartcliff-hill.jpg
