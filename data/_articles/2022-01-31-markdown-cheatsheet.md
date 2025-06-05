@@ -94,6 +94,8 @@ Format: ![Alt Text](url)
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
+[![Enter Now](https://pfrac.co.uk/static/images/enter-now-button.png)](https://racebest.com/races/qqwsu)
+
 ## Links
 
 ```
