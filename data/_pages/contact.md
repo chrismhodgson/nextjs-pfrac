@@ -24,12 +24,11 @@ See individual [race pages](https://pfrac.co.uk/races) for contact details about
 | Membership Secretary                  | [Peter Cross](mailto:peter.cross@bhp.co.uk)                 |
 | Junior Section Secretary              | [Bob Innes](mailto:janeandbob239@btinternet.com)            |
 | Lead Welfare Officer              | [Kirsty Rogers](kirstyandflynn@gmail.com)  & [Andy Taylor](mailto:at.topcop7572@hotmail.com)                       |
-| Child Protection Officer              | [Dan Limb](mailto:udan2k@hotmail.com)                       |
 | Road Secretary                        | [Richard Mackie](mailto:macklandr@aol.com)                  |
 | Cross Country Secretary               | [Nick Whittingham](mailto:nick.whittingham@btinternet.com)  |
-| Fell Running Secretary                | [Ian Charlesworth](mailto:ircy63@gmail.com)                 |
+| Fell Running Secretary                | Ian Charlesworth                 |
 
-**Other elected officers & contacts**     
+**Other officers & contacts**     
                                                       
 |                                       |  |                                                            
 | ------------------------------------- | ----------------------------------------------------------- |
