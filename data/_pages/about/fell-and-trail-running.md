@@ -37,9 +37,9 @@ S﻿ixteen club members have completed the challenge within 24 hours and become 
 - 2009: Simon Rippon (22:45)
 - 2010: Mark Pearce (23:53)
 - 2010: Brent Lindsay (23:11)
-- 2012: Nicky Spinks (18:12)
+- 2012: Nicky Spinks (18:12) - Fastest ladies' time until 2015
 - 2012: Joe Mann (20:59)
-- 2015: Nicky Spinks (18:06)
+- 2015: Nicky Spinks (18:06) - Fastest ladies' time until 2016
 - 2015: James Pierce (23:30)
 - 2016: Sarah Jones-Morris (23:11)
 - 2017: Chris Charlesworth (23:34)
