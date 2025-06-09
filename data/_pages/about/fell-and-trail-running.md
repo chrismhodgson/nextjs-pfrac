@@ -48,5 +48,5 @@ S﻿ixteen club members have completed the challenge within 24 hours and become 
 
 ### Billy Bland Challenge
 
-T﻿he Billy Bland Challenge uses the same route as the Bob Graham Round, but is run as a relay, with pairs of runners taking on each leg.  In 2025 the club completed the round in 20:15.  The attempt was organised by Steve Sanders and the team was Jon Hallam and Daniel Rushforth (leg 1); Mark Crossley, Steve Sanders and Shaun Swallow (leg 2)
+T﻿he Billy Bland Challenge uses the same route as the Bob Graham Round, but is run as a relay, with pairs of runners taking on each leg.  In 2025 the club completed the round in 20:10.  The attempt was organised by Steve Sanders and the team was Jon Hallam and Daniel Rushforth (leg 1; 4:15); Mark Crossley, Steve Sanders and Shaun Swallow (leg 2; 4:50); James Fryers and Tom Fryers (leg 3, 5:04); Richard Cottam and George Parr (leg 4; 3:40); Damian Kilpin and Suzanne McGill (leg 5; 2:21).
 
