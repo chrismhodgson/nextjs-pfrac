@@ -18,6 +18,8 @@ Many members, junior and senior, compete at all different levels, mostly there t
 * 2012: Barbara Haigh (FV65)
 * 2021: Julie Darigala (FV45 and FV50)
 
+G﻿raihagh Turner has represented England internationally in mountain running at under 17 and under 18 levels.
+
 ### Bob Graham Round
 
 T﻿he [Bob Graham Round](https://en.wikipedia.org/wiki/Bob_Graham_Round) is an individual fell running challenge in the Lake District. It is named after Bob Graham (1889–1966), who ran a circuit, starting and finishing at the Moot Hall in Keswick, summiting 42 fells, within 24 hours.  The route is approximately 66 miles (106 km) with 27,000 feet (8,200 m) of ascent and consists of five legs – the legs are defined by the four road crossings.
