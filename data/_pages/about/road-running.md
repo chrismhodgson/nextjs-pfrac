@@ -3,14 +3,13 @@ title: Road Running
 header: about/road-running.jpg
 order: 50
 ---
-
 The club is very active in road running, with training/social runs every Tuesday and Thursday from the club of varying distances and paces to suit everyone, along with other less formal runs and training on other days. We like to make the most of the easy access to quiet country roads with great views, and no shortage of hills that we have on our doorstep! For those interested there are also lots of organised events.
 
-- The club organises the [Penistone 10K](https://pfrac.co.uk/races/penistone-10k-race) and contributes to the [South Yorkshire Road League](https://www.sycaa.org.uk/road/) series, which many members compete in as well
-- We enter road relays, such as [Dam Flask](https://www.sheffieldrunningclub.org.uk/racing/our-hosted-races/dam-flask-relays/), [Rother Valley](https://hillsboroughandrivelinrunningclub.co.uk/rother-valley-relays/) and Regional and National Road Relays
-- There is a Road section to the [Club Championship](https://pfrac.co.uk/competitions/club-championship), with races selected each year between 5K and half marathon distance
-- We maintain [Club Records](http://results.pfrac.co.uk/records/) for each age group, with certificates awarded for breaking club records
-- The club has a set of [Road Standards](http://results.pfrac.co.uk/road-standards/), with certificates awarded for different levels of performance in each age group &ndash; see below for details
+* The club organises the [Penistone 10K](https://pfrac.co.uk/races/penistone-10k-race) and contributes to the [South Yorkshire Road League](https://www.sycaa.org.uk/road/) series, which many members compete in as well
+* We enter road relays, such as [Dam Flask](https://www.sheffieldrunningclub.org.uk/racing/our-hosted-races/dam-flask-relays/), [Rother Valley](https://hillsboroughandrivelinrunningclub.co.uk/rother-valley-relays/) and Regional and National Road Relays
+* There is a Road section to the [Club Championship](https://pfrac.co.uk/competitions/club-championship), with races selected each year between 5K and half marathon distance
+* We maintain [Club Records](http://results.pfrac.co.uk/records/) for each age group, with certificates awarded for breaking club records
+* The club has a set of [Road Standards](http://results.pfrac.co.uk/road-standards/), with certificates awarded for different levels of performance in each age group &ndash; see below for details
 
 ### Road Standards
 
@@ -30,12 +29,12 @@ For each age category there is a set of 1st, 2nd, 3rd and 4th class standards to
 
 This method ensures that anyone achieving, say 1st class, for any distance must have got at least a WAVA score of 75%, and also ensures consistency between ages, sexes and distances.
 
-- Times run in races at any time since the runner last joined Penistone Footpath Runners (performances from before a break in membership cannot be included) and while the runner was in the current age category count towards the club standards.
-- To achieve a standard a runner needs to complete any 3 of the 6 distances to the required standard.
-- The qualifying period for a standard is the whole 5 years within which a runner is within a particular category.
-- All times must be on UKA or ARC measured courses. In the case of the 5K distance, there is a [list of measured parkrun courses](http://coursemeasurement.org.uk/parkrun/list.php) which have been certified by an official course measurer; these count towards achieving the standard. 5000m and 10000m track races can also count for 5K and 10K respectively.
-- Certificates will be awarded to all runners completing a new standard at the club's Annual Presentation Evening.
-- The results program obtains all results from the [Power of 10](http://www.powerof10.info/athletes/athleteslookup.aspx?club=Penistone) website, including qualifying parkruns. Any races not on Power of 10 should be sent to [Paul Fryers](mailto:paul.fryers@gmail.com) and can then be added manually to the results system.
+* Times run in races at any time since the runner last joined Penistone Footpath Runners (performances from before a break in membership cannot be included) and while the runner was in the current age category count towards the club standards.
+* To achieve a standard a runner needs to complete any 3 of the 6 distances to the required standard.
+* The qualifying period for a standard is the whole 5 years within which a runner is within a particular category.
+* All times must be on UKA or ARC measured courses. In the case of the 5K distance, there is a [list of measured parkrun courses](http://coursemeasurement.org.uk/parkrun/list.php) which have been certified by an official course measurer; these count towards achieving the standard. 5000m and 10000m track races can also count for 5K and 10K respectively.
+* Certificates will be awarded to all runners completing a new standard at the club's Annual Presentation Evening.
+* The results program obtains all results from the [Power of 10](http://www.powerof10.info/athletes/athleteslookup.aspx?club=Penistone) website, including qualifying parkruns. Any races not on Power of 10 should be sent to [Paul Fryers](mailto:paul.fryers@gmail.com) and can then be added manually to the results system.
 
 ### Outstanding Achievements
 
@@ -48,3 +47,4 @@ More recently, three members have qualified for English Masters Vests and repres
 * 2021: Andrew Pearson, MV55
 * 2021: Malcolm Rose, MV65
 * 2022: Dawn Broom, FV55
+* 2﻿025: Dawn Broom, FV60
