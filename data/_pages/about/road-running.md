@@ -42,7 +42,7 @@ Many members compete in road races, at all different levels.  Most of us are the
 
 Julie Buckley broke the UK all time record for 5km in the Vet 55 category in 2011, with 17:57 at Doncaster, and held the record until 2017.
 
-More recently, three members have qualified for English Masters Vests and represented England internationally:
+I﻿n recent years, several members have qualified for England Masters vests and represented the country in international competitions on the road:
 
 * 2021: Andrew Pearson, MV55
 * 2021: Malcolm Rose, MV65
