@@ -48,4 +48,5 @@ More recently, three members have qualified for English Masters Vests and repres
 * 2021: Malcolm Rose, MV65
 * 2022: Dawn Broom, FV55
 * 2﻿024: Suzanne McGill, FV45
+* 2﻿024: Rachael Mayston, FV50
 * 2﻿024: Dawn Broom, FV60
