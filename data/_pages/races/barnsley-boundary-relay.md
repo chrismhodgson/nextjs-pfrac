@@ -1,5 +1,5 @@
 ---
-start_date_time: Saturday 14 June 2025 a﻿t 08:00 – see below for individual leg start times
+start_date_time: Date for 2026 tbc
 organiser: Steve Dickinson (steve@osi.uk.com) – 07850 445613.  Contact Steve if
   interested in entering a team.
 header: races/barnsley-boundary-relay.jpg
@@ -28,12 +28,6 @@ The first leg starts at 8am. The second leg starts when the first runner reaches
 An ordnance survey map, aerial photography and GPX files for the whole route are available on the [Barnsley Boundary Walk](http://www.gps-routes.co.uk/routes/home.nsf/RoutesLinksWalks/barnsley-boundary-walk-walking-route#) website. Note that the race route does not always follow the same route as marked on the Ordnance Survey maps or the Walking Guides.
 
 The links below give maps and GPX files for each leg. The GPX files can be downloaded and imported into GPS software, or uploaded to a phone or watch.
-
-**Notes for 2025**
-
-**There are two major changes to the route on leg 2.  The map and GPX file below show the new routes. These have been updated on the website on 28 May 2025 – those available before that had an error. The changes are described in detail in [this document](https://pfrac.co.uk/static/uploads/leg-2-update-2025.pdf).**
-
-**There is a small diversion on leg 6.  Details are in [this document](https://pfrac.co.uk/static/uploads/leg-6-update-2025.pdf).**
 
 | Leg                                   | Start time (approx)                                                         | Distance/climb                                                            |
 | ------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -71,5 +65,6 @@ If anyone finds any errors in the GPX files, please contact [Paul Fryers](mailto
 [2022](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2022-results.pdf)
 [2023](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2023-results.pdf)
 [2024](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2024-results.pdf)
+[2025](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2025-results.pdf)
 
 The race in 2020 was cancelled.
