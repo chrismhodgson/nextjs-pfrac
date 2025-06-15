@@ -31,7 +31,7 @@ The links below give maps and GPX files for each leg. The GPX files can be downl
 
 | Leg                                   | Start time (approx)                                                         | Distance/climb                                                            |
 | ------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 1: Cannon Hall to Bretton Park        | 08:00                                                                       | 5.1M/528'                                                                 |
+| 1: Cannon Hall to Bretton Park        | 08:00                                                                       | 5.0M/528'                                                                 |
 |     Start: S75 4AR / SE 27283 07944   |                 [Map](https://pfrac.co.uk/static/images/maps/bb-leg-1.png)  |                 [GPX](https://pfrac.co.uk/static/gpx-files/bb-leg-1.gpx)  |
 | 2: Bretton Park to Brierley           | 08:30                                                                       | 10.4M/768'                                                                |
 |     Start: S75 4BZ / SE 29960 12013   |                 [Map](https://pfrac.co.uk/static/images/maps/bb-leg-2.png)  |                 [GPX](https://pfrac.co.uk/static/gpx-files/bb-leg-2.gpx)  |
