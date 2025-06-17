@@ -23,13 +23,15 @@ Pre-entry £16 for England Athletics affiliated runners; £18 for unaffiliated r
 
 Minimum age 15 on the day
 
-**The 2025 race is full and there will be no entries available on the day.**
+**Online entry for the 2025 race has closed but there will be a small number of places available on the day.**
 
-Entry on the day will be available for an additional £2 if entry limit of 300 not reached.  In 2025 the race was full and no entries were available on the day.
+Entry on the day will be available for an additional £2 if entry limit of 300 not reached.  In 2024 and 2025 the race sold out well before the race.
 
-#### Registration
+#### Registration and parking
 
-Registration from 8:30am at [Penistone Church Football Club](https://www.google.co.uk/maps/place/Penistone+Church+Football+Club/@53.523332,-1.625649,17z/data=!3m1!4b1!4m2!3m1!1s0x48797d6f378b73f1:0x3ae39c5f7e6bf5ba?hl=en-GB), S36 6AT.
+Registration from 8:00am at [Penistone Church Football Club](https://www.google.co.uk/maps/place/Penistone+Church+Football+Club/@53.523332,-1.625649,17z/data=!3m1!4b1!4m2!3m1!1s0x48797d6f378b73f1:0x3ae39c5f7e6bf5ba?hl=en-GB), S36 6AT.
+
+Please read these [parking instructions](https://pfrac.co.uk/static/uploads/10k-car-parking.pdf).
 
 #### Results
 
