@@ -1,11 +1,10 @@
 ---
 start_date_time: Date for 2026 tbc
-organiser: Steve Dickinson (steve@osi.uk.com) – 07850 445613.  Contact Steve if
-  interested in entering a team.
+organiser: ""
 header: races/barnsley-boundary-relay.jpg
 order: 10
 entry: ""
-distance: Approximately 72/115km miles with 7,350ft//2,240m of ascent, over 10 legs
+distance: Approximately 72/115km miles with 7,350ft/2,240m of ascent, over 10 legs
 results: " "
 title: Barnsley Boundary Relay
 registration: ""
@@ -15,7 +14,7 @@ The Barnsley Boundary Relay Race is a multi-terrain race following the boundary 
 
 It is organised by Penistone Footpath Runners in conjunction with [Barnsley Rockley Rotary Club](http://barnsleyrockleyrotary.org.uk/) and with the support of other local running clubs.
 
-Entries are welcome from any running clubs, organisations or businesses. Some legs require some navigation or previous knowledge – there are plenty of opportunities to be shown the way before the day. It is an sociable event.
+Entries are welcome from any running clubs, organisations or businesses. Some legs require some navigation or previous knowledge – there are plenty of opportunities to be shown the way before the day.
 
 GPX files and maps are available for all 10 legs below.
 
