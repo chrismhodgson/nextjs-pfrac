@@ -1,5 +1,5 @@
 ---
-start_date_time: Sunday 22 June 2025 at 09:30
+start_date_time: 2026 date TBC; usually a Saturday in June, starting at 9:30
 organiser: Keith Gordon (keithhgordon@me.com)
 strava_url: https://www.strava.com/segments/18044628/embed
 header: races/penistone-10k.jpg
@@ -19,11 +19,9 @@ Even though he was unwell in the last few years of his life, he often turned up 
 
 #### Entry
 
-Pre-entry £16 for England Athletics affiliated runners; £18 for unaffiliated runners.
+Pre-entry £TBC for England Athletics affiliated runners; £TBC for unaffiliated runners.
 
 Minimum age 15 on the day
-
-**Online entry for the 2025 race has closed but there will be a small number of places available on the day.**
 
 Entry on the day will be available for an additional £2 if entry limit of 300 not reached.  In 2024 and 2025 the race sold out well before the race.
 
@@ -81,6 +79,7 @@ Please read these [parking instructions](https://pfrac.co.uk/static/uploads/10k-
 [2022](https://www.runbritainrankings.com/results/results.aspx?meetingid=472332)
 [2023](https://www.runbritainrankings.com/results/results.aspx?meetingid=544717)
 [2024](https://racebest.com/results/6secg)
+[2025](https://racebest.com/results/qqwsu)
 
 The races in 2020 and 2021 were cancelled.
 
