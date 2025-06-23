@@ -64,7 +64,7 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |             |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [Rother Valley Relays](https://www.facebook.com/groups/3057188804514648/?locale=en_GB)                                              | Wed 21 May  |
-| [Joe Percy 10K](https://www.holmfirthharriers.com/event/joe-percy-10k/)                                                             | Wed 11 Jun  |
+| [Joe Percy 10K](https://www.holmfirthharriers.com/event/joe-percy-10k/) - cancelled; replacement race tbc                           |             |
 | [Barnsley 10K](https://racebest.com/races/2uakk)                                                                                    | Sun 29 Jun  |
 | [Clowne Half Marathon](https://clowneroadrunners.org/?page_id=2080)                                                                 | Sun 23 Nov  |
 | [Meltham 10K](https://melthamac.com/races/meltham-10k/)                                                                             | Sun tbc Jan |
