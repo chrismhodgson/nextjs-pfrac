@@ -63,24 +63,24 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 
 | Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |             |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Rother Valley Relays](https://www.facebook.com/groups/3057188804514648/?locale=en_GB) | Wed 21 May   |
+| [Rother Valley Relays](https://www.facebook.com/groups/3057188804514648/?locale=en_GB)                                              | Wed 21 May  |
 | [Joe Percy 10K](https://www.holmfirthharriers.com/event/joe-percy-10k/)                                                             | Wed 11 Jun  |
-| [Barnsley 10K](https://racebest.com/races/2uakk)                                                             | Sun 29 Jun  |
-| [Clowne Half Marathon](https://clowneroadrunners.org/?page_id=2080)                                                                          | Sun tbc Nov |
-| [Meltham 10K](https://melthamac.com/races/meltham-10k/)                                                                     | Sun tbc Jan   |
+| [Barnsley 10K](https://racebest.com/races/2uakk)                                                                                    | Sun 29 Jun  |
+| [Clowne Half Marathon](https://clowneroadrunners.org/?page_id=2080)                                                                 | Sun 23 Nov  |
+| [Meltham 10K](https://melthamac.com/races/meltham-10k/)                                                                             | Sun tbc Jan |
 
-| Trail/Cross Country Section                                                                                   |            |
-| ------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Higham Hurtle](https://www.barnsleyharriers.org.uk/)                                                 | Thu 24 Apr |
-| [Furty Furlong](https://racebest.com/races/ur7xa)                                                             | Sat 10 May |
-| [Silkstone Shuffle](https://www.barnsleyharriers.org.uk/)                                                 | Thu 24 Jul  |
-| [Stan's Toffee Run](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/stan-s-toffee-run) | Thu 14 Aug |
-| Worrall Chase                                                         | Sat 6 Sep tbc |
+| Trail/Cross Country Section                                                                                   |               |
+| ------------------------------------------------------------------------------------------------------------- | ------------- |
+| [Higham Hurtle](https://www.barnsleyharriers.org.uk/)                                                         | Thu 24 Apr    |
+| [Furty Furlong](https://racebest.com/races/ur7xa)                                                             | Sat 10 May    |
+| [Silkstone Shuffle](https://www.barnsleyharriers.org.uk/)                                                     | Thu 24 Jul    |
+| [Stan's Toffee Run](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/stan-s-toffee-run) | Thu 14 Aug    |
+| Worrall Chase                                                                                                 | Sat 6 Sep tbc |
 
-| Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Hartcliff Hill Race](https://pfrac.co.uk/races/hartcliff-hill)                                                      | Tue 6 May  |
-| [Thurlstone Chase](https://pfrac.co.uk/races/thurlstone-chase)                                             | Thu 3 Jul  |
-| [Longshaw Sheepdog Trials](https://www.fellrunner.org.uk/races/cc6a040c-381f-47d4-b0f9-a7e6e3ff49e0)                                                                                                    | Sat 30 Aug  |
-| [Padfield](https://events360.co.uk/padfieldplum/)                                                                     | Sat 15 Nov tbc   |
-| [Hoppits Hill](https://www.hoppits.co.uk/)                                                                                                                | Sun tbc Feb |
+| Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [Hartcliff Hill Race](https://pfrac.co.uk/races/hartcliff-hill)                                                                                          | Tue 6 May      |
+| [Thurlstone Chase](https://pfrac.co.uk/races/thurlstone-chase)                                                                                           | Thu 3 Jul      |
+| [Longshaw Sheepdog Trials](https://www.fellrunner.org.uk/races/cc6a040c-381f-47d4-b0f9-a7e6e3ff49e0)                                                     | Sat 30 Aug     |
+| [Padfield](https://events360.co.uk/padfieldplum/)                                                                                                        | Sat 15 Nov tbc |
+| [Hoppits Hill](https://www.hoppits.co.uk/)                                                                                                               | Sun tbc Feb    |
