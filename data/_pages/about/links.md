@@ -3,7 +3,7 @@ title: Links
 header: about/links.jpg
 order: 100
 ---
-#### Club policies
+### Club Policies
 
 The Club Constitution is currently under review and will be agreed at the next AGM.
 
@@ -15,14 +15,14 @@ The policies below are drafts, to be proposed at the next AGM.
 * [Health and safety policy](https://pfrac.co.uk/static/policies/pfrac-health-safety-policy)
 * [Social media policy](https://pfrac.co.uk/static/policies/pfrac-social-media-policy)
 
-#### England Athletics Policies and Procedures
+### England Athletics Policies and Procedures
 
 As an England Athletics affiliated club, all club officials and members are required to follow all the policies and procedures on the pages linked to below.
 
 * [Safeguarding](https://www.englandathletics.org/welfare/safeguarding/)
 * [Reporting a concern](https://www.englandathletics.org/welfare/reporting-a-concern/)
 
-#### Race result links
+### Race Result Links
 
 * [Individual runner summaries for PFRAC runners](http://results.pfrac.co.uk/runners/)
 * [South Yorkshire County Athletics Association](http://www.sycaa.co.uk/)
@@ -33,7 +33,7 @@ As an England Athletics affiliated club, all club officials and members are requ
 * [John Schofield's UK Results site](http://www.ukresults.net/index.html)
 * [Latest parkrun results for PFRAC runners](http://results.pfrac.co.uk/parkrun-2024/latest)
 
-#### Other Local Clubs
+### Other Local Clubs
 
 These clubs organise races that PFRAC often compete in.
 
