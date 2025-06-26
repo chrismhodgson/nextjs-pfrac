@@ -5,14 +5,15 @@ order: 100
 ---
 #### Club policies
 
-These are currently under review and links will be added here as they are agreed.
+The Club Constitution is currently under review and will be agreed at the next AGM.
 
-* Club constitution
-* Grievance and disciplinary policy
+The policies below are drafts, to be proposed at the next AGM.
+
+* [Grievance and disciplinary policy](https://pfrac.co.uk/static/policies/pfrac-grievance-disciplinary-policy)
 * [Privacy notice](https://pfrac.co.uk/static/policies/pfrac-privacy-notice.pdf)
-* Inclusion policy
-* Health and safety policy
-* Social media policy
+* [Inclusion policy](https://pfrac.co.uk/static/policies/pfrac-inclusion-policy)
+* [Health and safety policy](https://pfrac.co.uk/static/policies/pfrac-health-safety-policy)
+* [Social media policy](https://pfrac.co.uk/static/policies/pfrac-social-media-policy)
 
 #### England Athletics Policies and Procedures
 
