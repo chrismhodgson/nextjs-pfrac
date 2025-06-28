@@ -1,5 +1,5 @@
 ---
-title: Links
+title: Policies and Links
 header: about/links.jpg
 order: 100
 ---
