@@ -19,11 +19,11 @@ See individual [race pages](https://pfrac.co.uk/races) for contact details about
 | ------------------------------------- | ----------------------------------------------------------- |
 | President                             | [Keith Gordon](mailto:keithhgordon@me.com)                  |
 | Chair                                 | [Jill Carlton](mailto:jillycarlton1@gmail.com)                     |
-| Treasurer                             | [Dean Allcroft](mailto:deanallcroft@gmail.com)              |
 | Secretary                             | [Martyn Cartwright](mailto:martynandpauline@gmail.com)      |
+| Treasurer                             | [Dean Allcroft](mailto:deanallcroft@gmail.com)              |
 | Membership Secretary                  | [Peter Cross](mailto:peter.cross@bhp.co.uk)                 |
 | Junior Section Secretary              | [Bob Innes](mailto:janeandbob239@btinternet.com)            |
-| Lead Welfare Officer              | [Kirsty Rogers](kirstyandflynn@gmail.com)  & [Andy Taylor](mailto:at.topcop7572@hotmail.com)                       |
+| Lead Welfare Officers              | [Kirsty Rogers](kirstyandflynn@gmail.com)  & [Andy Taylor](mailto:at.topcop7572@hotmail.com)                       |
 | Road Secretary                        | [Richard Mackie](mailto:macklandr@aol.com)                  |
 | Cross Country Secretary               | [Nick Whittingham](mailto:nick.whittingham@btinternet.com)  |
 | Fell Running Secretary                | Ian Charlesworth                 |
