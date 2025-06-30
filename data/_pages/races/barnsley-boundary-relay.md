@@ -55,8 +55,8 @@ If anyone finds any errors in the GPX files, please contact [Paul Fryers](mailto
 
 #### Results
 
-[2015](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2015-results.xlsx)
-[2016](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2016-results.xlsx)
+[2015](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2015-results.pdf)
+[2016](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2016-results.pdf)
 [2017](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2017-results.pdf)
 [2018](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2018-results.pdf)
 [2019](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2019-results.pdf)
