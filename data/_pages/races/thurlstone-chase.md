@@ -1,5 +1,5 @@
 ---
-start_date_time: Thursday 3 July, 19:30
+start_date_time: 2026 date tbc
 organiser: Keith Gordon (thurchase2021@gmail.com)
 strava_url: ""
 header: races/thurlstone-chase.jpg
@@ -11,7 +11,6 @@ title: Thurlstone Chase
 registration: ""
 category: Fell
 ---
-
 The Thurlstone Chase is a BS category fell race, run under licence from the Fell Runners Association.
 
 Prizes for the first 3 men and women, then 1st in each age category V40, V50, V60 and V70.
@@ -24,7 +23,7 @@ This race will have a permit and associated UK Athletics insurance from the [Fel
 
 #### Registration
 
-Registration, and the race start and finish, are at [Thurlstone Football Club](https://www.google.co.uk/maps/place/THURLSTONE+FOOTBALL+CLUB/@53.5280495,-1.6571955,16.25z/data=!4m5!3m4!1s0x487bd7dfc2a74a0d:0x5788c72b004d0bcb!8m2!3d53.528038!4d-1.6591823), High Bank Lane, Thurlstone. Grid ref SE226036. Nearest postcode is S36 9PS.
+Registration, and the race start and finish, are at [Thurlstone Football Club](https://www.google.co.uk/maps/place/THURLSTONE+FOOTBALL+CLUB/@53.5280495,-1.6571955,16.25z/data=!4m5!3m4!1s0x487bd7dfc2a74a0d:0x5788c72b004d0bcb!8m2!3d53.528038!4d-1.6591823), High Bank Lane, Thurlstone. Grid ref SE226036. Nearest postcode is S36 9PS. Car parking is available in the start field.
 
 #### Results
 
@@ -48,22 +47,23 @@ Registration, and the race start and finish, are at [Thurlstone Football Club](h
 [2022](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2022-results.pdf)
 [2023](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2023-results.pdf)
 [2024](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2024-results.pdf)
+[2025](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2025-results.pdf)
 
 The races in 2008 and 2020 were cancelled.
 
 #### Course Records
 
-_Previous course &ndash; 2003&ndash;2019_
+*Previous course &ndash; 2003&ndash;2019*
 
 Male: 20:50 &ndash; P Dugdale, 1986
 
 Female: 22:40 &ndash; C Haigh, 1985
 
-_Current course &ndash; 2021 onwards_
+*Current course &ndash; 2021 onwards*
 
-Male: 25:28 &ndash; Phil Montgomery, Dark Peak Fell Runners, 2023
+Male: 25:04 &ndash; Thomas Harrison, Hillsborough & Rivelin Running Club, 2025
 
-Female: 27:28 &ndash; Ruth Jones, Salford Harriers, 2021
+Female: 26:56 &ndash; Emily Cowper-Coles, Dark Peak Fell Runners, 2025
 
 £25 cash prize for 1st male and female breaking the course record.
 
