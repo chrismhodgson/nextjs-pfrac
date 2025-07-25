@@ -69,13 +69,13 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Clowne Half Marathon](https://clowneroadrunners.org/?page_id=2080)                                                                 | Sun 23 Nov  |
 | [Meltham 10K](https://melthamac.com/races/meltham-10k/)                                                                             | Sun tbc Jan |
 
-| Trail/Cross Country Section                                                                                   |               |
-| ------------------------------------------------------------------------------------------------------------- | ------------- |
-| [Higham Hurtle](https://www.barnsleyharriers.org.uk/)                                                         | Thu 24 Apr    |
-| [Furty Furlong](https://racebest.com/races/ur7xa)                                                             | Sat 10 May    |
-| [Silkstone Shuffle](https://www.barnsleyharriers.org.uk/)                                                     | Thu 24 Jul    |
-| [Stan's Toffee Run](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/stan-s-toffee-run) | Thu 14 Aug    |
-| Worrall Chase                                                                                                 | Sat 6 Sep tbc |
+| Trail/Cross Country Section                                                                                   |            |
+| ------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Higham Hurtle](https://www.barnsleyharriers.org.uk/)                                                         | Thu 24 Apr |
+| [Furty Furlong](https://racebest.com/races/ur7xa)                                                             | Sat 10 May |
+| [Silkstone Shuffle](https://www.barnsleyharriers.org.uk/)                                                     | Thu 24 Jul |
+| [Stan's Toffee Run](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/stan-s-toffee-run) | Thu 14 Aug |
+| [Worrall Chase](https://www.facebook.com/events/worrall-festival/worrall-festival-chase-2025/685761184229702/)                                                                                                 | Sat 6 Sep  |
 
 | Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
