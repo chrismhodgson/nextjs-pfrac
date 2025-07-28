@@ -1,0 +1,17 @@
+---
+title: Penistone juniors shine at Sheffield relays
+draft: false
+date: 2025-07-14T13:07:10.606Z
+tags:
+  - PRESS
+summary: Round-up of Penistone runners' results
+---
+Penistone Footpath Runners’ Juniors stole the spotlight this week with two outstanding team performances at the Sheffield Relays. In the 4x1km Mixed Relay, the quartet of Flynn Rogers, Edward Holley, Ben Thorogood, and Finn Pepper stormed to 18th place overall and claimed 2nd place in the Mixed category with a combined time of 13-15. Later in the evening, the same team returned for the Descent of Doom. Rising to the challenge, they placed 13th overall and 1st in the Mixed category, clocking 16-32 — another brilliant result on a tough course.
+
+There was more success for Penistone at the second race of the 2025 Spencers Dash series. Leading the way in commanding fashion was James Mumford, who claimed overall victory in a time of 21-36, securing first place in the first over40 man. He now holds a combined time of 42-53 across the first two races in the series.  Also finishing strongly was Oliver France, who took third place overall and second in the senior men’s category with a time of 22-32. The club’s top female performer was Suzanne McGill, who crossed the line in 25-58 to finish 24th overall and take first place in the ladies over45 category.  Notable age-category placings came from Ian Neville (18th overall, second over55 man), Loida Lopez (49th, third over50 lady), and Susan Hall (98th, third over60 lady). In the men’s over65 category, Penistone had three top-ten finishers, with Stuart Woodhead, Stu Smith, and Keith Gordon placing fourth, fifth and sixth respectively. Andrew Taylor completed the club’s line-up, finishing in 99th place and tenth in the over55 age group.
+
+Elsewhere, at the [Big Stone](https://results.pfrac.co.uk/fell-league-2025/big-stone) Fell Race in Chinley, Derbyshire, two Penistone runners took on the tough 6.6km course with 260m of climb. Damian Kilpin ran superbly to place 16th overall and 1st in the men's over45 category with a time of 39-10. He was joined by Steve Storey, who finished in 52nd and claimed 2nd over65 man in 47-28. 
+
+Three Penistone runners were in action at the Ilkley Half Marathon, a challenging road race through the hills of West Yorkshire. Jade Crosby led the way for the club’s women, finishing in 1-37-34 to place 12th female overall out of 263. Nichola McNally delivered a strong run to take 3rd in the ladies over50 category with a time of 1-39-38. On the men’s side, Alex Crosby completed the course in 1-50-46, placing 228th in the senior male category.
+
+At the Penistone [parkrun](https://results.pfrac.co.uk/parkrun-2025/2025-07-12), Suzanne McGill was first female, finishing in 21-37, while Rob Lees was first finisher at New Earswick in 18-59. Richard Cottam and Andrew Heppenstall placed second and third overall at Penistone in 18-16 and 18-18, respectively. Special congratulations to Sarah Clough, who completed her 150th parkrun at Penistone, and to Gemma Nutton and Ben Wilkinson who both achieved PBs.  Standout age-graded runs this week came from Ian Neville (78.79%), Dawn Broom  (77.86%), Andrew Heppenstall (76.87%), Suzanne McGill (76.64%) and Rob Lees (76.47%).
