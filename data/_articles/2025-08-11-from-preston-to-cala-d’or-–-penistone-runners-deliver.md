@@ -6,7 +6,7 @@ tags:
   - PRESS
 summary: Round-up of Penistone runners' results
 ---
-It was another busy week for the club's runners with standout performances on road, trail, fell and parkrun. At the City of Preston 10 Mile, James Mumford delivered a scintillating run to finish fifth overall in 58-40. His time not only secured first place in the men’s over40 category but also set a new men’s over45 club record, his second club record in consecutive weeks.
+It was another busy week for the club's runners with standout performances on road, trail, fell and parkrun. At the City of Preston 10 Mile, James Mumford delivered a scintillating run to finish fifth overall in 58-40. His time not only secured first place in the men’s over40 category but also set a new men’s over45 [club record](https://results.pfrac.co.uk/records/), his second club record in consecutive weeks.
 
 In East Yorkshire, Gemma Nutton claimed a fine podium finish at the Howden Town 5K, clocking 22-49 to take third lady and 14th overall. On the same evening, Alan Nutton tackled the Howden 10K, a tough multi-terrain route mixing open roads and trails. Alan crossed the line in 36-19 for fifth place overall capping an excellent night for the husband and wife.
 
