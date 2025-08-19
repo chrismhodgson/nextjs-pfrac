@@ -1,0 +1,15 @@
+---
+title: Toffee Run brings sweet rewards for Penistone
+draft: false
+date: 2025-08-18T07:54:59.749Z
+tags:
+  - PRESS
+summary: Round-up of Penistone runners' results
+---
+The club turned out in force for the latest race in the Kimberworth Striders’ KMR Series — the ever-popular [Stan’s Toffee Run](https://results.pfrac.co.uk/championship-2025/stans-toffee-run). A total of 17 club members took part and the challenging course produced a string of standout performances. At the front of the field, Richard Cottam ran superbly to secure second place overall in a time of 23-44. There was further podium success in the age categories, with Ian Neville taking first over60 man in 26-47, Suzanne McGill claiming first over45 lady in 28-05, Stuart Woodhead topping the men’s over70 category in 34-21, and Barbara Haigh winning first over75 lady in 43-05. Strong club support was evident throughout the field, with fine runs from Phil Hinchliffe 29-09, Shaun Swallow 29-41, Loida Lopez 30-47, Jill Scrivens 32-12, Gemma Nutton 33-28, Amelia Cottam 34-58, Chloe Hinchliffe 36-30, Stu Smith 36-34, Luke McGuinness 38-03, Mandy Mallinder 38-10, Jen Holley 40-49 and Steve Dommett 44-19.
+
+Further afield, Peter Beever represented the club at the Escrick 10K Trail Race, completing the course in 47-12. Robert Davies was also in fine form at the Even Splits York 5K where he ran 20-28 — his best 5K performance since May 2019.
+
+James and Paul Fryers took on [Eccles Pike](https://results.pfrac.co.uk/fell-league-2025/eccles-pike) fell race on Wednesday, one of the oldest fell races in the calendar, dating back to the 19th century, from Buxworth near Whaley Bridge: 3.4 miles with 775ft of climb.  James had a good run, finishing 7th and Paul 87th.  On Thursday, Damian Kilpin and Dan Limb ran [Denis Stitt](https://results.pfrac.co.uk/fell-league-2025/denis-stitt-memorial) fell race, a tough two-lap race from Cartworth Moor, near Holmfirth: 3.7 miles with 1,214ft of climb.  Damian finished first V45 and 12th overall, while Dan was 30th.
+
+The weekend’s [parkruns](https://results.pfrac.co.uk/parkrun-2025/2025-08-16) saw a strong turnout with 70 Penistone seniors running across 22 different venues. The performance of the weekend came from Julia Johnson at Alexandra where she achieved an outstanding age-graded score of 90.50%, cracking the 90% barrier for the first time. Other high age-grade marks came from Suzanne McGill 81.01%, James Mumford 80.13%, Ian Neville 79.37% and Andrew Heppenstall 77.64%. Second gender placings went to Jill Scrivens at Myrtle and Tom Fryers at Penistone, while third places were claimed by Richard Cottam at Penistone, James Mumford at Thornes and Simon Pike at Courtenay Airpark in Canada — where he also placed third the previous week. There was a milestone for John Lawcock who completed his 250th parkrun at Rutland Water. Results included a personal best for Alan Nutton at Thornes with 18-14 for 5th place, while at Penistone there were PBs for Oliver Found 21-33 and Sara Wolstenholme 28-40. Junior performances also shone, with Madison Limb finishing second under11 girl at Barnsley junior in 11-32.
