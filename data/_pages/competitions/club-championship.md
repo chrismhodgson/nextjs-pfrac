@@ -35,11 +35,13 @@ To qualify for each section you need to compete in at least 3 of the 5 races. Yo
 
 To qualify for the overall Championship you have to compete in 8 races, with at least 2 of these from each section. Your 8 best race scores, including the minimum of 2 from each section, will be added together to form an overall Championship total.
 
+One of the 'races' for 2025-26 is the No Walk in the Park 5K race series - there are seven races (the first Saturdays of September to March) included in the championship: to count you can run any one of them, and if you run more than one your fastest time will count.
+
 All first claim members are included in the Championship. Juniors running in senior races (where permitted) will be included in the Under 20 category. Members joining (or re-joining) during the year will only have results counted from the date their subscription has been paid.
 
 #### Scoring
 
-Each runner's points are calculated based on their time relative to the overall race winner (male and female respectively). This is exactly the same as the [Fell League](https://pfrac.co.uk/competitions/fell-league). If a PFR runner is first male or first female, he or she will get 100 points. If your time is exactly double the winner’s time, you get 50 points: the points are calculated on a scale so the faster you run the more points you get. For the series events, the points are based on your fastest time of the series relative to the fastest race winning time of the series.
+Each runner's points are calculated based on their time relative to the overall race winner (male and female respectively). This is exactly the same as the [Fell League](https://pfrac.co.uk/competitions/fell-league). If a PFR runner is first male or first female, he or she will get 100 points. If your time is exactly double the winner’s time, you get 50 points: the points are calculated on a scale so the faster you run the more points you get. For the No Walk in the Park 5K), the points are based on your fastest time of the series (September to March) relative to the fastest race winning time across all the events with a first claim Penistone finisher.
 
 The main advantages of this method are: 1) it means that every second you run faster will gain you points (not a lot, but something – unless you are the race winner). Beating another Penistone runner (of the same sex) in a race will always mean you get more points than them – but the bigger the gap you get the more points you gain. 2) you don’t get points as a result of other PFR runners not turning up – you get points for your own performance.
 
@@ -61,21 +63,21 @@ Your age group for the Championship in any year is determined by your age on Apr
 
 All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
 
-| Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |             |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Rother Valley Relays](https://www.facebook.com/groups/3057188804514648/?locale=en_GB)                                              | Wed 21 May  |
-| [Joe Percy 10K](https://www.holmfirthharriers.com/event/joe-percy-10k/) - cancelled; replacement race tbc                           |             |
-| [Barnsley 10K](https://racebest.com/races/2uakk)                                                                                    | Sun 29 Jun  |
-| [Clowne Half Marathon](https://clowneroadrunners.org/?page_id=2080)                                                                 | Sun 23 Nov  |
-| [Meltham 10K](https://melthamac.com/races/meltham-10k/)                                                                             | Sun tbc Jan |
+| Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [Rother Valley Relays](https://www.facebook.com/groups/3057188804514648/?locale=en_GB)                                              | Wed 21 May                                    |
+| [Barnsley 10K](https://racebest.com/races/2uakk)                                                                                    | Sun 29 Jun                                    |
+| [No Walk in the Park 5K](https://www.northderbyshirerc.co.uk/races/our-races)                                                       | First Saturday each month, September to March |
+| [Clowne Half Marathon](https://clowneroadrunners.org/?page_id=2080)                                                                 | Sun 23 Nov                                    |
+| [Meltham 10K](https://melthamac.com/races/meltham-10k/)                                                                             | Sun 26 Jan                                    |
 
-| Trail/Cross Country Section                                                                                   |            |
-| ------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Higham Hurtle](https://www.barnsleyharriers.org.uk/)                                                         | Thu 24 Apr |
-| [Furty Furlong](https://racebest.com/races/ur7xa)                                                             | Sat 10 May |
-| [Silkstone Shuffle](https://www.barnsleyharriers.org.uk/)                                                     | Thu 24 Jul |
-| [Stan's Toffee Run](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/stan-s-toffee-run) | Thu 14 Aug |
-| [Worrall Chase](https://www.facebook.com/events/worrall-festival/worrall-festival-chase-2025/685761184229702/)                                                                                                 | Sat 6 Sep  |
+| Trail/Cross Country Section                                                                                    |            |
+| -------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Higham Hurtle](https://www.barnsleyharriers.org.uk/)                                                          | Thu 24 Apr |
+| [Furty Furlong](https://racebest.com/races/ur7xa)                                                              | Sat 10 May |
+| [Silkstone Shuffle](https://www.barnsleyharriers.org.uk/)                                                      | Thu 24 Jul |
+| [Stan's Toffee Run](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/stan-s-toffee-run)  | Thu 14 Aug |
+| [Worrall Chase](https://www.facebook.com/events/worrall-festival/worrall-festival-chase-2025/685761184229702/) | Sat 6 Sep  |
 
 | Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
@@ -83,4 +85,4 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Thurlstone Chase](https://pfrac.co.uk/races/thurlstone-chase)                                                                                           | Thu 3 Jul      |
 | [Longshaw Sheepdog Trials](https://www.fellrunner.org.uk/races/cc6a040c-381f-47d4-b0f9-a7e6e3ff49e0)                                                     | Sat 30 Aug     |
 | [Padfield](https://events360.co.uk/padfieldplum/)                                                                                                        | Sat 15 Nov tbc |
-| [Hoppits Hill](https://www.hoppits.co.uk/)                                                                                                               | Sun tbc Feb    |
+| [Hoppits Hill](https://www.hoppits.co.uk/)                                                                                                               | Sun 16 Feb     |
