@@ -27,10 +27,10 @@ Your best 6 scores will be summed to determine your final score for the series. 
 
 * [Elsecar 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Elsecar%2520PZ%2520PXAS%2520ScoreN60.csv)
 * [Hartcliff 40 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Hartcliff%2520PZ%2520PXAS%2520ScoreN40.csv)
-* [Langsett 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Elsecar%2520PZ%2520PXAS%2520ScoreN60.csv)
-* [Winscar 80 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Elsecar%2520PZ%2520PXAS%2520ScoreN60.csv)
-* [Broomhead 80 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Elsecar%2520PZ%2520PXAS%2520ScoreN60.csv)
-* [Hugset 50 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Elsecar%2520PZ%2520PXAS%2520ScoreN60.csv)
+* [Langsett 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Langsett%2520PZ%2520PXAS%2520ScoreN60.csv)
+* [Winscar 80 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Winscar%2520PZ%2520PXAS%2520ScoreN80.csv)
+* [Broomhead 80 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Broomhead%2520PZ%2520PXAS%2520ScoreN80.csv)
+* [Hugset 50 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Hugset%2520PZ%2520PXAS%2520ScoreN50.csv)
 
 [2024 Final Standings](https://pfrac.co.uk/static/results/orienteering/2024-results.xlsx)
 
