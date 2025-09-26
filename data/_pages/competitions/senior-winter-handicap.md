@@ -11,20 +11,20 @@ From 2022 the competition has been named after Philip Senior, who died in 2020. 
 
 #### Dates for 2025
 
-| Race | Date         | Winner | Runners |
-| ---- | ------------ | ------ | ------- |
-| 1    | 25 September |        |         |
-| 2    | 9 October    |        |         |
-| 3    | 23 October   |        |         |
-| 4    | 6 November   |        |         |
-| 5    | 20 November  |        |         |
-| 6    | 4 December   |        |         |
+| Race | Date         | Winner      | Runners |
+| ---- | ------------ | ----------- | ------- |
+| 1    | 25 September | Alex Crosby | 29      |
+| 2    | 9 October    |             |         |
+| 3    | 23 October   |             |         |
+| 4    | 6 November   |             |         |
+| 5    | 20 November  |             |         |
+| 6    | 4 December   |             |         |
 
 [The route](https://pfrac.co.uk/static/images/maps/winter-handicap.png) is approximately 4½ miles long with about 600 feet of ascent. It starts from [Penistone Leisure Centre](https://maps.app.goo.gl/HVB75oP8BDZY4eDZ6) and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
 
 #### Results
 
-[](https://results.pfrac.co.uk/senior-winter-handicap-2024/league-table)Results for [2024](https://results.pfrac.co.uk/senior-winter-handicap-2024/league-table)
+[](https://results.pfrac.co.uk/senior-winter-handicap-2024/league-table)Results for [2025](https://results.pfrac.co.uk/senior-winter-handicap-2025/league-table)
 
 Results for previous years:
 [2014–15](https://pfrac.co.uk/static/results/senior-wh/senior-wh-2014-15-results.xlsx)
