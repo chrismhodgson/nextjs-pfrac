@@ -3,7 +3,7 @@ import siteMetadata from '@/data/siteMetadata'
 import ListLayout from '@/layouts/ListLayout'
 import { PageSEO } from '@/components/SEO'
 
-export const POSTS_PER_PAGE = 5
+export const POSTS_PER_PAGE = 15
 export const POSTS_FOLDER = '_articles'
 
 export async function getStaticProps() {
