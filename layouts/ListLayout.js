@@ -17,7 +17,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
 
   return (
     <>
-      <div className="divide-y">
+      <div className="divide-y pb-2">
         <div className="pt-6 pb-8 space-y-2 md:space-y-5">
           <h1 className="text-5xl">{title}</h1>
           <div className="relative max-w-lg">
@@ -49,26 +49,29 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
           {displayPosts.map((frontMatter) => {
             const { slug, date, title, summary, tags } = frontMatter
             return (
-              <li key={slug} className="py-4">
-                <article className="space-y-2 xl:grid xl:grid-cols-4 xl:space-y-0 xl:items-baseline">
+              <li key={slug} className="pt-3 pb">
+                <article className="xl:grid xl:grid-cols-4 xl:items-baseline">
                   <dl>
                     <dt className="sr-only">Published on</dt>
-                    <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
+                    <dd className="text-base leading-6 text-gray-500 dark:text-gray-400">
                       <time dateTime={date}>{formatDate(date)}</time>
                     </dd>
                   </dl>
                   <div className="space-y-3 xl:col-span-3">
                     <div>
-                      <h3 className="text-2xl leading-8 tracking-tight pb-1">
-                        <Link href={`/news/${slug}`} className="text-gray-900 dark:text-gray-100">
+                      <h3 className="text-lg leading-8 tracking-tight">
+                        <Link
+                          href={`/news/${slug}`}
+                          className="dark:text-primary-400 dark:hover:text-primary-300"
+                        >
                           {title}
                         </Link>
                       </h3>
-                      <div className="flex flex-wrap">
+                      {/* <div className="flex flex-wrap">
                         {tags.map((tag) => (
                           <Tag key={tag} text={tag} />
                         ))}
-                      </div>
+                      </div> */}
                     </div>
                     {/* <div className="prose text-gray-500 max-w-none dark:text-gray-400">
                       {summary}

@@ -35,13 +35,13 @@ collections:
           date_format: 'YYYY-MM-DD',
         }
       - { label: "Tags", name: "tags", widget: "list", required: true  }
-      - {
-          label: 'Summary',
-          name: 'summary',
-          widget: 'text',
-          required: true,
-          hint: 'Short summary to appear in news listing'
-        }
+      # - {
+      #     label: 'Summary',
+      #     name: 'summary',
+      #     widget: 'text',
+      #     required: true,
+      #     hint: 'Short summary to appear in news listing'
+      #   }
       - {
           label: 'Main Content',
           name: 'body',
