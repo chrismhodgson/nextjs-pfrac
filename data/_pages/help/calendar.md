@@ -1,8 +1,9 @@
 ---
 title: How to add the PFRAC Calendar to your Google Calendar
+header: ../races.jpg
 ---
 
-If you use Google Calendar for your personal diary, you can add the PFRAC Calendar so that it shows events alongside your own events in Outlook, or on your phone.  Here are some simple steps on how to add the PFRAC Calendar to your Google Calendar...
+If you use Google Calendar for your personal diary, you can add the PFRAC Calendar so that it shows events alongside your own events in Outlook, or on your phone. Here are some simple steps on how to add the PFRAC Calendar to your Google Calendar...
 
 1. Go into Google Calendar
 2. Select **Add calendar** then **From URL** links

@@ -2,7 +2,7 @@ import fs from 'fs'
 import generateRss from '@/lib/generate-rss'
 import { MDXLayoutRenderer } from '@/components/MDXComponents'
 import { formatSlug, getAllFilesFrontMatter, getFileBySlug, getFiles } from '@/lib/mdx'
-import { PAGES_FOLDER } from 'pages'
+import { PAGES_FOLDER } from 'index-old'
 
 const DEFAULT_LAYOUT = 'PageLayout'
 

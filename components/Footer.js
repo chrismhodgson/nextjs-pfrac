@@ -5,7 +5,7 @@ import SocialIcon from '@/components/social-icons'
 export default function Footer() {
   return (
     <footer>
-      <div className="flex flex-col items-center mt-16">
+      <div className="flex flex-col items-center mt-10">
         {/* <div className="flex mb-3 space-x-4">
           <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} size="6" />
           <SocialIcon kind="github" href={siteMetadata.github} size="6" />
@@ -22,6 +22,15 @@ export default function Footer() {
               className="whitespace-nowrap dark:text-primary-400 dark:hover:text-primary-300"
             >
               {siteMetadata.title}
+            </Link>
+
+            <span className="text-xs px-1">|</span>
+
+            <Link
+              href="/calendar"
+              className="whitespace-nowrap dark:text-primary-400 dark:hover:text-primary-300"
+            >
+              Calendar
             </Link>
           </div>
         </div>

@@ -4,7 +4,7 @@ import { PageSEO } from '@/components/SEO'
 import Link from '@/components/Link'
 import PageTitle from '@/components/PageTitle'
 
-import { PAGES_FOLDER } from 'pages'
+import { PAGES_FOLDER } from 'index-old'
 
 export async function getStaticProps() {
   const pages = await getAllFilesFrontMatter(PAGES_FOLDER)

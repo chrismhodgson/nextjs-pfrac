@@ -22,7 +22,7 @@ input:-webkit-autofill:focus {
 .iframe-mobile {
   display: none;
 }
-@media handheld and (max-width: 667px),
+/* @media handheld and (max-width: 667px),
   screen and (max-device-width: 667px),
   screen and (max-width: 667px),
   only screen and (max-device-width: 667px) {
@@ -32,4 +32,4 @@ input:-webkit-autofill:focus {
   .iframe-mobile {
     display: block;
   }
-}
+} */

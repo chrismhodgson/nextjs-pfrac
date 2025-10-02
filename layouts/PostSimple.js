@@ -18,6 +18,9 @@ export default function PostLayout({ frontMatter, next, prev, children }) {
         <div>
           <header>
             <div className="pb-10 space-y-1 text-center border-b border-gray-200 dark:border-gray-700">
+              <div>
+                <PageTitle>{title}</PageTitle>
+              </div>
               <dl>
                 <div>
                   <dt className="sr-only">Published on</dt>
@@ -26,9 +29,6 @@ export default function PostLayout({ frontMatter, next, prev, children }) {
                   </dd>
                 </div>
               </dl>
-              <div>
-                <PageTitle>{title}</PageTitle>
-              </div>
             </div>
           </header>
           <div
