@@ -11,7 +11,7 @@ collections:
   - name: 'news' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'News' # Used in the UI
     label_singular: 'Article' # Used in the UI, ie: "New Post"
-    description: Information about races, training, results and any other clubs news.
+    description: Clubs news articles.
     folder: 'data/_articles'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     preview_path: 'news/{{slug}}'
@@ -54,7 +54,7 @@ collections:
     label: 'Races' # Used in the UI
     folder: 'data/_pages/races'
     preview_path: 'races/{{slug}}'
-    create: false # Determines whether users can create new documents in this collection
+    create: true # Determines whether users can create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
       - { label: 'Category', name: 'category', widget: 'select', options: ['Fell', 'Trail', 'Road', 'Multi-terrain relay'], default: 'Fell', required: true }
@@ -69,12 +69,13 @@ collections:
           hint: 'Create your tables using http://tablesgenerator.com/markdown_tables'
         }
       - { label: 'Strava Segment url (ie for iframe)', name: 'strava_url', widget: 'string', hint: 'ie https://www.strava.com/segments/30806210/embed', required: false }
+      - { label: 'Notes', name: 'notes', widget: 'string', required: false, hint: 'Field does not appear on the website' }
 
   - name: 'competitions' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Competitions' # Used in the UI
     folder: 'data/_pages/competitions'
     preview_path: 'competitions/{{slug}}'
-    create: false # Determines whether users can create new documents in this collection
+    create: true # Determines whether users can create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
       - {
@@ -84,12 +85,13 @@ collections:
           required: true,
           hint: 'Create your tables using http://tablesgenerator.com/markdown_tables'
         }
+      - { label: 'Notes', name: 'notes', widget: 'string', required: false, hint: 'Field does not appear on the website' }
 
   - name: 'about' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'About' # Used in the UI
     folder: 'data/_pages/about'
     preview_path: 'about/{{slug}}'
-    create: false # Determines whether users can create new documents in this collection
+    create: true # Determines whether users can create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
       - {
@@ -99,12 +101,13 @@ collections:
           required: true,
           hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
+      - { label: 'Notes', name: 'notes', widget: 'string', required: false, hint: 'Field does not appear on the website' }
 
   - name: 'help' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Help' # Used in the UI
     folder: 'data/_pages/help'
     preview_path: '{{slug}}'
-    create: false # Determines whether users can create new documents in this collection
+    create: true # Determines whether users can create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', required: true, tagname: 'h1' }
       - {
@@ -129,3 +132,4 @@ collections:
           required: true,
           hint: 'Main content. Create your tables using http://tablesgenerator.com/markdown_tables'
         }
+      - { label: 'Notes', name: 'notes', widget: 'string', required: false, hint: 'Field does not appear on the website' }
