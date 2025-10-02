@@ -24,9 +24,7 @@ export default function RacePagesLayout({ frontMatter, children, menu }) {
       <ScrollTopAndComment />
       <article>
         <header className="pb-12">
-          <div className="text-center pb-8">
-            <PageTitle>{title}</PageTitle>
-          </div>
+          <PageTitle>{title}</PageTitle>
           <Image
             src={'/static/images/headers/' + (header || 'default.jpg')}
             width="1024"
