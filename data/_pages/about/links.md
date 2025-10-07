@@ -28,7 +28,7 @@ As an England Athletics affiliated club, all club officials and members are requ
 * [Fellrunners Association](http://fellrunner.org.uk/results)
 * [British Open Fell Runners Association](http://bofra.co.uk/)
 * [John Schofield's UK Results site](http://www.ukresults.net/index.html)
-* [Latest parkrun results for PFRAC runners](http://results.pfrac.co.uk/parkrun-2024/latest)
+* [Latest parkrun results for PFRAC runners](https://www.parkrun.com/results/consolidatedclub/?clubNum=2801)
 
 ### Other Local Clubs
 
