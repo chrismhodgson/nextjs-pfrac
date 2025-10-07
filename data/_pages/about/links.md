@@ -5,10 +5,7 @@ order: 100
 ---
 ### Club Policies
 
-The Club Constitution is currently under review and will be agreed at the next AGM.
-
-The policies below are drafts, to be proposed at the next AGM.
-
+* [Club constitution](https://pfrac.co.uk/static/policies/pfrac-constitution.pdf)
 * [Grievance and disciplinary policy](https://pfrac.co.uk/static/policies/pfrac-grievance-disciplinary-policy.pdf)
 * [Privacy notice](https://pfrac.co.uk/static/policies/pfrac-privacy-notice.pdf)
 * [Inclusion policy](https://pfrac.co.uk/static/policies/pfrac-inclusion-policy.pdf)
