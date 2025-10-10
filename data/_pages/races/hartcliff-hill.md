@@ -15,7 +15,7 @@ course_records: ""
 ---
 Ian Charlesworth Hartcliff Hill is a BS category fell race on a marked and marshalled course &ndash; no navigation or prior experience required, however all runners should familiarise themselves with the route. The terrain is a mixture of fields and rough tracks, with three short sections of asphalt road.
 
-From 2026 the race is named after Ian Charlesworth. Ian was a very prominent member of the club for over 25 years, who led the junior section for much of that time, inspiring many with his love of running and racing on the fells.  He organised this race for a number of years as well as many other aspects of club life.  His very untimely death in 2025 was a tragedy for his family and the club and he is very much missed.
+From 2026 the race is named after Ian Charlesworth. Ian was a very prominent member of the club for over 25 years, who led the junior section for much of that time, inspiring many with his love of running and racing on the fells.  He organised this race for a number of years as well as many other aspects of club life.  His untimely death in 2025 was a tragedy for his family and his many friends in the club and he is very much missed.
 
 The race starts and finishes in Penistone, on the playing fields next to the [Bowling Club](https://maps.app.goo.gl/naJ6HVefAArV7hf99). The race previously started near Langsett reservoir, but in recent years it has been difficult to organise because of parking permissions.
 
