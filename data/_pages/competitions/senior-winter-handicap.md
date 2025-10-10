@@ -14,7 +14,7 @@ From 2022 the competition has been named after Philip Senior, who died in 2020. 
 | Race | Date         | Winner      | Runners |
 | ---- | ------------ | ----------- | ------- |
 | 1    | 25 September | Alex Crosby | 29      |
-| 2    | 9 October    |             |         |
+| 2    | 9 October    | Steve Dommett | 37        |
 | 3    | 23 October   |             |         |
 | 4    | 6 November   |             |         |
 | 5    | 20 November  |             |         |
