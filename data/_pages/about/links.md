@@ -18,6 +18,7 @@ As an England Athletics affiliated club, all club officials and members are requ
 
 * [Safeguarding](https://www.englandathletics.org/welfare/safeguarding/)
 * [Reporting a concern](https://www.englandathletics.org/welfare/reporting-a-concern/)
+* [Managing club disputes and complaints](https://www.englandathletics.org/clubhub/resource/club-guide-managing-disputes/)
 
 ### Race Result Links
 
