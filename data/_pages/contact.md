@@ -27,7 +27,7 @@ See individual [race pages](https://pfrac.co.uk/races) for contact details about
 | Lead Welfare Officers    | [Kirsty Rogers](kirstyandflynn@gmail.com) & [Andy Taylor](mailto:at.topcop7572@hotmail.com) |
 | Road Secretary           | [Richard Mackie](mailto:macklandr@aol.com)                                                  |
 | Cross Country Secretary  | [Nick Whittingham](mailto:nick.whittingham@btinternet.com)                                  |
-| Fell Running Secretary   | Ian Charlesworth                                                                            |
+| Fell Running Secretary   | [Harriet Drouin](mailto:hnmisty@hotmail.com)                                                                            |
 
 **Other officers & contacts**
 
