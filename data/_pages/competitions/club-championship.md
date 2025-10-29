@@ -7,7 +7,7 @@ order: 10
 
 The format of the Championship has been similar for many years. All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
 
-The competition involves races across three main sections (Road, Trail/Cross-Country and Fell). The Championship comprises 15 races (5 in each section).
+The competition involves races across three main sections (Road, Trail/Cross-Country and Fell). The Championship comprises 16 races (5 in the road and cross country sections, and 6 in the fell section - Gravy Pud was added because Padfield clashed with Clowne Half Marathon).
 
 #### Results
 
@@ -85,4 +85,5 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Thurlstone Chase](https://pfrac.co.uk/races/thurlstone-chase)                                                                                           | Thu 3 Jul  |
 | [Longshaw Sheepdog Trials](https://www.fellrunner.org.uk/races/cc6a040c-381f-47d4-b0f9-a7e6e3ff49e0)                                                     | Sat 30 Aug |
 | [Padfield](https://events360.co.uk/padfieldplum/)                                                                                                        | Sun 23 Nov |
+| [Gravy Pud](https://www.fellrunner.org.uk/races/2ee8b188-3dd5-4d91-8549-9f11a0d27f01)                                                                                                               | Sun 7 Dec |
 | [Hoppits Hill](https://www.hoppits.co.uk/)                                                                                                               | Sun 16 Feb |
