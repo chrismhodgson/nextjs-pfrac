@@ -1,5 +1,5 @@
 ---
-start_date_time: 2026 date TBC - probably a Tuesday in May.
+start_date_time: Tuesday 28 April 2026, time TBC
 organiser: Steve Sanders (stevemsanders71@gmail.com)
 strava_url: https://www.strava.com/segments/38554004/embed
 header: races/hartcliff-hill.jpg
