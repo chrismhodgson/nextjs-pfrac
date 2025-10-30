@@ -1,5 +1,5 @@
 ---
-start_date_time: 2026 date tbc
+start_date_time: Thursday 9 July 2026 at 19:30
 organiser: Keith Gordon (thurchase2021@gmail.com)
 strava_url: ""
 header: races/thurlstone-chase.jpg
