@@ -17,7 +17,7 @@ Prizes for the first 3 men and women, then 1st in each 5-year age category V40, 
 
 #### Entry
 
-Pre-entry will be available in January 2026 - link will be here. Entry on the day will also be available.
+Pre-entry will be available in January 2026 &ndash; link will be here. Entry on the day will also be available.
 
 This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers).
  Minimum age to enter is 16 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
