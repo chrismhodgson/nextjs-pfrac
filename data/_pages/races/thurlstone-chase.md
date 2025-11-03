@@ -17,9 +17,10 @@ Prizes for the first 3 men and women, then 1st in each 5-year age category V40, 
 
 #### Entry
 
-Pre-entry will be available - link will be here. Entry on the day will also be available.
+Pre-entry will be available in January 2026 - link will be here. Entry on the day will also be available.
 
-This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 16 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
+This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers).Loida	Lopez	Loida Lopez	Lopez	1973-08-29	no	Female	lookaftereachother@gmail.com	t:07888 093492		109 Manchester Road, Thurlstone	Sheffield	South Yorkshire	S36 9QS		Timothy Waddingham	t:07929 769171			no		yes	yes	no		yes	yes	yes	4141782	Single adult with EA	N/A	Yes, I am happy for my email address and phone number to be shared with other members of the club	yes	2024-04-23	2024-04-23		1261152	8658021		no	2026-03-31	All	2025-04-01	2024-04-23	Member		Active	no	no	4011403	4011403	https://mmjo.me/BFUMM
+ Minimum age to enter is 16 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
 
 #### Registration
 
