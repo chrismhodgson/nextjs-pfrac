@@ -13,11 +13,11 @@ category: Fell
 ---
 The Thurlstone Chase is a BS category fell race, run under licence from the Fell Runners Association.
 
-Prizes for the first 3 men and women, then 1st in each age category V40, V50, V60 and V70.
+Prizes for the first 3 men and women, then 1st in each 5-year age category V40, V45, V50, V55, V60, V65, V70, V75, V80, V85.
 
 #### Entry
 
-Entry on the day will be available.
+Pre-entry will be available - link will be here. Entry on the day will also be available.
 
 This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers). Minimum age to enter is 16 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
 
