@@ -1,0 +1,12 @@
+---
+title: Strong home showing at South Yorkshire Cross Country
+draft: false
+date: 2025-11-17T17:54:10.295Z
+tags:
+  - PRESS
+---
+The club was out in force at their home South Yorkshire Cross Country League fixture, held at Penistone Showground in challenging, heavy conditions, fielding seventeen athletes across all age groups, and producing several strong performances on a demanding and increasingly waterlogged course. In the junior events, Edward Holley impressed with a solid 10th place in the under-15 boys, while Flynn Rodgers continued his good form, finishing 11th in the under-17 men’s race. The senior women delivered one of the club’s performances of the day, securing a superb 1–2 finish in the ladies over55 category with Nichola McNally first in 29-17 and Julia Johnson second in 31-35, backed up by Rebecca Timms (33-45), Lesley Parker (34-15), Helen Turner (35-35) and Kim Rodgers (48-46). The senior men also produced a committed display. George Parr led the team home in 39-36, followed by Oliver France (43-04), Ian Neville (43-05), Lee Storey (43-51), Oliver Pike (44-48), Andrew Sherbourne (46-40) and Mark Law (47-06). In the veteran categories, Martyn Goodwin placed an excellent 5th in the male over65 race with 33-37, while Nick Whittingham finished 4th in the male over70 race in 43-05.
+
+Away from the country, Bill Phillips continued his return to form at the Derby 10 Mile, running 1-28-51 to finish third in the male over70 category, placing 987th overall on the fast, flat course.
+
+Saturday saw a reduced [parkrun](https://results.pfrac.co.uk/parkrun-2025/2025-11-15) programme, with Penistone parkrun cancelled due to a waterlogged field. At Barnsley there was another excellent turnout, while across the region three significant milestones were reached: Jane Lawcock completed her 250th parkrun at East Holmes Field, John Broom completed his 650th at Barnsley, and Sara Wolstenholme celebrated her 100th parkrun, also at Barnsley, with a personal best. There were further high placings, including second place for Rob Lees at Woodlands and third places for Dawn Broom and Ashley Firth at Barnsley, as well as Flynn Rogers taking third at Thames Path. The top age-graded performances were Ian Neville (78.59%), Rob Lees (77.48%), Jill Scrivens (76.08%), Dawn Broom (75.63%) and Keith Gordon (74.45%). In total, 54 seniors ran across 18 venues.
