@@ -1,0 +1,16 @@
+---
+title: Mayston breaks 20-minute barrier with victory at Chesterfield
+draft: false
+date: 2025-11-10T17:14:20.177Z
+tags:
+  - PRESS
+---
+Rachael Mayston led the way for Penistone Footpath Runners at the weekend, taking first place in the No Walk in the Park 5K at Chesterfield. Her time of 19-44 marked a major personal milestone and her first sub-20 finish over the distance. Clubmate Julia Johnson also ran superbly to place third female overall and win her age category in 21-39.
+
+Elsewhere, the Brooms were among those flying the Penistone colours at the Gainsborough and Morton races. Andy Pearson produced an excellent run to finish first over60 male in 37-55 in the 10K. John Broom was second over55 male in 41-08, with Rob Davies fifth over60 male in 41-39. In the accompanying Half Marathon, Dawn Broom continued her fine autumn form, finishing first over60 female in 1-42-15.
+
+Thursday evening saw the fourth round of the club’s [Philip Senior Winter Handicap](https://results.pfrac.co.uk/senior-winter-handicap-2025/race-4-race-result), with twenty-four runners tackling the undulating 4.5-mile course from Penistone Leisure Centre. Fay Nicholls claimed her first handicap win in 49-43, more than two minutes quicker than predicted. Tracy Woodward (49-52) and Jade Crosby (49-53) completed the top three. The fastest actual time of the night came from George Parr, who covered the course in 27-52, ahead of Ashley Firth (28-34) and Alex Harris (29-57). Among the women, Jade Crosby led the way in 32-53, followed by Emily Duckett (36-19), Jemma Williams (36-20) and Fay Nicholls (36-43). Based on WMA-adjusted times, Ian Neville topped the standings in 25-31, ahead of Barbara Haigh (26-15) and George Parr (27-52).
+
+Further south, Jill Scrivens completed the Remembrance Day Trail 10K at Rother Valley in 53-08, placing 39th overall and 7th female. Penistone’s fell runners were out in force at the Wadsworth Half Trog near Hebden Bridge, where George Parr led the team home in 1-15-00, followed by Damian Kilpin (1-19-08), Steve Sanders (1-26-27) and Harriet Drouin (2-14-45). At the Lathkill Fell Race, Mandy Mallinder tackled the scenic seven-mile route in 78 minutes, taking an impressive ten-minute personal best.
+
+Penistone’s ladies also led the way across the weekend’s [parkruns](https://results.pfrac.co.uk/parkrun-2025/2025-11-08), with first gender places for Jade Crosby at Barnsley, Suzanne McGill at Concord and Josie Smith at Nostell. Sean Pitt finished second at Grovelands, while third gender placings went to Fay Nicholls at Barnsley and Simon Pike at Halifax. There were milestone celebrations for Alex Melhuish, who completed his 350th parkrun at Castle, and Ray Brown, who reached his 300th at Barnsley. The top age-graded performances were Richard Heppenstall (85.05%), Suzanne McGill (80.42%), Flynn Rogers (80.35%) and Ian Neville (79.11%). In total, 62 Penistone seniors ran at 23 venues.
