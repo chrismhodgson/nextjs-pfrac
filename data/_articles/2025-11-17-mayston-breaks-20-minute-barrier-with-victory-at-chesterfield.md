@@ -5,7 +5,7 @@ date: 2025-11-10T17:14:20.177Z
 tags:
   - PRESS
 ---
-Rachael Mayston led the way for Penistone Footpath Runners at the weekend, taking first place in the No Walk in the Park 5K at Chesterfield. Her time of 19-44 marked a major personal milestone and her first sub-20 finish over the distance. Clubmate Julia Johnson also ran superbly to place third female overall and win her age category in 21-39.
+Rachael Mayston led the way for Penistone Footpath Runners at the weekend, taking first place in the [No Walk in the Park 5K](https://results.pfrac.co.uk/championship-2025/no-walk-in-the-park-1) at Chesterfield. Her time of 19-44 marked a major personal milestone and her first sub-20 finish over the distance. Clubmate Julia Johnson also ran superbly to place third female overall and win her age category in 21-39. Stuart Smith and Steve Dommett also ran.
 
 Elsewhere, the Brooms were among those flying the Penistone colours at the Gainsborough and Morton races. Andy Pearson produced an excellent run to finish first over60 male in 37-55 in the 10K. John Broom was second over55 male in 41-08, with Rob Davies fifth over60 male in 41-39. In the accompanying Half Marathon, Dawn Broom continued her fine autumn form, finishing first over60 female in 1-42-15.
 
