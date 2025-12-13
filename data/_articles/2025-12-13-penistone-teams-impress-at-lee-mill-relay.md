@@ -1,0 +1,16 @@
+---
+title: Penistone teams impress at Lee Mill Relay
+draft: false
+date: 2025-12-01T22:39:39.968Z
+tags:
+  - PRESS
+---
+The club enjoyed a busy and successful weekend across road, fell and parkrun events with strong team performances, podium places and several significant milestones. At the [Lee Mill Fell Relay](https://results.pfrac.co.uk/fell-league-2025/lee-mill-relay) at Rossendale, Lancashire, Penistone fielded four teams on the challenging moorland course. The Penistone Men produced the standout performance of the day, finishing ninth overall with excellent runs from George Parr, Richard Cottam, Damian Kilpin and Simon Pike. There were strong mixed-team performances too, with Penistone Mixed 1 placing fifth mixed team home thanks to consistent efforts from Lesley Parker, Steve Sanders, Emily Freeman and Chris Hodgson, while Penistone Mixed 2 finished eleventh mixed team with determined runs from Jill Scrivens, Emma Stead, Becky Timms and Steve Stead. The Penistone Men’s over50 team also performed superbly, securing third place in their category through solid contributions from Steve Storey, Shaun Swallow, Ian Neville and Paul Fryers. Conditions were heavy underfoot but spirits remained high throughout. 
+
+Three runners took part in the [Baslow Bolt](https://results.pfrac.co.uk/fell-league-2025/baslow-bolt), a popular multi-terrain race through the fields and woodland of Derbyshire. Phil Hinchliffe led the trio home in 1-10-34, followed by Dan Rushforth in 1-11-02, while Robin Clough completed the group in 1-22-51.
+
+There was a good turnout at the Doncaster City 10K, where Jade Crosby ran strongly to record 40-19 and finish twenty-third lady overall. Alex Crosby followed in 41-42, with further solid performances from Rory O’Sullivan in 45-36, Paul Gee in 48-26, Gemma Nutton in 50-37 and Stefan Butler-Gillen in 57-20.
+
+Two athletes represented the club at the Leeds Abbey Dash 10K. Sean Pitt delivered a fine run of 34-54 to place well inside the men’s field, while Josie Smith ran 44-18 to finish well up the ladies over40 standings. Dawn and John Broom travelled to London for the British Masters Road 5K Championships. John ran 19-22 to finish fifteenth in the men’s over55 category, while Dawn produced 21-22 to take sixth place among the ladies over60, both performing strongly on a fast and competitive course.
+
+At the weekend’s [parkruns](https://results.pfrac.co.uk/parkrun-2025/2025-11-29), 55 Penistone seniors represented the club across 21 venues. The performance of the weekend came from Graihagh Turner, who finished first lady and second overall at Barnsley. There were further first-place finishes for Richard Heppenstall at Concord, George Parr at Penistone, where he also celebrated his 150th parkrun, and Hugh Mackie at Stratford-upon-Avon. Important milestones included Ian Neville completing his 650th parkrun with third place at Barnsley and Helen Turner finishing third lady at the same venue on her 50th parkrun. The top age-graded performances of the weekend came from Julia Johnson on 88.80%, Richard Heppenstall on 84.25%, Graihagh Turner on 78.73%, Ian Neville on 78.15% and Hugh Mackie on 76.93%.
