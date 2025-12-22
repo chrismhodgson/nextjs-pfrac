@@ -1,0 +1,12 @@
+---
+title: Festive wins for Penistone
+draft: false
+date: 2025-12-22T15:03:03.796Z
+tags:
+  - PRESS
+---
+It was a relatively quiet weekend of competition for the club, with two notable victories providing the highlights. On the Welsh border, Tom Fryers claimed overall victory at the Hay Santa Run in Hay-on-Wye. The festive two-mile road race saw Fryers lead the field home on the town-centre course. Closer to home, Flynn Rogers enjoyed success at the Sheffield Children’s Hospital ‘Glow in the Park’ Run, winning the event while also raising £150 for the charity. The evening run was staged as a fundraising occasion rather than a competitive race, with times not recorded.
+
+The weekend also marked the final fixture of the South Yorkshire Cross Country League, which took place at Graves Park on the shortest day of the year. Penistone were well represented in the closing race of the series, with a number of strong runs across the age groups on the undulating Sheffield course. Full results were not yet available at the time of writing.
+
+Attention then turned to [parkruns](https://results.pfrac.co.uk/parkrun-2025/2025-12-20), where Penistone runners once again featured prominently. At Penistone parkrun, the club’s women produced a clean sweep of the female podium, with Suzanne McGill taking first female ahead of Hannah Shaw and Emily Duckett in second and third. Nostell Priory, the club’s designated away day venue for December, also saw strong performances, with Rachael Mayston finishing second female and Julia Johnson third female. Gemma Nutton matched a second female placing at Selby, while third female positions were recorded by Nicky Spinks at Agnew and Dawn Broom at Llanfoist Crossing. Nick Pepper marked a milestone at Penistone, completing his 50th parkrun. The strongest age-graded performances of the weekend came from Dawn Godley (83.90%), Dawn Broom (83.50%), Julia Johnson (82.76%), Richard Heppenstall (82.40%) and Ian Neville (76.65%). In total, 76 Penistone seniors took part across 23 venues, including Phil and Lisa Hinchliffe who travelled to Belfast to compete at Waterworks parkrun. At Barnsley parkrun, there were multiple age-group successes, with Ian Neville finishing first over60, Martyn Goodwin first over65, Alan Knox first over70, Sue Hall first over65 and Danny Batty topping the over80 category. Further highlights included Edward Holley winning the junior 11-14 category at Nostell and Oliver France placing second under18 at Riverside.
