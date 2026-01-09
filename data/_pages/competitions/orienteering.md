@@ -9,7 +9,7 @@ M﻿aps are drawn up by Steve (under licence from Ordnance Survey) and posted be
 
 **2025 Series**
 
-[Final results](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)
+[Final results](https://pfrac.co.uk/static/results/orienteering/2025-results.xlsx)
 
 The series run from 1 April to 30 November.  There are 8 different courses, each with its own time limit between 30 and 90 minutes, made available progressively through the year, with scores only counting towards the league during set two-month periods.  Steve will email the courses to the club mailing list shortly before the start of each period; if you run the courses outside the specified time window the results won't count towards the league.  Previous courses are still available (contact [Steve](mailto:stevemsanders71@gmail.com) for the maps) if you want to do them.  
 
@@ -23,7 +23,7 @@ Your best 6 scores will be summed to determine your final score for the series. 
 
 **Results**
 
-*2025 course results*
+[2025 Final Standings](https://pfrac.co.uk/static/results/orienteering/2025-results.xlsx)
 
 * [Elsecar 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Elsecar%2520PZ%2520PXAS%2520ScoreN60.csv)
 * [Hartcliff 40 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Hartcliff%2520PZ%2520PXAS%2520ScoreN40.csv)
