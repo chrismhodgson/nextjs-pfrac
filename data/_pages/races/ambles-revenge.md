@@ -61,6 +61,7 @@ Registration and number collection from 09:00 at Rafters Bar, adjoined to the Wa
 [2022](https://racebest.com/results/46u75)
 [2023](https://racebest.com/results/xcr4y)
 [2024](https://racebest.com/results/yy897)
+[2025](https://racebest.com/results/qr4t8)
 
 #### Course Records
 
@@ -84,7 +85,7 @@ Female: Sam Shaw, Penistone Footpath Runners & AC, 2019 &ndash; 62:01
 
 *Amble's Revenge (2021 onwards)*
 
-Male: Stuart Brown, Tonbridge AC, 2024 &ndash; 52:42
+Male: Stuart Brown, Unattached, 2025 &ndash; 50:05
 
 Female: Emily Cowper Coles, Denby Dale AC, 2023 &ndash; 57:34
 
