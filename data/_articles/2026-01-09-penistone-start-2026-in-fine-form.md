@@ -1,0 +1,18 @@
+---
+title: Penistone start 2026 in fine form
+draft: false
+date: 2026-01-05T10:48:16.215Z
+tags:
+  - PRESS
+---
+The club enjoyed a busy and successful start to 2026, with strong performances across fell, road and parkrun events over the New Year period. The action began on New Year’s Eve at the traditional [Wormstones](https://results.pfrac.co.uk/fell-league-2025/wormstones) fell race from Old Glossop. The tough five-mile route, with over 1,000 feet of climb, attracted a large field and saw George Parr lead Penistone home with an excellent 11th place finish in 37-16. Dan Limb followed in 43-53, with Steve Sanders close behind in 46-37. There was good depth throughout the field, as Lesley Parker, Becky Timms, Steve Storey, Lee Storey, Steve Dickinson and Mandy Mallinder all completed the demanding course.
+
+Elsewhere on the fells, Mark Crossley represented the club at the Chris Smale [Giant’s Tooth](https://results.pfrac.co.uk/fell-league-2025/giants-tooth) Fell Race at Ogden Water, the traditional curtain-raiser to the West Yorkshire fell season. Run over a short but testing 2.75-mile course with 478 feet of climb, Mark finished 46th of 85 runners in 25-40.
+
+On New Year’s Day, Dawn Broom began 2026 in superb fashion at the Broadstone Quarter Marathon, winning the women’s over60 category in 49-22 and setting a [club record](https://results.pfrac.co.uk/records/) for the distance. 
+
+There was further success on the road at the [No Walk in the Park 5K](https://results.pfrac.co.uk/championship-2025/no-walk-in-the-park-3) in Chesterfield, organised by North Derbyshire Running Club. Gemma Nutton produced an excellent run to finish fourth female overall and first senior woman in 23-12, while Amelia Cottam continued her strong recent form by finishing ninth female in 25-05 and setting a new personal best. Shaun Swallow also featured well in the men’s race, finishing 17th overall in 20-55. 
+
+The club was also out in force at [parkruns](https://results.pfrac.co.uk/parkrun-2026/weeks) across the New Year period. On [New Year’s Day](https://results.pfrac.co.uk/parkrun-2026/2026-01-01), 47 seniors competed across 12 venues, with the standout performance coming abroad as Suzanne McGill finished third female at Poolbeg parkrun in Dublin. At Barnsley, there were multiple category wins including James Mumford (first over45), Oliver France (first under18), Ian Neville (first over60), Martyn Goodwin (first over65), Sue Hall (first over65) and Ray Brown (first over85). Flynn Rogers impressed with fifth place overall at Hillsborough in 17-07, while Bill Phillips topped the over75 category at Blackpool. The leading age-graded performances on New Year’s Day were recorded by Flynn Rogers (80.04%), James Mumford (76.60%), Ian Neville (75.69%), Suzanne McGill (75.59%) and Sue Hall (73.33%).
+
+The [following weekend](https://results.pfrac.co.uk/parkrun-2026/2026-01-03) saw 79 Penistone seniors in action across 20 venues. First gender places were recorded by Jade Crosby at Barnsley, Nicky Spinks at Agnew and Flynn Rogers at Hillsborough, where Rogers also claimed overall victory in 17-10. Tom Fryers finished second overall at Fell Foot, while Dawn Godley placed second female at Barnsley. At Penistone, Martin Ball and Heather Simpson both secured third places. Milestones were celebrated at Penistone by Amanda Field, who completed her 50th parkrun, and Rory O’Sullivan, who reached his 200th. Across the two days, the leading age-graded performances came from Julia Johnson (88.33%), Flynn Rogers (80.04%), Barbara Haigh (81.28%), Dawn Godley (80.61%) and James Mumford (76.60%).
