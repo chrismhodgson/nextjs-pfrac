@@ -21,7 +21,7 @@ Even though he was unwell in the last few years of his life, he often turned up 
 
 Pre-entry £TBC for England Athletics affiliated runners; £TBC for unaffiliated runners.
 
-Minimum age 15 on the day
+Minimum age 15 on the day of the race.
 
 Entry on the day will be available for an additional £2 if entry limit of 300 not reached.  In 2024 and 2025 the race sold out well before the race.
 
