@@ -3,9 +3,7 @@ title: Juniors
 header: about/juniors.jpg
 order: 30
 ---
-
-The club has a very popular junior section, taking boys and girls from the age of 12 to 17.
-Up to 2022, the club took juniors from age 8, but lack of availability of coaches qualified to take the younger age group forced a change.  From January 2023 a new club for children aged 8 to 11 has been set up under the England Athletics "Funetics" programme.  Anyone interested should contact [Suzanne McGill](mailto:funetics_penistone@hotmail.com).
+The club has a junior section, taking boys and girls from the age of 12 to 17. Up to 2022, the club took juniors from age 8, but lack of availability of coaches qualified to take the younger age group forced a change.  From January 2023 a new club for children aged 8 to 11 has been set up under the England Athletics "Funetics" programme.  Anyone interested should contact [Suzanne McGill](mailto:funetics_penistone@hotmail.com).
 
 F﻿or juniors from their 12th birthday contact [Bob Innes](mailto:janeandbob239@btinternet.com), Junior Secretary, if your son or daughter is interested in joining the club.
 
@@ -19,16 +17,16 @@ All juniors are encouraged to join in organised events, including the local trac
 
 ### The Winter Handicap League
 
-The club organises a [Winter League](https://pfrac.co.uk/competitions/junior-winter-handicap) based on a series of handicap races for all the juniors in the club, and other ad hoc races in the summer.
+From 1985 to 2022 the club organised a [Winter League](https://pfrac.co.uk/competitions/junior-winter-handicap) based on a series of handicap races for all the juniors in the club. Since 2022, the separation of the juniors into under 12 (Funetics) and 12 and over has not been sustainable.
 
 ### Awards
 
 Prizes are given out at the annual presentation evening.
 
-- Trophies for the top three in the Winter Handicap League and certificates for all participants
-- The Winter League trophies, unhelpfully named but awarded for general performance in internal and external competitions
-- The Track and Field trophies, awarded to the juniors (under 11 and under 17) who showed the largest improvements across all track and field events
-- The Coaches' Award, awarded for attitude to training and effort.
+* Trophies for the top three in the Winter Handicap League and certificates for all participants
+* The Winter League trophies, unhelpfully named but awarded for general performance in internal and external competitions
+* The Track and Field trophies, awarded to the juniors (under 11 and under 17) who showed the largest improvements across all track and field events
+* The Coaches' Award, awarded for attitude to training and effort.
 
 [Past winners of awards](http://results.pfrac.co.uk/awards/)
 
