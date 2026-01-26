@@ -1,5 +1,5 @@
 ---
-start_date_time: Date for 2026 tbc
+start_date_time: Date for 2026 tbc at 08:00
 organiser: ""
 header: races/barnsley-boundary-relay.jpg
 order: 10
