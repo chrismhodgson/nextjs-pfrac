@@ -20,7 +20,8 @@ Prizes for the first 3 men and women, then 1st in each 5-year age category V40, 
 [Pre-entry](https://racebest.com/races/hrt3e) is available for £6. Entry on the day will also be available for £6.
 
 This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers).
- Minimum age to enter is 16 on the day of the race. If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
+
+Minimum age to enter is 17 on 31 December 2026 (FRA rules). If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
 
 #### Registration
 
