@@ -1,5 +1,5 @@
 ---
-start_date_time: Tuesday 28 April 2026, time TBC
+start_date_time: Tuesday 28 April 2026 AT 19:00
 organiser: Steve Sanders (stevemsanders71@gmail.com)
 strava_url: https://www.strava.com/segments/38554004/embed
 header: races/hartcliff-hill.jpg
@@ -21,7 +21,7 @@ The race starts and finishes in Penistone, on the playing fields next to the [Bo
 
 #### Entry
 
-Pre-entry will be available closer to the time for £6.
+Pre-entry will be available closer to the time for £6. Entry on the day will be available for £8 if race limit not reached.
 
 Minimum age to enter is 17 on the 31 December 2026 (FRA rules).
 
