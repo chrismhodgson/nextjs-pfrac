@@ -17,6 +17,6 @@ There are also records for the [Junior Winter Handicap](https://pfrac.co.uk/comp
 
 ### Annual awards
 
-Each year, trophies are presented to the winners of the competitions, along with the Merit Award, which is given to a member who has contributed a lot behind the scenes. Juniors are also given awarded for results in the [Junior Winter Handicap](https://pfrac.co.uk/competitions/junior-winter-handicap) competition, track and field competitions and merit awards for improvement and attitude to training. 
+Each year, trophies are presented to the winners of the competitions, along with the Merit Award, which is given to a member who has contributed a lot behind the scenes, and awards for juniors to recognise improvement and attitude to training. 
 
 [Past winners of awards](http://results.pfrac.co.uk/awards/)
