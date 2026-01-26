@@ -1,5 +1,5 @@
 ---
-start_date_time: 2026 date TBC; usually a Saturday in June, starting at 9:30
+start_date_time: Sunday 21 June at 9:30
 organiser: Keith Gordon (keithhgordon@me.com)
 strava_url: https://www.strava.com/segments/18044628/embed
 header: races/penistone-10k.jpg
