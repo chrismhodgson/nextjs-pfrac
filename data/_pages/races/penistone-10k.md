@@ -19,7 +19,9 @@ Even though he was unwell in the last few years of his life, he often turned up 
 
 #### Entry
 
-Pre-entry £TBC for England Athletics affiliated runners; £TBC for unaffiliated runners.
+Pre-entry £16 for England Athletics affiliated runners; £18 for unaffiliated runners.
+
+[![Enter Now](https://pfrac.co.uk/static/images/enter-now-button)](https://racebest.com/races/scc3a)
 
 Minimum age 15 on the day of the race.
 
