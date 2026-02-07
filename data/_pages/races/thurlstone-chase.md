@@ -17,7 +17,11 @@ Prizes for the first 3 men and women, then 1st in each 5-year age category V40, 
 
 #### Entry
 
-[Pre-entry](https://racebest.com/races/hrt3e) is available for £6. Entry on the day will also be available for £6.
+Pre-entry £6.
+
+[![Enter Now](https://pfrac.co.uk/static/images/enter-now-button.png)](https://racebest.com/races/hrt3e)
+
+Entry on the day will also be available for £6.
 
 This race will have a permit and associated UK Athletics insurance from the [Fell Runners Association](https://www.fellrunner.org.uk/fra/for-organisers).
 
