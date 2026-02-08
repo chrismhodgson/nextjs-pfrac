@@ -33,14 +33,14 @@ const featuredRaces = [
     title: 'Hartcliff Hill',
     category: 'Fell',
     distance: '7.4km',
-    month: 'May',
+    month: 'April',
   },
   {
     href: 'http://www.trunce.org/',
     title: 'Trunce (9 races)',
     category: 'Fell',
     distance: '6.4km',
-    month: 'April - Sept',
+    month: 'March - September',
   },
 ]
 
