@@ -22,7 +22,7 @@ const featuredRaces = [
   },
   {
     href: '/races/penistone-10k',
-    title: 'Penistone 10k',
+    title: 'Penistone 10K',
     category: 'Road',
     distance: '10km',
     month: 'June',
@@ -36,7 +36,7 @@ const featuredRaces = [
   },
   {
     href: '/races/ambles-revenge',
-    title: 'Ambles Revenge',
+    title: "Amble's Revenge",
     category: 'Trail',
     distance: '12.5km',
     month: 'December',
