@@ -1,10 +1,17 @@
 const featuredRaces = [
   {
-    href: '/races/ambles-revenge',
-    title: 'Ambles Revenge',
-    category: 'Trail',
-    distance: '12.5km',
-    month: 'December',
+    href: 'http://www.trunce.org/',
+    title: 'Trunce (9 races)',
+    category: 'Fell',
+    distance: '6.4km',
+    month: 'March - September',
+  },
+  {
+    href: '/races/hartcliff-hill',
+    title: 'Hartcliff Hill',
+    category: 'Fell',
+    distance: '7.4km',
+    month: 'April',
   },
   {
     href: '/races/barnsley-boundary-relay',
@@ -27,20 +34,12 @@ const featuredRaces = [
     distance: '6.75km',
     month: 'July',
   },
-  //
   {
-    href: '/races/hartcliff-hill',
-    title: 'Hartcliff Hill',
-    category: 'Fell',
-    distance: '7.4km',
-    month: 'April',
-  },
-  {
-    href: 'http://www.trunce.org/',
-    title: 'Trunce (9 races)',
-    category: 'Fell',
-    distance: '6.4km',
-    month: 'March - September',
+    href: '/races/ambles-revenge',
+    title: 'Ambles Revenge',
+    category: 'Trail',
+    distance: '12.5km',
+    month: 'December',
   },
 ]
 
