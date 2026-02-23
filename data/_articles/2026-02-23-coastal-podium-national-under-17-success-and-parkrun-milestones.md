@@ -1,0 +1,20 @@
+---
+title: Coastal podium, national under 17 success and parkrun milestones
+draft: false
+date: 2026-02-23T17:10:46.578Z
+tags:
+  - PRESS
+---
+James Fryers produced one of the performances of the weekend with a superb third place at the Northumberland Marathon from Alnwick to Bamburgh. Tackling the scenic but demanding coastal route, James finished third overall in 3-28-31, holding his position through the checkpoints at Howick, Low Newton-by-the-Sea and Seahouses before closing strongly towards the iconic finish near Bamburgh Castle.
+
+There was national success on the cross country stage as Graihagh Turner finished an outstanding 10th in the under17 women’s race at the National Cross Country Championships at Sedgefield. Competing for Rotherham Harriers and AC, Graihagh crossed the line in 17-25 in one of the strongest junior fields in the country, helping her club secure the second team prize.
+
+The club was also represented in the English Championships at the [Doctors Gate](https://results.pfrac.co.uk/fell-league-2025/doctors-gate) Fell Race. The 12.7-mile course, featuring 3,000 feet of ascent across exposed moorland, provided a stern early-season test. Simon Pike ran 2-53-18 to finish 347th overall in a competitive field.
+
+On the roads, the ever-popular Snake Lane 10 Mile in Pocklington saw three of our runners in action. Shaun Swallow led the club home in 1-09-11, finishing 187th overall and 11th in the men’s over55 category. Andrew Pearson recorded 1-11-57 to place 237th overall and seventh in the men’s over60 category, while Robert Davies clocked 1-12-45 to finish 264th overall and 11th in the men’s over60 category, improving by two minutes and 47 seconds on last year’s performance.
+
+Further half marathon action saw Steve Owen compete at the Stockport Trail Half Marathon, finishing 124th overall in 1-51-37 and 13th in the men’s over55 category on a testing off-road course. Pete Beever was in action at the Leicestershire Half Marathon, recording 1-58-46 to place 649th overall. John and Dawn Broom travelled to the Bourton-on-the-Water 10K in the Cotswolds. John finished in 41-47, with Dawn close behind in 44-47 to win the women’s over60 category.
+
+At the Winter Warmer York Half Marathon, Alex Best continued his consistent form with ninth place overall and third in the men’s over40 category, finishing in 1-36-00 despite sections of mixed terrain. Tom Fryers represented Cambridge University at the English Universities Orienteering Championships in the Chiltern Hills. Despite covering 10.8 kilometres on a nominal 6km course following an early navigational setback, he completed the demanding event in 1-47-22 with nearly 1,000 feet of climb.
+
+The weekend also saw a strong [parkrun](https://results.pfrac.co.uk/parkrun-2026/2026-02-21) turnout, with 67 Penistone seniors competing across 20 venues. At Barnsley, Josie Smith claimed first female in a personal best 21-28, while Ian Neville was second in the men’s over60 category. Ray Brown topped the men’s over85 category and Sue Hall won the women’s over65 category. Penistone parkrun saw Richard Cottam finish second overall in 18-38. Emily Duckett was first in the women’s over40 category, Barbara Haigh won the women’s over75 category and Nell Law led the women’s over55 category. Jon Hallam and Dan Limb both secured third places in their respective age categories. Elsewhere, Dawn Broom finished third female at Great Cornard, Damian Kilpin won the men’s over45 category at Rothwell, and Julia Johnson was first in the women’s over60 category at Huddersfield. Dawn Godley celebrated her 250th parkrun at Cleethorpes in style, winning the women’s over65 category, while Jill Scrivens marked her 200th parkrun at the same venue with victory in the women’s over55 category. International appearances included Rory O’Sullivan in Namibia and Stephen Lavender in Australia. The run of the weekend, based on age grading, went to Dawn Godley with 87.78%, closely followed by Julia Johnson (87.25%) and Barbara Haigh (83.75%). Richard Cottam (74.96%) and Ian Neville (74.92%) also featured among the top performers.
