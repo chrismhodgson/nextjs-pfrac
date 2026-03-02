@@ -11,7 +11,7 @@ The competition involves races across three main sections (Road, Trail and Fell)
 
 #### Contact
 
-The organisers of the 2026/27 competition are [Matthew Coldwell](mailto:matthewcoldwell@aol.com) and [Richard Cottam](mailto:rjcottam8@gmail.com).
+The organisers of the 2026/27 competition are Matthew Coldwell, Richard Cottam and Myfanwy Cross.
 
 #### Results
 
