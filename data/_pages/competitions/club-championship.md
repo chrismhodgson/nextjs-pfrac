@@ -3,15 +3,15 @@ title: Club Championship
 header: competitions/club-championship.jpg
 order: 10
 ---
-#### The 2025/26 Club Championship
+#### The 2026/27 Club Championship
 
 The format of the Championship has been similar for many years. All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
 
-The competition involves races across three main sections (Road, Trail/Cross-Country and Fell). The Championship comprises 16 races (5 in the road and cross country sections, and 6 in the fell section - Gravy Pud was added because Padfield clashed with Clowne Half Marathon).
+The competition involves races across three main sections (Road, Trail and Fell). The Championship comprises 21 events (7 in each section) - see below for more details.
 
 #### Results
 
-[Final Standings for 2024/25](http://results.pfrac.co.uk/championship-2024/challenge)
+Standings for 2026/27 will be posted after the first race.
 
 Results for previous years:
 [2004](https://pfrac.co.uk/static/results/club-championship/championship-2004-results.xlsx)
@@ -31,17 +31,17 @@ Results for previous years:
 
 #### Qualification
 
-To qualify for each section you need to compete in at least 3 of the 5 races. Your best 3 scores will be summed to give your total for the section.
+To qualify for each section you need to compete in at least 3 of the 7 races. Your best 3 scores will be summed to give your total for the section.
 
 To qualify for the overall Championship you have to compete in 8 races, with at least 2 of these from each section. Your 8 best race scores, including the minimum of 2 from each section, will be added together to form an overall Championship total.
 
-One of the 'races' for 2025-26 is the No Walk in the Park 5K race series - there are seven races (the first Saturdays of September to March) included in the championship: to count you can run any one of them, and if you run more than one your fastest time will count.
+One of the 'races' for 2026-27 is the Trunce race series - there are 8 races from April to September included in the championship: to count you can run any one of them, and if you run more than one your fastest time will count. The first race of the series is not included as it is March - a different club membership year.
 
 All first claim members are included in the Championship. Juniors running in senior races (where permitted) will be included in the Under 20 category. Members joining (or re-joining) during the year will only have results counted from the date their subscription has been paid.
 
 #### Scoring
 
-Each runner's points are calculated based on their time relative to the overall race winner (male and female respectively). This is exactly the same as the [Fell League](https://pfrac.co.uk/competitions/fell-league). If a PFR runner is first male or first female, he or she will get 100 points. If your time is exactly double the winner’s time, you get 50 points: the points are calculated on a scale so the faster you run the more points you get. For the No Walk in the Park 5K), the points are based on your fastest time of the series (September to March) relative to the fastest race winning time across all the events with a first claim Penistone finisher.
+Each runner's points are calculated based on their time relative to the overall race winner (male and female respectively). This is exactly the same as the [Fell League](https://pfrac.co.uk/competitions/fell-league). If a PFR runner is first male or first female, he or she will get 100 points. If your time is exactly double the winner’s time, you get 50 points: the points are calculated on a scale so the faster you run the more points you get. For the Trunce, the points are based on your fastest time of the 2026 series (excluding race 1) relative to the fastest race winning time across all the events with a first claim Penistone finisher.
 
 The main advantages of this method are: 1) it means that every second you run faster will gain you points (not a lot, but something – unless you are the race winner). Beating another Penistone runner (of the same sex) in a race will always mean you get more points than them – but the bigger the gap you get the more points you gain. 2) you don’t get points as a result of other PFR runners not turning up – you get points for your own performance.
 
@@ -53,37 +53,42 @@ The Challenge Championship is based on the total points from all events complete
 
 Your age group for the Championship in any year is determined by your age on April 1st. Prizes will be awarded for each age group for both male and female categories for each section winners, eg Fell Lady Vet 40.
 
-* The groups are as follows: Male U20, M Senior, MV35, MV40, MV45, MV50, MV55, MV60, MV65, MV70, MV75, MV80, Female U20, F Senior, LV35, LV40, LV45, LV50, LV55, LV60, LV65, LV70, LV75, LV80.
-* The Sections are Road, Trail/Cross Country and Fell.
+* The groups are as follows: Male U20, M Senior, MV35, MV40, MV45, MV50, MV55, MV60, MV65, MV70, MV75, MV80, MV85, Female U20, F Senior, LV35, LV40, LV45, LV50, LV55, LV60, LV65, LV70, LV75, LV80, LV85.
+* The Sections are Road, Trail and Fell.
 * The Overall Champions will be the Male and Female with the best scores from the 8 races needed to qualify.
 * The title of Challenge Champion will be given to the runner who acquires the most points from all qualifying events.
 * Run as many or as few races as you want but you must compete in the correct number of races to win an award.
 
-#### 2025/26 events
+#### 2026/27 events
 
 All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C).
 
 | Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [Rother Valley Relays](https://www.facebook.com/groups/3057188804514648/?locale=en_GB)                                              | Wed 21 May                                    |
-| [Barnsley 10K](https://racebest.com/races/2uakk)                                                                                    | Sun 29 Jun                                    |
-| [No Walk in the Park 5K](https://www.northderbyshirerc.co.uk/races/our-races)                                                       | First Saturday each month, September to March |
-| [Clowne Half Marathon](https://clowneroadrunners.org/?page_id=2080)                                                                 | Sun 23 Nov                                    |
-| [Meltham 10K](https://melthamac.com/races/meltham-10k/)                                                                             | Sun 26 Jan                                    |
+| [Dronfield 10K](https://)                                              | Sun 19 Apr                                    |
+| [Rother Valley Relays](https://)                                              | Wed 20 May |
+| [Barnsley 10K](https://)                                                                                    | Sun 28 Jun                                    |
+| [Donfaster 10K](https://)                                                       | Fri 2 Oct |
+| [Worksop Half Marathon]()                                                                 | Sun 25 Oct                                    |
+| [Travellers 6](https://)                                                                 | Sun 13 Dec                                    |
+| [Wombwell 5](https://)                                                                             | Sun 14 Feb                                    |
 
 | Trail/Cross Country Section                                                                                    |            |
 | -------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Higham Hurtle](https://www.barnsleyharriers.org.uk/)                                                          | Thu 24 Apr |
-| [Furty Furlong](https://racebest.com/races/ur7xa)                                                              | Sat 10 May |
-| [Silkstone Shuffle](https://www.barnsleyharriers.org.uk/)                                                      | Thu 24 Jul |
-| [Stan's Toffee Run](http://kimberworthstriders.co.uk/joomla3/index.php/2015-08-13-15-51-30/stan-s-toffee-run)  | Thu 14 Aug |
-| [Worrall Chase](https://www.facebook.com/events/worrall-festival/worrall-festival-chase-2025/685761184229702/) | Sat 6 Sep  |
+| [Colne Valley 10K](https://)                                                          | Sun 31 May |
+| [Mid Summer Mad Dash](https://)                                                              | Thu 25 Jun |
+| [Cawthorne Canter](https://)                                                      | Thu 16 Jul |
+| [Flat Cap 5](http://)  | Sat 1 Aug |
+| [Ken Bingley Memorial](https://) | Sun 16 Aug  |
+| [Hopton 10K](https://) | Sun 27 Aug  |
+| [Canal Race](https://) | Sun 1 Nov  |
 
 | Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Hartcliff Hill Race](https://pfrac.co.uk/races/hartcliff-hill)                                                                                          | Tue 6 May  |
-| [Thurlstone Chase](https://pfrac.co.uk/races/thurlstone-chase)                                                                                           | Thu 3 Jul  |
-| [Longshaw Sheepdog Trials](https://www.fellrunner.org.uk/races/cc6a040c-381f-47d4-b0f9-a7e6e3ff49e0)                                                     | Sat 30 Aug |
-| [Padfield](https://events360.co.uk/padfieldplum/)                                                                                                        | Sun 23 Nov |
-| [Gravy Pud](https://www.fellrunner.org.uk/races/2ee8b188-3dd5-4d91-8549-9f11a0d27f01)                                                                                                               | Sun 7 Dec |
-| [Hoppits Hill](https://www.hoppits.co.uk/)                                                                                                               | Sun 16 Feb |
+| [Trunce 2-8](http://www.trunce.org/)                                                                    | 8 dates Apr-Sep  |
+| [Ian Charlesworth Hartcliff Hill](https://pfrac.co.uk/races/hartcliff-hill)                                                                                          | Tue 28 Apr  |
+| [Bamford Sheepdog Trials](https://)                                                                                           | Mon 25 May  |
+| [Peak Forest Fell Race](https://)                                                     | Sun 12 July |
+| [Padfield](https://events360.co.uk/padfieldplum/)                                                                                                        | Sun 22 Nov |
+| [Hoppits Hill](https://www.hoppits.co.uk/)                                                                                                               | TBC Feb |
+| [Ian Roberts](https://)                                                                    | TBC March  |
