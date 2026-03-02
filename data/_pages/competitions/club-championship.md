@@ -7,7 +7,7 @@ order: 10
 
 The format of the Championship has been similar for many years. All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
 
-The competition involves races across three main sections (Road, Trail and Fell). The Championship comprises 21 events (7 in each section) - see below for more details.
+The competition involves races across three main sections (Road, Trail and Fell). The Championship comprises 21 events (7 in each section) – see below for more details.
 
 #### Contact
 
@@ -39,7 +39,7 @@ To qualify for each section you need to compete in at least 3 of the 7 races. Yo
 
 To qualify for the overall Championship you have to compete in 8 races, with at least 2 of these from each section. Your 8 best race scores, including the minimum of 2 from each section, will be added together to form an overall Championship total.
 
-One of the 'races' for 2026-27 is the Trunce race series - there are 8 races from April to September included in the championship: to count you can run any one of them, and if you run more than one your fastest time will count. The first race of the series is not included as it is March - a different club membership year.
+One of the 'races' for 2026-27 is the Trunce race series – there are 8 races from April to September included in the championship: to count you can run any one of them, and if you run more than one your fastest time will count. The first race of the series is not included as it is March – a different club membership year.
 
 All first claim members are included in the Championship. Juniors running in senior races (where permitted) will be included in the Under 20 category. Members joining (or re-joining) during the year will only have results counted from the date their subscription has been paid.
 
