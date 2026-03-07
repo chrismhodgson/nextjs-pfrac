@@ -34,7 +34,7 @@ See individual [race pages](https://pfrac.co.uk/races) for contact details about
 |                        |                                                             |
 | ---------------------- | ----------------------------------------------------------- |
 | Club Kit               | [Jemma Williams](mailto:jemstone1981@hotmail.com)           |
-| Club Championship      | [Paul Fryers](mailto:paul.fryers@gmail.com)                 |
+| Club Championship      | [Richard Cottam](mailto:rjcottam8@gmail.com), Matthew Coldwell & Myfanwy Cross         |
 | Fell Relay Coordinator | [Steve Sanders](mailto:stevemsanders71@gmail.com)           |
 | Funetics Liaison       | [Suzanne McGill](mailto:funetics_penistone@hotmail.com)     |
 | Press Officer          | [Robin Clough](mailto:robin.clough@dataconsulting.co.uk)    |
