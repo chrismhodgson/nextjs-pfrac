@@ -1,0 +1,16 @@
+---
+title: Runners shine across busy weekend
+draft: false
+date: 2026-03-09T12:52:58.431Z
+tags:
+  - PRESS
+---
+Penistone runners were active across road, trail and fell events over the weekend, with strong performances locally and further afield. At the Wickersley 10K Flynn Rogers led the way with an excellent sixth-place finish overall in 35-24, also taking first place in the junior male category. Lee Hopkins completed the course in 49-46 while Ben Thorogood was rewarded for his persistence and commitment with a personal best of 52-00. A regular supporter of his clubmates, Ben continues to make steady progress over the distance. 
+
+Two club members tackled the demanding Saddleworth Ten Reservoirs challenge, a 27-mile off-road route across the Pennine moors. Shaun Swallow completed the tough course in 6-17-05 to place fourth in the male over55 category, while Harriet Drouin finished in 7-14-35 to place 80th lady. Chris Hodgson and Oliver Pike travelled to the Lake District to compete in the [Black Combe](https://results.pfrac.co.uk/fell-league-2025/black-combe) Fell Race, part of the English Fell Running Championship series, finishing 296th in 1-49-54 and 319th in 1-53-02 respectively.
+
+Several club runners were also in action at the [No Walk in the Park 5K](https://results.pfrac.co.uk/championship-2025/no-walk-in-the-park-4) in Chesterfield, part of the [club championship](https://results.pfrac.co.uk/championship-2025/challenge) road series. Edward Holley finished second junior male in 21-13. Ray Brown claimed victory in the male over85 category in 34-31 while Barbara Haigh won the female over75 category in 30-59. Mandy Mallinder placed third female over55 in 26-28 and Lorraine Mackie finished fifth in the same category in 28-26. Jen Holley ran 26-23 to place fifth female over35. 
+
+Closer to home, Sara Wolstenholme and Angie Rollinson took part in the March Hare Trail Run around Penistone, finishing in 1-06 and 1-11 respectively, while John Howsham also completed the March Hare’s Final Run, guiding Louise Simpson around the course in 5-01-01. Further afield Stefan Butler-Gillen completed the Lisbon Half Marathon in 2-10 as part of the international SuperHalf series.
+
+At [parkrun](https://results.pfrac.co.uk/parkrun-2026/2026-03-07) there was a win for Sean Pitt at Penistone while George Parr finished third at the same event. Second gender places were recorded by Dawn Godley at Barnsley, James Mumford at Nostell, Damian Kilpin at Vicar Water and James Fryers at South Shields. Milestones were also celebrated with Ryan Duckett completing his 50th parkrun at Penistone, Heath Ramsden reaching his 200th parkrun at Barnsley, Sarah Bradley completing her 50th parkrun at Hillsborough and Keith Gordon marking his 300th parkrun while visiting Faelledparken parkrun in Copenhagen. The top age-graded performance of the weekend came from Julia Johnson with an outstanding 92.58%. Other leading scores were Dawn Godley with 83.09%, Suzanne McGill 81.14%, James Mumford 75.44% and James Fryers 75.33%.
