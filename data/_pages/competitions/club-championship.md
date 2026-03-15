@@ -69,30 +69,30 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 
 | Road Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |            |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Dronfield 10K](https://)                                                                                                           | Sun 19 Apr |
-| [Rother Valley Relays](https://)                                                                                                    | Wed 20 May |
-| [Barnsley 10K](https://)                                                                                                            | Sun 28 Jun |
-| [Donfaster 10K](https://)                                                                                                           | Fri 2 Oct  |
-| [Worksop Half Marathon](<>)                                                                                                         | Sun 25 Oct |
-| [Travellers 6](https://)                                                                                                            | Sun 13 Dec |
-| [Wombwell 5](https://)                                                                                                              | Sun 14 Feb |
+| [Dronfield 10K](https://www.dronfield10k.co.uk/details)                                                                                                           | Sun 19 Apr |
+| Rother Valley Relays (contact [Richard Mackie](macklandr@aol.com))                                                                                                    | Wed 20 May |
+| [Barnsley 10K](https://racebest.com/races/3s2u3)                                                                                                            | Sun 28 Jun |
+| [Donfaster 5K](https://danumharriers.co.uk/donfaster-5k)                                                                                                           | Fri 2 Oct  |
+| [Worksop Half Marathon](https://www.worksopharriers.co.uk/events/worksop-halloween-half-marathon-2026)                                                                                                         | Sun 25 Oct |
+| [Travellers 6](https://https://www.denbydaleac.co.uk/travellers-6)                                                                                                            | Sun 13 Dec |
+| [Wombwell 5](https://https://www.kingstonerunners.co.uk/Wombwell5.html)                                                                                                              | Sun 14 Feb |
 
 | Trail/Cross Country Section      |            |
 | -------------------------------- | ---------- |
-| [Colne Valley 10K](https://)     | Sun 31 May |
-| [Mid Summer Mad Dash](https://)  | Thu 25 Jun |
-| [Cawthorne Canter](https://)     | Thu 16 Jul |
-| [Flat Cap 5](http://)            | Sat 1 Aug  |
-| [Ken Bingley Memorial](https://) | Sun 16 Aug |
-| [Hopton 10K](https://)           | Sun 27 Aug |
-| [Canal Race](https://)           | Sun 1 Nov  |
+| [Colne Valley 10K](https://www.entrycentral.com/ColneValley10kChallenge)     | Sun 31 May |
+| [Mid Summer Mad Dash](https://www.valleyhillrunners.com/midsummer-mad-dash)  | Thu 25 Jun |
+| [Cawthorne Canter](https://www.barnsleyharriers.org.uk)     | Thu 16 Jul |
+| [Flat Cap 5](https://www.dewsburyroadrunners.co.uk/flat-cap-5/)            | Sat 1 Aug  |
+| [Ken Bingley Memorial](https://racebest.com/races/3x797) | Sun 16 Aug |
+| [Hopton 10K](https://hopton10k.run/)           | Sun 27 Sep |
+| [Canal Race](https://www.kimberworthstriders.co.uk/canal-race)           | Sun 1 Nov  |
 
 | Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [Trunce 2-8](http://www.trunce.org/)                                                                                                                     | 8 dates Apr-Sep |
 | [Ian Charlesworth Hartcliff Hill](https://pfrac.co.uk/races/hartcliff-hill)                                                                              | Tue 28 Apr      |
-| [Bamford Sheepdog Trials](https://)                                                                                                                      | Mon 25 May      |
-| [Peak Forest Fell Race](https://)                                                                                                                        | Sun 12 July     |
+| [Bamford Sheepdog Trials](https://bamfordsheepdogtrials.com/)                                                                                                                      | Mon 25 May      |
+| [Peak Forest Fell Race](https://www.sientries.co.uk/event.php?elid=Y&event_id=16689)                                                                                                                        | Sun 12 July     |
 | [Padfield](https://events360.co.uk/padfieldplum/)                                                                                                        | Sun 22 Nov      |
 | [Hoppits Hill](https://www.hoppits.co.uk/)                                                                                                               | TBC Feb         |
-| [Ian Roberts](https://)                                                                                                                                  | TBC March       |
+| [Ian Roberts](https://www.holmfirthharriers.com/event/ian-roberts-memorial-fell-race/)                                                                                                                                  | TBC March       |
