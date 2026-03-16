@@ -1,0 +1,16 @@
+---
+title: Ultras, road racing and national schools cross country
+draft: false
+date: 2026-03-16T22:26:59.426Z
+tags:
+  - PRESS
+---
+The club's runners were in action at races across the country over the weekend. A strong Penistone contingent took on the [Haworth Hobble](https://results.pfrac.co.uk/fell-league-2025/haworth-hobble-ultra-marathon), a demanding 50km ultra fell race across the rugged moorland of West Yorkshire with more than 5,000 feet of climb. Suzanne McGill led the club home with an excellent run of 5-50-20, finishing 11th lady. Jemma Williams and Simon Pike both crossed the line just over 6-45 minutes, with Williams completing her first ultra-distance race. Dean Allcroft (7-36) and Harriet Drouin (7-46) also produced determined runs on the tough course, while Rachel Liptrot completed the demanding event in 9-34.
+
+On the trails, Daniel Rushforth tackled the Grindleford Gallop, a classic 21-mile Peak District race with more than 2,700 feet of climb, finishing 38th overall in 3-17-00. Penistone runners also competed in the Windmill 6, where Richard Williams produced an excellent performance to finish fourth overall in 40-13, also winning the senior men’s category. Josie Smith secured a top-ten finish in 42-04, taking first in the ladies over40 category. Julia Johnson placed second in the ladies over60 category with 45-23, while Lesley Parker won the ladies over50 category in 46-38. Dawn Godley was first in the ladies over65 category with 48-19, and Bill Phillips finished second in the men’s over75 category with 57-13. 
+
+Two Penistone runners travelled to Nottinghamshire for the Sherwood Pines Half Marathon. Jim Simpson finished in 2-04-44, placing fifth in the men’s over40 category, while Carl Matthewman completed the course in 2-20-50 and was seventh men’s over55. At the Liverpool 10 Mile, Jill Scrivens ran strongly to finish in 1-24-29, placing fifth in the ladies over55 category.
+
+Penistone’s younger athletes were also competing at the English Schools Athletic Association Cross Country Championships at Sefton Park in Liverpool, widely regarded as the highest standard schools race in the country. Representing South Yorkshire, Graihagh Turner produced an outstanding run in the David Minter Senior Girls Championship, finishing 17th in 16-36 over the 4km course against a field of more than 300 runners. In the David Minter Senior Boys Championship, Flynn Rogers also represented the county and competed strongly in an exceptionally competitive field, completing the 6km course in 23-24. Both athletes are in the younger year of the senior age group and were competing against runners much older.
+
+Across Saturday’s [parkruns](https://results.pfrac.co.uk/parkrun-2026/2026-03-14), Jade Crosby claimed first female place at Barnsley in 20-43, while James Fryers finished third overall at Gateshead in 18-04. In total 64 Penistone seniors completed parkruns across 19 venues. The weekend’s top age-graded performance came from Barbara Haigh with 82.91%, followed by Ian Neville (74.57%), Sue Hall (72.99%), Martin Ball (72.94%) and Richard Cottam (72.87%).
