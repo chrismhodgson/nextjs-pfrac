@@ -1,0 +1,12 @@
+---
+title: Birthday win for Hinchliffe as Lovidge claims podium at coal race
+draft: false
+date: 2026-04-13T12:56:54.125Z
+tags:
+  - PRESS
+---
+Phil Hinchliffe celebrated his birthday in style at the Baildon Boundary Way Half Marathon, taking victory in the men’s over55 category in his first race in the age group with an excellent 1-48-28 on the challenging multi-terrain course. He led home fellow Penistone runners Heather Graham (2-36-33) and Mark Graham (2-36-34). Amelia Cottam produced an excellent run at the Boston Marathon UK, recording a personal best of 4-27-33 in extremely tough conditions, with strong winds leading to a high number of non-finishers.
+
+There was further action on the trails as Shaun Swallow tackled the hilly Steel City Trail 10K in Sheffield, finishing in 55-19, while Jonathan Hallam took on the demanding Don Morrison Edale Skyline Fell Race, a 34km Peak District classic with over 1,300 metres of ascent, completing the course in 4-07-02. Simon Lovidge delivered an outstanding performance at the World Coal Carrying Championships in Gawthorpe, finishing third in his veteran's race heat and sixth overall in the veteran's category, completing the gruelling 1km course carrying 50kg of coal in 5-27.
+
+At the weekend’s [parkruns](https://results.pfrac.co.uk/parkrun-2026/2026-04-11), Penistone Footpath Runners recorded another exceptional turnout with 84 seniors across 27 venues. Standout performances included four overall first places, with Dawn Broom and Emily Duckett securing first female finishes at Blandford and Penistone respectively, alongside Flynn Rogers leading the way at Hillsborough in 17-25 and Sean Pitt taking top spot at Grovelands with a personal best 17-53. There were further podium performances from Dawn Godley, third female at Barnsley, and Jill Scrivens, third female at Concord. Category successes were widespread, including wins for Barbara Haigh (V75) and Danny Batty (V80) at Penistone, Ian Neville (V60) and Martyn Goodwin (V65) at Barnsley, and Simon Pike (V45) at University of Northampton. Milestones were also to the fore, with Ruth Albaya Melhuish completing her 350th parkrun at Huddersfield, Paul Sammon reaching his 100th at Penistone, and Olivia Clough celebrating her 50th outing at Keswick. The weekend’s highest age-graded performance came from Julia Johnson with an outstanding 87.70%, followed by Barbara Haigh (83.53%), Dawn Broom (83.05%), Dawn Godley (81.30%) and Flynn Rogers (78.66%).
