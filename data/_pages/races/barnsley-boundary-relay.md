@@ -1,5 +1,5 @@
 ---
-start_date_time: Date for 2026 tbc at 08:00
+start_date_time: Saturday 13 June 2026 at 08:00
 organiser: ""
 header: races/barnsley-boundary-relay.jpg
 order: 10
