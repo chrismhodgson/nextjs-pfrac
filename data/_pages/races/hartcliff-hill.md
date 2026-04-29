@@ -21,9 +21,7 @@ The race starts and finishes in Penistone, on the playing fields next to the [Bo
 
 #### Entry
 
-Pre-entry is £6. Entry on the day will be available for £8 if race limit of 200 not reached.
-
-[![Enter Now](https://pfrac.co.uk/static/images/enter-now-button.png)](https://racebest.com/races/v775r)
+Pre-entry is £tbc. Entry on the day will be available for £tbc if race limit of 200 not reached.
 
 Minimum age to enter is 17 on 31 December 2027 (FRA rules).
 
