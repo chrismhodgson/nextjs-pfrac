@@ -1,5 +1,5 @@
 ---
-start_date_time: Tuesday 28 April 2026 AT 19:00
+start_date_time: Date for 2027 tbc
 organiser: Steve Sanders (stevemsanders71@gmail.com)
 strava_url: https://www.strava.com/segments/38554004/embed
 header: races/hartcliff-hill.jpg
@@ -25,7 +25,7 @@ Pre-entry is £6. Entry on the day will be available for £8 if race limit of 20
 
 [![Enter Now](https://pfrac.co.uk/static/images/enter-now-button.png)](https://racebest.com/races/v775r)
 
-Minimum age to enter is 17 on 31 December 2026 (FRA rules).
+Minimum age to enter is 17 on 31 December 2027 (FRA rules).
 
 If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
 
@@ -54,6 +54,7 @@ Registration from 18:00 at [Penistone Bowling Club](https://maps.app.goo.gl/naJ6
 [2023](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2023-results.pdf)
 [2024](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2024-results.pdf)
 [2025](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2025-results.pdf)
+[2026](https://pfrac.co.uk/static/results/hartcliff-hill/hartcliff-2026-results.pdf)
 
 The race in 2014 was cancelled due to the Foot and Mouth outbreak, those in 2020 and 2021 due to the Covid-19 pandemic, and the 2022 race due to lack of parking facilities.
 
@@ -81,7 +82,7 @@ Female: Sylvie Ellis, Denby Dale AC, 2024 &ndash; 41:10
 
 Male: Lewis Roberts, Dark Peak Fell Runners, 2025 &ndash; 27:48
 
-Female: Suzanne McGill, Penistone Footpath Runners & AC, 2025 &ndash; 34:24
+Female: Joanne Jones, Holmfirth Harriers AC, 2025 &ndash; 33:28
 
 #### Route
 
