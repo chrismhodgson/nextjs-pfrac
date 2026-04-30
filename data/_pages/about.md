@@ -14,5 +14,4 @@ We cater for all sorts of runners:
 * Fell
 * Cross country
 * Trail
-* Track and field
 * Relays
