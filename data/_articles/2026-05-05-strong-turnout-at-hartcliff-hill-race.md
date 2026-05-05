@@ -13,7 +13,7 @@ At the Furty Furlong, a short but tough off-road race at Mapplewell, Ian Neville
 
 Graihagh Turner represented the club at the national trials, held as selection races for the 2026 European Off-Road Running Championships in Slovenia next month. She finished eighth in the uphill-only race at Keswick before producing an excellent run to finish fifth in the up-and-down trial at Sedbergh, narrowly missing out on third place by just five seconds. Her descending was particularly impressive, with the fastest downhill split of the race.
 
-Also on the fells, at the [Cake Race](https://results.pfrac.co.uk/fell-league-2026/cake-race) in Oldham, Jemma Williams impressed with a strong run to finish 106th overall in 1-38-48 and third in the over40 category. Jill Scrivens also ran well, finishing 142nd in 1-48-30 and sixth over55, while Harriet Drouin completed the challenging fell course in 1-57-22.
+Also on the fells, at [The Cake Race](https://results.pfrac.co.uk/fell-league-2026/the-cake-race) in Oldham, Jemma Williams impressed with a strong run to finish 106th overall in 1-38-48 and third in the over40 category. Jill Scrivens also ran well, finishing 142nd in 1-48-30 and sixth over55, while Harriet Drouin completed the challenging fell course in 1-57-22.
 
 At the RunGreno Trail Race, Richard Cottam produced one of the standout performances of the weekend, finishing second overall in 45-35 and first in the men’s over40 category. Daniel Rushforth also ran strongly to place eighth overall and third over40 in 52-02. Ian Neville added another category win, taking first over60 in 55-31. Sara Wolstenholme and Angie Rollinson completed the Penistone contingent on a wet and challenging course.
 
