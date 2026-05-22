@@ -110,3 +110,5 @@ Female: Julie Briscoe, Wakefield Harriers, 2014 &ndash; 36:25
 #### Route
 
 [Penistone 10K route map](https://pfrac.co.uk/static/images/maps/penistone-10k.png)
+
+[GPX file for the route](https://pfrac.co.uk/static/gpx-files/penistone-10k.gpx)
