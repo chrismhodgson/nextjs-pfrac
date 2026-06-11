@@ -1,7 +1,7 @@
 ---
 title: European honour for Graihagh as Penistone shine at Trunce
 draft: false
-date: 2026-06-11T07:42:11.426Z
+date: 2026-06-08T07:42:11.426Z
 tags:
   - PRESS
 ---
