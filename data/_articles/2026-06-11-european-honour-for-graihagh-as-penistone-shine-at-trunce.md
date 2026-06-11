@@ -2,6 +2,8 @@
 title: European honour for Graihagh as Penistone shine at Trunce
 draft: false
 date: 2026-06-11T07:42:11.426Z
+tags:
+  - PRESS
 ---
 Graihagh Turner led the headlines for Penistone Footpath Runners after representing Great Britain and Northern Ireland at the European Athletics Off-Road Running Championships in Slovenia. The championships were held in Ljubljana-Kamnik, with the racing taking place at Velika Planina. Graihagh lined up in the Under-20 Women’s Up & Down Mountain Race against some of Europe’s leading young mountain runners, finishing 36th in 33-39 after passing the checkpoints in 14-02 and 25-04. Although the result was not quite what she had hoped for, competing on the European stage was an amazing experience and another significant step in her running career. Graihagh also thanked everyone for their support and encouragement.
 
