@@ -66,5 +66,6 @@ If anyone finds any errors in the GPX files, please contact [Paul Fryers](mailto
 [2023](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2023-results.pdf)
 [2024](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2024-results.pdf)
 [2025](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2025-results.pdf)
+[2026](https://pfrac.co.uk/static/results/barnsley-boundary/bb-2026-results.pdf)
 
 The race in 2020 was cancelled.
