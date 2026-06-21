@@ -1,5 +1,5 @@
 ---
-start_date_time: Sunday 21 June at 9:30
+start_date_time: June 2027 date tbc at 9:30
 organiser: Keith Gordon (keithhgordon@me.com)
 strava_url: https://www.strava.com/segments/18044628/embed
 header: races/penistone-10k.jpg
@@ -20,8 +20,6 @@ Even though he was unwell in the last few years of his life, he often turned up 
 #### Entry
 
 Pre-entry £16 for England Athletics affiliated runners; £18 for unaffiliated runners.
-
-[![Enter Now](https://pfrac.co.uk/static/images/enter-now-button.png)](https://racebest.com/races/scc3a)
 
 Minimum age 15 on the day of the race.
 
@@ -82,6 +80,7 @@ Please read these [parking instructions](https://pfrac.co.uk/static/uploads/10k-
 [2023](https://www.runbritainrankings.com/results/results.aspx?meetingid=544717)
 [2024](https://racebest.com/results/6secg)
 [2025](https://racebest.com/results/qqwsu)
+[2026](https://racebest.com/results/scc3a)
 
 The races in 2020 and 2021 were cancelled.
 
