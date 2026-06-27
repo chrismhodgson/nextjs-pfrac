@@ -82,7 +82,7 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Colne Valley 10K](https://www.entrycentral.com/ColneValley10kChallenge)    | Sun 31 May |
 | [Mid Summer Mad Dash](https://www.valleyhillrunners.com/midsummer-mad-dash) | Thu 25 Jun |
 | [Cawthorne Canter](https://www.barnsleyharriers.org.uk)                     | Thu 16 Jul |
-| [Flat Cap 5](https://www.dewsburyroadrunners.co.uk/flat-cap-5/)             | Sat 1 Aug  |
+| [Flat Cap 5](https://bookitzone.com/FlatCap5/VRjFFX)             | Thu 30 Jul  |
 | [Ken Bingley Memorial](https://racebest.com/races/3x797)                    | Sun 16 Aug |
 | [Hopton 10K](https://hopton10k.run/)                                        | Sun 27 Sep |
 | [Canal Race](https://www.kimberworthstriders.co.uk/canal-race)              | Sun 1 Nov  |
