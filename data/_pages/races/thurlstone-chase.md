@@ -1,6 +1,6 @@
 ---
-start_date_time: Thursday 9 July 2026 at 19:30
-organiser: Keith Gordon (thurchase2021@gmail.com)
+start_date_time: Date tbc 2027 at 19:30
+organiser: Keith Gordon (keithHgordon@me.com)
 strava_url: ""
 header: races/thurlstone-chase.jpg
 order: 50
@@ -19,9 +19,7 @@ Prizes for the first 3 men and women, then 1st in each 5-year age category V40, 
 
 Pre-entry is £6. Entry on the day will be available for £6 if race limit of 150 not reached.
 
-[![Enter Now](https://pfrac.co.uk/static/images/enter-now-button.png)](https://racebest.com/races/hrt3e)
-
-Minimum age to enter is 17 on 31 December 2026 (FRA rules).
+Minimum age to enter is 17 on 31 December in the year of the race (FRA rules).
 
 If under 18 and not accompanied by a parent or guardian please bring a completed [FRA Parental Consent Form](https://files.fellrunner.org.uk/documents/2024/fra-parental-consent-process-form-2024.pdf).
 
@@ -54,6 +52,7 @@ Registration, and the race start and finish, are at [Thurlstone Football Club](h
 [2023](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2023-results.pdf)
 [2024](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2024-results.pdf)
 [2025](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2025-results.pdf)
+[2026](https://pfrac.co.uk/static/results/thurlstone-chase/thurlstone-chase-2026-results.pdf)
 
 The races in 2008 and 2020 were cancelled.
 
@@ -69,7 +68,7 @@ Female: 22:40 &ndash; C Haigh, 1985
 
 Male: 25:04 &ndash; Thomas Harrison, Hillsborough & Rivelin Running Club, 2025
 
-Female: 26:56 &ndash; Emily Cowper-Coles, Dark Peak Fell Runners, 2025
+Female: 26:53 &ndash; Emily Cowper-Coles, Dark Peak Fell Runners, 2026
 
 £25 cash prize for 1st male and female breaking the course record.
 
