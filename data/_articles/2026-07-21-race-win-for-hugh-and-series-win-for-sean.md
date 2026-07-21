@@ -1,0 +1,26 @@
+---
+title: Race win for Hugh and series win for Sean
+draft: false
+date: 2026-07-19T16:41:03.892Z
+tags:
+  - PRESS
+---
+Sean Pitt secured overall victory in Howesy’s Harriers’ Hat-Trick series as Penistone Footpath Runners dominated the concluding Cawthorne Canter. The series combined performances from the Silkstone Shuffle, Higham Hurtle and Cawthorne Canter, with Sean completing the three races in 1-31-53 to finish more than a minute clear of Barnsley Harriers’ Paul Johnson. Martin Ball placed fifth overall and won the men’s over50 category in 1-42-41, while Ian Neville was eighth overall and first over60 in 1-45-42. Rachael Winterbottom led the Penistone women, finishing third overall in 2-02-17. Alex Crosby, Robin Clough, Rory O’Sullivan, Steve Dommett, Jill Scrivens, Sara Wolstenholme, Jen Holley and Tracy Woodward also completed all three races.
+
+Hugh Mackie won the Cawthorne Canter itself in 29-41 as Penistone placed seven runners inside the first eleven. Tom Fryers finished fourth in 30-52, Sean Pitt was fifth in 30-59 and George Parr sixth in 31-38. Oliver France, Flynn Rogers and John Halstead completed the club’s leading group. Hannah Shaw finished third female overall in 38-49, while Ian Neville won the men’s over60 category, Alan Knox was first over70 and Barbara Haigh topped the ladies over70 category. In total, 41 Penistone runners completed the race.
+
+Richard Heppenstall set a new Penistone men’s over50 mile [record](https://results.pfrac.co.uk/records/) at The Josh Kerr Mile Presented by Brooks. Racing on a chip-timed road course at Queen Elizabeth Olympic Park in London, Richard clocked 5-18, improving the previous club record of 5-36 by 18 seconds.
+
+Steve Owen represented Great Britain at the 2026 Europe Triathlon Duathlon Championships in Banyoles, Spain. Competing in temperatures which had reached 36°C by the start, Steve completed the standard distance event in 2-41-19 to finish 17th in the men’s 60–64 age group. He recorded 50-29 for the opening 10K run, 1-18-21 for the 40K bike section and 28-55 for the concluding 5K.
+
+There was a silver medal for Penistone at the Yorkshire Veterans Athletic Association Road Relay Championships at Wyke Community Sports Village. Dawn Broom, Julia Johnson and Nichola McNally finished second in the ladies 55 to 64 category in a combined time of 55-28. Dawn completed the opening leg in 19-12, Julia recorded 19-19 and Nichola brought the team home with the fastest Penistone split of 17-57.
+
+Richard Cottam led Penistone at the sixth [Trunce](https://results.pfrac.co.uk/fell-league-2026/trunce-6) of the season, finishing fourth overall and first veteran in 27-46 despite twisting his ankle during the final two miles. George Parr followed just eight seconds later in fifth, while Ashley Firth placed 13th. Hannah Shaw won the women’s race in 33-58, with Josie Smith second female overall and first female veteran in 34-04. Steve Sanders was second over50 in 32-38, Dawn Godley won the ladies over60 category in 44-09 and Barbara Haigh was first lady over70 in 52-39.
+
+John and Dawn Broom both collected category podiums at the Laxton 10K. John finished 37th overall in a chip time of 42-45 to take second place in the men’s over55 category, while Dawn was 73rd in 47-32 and second lady over60. Jill Scrivens also claimed a category podium at the Nostell Priory 10K, finishing 93rd overall in 52-24 and second lady over55.
+
+Damian Kilpin and Steve Sanders produced strong performances at the [Cock Howe and Beyond](https://results.pfrac.co.uk/fell-league-2026/cock-howe-and-beyond) fell race. Damian finished fifth overall in 49-06 and was second over45, while Steve placed ninth in 52-22 and won the men’s over50 category. Shaun Swallow completed the [Bamford Carnival](https://results.pfrac.co.uk/fell-league-2026/bamford-carnival) fell race in 43-29, while Chris Hodgson tackled the 12.3-mile [Pete Bland Kentmere Horseshoe](https://results.pfrac.co.uk/fell-league-2026/pete-bland-kentmere-horseshoe), which included 3,300ft of ascent, finishing 108th overall
+ and 20th over50 in 2-26-09. Damian also completed the Rougemont Chase at Weeton Show in 31-21, with official placings unavailable at the time of writing.
+
+At Saturday’s [parkruns](https://results.pfrac.co.uk/parkrun-2026/2026-07-18), 78 Penistone seniors competed across 26 venues. James Fryers claimed overall victory
+ at Jesmond Dene in 18-49, while Jemma Williams was first female at Barnsley in 22-57. Sean Pitt ran a personal best of 17-35 to finish second at Penistone, where Suzanne McGill was second female in 20-58 and Emily Duckett third female with a personal best of 22-08. Ian McNulty and Claire Watts also recorded personal bests, while Nell Law completed her 150th parkrun. Elsewhere, Alan Nutton finished fourth at Selby in 17-54, Rob Lees was sixth, and first over45, at Herrington Country and Damian Kilpin placed fourth, and first over45, at Rotherham. Category victories were also achieved by Dawn Broom at Pontefract, Keith Gordon at Brunswick Park, Mandy Mallinder at Armley, John Lawcock at Fulwell Quarry and Ray Brown and Danny Batty at Penistone. The weekend’s leading age-graded performances came from Suzanne McGill with 79.97%, Dawn Godley with 79.47%, Alan Nutton with 79.24%, Sue Hall with 76.83% and Rob Lees with 76.55%.
