@@ -1,7 +1,7 @@
 ---
 title: Race win for Hugh and series win for Sean
 draft: false
-date: 2026-07-19T16:41:03.892Z
+date: 2026-07-20T16:41:03.892Z
 tags:
   - PRESS
 ---
