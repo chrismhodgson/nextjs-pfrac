@@ -7,9 +7,9 @@ Steve Sanders organises an informal orienteering league for the club using the M
 
 M﻿aps are drawn up by Steve (under licence from Ordnance Survey) and posted below, showing the checkpoints and any out-of-bounds areas. As runners complete courses their scores are recorded by the MapRun system, collated by Steve and posted below.
 
-**2025 Series**
+**2026 Series**
 
-[Final results](https://pfrac.co.uk/static/results/orienteering/2025-results.xlsx)
+[Latest results](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)
 
 The series run from 1 April to 30 November.  There are 8 different courses, each with its own time limit between 30 and 90 minutes, made available progressively through the year, with scores only counting towards the league during set two-month periods.  Steve will email the courses to the club mailing list shortly before the start of each period; if you run the courses outside the specified time window the results won't count towards the league.  Previous courses are still available (contact [Steve](mailto:stevemsanders71@gmail.com) for the maps) if you want to do them.  
 
@@ -23,6 +23,20 @@ Your best 6 scores will be summed to determine your final score for the series. 
 
 **Results**
 
+[2026 Standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)
+
+* [Penistone 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Penistone%252026%2520PZ%2520PXAS%2520ScoreN60.csv)
+
+* [Silkstone Common 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Silkstone%2520Common%252026%2520PZ%2520PXAS%2520ScoreN60.csv)
+
+* [Rabbit Ings 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Rabbit%2520Ings%2520PZ%2520PXAS%2520ScoreN40.csv)
+
+* [Wortley 80 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Wortley26%2520PZ%2520PXAS%2520ScoreN80.csv)
+
+* [Langsett 45 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Langsett26%2520PZ%2520PXAS%2520ScoreN45.csv)
+
+* [Worsbrough 35 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Worsborough%2520PZ%2520PXAS%2520ScoreN35.csv)
+
 [2025 Final Standings](https://pfrac.co.uk/static/results/orienteering/2025-results.xlsx)
 
 * [Elsecar 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Elsecar%2520PZ%2520PXAS%2520ScoreN60.csv)
@@ -32,7 +46,7 @@ Your best 6 scores will be summed to determine your final score for the series. 
 * [Broomhead 80 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Broomhead%2520PZ%2520PXAS%2520ScoreN80.csv)
 * [Hugset 50 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Hugset%2520PZ%2520PXAS%2520ScoreN50.csv)
 * [Bradfield 80 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Bradfield%2520PZ%2520PXAS%2520ScoreN80.csv)
-* [Denby 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Upper%2520Denby%252025%2520PZ%2520PXAS%2520ScoreN60.csv)
+* [Upper Denby 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Upper%2520Denby%252025%2520PZ%2520PXAS%2520ScoreN60.csv)
 
 [2024 Final Standings](https://pfrac.co.uk/static/results/orienteering/2024-results.xlsx)
 
