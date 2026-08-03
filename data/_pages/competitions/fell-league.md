@@ -3,9 +3,9 @@ title: Fell League
 header: competitions/fell-league.jpg
 order: 20
 ---
-#### The 2025/26 Fell League
+#### The 2026/27 Fell League
 
-The competition runs from 1 April 2025 to 31 March 2026. All first claim members' results in all FRA licenced senior races count towards the league &ndash; you get points for every race, without any limit, and you get more points the faster you run.
+The competition runs from 1 April 2025 to 31 March 2026. All first claim members' results in all FRA licenced senior races count towards the league &ndash; you get points for every race, without any limit, and you get more points the faster you run.  If you are a second claim Penistone member for fell races and register for the race as Penistone your results will also count.
 
 All FRA licenced senior races count, which includes all 9 Trunces, Hartcliff Hill and Thurlstone Chase, as well as all the Club Championship Fell Section races, English Championships, etc.
 
@@ -13,7 +13,7 @@ T﻿he results are updated frequently, but the onus is on the runner to tell me 
 
 #### Results
 
-[Current standings for 2025/26](https://results.pfrac.co.uk/fell-league-2025/races).
+[Current standings for 2026/27](https://results.pfrac.co.uk/fell-league-2026/races).
 
 Results for previous years:
 [2017](https://pfrac.co.uk/static/results/fell-league/fell-league-2017-results.pdf)
