@@ -41,7 +41,7 @@ To qualify for the overall Championship you have to compete in at least 3 races 
 
 One of the 'races' for 2026-27 is the [Trunce](http://www.trunce.org/) race series: there are 8 races from April to September included in the championship: to count you can run any one of them, and if you run more than one your fastest time will count. The first race of the series is not included as it is March – a different club membership year.  To be clear, your best Trunce result counts as one of the fell races, but only one Trunce counts: your other two results for the Championship can't be Trunces.
 
-All first claim members are included in the Championship. Juniors running in senior races (where permitted) will be included in the Under 20 category. Members joining (or re-joining) during the year will only have results counted from the date their subscription has been paid.
+All first claim members are included in the Championship. Juniors running in senior races (where permitted) will be included in the Under 20 category. Second claim members running in trail or fell races can count for championship results if they register for the race as Penistone, where EA/FRA rules allow it. Members joining (or re-joining) during the year will only have results counted from the date their subscription has been paid.
 
 #### Scoring
 
