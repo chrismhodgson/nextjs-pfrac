@@ -25,6 +25,8 @@ Your best 6 scores will be summed to determine your final score for the series. 
 
 [2026 Standings](https://pfrac.co.uk/static/results/orienteering/latest-results.xlsx)
 
+*2026 course results*
+
 * [Penistone 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Penistone%252026%2520PZ%2520PXAS%2520ScoreN60.csv)
 
 * [Silkstone Common 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Silkstone%2520Common%252026%2520PZ%2520PXAS%2520ScoreN60.csv)
@@ -38,6 +40,8 @@ Your best 6 scores will be summed to determine your final score for the series. 
 * [Worsbrough 35 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Worsborough%2520PZ%2520PXAS%2520ScoreN35.csv)
 
 [2025 Final Standings](https://pfrac.co.uk/static/results/orienteering/2025-results.xlsx)
+
+*2025 course results*
 
 * [Elsecar 60 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Elsecar%2520PZ%2520PXAS%2520ScoreN60.csv)
 * [Hartcliff 40 min](http://www.p.fne.com.au/rg/cgi-bin/SelectResultFileForSplitsBrowserFiltered.cgi?act=fileToSplitsBrowser&eventName=ScoreResults_Hartcliff%2520PZ%2520PXAS%2520ScoreN40.csv)
