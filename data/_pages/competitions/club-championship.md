@@ -15,7 +15,7 @@ The organisers of the 2026/27 competition are Matthew Coldwell, [Richard Cottam]
 
 #### Results
 
-Standings for 2026/27 will be posted after the first race.
+[Standings for 2026/27](https://results.pfrac.co.uk/championship-2026/challenge)
 
 Results for previous years:
 [2004](https://pfrac.co.uk/static/results/club-championship/championship-2004-results.xlsx)
@@ -75,6 +75,7 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Worksop Half Marathon](https://www.worksopharriers.co.uk/events/worksop-halloween-half-marathon-2026)                              | Sun 25 Oct |
 | [Travellers 6](https://https://www.denbydaleac.co.uk/travellers-6)                                                                  | Sun 13 Dec |
 | [Wombwell 5](https://https://www.kingstonerunners.co.uk/Wombwell5.html)                                                             | Sun 14 Feb |
+
 Additional race tbc following decision to remove Donfaster 5K
 
 | Trail/Cross Country Section                                                 |            |
@@ -82,8 +83,8 @@ Additional race tbc following decision to remove Donfaster 5K
 | [Colne Valley 10K](https://www.entrycentral.com/ColneValley10kChallenge)    | Sun 31 May |
 | [Mid Summer Mad Dash](https://www.valleyhillrunners.com/midsummer-mad-dash) | Thu 25 Jun |
 | [Cawthorne Canter](https://www.barnsleyharriers.org.uk)                     | Thu 16 Jul |
-| [Flat Cap 5](https://bookitzone.com/FlatCap5/VRjFFX)             | Thu 30 Jul  |
-| [Ken Bingley Memorial](https://racebest.com/races/3x797)                    | Sun 16 Aug |
+| [Flat Cap 5](https://bookitzone.com/FlatCap5/VRjFFX)                        | Thu 30 Jul |
+| [Ken Bingley Memorial 10K](https://racebest.com/races/3x797)                | Sun 16 Aug |
 | [Hopton 10K](https://hopton10k.run/)                                        | Sun 27 Sep |
 | [Canal Race](https://www.kimberworthstriders.co.uk/canal-race)              | Sun 1 Nov  |
 
@@ -94,5 +95,5 @@ Additional race tbc following decision to remove Donfaster 5K
 | [Bamford Sheepdog Trials](https://bamfordsheepdogtrials.com/)                                                                                            | Mon 25 May      |
 | [Peak Forest Fell Race](https://www.sientries.co.uk/event.php?elid=Y&event_id=16689)                                                                     | Sun 12 July     |
 | [Padfield](https://events360.co.uk/padfieldplum/)                                                                                                        | Sun 22 Nov      |
-| [Hoppits Hill](https://www.hoppits.co.uk/)                                                                                                               | TBC Feb         |
-| [Ian Roberts](https://www.holmfirthharriers.com/event/ian-roberts-memorial-fell-race/)                                                                   | Sun 14 March       |
+| [Hoppits Hill](https://www.hoppits.co.uk/)                                                                                                               | 21 Feb TBC      |
+| [Ian Roberts](https://www.holmfirthharriers.com/event/ian-roberts-memorial-fell-race/)                                                                   | Sun 14 March    |
