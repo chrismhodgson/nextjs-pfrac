@@ -1,0 +1,16 @@
+---
+title: John earns England honour as Damian races to Fleetwood victory
+draft: false
+date: 2026-08-24T10:49:07.988Z
+tags:
+  - PRESS
+---
+John Broom enjoyed the honour of representing England Masters against Wales Masters in the Male Masters International 3000m at Deeside Stadium. John finished 14th overall and sixth in the men’s over55 category in 11-35.75, recording a season’s best and setting a new Penistone Footpath Runners club record for the age category. There was also outright race success for Damian Kilpin at the Fleetwood Kendal Mint Cake 10K. Damian led the field home in 39-09, finishing more than two and a half minutes clear of the runner-up.
+
+Harriet Drouin came agonisingly close to another Penistone victory at Edale’s Ring of Hell Half Marathon. On a brutal Peak District course of approximately 16 miles with around 4,000 feet of climbing, Harriet finished ninth overall and second lady in 4-35-20, missing out on the women’s win by just 64 seconds. Flynn Rogers was first home at the Decathlon Sheffield RunDays 5K, completing the untimed community event in approximately 17-21 according to his watch. Oliver Found completed the Carsington Water Trail Half Marathon in 1-49-28 to finish 47th overall, with the run also his second-fastest half marathon to date.
+
+Overseas, Dan Cooper flew the Penistone flag at the Bradelier Loop 10K in De Lier, Netherlands, finishing 158th overall in 48-49 on a sunny and windy urban course around the town. Dan also had the distinction of being the fastest (and only) UK runner in the race! Closer to home, Kelvin Bowskill represented Penistone at the Treeton Bolt, finishing 89th overall in 43-52.
+
+There was plenty to celebrate at [parkrun](https://results.pfrac.co.uk/parkrun-2026/2026-08-22), where 70 Penistone seniors competed across 22 venues. Thirteen clubmates travelled to Brackenhurst Campus to help Keith Gordon celebrate his remarkable 500th parkrun, which was also his 300th different parkrun event. Keith marked the occasion by finishing first in the men’s over75 category in 27-28, while Sue Braddock was first lady over60 in 25-00. At Penistone, Sean Pitt finished first in 17-29, with Ashley Firth third in 17-52. Oliver France was first under20 in 18-48, Damian Kilpin first over45 in 19-07 and Alex Crosby celebrated breaking the 20-minute barrier with a personal best of 19-59. Barbara Haigh topped the ladies over75 category in 31-09, while Sara Wolstenholme also recorded a Penistone personal best with 26-24.
+
+There were more successes away from the club’s home event. Tom Fryers finished first at Frickley Country parkrun in 17-55, with James Fryers third in 20-21, while Flynn Rogers took third at Castle in 19-07. Dawn and John Broom both claimed age-category victories and personal bests at Old Railway Trail, with Dawn running 22-31 for first lady over60 and John 22-36 for first man over55. Shaun Swallow was first man over55 at Marshall Drive, Jon Hallam first man over45 at Lowestoft and Julia Johnson first lady over60 at York Community Woodland. Ian Neville, Sue Hall and Ray Brown all won their respective age categories at Barnsley. Women filled all five places in the weekend’s age-graded leaderboard, headed by Dawn Broom with an excellent 87.24%, followed by Barbara Haigh 83.84%, Julia Johnson 82.79%, Dawn Godley 78.81% and Sue Braddock 78.73%.
