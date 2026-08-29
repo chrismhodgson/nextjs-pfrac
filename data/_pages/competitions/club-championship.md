@@ -5,7 +5,7 @@ order: 10
 ---
 #### The 2026/27 Club Championship
 
-The format of the Championship has been similar for many years. All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
+The format of the Championship has been unchanged for many years. All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with links for further information – Club Championship races are identified with (C). There is also a list of events in each section at the bottom of this page with links for further information.
 
 The competition involves races across three main sections (Road, Trail and Fell). The Championship comprises 21 events (7 in each section) – see below for more details.
 
