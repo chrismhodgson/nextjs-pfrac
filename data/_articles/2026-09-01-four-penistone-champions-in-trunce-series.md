@@ -1,7 +1,7 @@
 ---
 title: Four Penistone champions in Trunce series
 draft: false
-date: 2026-07-31T08:57:19.893Z
+date: 2026-08-31T08:57:19.893Z
 tags:
   - PRESS
 ---
