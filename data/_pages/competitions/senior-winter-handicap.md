@@ -13,7 +13,7 @@ From 2022 the competition has been named after Philip Senior, who died in 2020. 
 
 | Race | Date         | Winner             | Runners |
 | :--: | ------------ | ------------------ | :-----: |
-| 1    | 8 September  |                    |         |
+| 1    | 10 September |                    |         |
 | 2    |              |                    |         |
 | 3    |              |                    |         |
 | 4    |              |                    |         |
