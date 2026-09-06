@@ -20,7 +20,7 @@ From 2022 the competition has been named after Philip Senior, who died in 2020. 
 | 5    |              |                    |         |
 | 6    |              |                    |         |
 
-[The route](https://pfrac.co.uk/static/images/maps/winter-handicap.png) is approximately 4½ miles long with about 600 feet of ascent. It starts from [Penistone Leisure Centre](https://maps.app.goo.gl/HVB75oP8BDZY4eDZ6) and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
+[The route](https://pfrac.co.uk/static/images/maps/winter-handicap.png) is approximately 4½ miles with about 600 feet of ascent. It starts from [Penistone Leisure Centre](https://maps.app.goo.gl/HVB75oP8BDZY4eDZ6) and runs up to the windmills, back to the main road, up Rockside and back to the leisure centre, or in reverse of this. Odd numbered races go in a clockwise direction (ie up Rockside first) and even numbered races go in an anti-clockwise direction (ie up the steps and past the Crystal Palace pub first).
 
 #### Results
 
@@ -81,14 +81,14 @@ In the example above Joe Bloggs has run 4½ minutes quicker than Keith expected.
 
 Alongside the handicap there is also a WMA championship. This is based on [World Master's Athletics](https://world-masters-athletics.com/wp-content/uploads/2018/02/Road_Age_Standards_WMA_2010-Explanation.pdf) tables which are used to give a comparative performance time based on age and gender. This is the same calculation that gives a percentage figure on parkruns.
 
-The 2020 age-grading factors used for the 2021 series onwards are available [here](http://www.howardgrubb.co.uk/athletics/mldrroad20.html).
+The 2025 age-grading factors used for the 2026 series onwards are available [here](https://www.howardgrubb.co.uk/athletics/mldrroad25.html).
 
 Also on the results pages you will see WMA Adjusted Times, which show:
 
 | Position | Name        | Actual Time | Adjusted Time | Points |
 | -------- | ----------- | ----------- | ------------- | ------ |
 | 1        | Billy Jones | 24:21       | 24:21         | 25     |
-| 2        | Mary Smith  | 43:19       | 25:39         | 24     |
+| 2        | Mary Smith  | 43:19       | 25:48         | 24     |
 
 The time is each runner's actual time adjusted for their age and sex. In the example above, Billy Jones is a male aged between 20 and 34 so his time is not adjusted, but Mary Smith is a 73 year-old woman so her time is adjusted a lot to allow for her age and sex. Points are allocated on the following basis: 25 points for the best WMA time, 24 points for second WMA time and so on down to 5. All WMA times thereafter will receive 5 points.
 
