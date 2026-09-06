@@ -5,11 +5,11 @@ order: 40
 ---
 #### Philip Senior Winter Handicap
 
-The club winter handicap is a series of 6 races on Thursday evenings (note change from Tuesday evenings) running from September to Christmas, organised by [Keith Gordon](mailto:keithHgordon@me.com). It starts at 18:45 on the dates below, at [Penistone Leisure Centre](https://maps.app.goo.gl/HVB75oP8BDZY4eDZ6), and is open to all senior members of the club.
+The club winter handicap is a series of 6 races on Thursday evenings from September to Christmas, organised by [Keith Gordon](mailto:keithHgordon@me.com). It starts at 18:45 on the dates below, at [Penistone Leisure Centre](https://maps.app.goo.gl/HVB75oP8BDZY4eDZ6), and is open to all senior members of the club.
 
-From 2022 the competition has been named after Philip Senior, who died in 2020. Phil never ran but was a great supporter of the club when it was first formed and was made a life member. He was always at our races helping timekeeping or recording numbers. Pauline, Phil's wife, used to run with the club, before serving as the club's treasurer for many years, and their son Michael, as a teenager, ran some fantastic times and still holds some club records. Phil helped set the winter handicap up when it was first run and organised it and did the handicapping for quite a few years.
+From 2022 the competition has been named after Philip Senior, who died in 2020. Phil never ran but was a great supporter of the club when it was first formed and was made a life member. He was always at our races helping timekeeping or recording numbers. Pauline, Phil's wife, used to run with the club, before serving as the club's treasurer for many years, and their son Michael, as a teenager, ran some fantastic times and still holds several club records. Phil helped set the winter handicap up when it was first run, organised it and did the handicapping for quite a few years.
 
-#### Dates for 2025
+#### Dates for 2026
 
 | Race | Date         | Winner             | Runners |
 | :--: | ------------ | ------------------ | :-----: |
