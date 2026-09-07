@@ -1,0 +1,18 @@
+---
+title: Greg conquers Anglesey as Penistone collect podium places
+draft: false
+date: 2026-09-07T11:06:55.814Z
+tags:
+  - PRESS
+---
+Greg Slack produced the standout performance of the weekend for Penistone Footpath Runners by completing the formidable Ring O’ Fire 130 around the coast of Anglesey. Slack completed the huge ultra-running challenge in 49-05-23 to finish 28th overall.
+
+There was also success on the roads at the Wetherby 10K, where Damian Kilpin finished 22nd overall in 39-26 to claim third place in the men’s over45 category. James Mumford continued his excellent form with another podium finish at the Waverley Dash, finishing third overall in 40-12. Dawn Godley added another age-category victory at the Blackleach 5 Mile Trail Race, finishing 75th overall in 41-56 and taking first place in the ladies over65 category.
+
+Alan and Gemma Nutton represented Penistone at the Wilne 10K, with Alan producing a strong 36-50 to finish 56th overall and eighth in the men’s over45 category, while Gemma recorded 52-17 following a couple of weeks disrupted by illness. Dawn Broom also produced a strong run at the No Walk in the Park 5K, clocking 22-35 to finish seventh female overall and second in the ladies over55 category.
+
+Penistone runners were particularly busy on the fells, with Steve Sanders remarkably racing on three consecutive days. Steve began at the Hades Hill Fell Race near Whitworth on Thursday evening, finishing 25th in 41-26 and taking second place in the men’s over50 category. On Friday he was joined by Lesley Parker and Steve Storey at the Great Longstone Fell Race, where he finished 28th in 35-20. Lesley ran 43-19 to finish 72nd and win the ladies over50 category, while Steve Storey was 88th in 47-11 and took first place in the men’s over70 category. Steve Sanders completed his busy spell at Saturday’s Longshaw Sheepdog Trials Fell Race with another excellent performance, finishing 19th overall in 37-39 and again taking second place in the men’s over50 category. Matthew Robinson was 30th in 39-01 and Martyn Goodwin 93rd in 47-07.
+
+Further afield, Harriet Drouin took on the spectacular Ultra Tour Monte Rosa stage race in the Alps. Harriet covered around 86 miles with approximately 29,000 feet of climbing according to her Strava recording, crossing a glacier during the event. After being timed out on days two and three she continued with the challenge and battled through the final day, making one crucial cut-off with less than a minute to spare.
+
+Saturday’s parkruns saw 59 Penistone seniors compete across 25 venues. Tom Fryers led the way with an outright victory at Milton Country in 18-02 while celebrating his 350th parkrun, while Jade Crosby was first lady at Barnsley in a personal best 20-06. Ashley Firth also recorded a personal best at Barnsley, finishing third overall in 18-16, and Richard Cottam took third place at Waverley Lakes in 18-48. Sue Hall celebrated her 450th parkrun at Barnsley, finishing in 28-26 and taking first place in the ladies over65 category, while Alex Crosby also produced a personal best of 20-00. Other category winners included Keith Gordon at Blackhill, Ian Neville, Alan Knox, Paul Sammon and Ray Brown at Barnsley, Oliver France at Rother Valley, Josie Smith at Innpromenade, Jill Scrivens at Macclesfield, Alex Melhuish at Concord and John Lawcock at Flint Castle. Flynn Rogers also ran strongly at Hillsborough, finishing seventh overall in 17-52 and winning the JM15-17 category. Barbara Haigh produced the leading adult age-graded performance of the weekend with 79.62%, followed by Sue Hall with 75.79%, Ian Neville with 74.46% and Richard Cottam with 74.29%.
