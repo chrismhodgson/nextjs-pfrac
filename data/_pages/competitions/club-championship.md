@@ -90,7 +90,7 @@ Additional race tbc following decision to remove Donfaster 5K
 
 | Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [Trunce 2-8](http://www.trunce.org/)                                                                                                                     | 8 dates Apr-Sep |
+| [Trunce 2-9](http://www.trunce.org/)                                                                                                                     | 8 dates Apr-Sep |
 | [Ian Charlesworth Hartcliff Hill](https://pfrac.co.uk/races/hartcliff-hill)                                                                              | Tue 28 Apr      |
 | [Bamford Sheepdog Trials](https://bamfordsheepdogtrials.com/)                                                                                            | Mon 25 May      |
 | [Peak Forest Fell Race](https://www.sientries.co.uk/event.php?elid=Y&event_id=16689)                                                                     | Sun 12 July     |
