@@ -94,5 +94,5 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Bamford Sheepdog Trials](https://bamfordsheepdogtrials.com/)                                                                                            | Mon 25 May      |
 | [Peak Forest Fell Race](https://www.sientries.co.uk/event.php?elid=Y&event_id=16689)                                                                     | Sun 12 July     |
 | [Padfield](https://events360.co.uk/padfieldplum/)                                                                                                        | Sun 22 Nov      |
-| [Hoppits Hill](https://www.hoppits.co.uk/)                                                                                                               | 21 Feb TBC      |
+| [Hoppits Hill](https://www.fellrunner.org.uk/races/369b3af0-3a67-4aa2-b936-17952313692c)                                                                                                               | Sun 21 Feb      |
 | [Ian Roberts](https://www.holmfirthharriers.com/event/ian-roberts-memorial-fell-race/)                                                                   | Sun 14 March    |
