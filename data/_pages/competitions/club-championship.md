@@ -72,11 +72,10 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Dronfield 10K](https://www.dronfield10k.co.uk/details)                                                                             | Sun 19 Apr |
 | Rother Valley Relays (contact [Richard Mackie](macklandr@aol.com))                                                                  | Wed 20 May |
 | [Barnsley 10K](https://racebest.com/races/3s2u3)                                                                                    | Sun 28 Jun |
+| [No Walk in the Park](https://www.northderbyshirerc.co.uk/races/our-races)                                                                                                                     | 1st Sat in month: Oct to Mar |
 | [Worksop Half Marathon](https://www.worksopharriers.co.uk/events/worksop-halloween-half-marathon-2026)                              | Sun 25 Oct |
 | [Travellers 6](https://https://www.denbydaleac.co.uk/travellers-6)                                                                  | Sun 13 Dec |
 | [Wombwell 5](https://https://www.kingstonerunners.co.uk/Wombwell5.html)                                                             | Sun 14 Feb |
-
-Additional race tbc following decision to remove Donfaster 5K
 
 | Trail/Cross Country Section                                                 |            |
 | --------------------------------------------------------------------------- | ---------- |
@@ -90,7 +89,7 @@ Additional race tbc following decision to remove Donfaster 5K
 
 | Fell Section &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [Trunce 2-9](http://www.trunce.org/)                                                                                                                     | 8 dates Apr-Sep |
+| [Trunce 2 to 9](http://www.trunce.org/)                                                                                                                     | 8 dates Apr to Sep |
 | [Ian Charlesworth Hartcliff Hill](https://pfrac.co.uk/races/hartcliff-hill)                                                                              | Tue 28 Apr      |
 | [Bamford Sheepdog Trials](https://bamfordsheepdogtrials.com/)                                                                                            | Mon 25 May      |
 | [Peak Forest Fell Race](https://www.sientries.co.uk/event.php?elid=Y&event_id=16689)                                                                     | Sun 12 July     |
