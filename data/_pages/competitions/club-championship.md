@@ -79,7 +79,7 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 
 | Trail/Cross Country Section                                                 |            |
 | --------------------------------------------------------------------------- | ---------- |
-| [Colne Valley 10K](https://www.entrycentral.com/ColneValley10kChallenge)    | Sun 31 May &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| [Colne Valley 10K](https://www.entrycentral.com/ColneValley10kChallenge)    | Sun 31 May &nbsp; &nbsp; &nbsp; &nbsp; |
 | [Mid Summer Mad Dash](https://www.valleyhillrunners.com/midsummer-mad-dash) | Thu 25 Jun |
 | [Cawthorne Canter](https://www.barnsleyharriers.org.uk)                     | Thu 16 Jul |
 | [Flat Cap 5](https://bookitzone.com/FlatCap5/VRjFFX)                        | Thu 30 Jul |
