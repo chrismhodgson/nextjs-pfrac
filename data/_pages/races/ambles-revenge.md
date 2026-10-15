@@ -1,5 +1,5 @@
 ---
-start_date_time: December 2026 date tbc at 10:30
+start_date_time: Monday 28 December 2026 at 10:30
 organiser: Steve Dickinson (steve@osi.uk.com) – 07850 445613
 strava_url: https://www.strava.com/segments/33486757/embed
 header: races/ambles-revenge.jpg
