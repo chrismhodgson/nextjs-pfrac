@@ -20,7 +20,7 @@ The race has chip timing, and there is a gift for all entrants.
 
 #### Entry
 
-Online entry will be available nearer the time.
+[![Enter now](https://pfrac.co.uk/static/images/enter-now-button.png)](https://racebest.com/races/c448w)
 
 Pre-entry fees: £14 for EA registered runners and £16 for non-EA registered. Entries on the day if the race limit of 350 is not reached for an additional £2.  Please note this race has sold out well before the date in recent years.
 
