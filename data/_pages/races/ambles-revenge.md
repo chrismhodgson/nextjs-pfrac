@@ -22,9 +22,9 @@ The race has chip timing, and there is a gift for all entrants.
 
 Online entry will be available nearer the time.
 
-Pre-entry fees: £12 for EA registered runners and £14 for non-EA registered. Entries on the day if the race limit of 350 is not reached for an additional £2.  Please note this race has sold out well before the date in recent years.
+Pre-entry fees: £14 for EA registered runners and £16 for non-EA registered. Entries on the day if the race limit of 350 is not reached for an additional £2.  Please note this race has sold out well before the date in recent years.
 
-The race is run under UK Athletics rules of competition ([Trail Running Association](https://www.tra-uk.org/organisers) permit no 6820). Minimum age to enter is 17 on the day of the race.
+The race is run under UK Athletics rules of competition ([Trail Running Association](https://www.tra-uk.org/organisers) permit no 8880). Minimum age to enter is 17 on the day of the race.
 
 #### Registration
 
