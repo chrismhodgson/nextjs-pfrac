@@ -1,5 +1,5 @@
 ---
-start_date_time: Date for 2027 tbc
+start_date_time: 27 April 2027 at 19:00
 organiser: Steve Sanders (stevemsanders71@gmail.com)
 strava_url: https://www.strava.com/segments/38554004/embed
 header: races/hartcliff-hill.jpg
