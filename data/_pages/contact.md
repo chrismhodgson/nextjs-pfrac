@@ -19,7 +19,7 @@ See individual [race pages](https://pfrac.co.uk/races) for contact details about
 |                          |                                                                                             |
 | ------------------------ | ------------------------------------------------------------------------------------------- |
 | President                | [Keith Gordon](mailto:keithhgordon@me.com)                                                  |
-| Chair                    | [Jill Carlton](mailto:jillycarlton1@gmail.com)                                              |
+| Chair                    | [Jill Carlton](mailto:Chair.pfr@gmail.com)                                              |
 | Secretary                | [Martyn Cartwright](mailto:martynandpauline@gmail.com)                                      |
 | Treasurer                | [Dean Allcroft](mailto:deanallcroft@gmail.com)                                              |
 | Membership Secretary     | [Peter Cross](mailto:peter.cross@bhp.co.uk)                                                 |
