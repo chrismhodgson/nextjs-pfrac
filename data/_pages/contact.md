@@ -39,5 +39,5 @@ See individual [race pages](https://pfrac.co.uk/races) for contact details about
 | Funetics Liaison       | [Suzanne McGill](mailto:funetics_penistone@hotmail.com)     |
 | Press Officer          | [Robin Clough](mailto:robin.clough@dataconsulting.co.uk)    |
 | Social Secretary       | [Steve Dickinson](mailto:steve@osi.uk.com)                  |
-| Website                | Chris Hodgson & [Paul Fryers](mailto:paul.fryers@gmail.com) |
+| Website                | [Paul Fryers](mailto:paul.fryers@gmail.com) & Chris Hodgson|
 | Raffle Tickets         | Anne Smythe                                                 |
