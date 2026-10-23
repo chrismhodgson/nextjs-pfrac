@@ -4,7 +4,7 @@ header: contact.jpg
 order: 10
 ---
 
-For general club enquiries contact [Martyn Cartwright](mailto:Clubsecretary.pfr@gmail.com), club secretary.
+For general club enquiries contact [Martyn Cartwright](mailto:clubsecretary.pfr@gmail.com), club secretary.
 
 For senior (18+) membership enquiries contact [Peter Cross](mailto:peter.cross@bhp.co.uk), membership secretary, or visit the [club membership website](https://membermojo.co.uk/pfrac) to join online.
 
@@ -19,8 +19,8 @@ See individual [race pages](https://pfrac.co.uk/races) for contact details about
 |                          |                                                                                             |
 | ------------------------ | ------------------------------------------------------------------------------------------- |
 | President                | [Keith Gordon](mailto:keithhgordon@me.com)                                                  |
-| Chair                    | [Jill Carlton](mailto:Chair.pfr@gmail.com)                                              |
-| Secretary                | [Martyn Cartwright](mailto:Clubsecretary.pfr@gmail.com)                                      |
+| Chair                    | [Jill Carlton](mailto:chair.pfr@gmail.com)                                              |
+| Secretary                | [Martyn Cartwright](mailto:clubsecretary.pfr@gmail.com)                                      |
 | Treasurer                | [Dean Allcroft](mailto:deanallcroft@gmail.com)                                              |
 | Membership Secretary     | [Peter Cross](mailto:peter.cross@bhp.co.uk)                                                 |
 | Junior Section Secretary | [Bob Innes](mailto:janeandbob239@btinternet.com)                                            |
