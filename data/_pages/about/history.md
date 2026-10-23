@@ -23,7 +23,7 @@ The club is very active in organising [races](https://pfrac.co.uk/races). These 
 
 The [Penistone 10K](https://pfrac.co.uk/races/penistone-10k) road race has benefited from several major local backers including Bridge End Garage, Lavender International NDT, Livingwell, Dearne FM, Penistone Electrical &amp; Mechanical Services Ltd, John Crawshaw's Butchers, Cubley Hall, Bespoke Precast Ltd, Dransfield Hodkinson &amp; Lofthouse, Northern Power Tools, PB Heating, Romely Plant Maintenance, A Bedord Light Sheet Metals and ACS Electrical.
 
-After being Club President since the club’s formation, Keith Brown stood down in 1996 to be replaced by Steve Lavender, who continued in the role for 27 years.  Keith Gordon, a long-standing member of the club and former chair, took over as president in 2023.  Recent chairs of the club are: Dave Lindop (1994 to 1999), Andy Plummer (1999 to 2010), Keith Gordon (2010 to 2014), Steve Dickinson (2014 to 2024) and [Jill Carlton](mailto:Chair.pfr@gmail.com) (2024 to date).
+After being Club President since the club’s formation, Keith Brown stood down in 1996 to be replaced by Steve Lavender, who continued in the role for 27 years.  Keith Gordon, a long-standing member of the club and former chair, took over as president in 2023.  Recent chairs of the club are: Dave Lindop (1994 to 1999), Andy Plummer (1999 to 2010), Keith Gordon (2010 to 2014), Steve Dickinson (2014 to 2024) and [Jill Carlton](mailto:chair.pfr@gmail.com) (2024 to date).
 
 The club was awarded the prestigious Club Mark award in February 2008. This was a cross-sport quality accreditation for clubs with junior sections and shows the club's commitment to the training and welfare of its young athletes.
 
