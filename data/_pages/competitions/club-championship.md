@@ -74,7 +74,7 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Barnsley 10K](https://racebest.com/races/3s2u3)                                                                                    | Sun 28 Jun                   |
 | [No Walk in the Park](https://www.northderbyshirerc.co.uk/races/our-races)                                                          | 1st Sat in month: Oct to Mar |
 | [Worksop Half Marathon](https://www.worksopharriers.co.uk/events/worksop-halloween-half-marathon-2026)                              | Sun 25 Oct                   |
-| [Travellers 6](https://https://www.denbydaleac.co.uk/travellers-6)                                                                  | Sun 20 Dec                   |
+| [Travellers 6](https://www.denbydaleac.co.uk/travellers-6)                                                                  | Sun 20 Dec                   |
 | [Wombwell 5](https://https://www.kingstonerunners.co.uk/Wombwell5.html)                                                             | Sun 14 Feb                   |
 
 | Trail/Cross Country Section                                                 |                                        |
