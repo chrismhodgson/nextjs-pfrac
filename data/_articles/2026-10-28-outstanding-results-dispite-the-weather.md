@@ -1,0 +1,16 @@
+---
+title: Outstanding results dispite the weather
+draft: false
+date: 2026-10-26T08:28:06.565Z
+tags:
+  - PRESS
+---
+Dawn Broom provided one of the weekend's highlights for Penistone Footpath Runners with victory in the ladies over55 category at the Calne Clock Change Challenge 5K in Wiltshire. Dawn recorded 22-07 on a windy course featuring numerous sharp turns, while John Broom also raced, recording 20-04.
+
+Further afield, Steve Sanders secured third in the men's over50 category at the Full Moon Trail night race in Tijarafe on the Canary Island of La Palma. Competing over 14km, Steve finished 31st overall in 1-46-09, praising the atmosphere and organisation of an event which attracted around 750 participants across its programme.
+
+On the North York Moors, Damian Kilpin and Brent Carlin represented the club at the 11.2km [Lockton Limping](https://results.pfrac.co.uk/fell-league-2026/lockton-limping) fell race, organised by Pickering Running Club as part of the Dave Parry/Lets Run Winter Series. On a course involving 350 metres of climb, Damian finished 18th overall in 58-29, taking fourth in the men's over45 category, while Brent was 29th in 1-00-33 and third in the men's over40 category.
+
+The weekend was disrupted by Storm Boelo, which forced the cancellation of the Worksop Halloween Half Marathon. Ashley Firth instead ran an unofficial half-marathon distance from Penistone towards Dunford Bridge and back, recording his fastest half-marathon effort on Strava despite difficult winds.
+
+Despite widespread weather-related cancellations, 73 Penistone seniors completed [parkruns](https://results.pfrac.co.uk/parkrun-2026/2026-10-24) at 21 venues on Saturday. Richard Cottam led the successes with first place at Graves in 18-15, while George Parr finished second at Penistone in 18-38. Tom Fryers took second at Rother Valley in a course personal best of 17-04, with James Fryers fourth in 18-52. The same venue saw Paul Fryers complete his 300th parkrun, finishing in 23-01, second in the men's over55 category, while Alex Melhuish completed his 400th at Beacon Hill in 21-50, taking first place in the men's over40 category. At Penistone, Hannah Shaw, Olivia Clough and Joanne Sammon also won their respective age categories. At Barnsley, Alex Crosby led the club home in 20-30, with category wins for Alex, Ian Neville (21-55), Lisa Hinchliffe (27-32), Barbara Haigh (32-47) and Ray Brown (36-48). Amber Stenton also recorded a personal best of 33-10. Elsewhere, Keith Gordon won the men's over75 at Sandwell Valley, Kelvin Bowskill topped the men's over70 at Pavilion Gardens, Stuart Woodhead was first men's over70 at Hillsborough, Dawn Godley won the ladies over65 at Conyngham Hall, and Jill Scrivens led the ladies over55 at Forest Rec. In Australia, Steve Dickinson and Stephen Lavender both won their age categories at Yokine, with Stephen also recording a personal best. The weekend's highest age-graded performances came from Barbara Haigh (81.29%), Dawn Godley (79.42%), Richard Cottam (77.08%), Tom Fryers (75.59%) and Ian Neville (73.84%).
