@@ -74,8 +74,8 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Barnsley 10K](https://racebest.com/races/3s2u3)                                                                                    | Sun 28 Jun                   |
 | [No Walk in the Park](https://www.northderbyshirerc.co.uk/races/our-races)                                                          | 1st Sat in month: Oct to Mar |
 | [Worksop Half Marathon](https://www.worksopharriers.co.uk/events/worksop-halloween-half-marathon-2026)                              | Sun 25 Oct                   |
-| [Travellers 6](https://www.denbydaleac.co.uk/travellers-6)                                                                  | Sun 20 Dec                   |
-| [Wombwell 5](https://www.kingstonerunners.co.uk/Wombwell5.html)                                                             | Sun 14 Feb                   |
+| [Travellers 6](https://www.denbydaleac.co.uk/travellers-6)                                                                          | Sun 20 Dec                   |
+| [Wombwell 5](https://www.kingstonerunners.co.uk/Wombwell5.html)                                                                     | Sun 21 Feb                   |
 
 | Trail/Cross Country Section                                                 |                                        |
 | --------------------------------------------------------------------------- | -------------------------------------- |
@@ -94,5 +94,5 @@ All the events are listed in the [Calendar](https://pfrac.co.uk/calendar) with l
 | [Bamford Sheepdog Trials](https://bamfordsheepdogtrials.com/)                                                                                            | Mon 25 May         |
 | [Peak Forest Fell Race](https://www.sientries.co.uk/event.php?elid=Y&event_id=16689)                                                                     | Sun 12 July        |
 | [Padfield](https://events360.co.uk/padfieldplum/)                                                                                                        | Sun 22 Nov         |
-| [Hoppits Hill](https://www.fellrunner.org.uk/races/369b3af0-3a67-4aa2-b936-17952313692c)                                                                 | Sun 21 Feb         |
+| [Hoppits Hill](https://www.fellrunner.org.uk/races/369b3af0-3a67-4aa2-b936-17952313692c)                                                                 | Sun 14 Feb         |
 | [Ian Roberts](https://www.holmfirthharriers.com/event/ian-roberts-memorial-fell-race/)                                                                   | Sun 14 March       |
